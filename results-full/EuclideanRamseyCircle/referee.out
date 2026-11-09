@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	4005 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	0 < s :: side condition | s ≤ 5 :: side condition | Function.Injective a :: side condition (project data) | ∃ c r, ∀ (i : Fin s), dist (a i) c = r :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	3966 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	Function.Injective a :: side condition (project data) | ∀ (i : Fin 5), dist (a i) c = r :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	top step OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey carries content
+REFEREE	R5	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.CircleConsequence.five_circle_points_ramsey	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.EuclideanRamsey.Circle	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.EuclideanRamsey.Circle	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.EuclideanRamsey.Circle	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.EuclideanRamsey.Circle	FAIL	no module docstring /-! … -/

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PerfectCompleteness.Theorem11.exists_reduction	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	15 constants reached, no stand-in
+REFEREE	L1u	OAI.PerfectCompleteness.Theorem11.exists_reduction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	0 < δ :: side condition | δ < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PerfectCompleteness.Theorem11.exists_reduction	INFO	not a registered target statement
+REFEREE	R1	OAI.PerfectCompleteness.Theorem11.exists_reduction	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PerfectCompleteness.Theorem11.exists_reduction	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.PerfectCompleteness	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PerfectCompleteness	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.PerfectCompleteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PerfectCompleteness	FAIL	no module docstring /-! … -/; 31 public declarations without a docstring (['encodeWord', 'encodeWords', 'FiniteAlphabet', 'Literal'])

@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	1853 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no hypotheses
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	top step OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le carries content
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	98 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	0 < N :: side condition | C ≤ 2 * T :: side condition | T ≤ 4 * a * N :: side condition || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.normalized_edge_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	1850 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	REVIEW	OAI.LeanBlast.GotsmanLinial.IsMultilinear p :: carries a project proposition | p.totalDegree ≤ d :: side condition || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	139 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	OAI.LeanBlast.GotsmanLinial.averageSensitivity f = C / 2 ^ n :: side condition (project data) | C ≤ 2 * T :: side condition | T ≤ 4 * (↑d * √↑n) * 2 ^ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_counting_energy	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	1809 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	REVIEW	OAI.LeanBlast.GotsmanLinial.IsMultilinear p :: carries a project proposition | p.totalDegree ≤ d :: side condition | ∀ (x : OAI.LeanBlast.GotsmanLinial.Cube n), OAI.LeanBlast.GotsmanLinial.polynomialValue p  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	reaches abs_pos
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	no single top step
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.polynomialThreshold_averageSensitivity_le_of_nonzero	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	1154 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	REVIEW	∀ (x : OAI.LeanBlast.GotsmanLinial.Cube n), f x = 1 ∨ f x = -1 :: side condition (project data) | OAI.LeanBlast.GotsmanLinial.OrthogonalProjectionFamily P :: carries a project proposition | ∀ (k : Fin (n + 1)), (P k).trace.re = ↑(n.choose ↑k) :: side condition (project data) | ∀ (i : Fin n), OAI.LeanBlast.GotsmanLinial.BlockTridiagonal P (OAI.LeanBlast.GotsmanLinial :: carries a project proposition | ∀ (r s : Fin (n + 1)),  ↑r + ↑s < n - d →   (P s * OAI.LeanBlast.GotsmanLinial.signMatrix  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	no single top step
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.sensitivity_bound_of_cube_grading	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.GotsmanLinial.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.GotsmanLinial.Main	INFO	6 theorems checked
+REFEREE	L5	OAI.Combinatorics.GotsmanLinial.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.GotsmanLinial.Main	FAIL	module docstring has no `## Main results`

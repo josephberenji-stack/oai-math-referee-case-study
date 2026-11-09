@@ -1,0 +1,264 @@
+REFEREE	L0	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	572 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.closed_ideal_weight_exists	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	StarOrderedRing A :: side condition | IsClosed ↑I :: side condition | ∀ (x y : A), y ∈ I → x * y ∈ I :: side condition | ∀ (x y : A), x ∈ I → x * y ∈ I :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.closed_ideal_weight_exists	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	reaches SMulCommClass.complexToReal
+REFEREE	R7	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.closed_ideal_weight_exists	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.closed_ideal_weight_exists	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	181 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | y ∈ τ.finiteSquareSet :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | x ∈ τ.finiteSquareSet :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	432 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | ↑a ∈ τ.finiteIdeal :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.finite_positive_dense	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	200 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | τ.toFun a < ⊤ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	reaches Continuous.tendsto
+REFEREE	R7	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.tendsto_scale_zero_of_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	169 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | x ∈ τ.finiteSquareSet :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	1012 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.finite_domain_ideal_and_scalar_limit	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	417 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	StarOrderedRing A :: side condition | IsClosed ↑I :: side condition | ∀ (x y : A), y ∈ I → x * y ∈ I :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	reaches NonUnitalStarSubalgebra.instNonUnitalSubringClass
+REFEREE	R7	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.closed_ideal_star_mul_mem_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	351 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | y ∈ τ.finiteIdeal :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	67 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	354 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | x ∈ τ.finiteIdeal :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	755 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_iff_cuts	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	344 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	reaches NonUnitalStarSubalgebra.isClosed_topologicalClosure
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	596 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | IsClosed ↑J :: side condition | ∀ (x y : A), y ∈ J → x * y ∈ J :: side condition | ∀ (x y : A), x ∈ J → x * y ∈ J :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	reaches NormedStarGroup.to_continuousStar
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.finiteIdeal_le_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.residual_norm_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.residual_norm_bound	PASS	325 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.residual_norm_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.residual_norm_bound	PASS	StarOrderedRing A :: side condition | 0 ≤ b :: side condition | star x * x ≤ b :: side condition | IsSelfAdjoint e :: side condition | ‖e‖ ≤ 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.residual_norm_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.residual_norm_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.residual_norm_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.residual_norm_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.residual_norm_bound	PASS	reaches IsSelfAdjoint.star_eq
+REFEREE	R7	OAI.TraceConeClassification.residual_norm_bound	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.residual_norm_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.residual_norm_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.residual_norm_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	413 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	StarOrderedRing A :: side condition | IsClosed ↑I :: side condition | ∀ (x y : A), y ∈ I → x * y ∈ I :: side condition | 0 ≤ b :: side condition | star x * x ≤ b :: side condition | b ∈ I :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	reaches NonUnitalStarSubalgebra.instNonUnitalSubringClass
+REFEREE	R7	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.closed_ideal_mem_of_square_le	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	449 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.closed_ideal_hereditary	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	StarOrderedRing A :: side condition | IsClosed ↑I :: side condition | ∀ (x y : A), y ∈ I → x * y ∈ I :: side condition | ∀ (x y : A), x ∈ I → x * y ∈ I :: side condition | 0 ≤ a :: side condition | a ≤ b :: side condition | b ∈ I :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.closed_ideal_hereditary	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	reaches SMulCommClass.complexToReal
+REFEREE	R7	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.closed_ideal_hereditary	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.closed_ideal_hereditary	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	371 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | τ.toFun a < ⊤ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.positive_mem_finiteIdeal_of_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	190 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | x ∈ τ.finiteSquareSet :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_right	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	237 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	REVIEW	StarOrderedRing A :: side condition | OAI.TraceConeClassification.ExtendedTrace A :: carries a project proposition | x ∈ τ.finiteSquareSet :: side condition (project data) | y ∈ τ.finiteSquareSet :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	reaches star_mul_self_nonneg
+REFEREE	R7	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	no single top step
+REFEREE	R5	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.TraceCone.FiniteIdeal	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.TraceCone.FiniteIdeal	INFO	20 theorems checked
+REFEREE	L5	OAI.Analysis.TraceCone.FiniteIdeal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.TraceCone.FiniteIdeal	FAIL	module docstring has no `## Main results`; 15 public declarations without a docstring (['closed_ideal_star_mul_mem_iff', 'zero_mem_finiteSquareSet', 'star_mem_finiteSquareSet', 'smul_mem_finiteSquareSet'])

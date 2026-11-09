@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	198 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	no hypotheses
+REFEREE	L3	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	INFO	not a registered target statement
+REFEREE	R1	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	reaches ne_of_lt
+REFEREE	R7	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	top step is not a project theorem
+REFEREE	R5	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.AlgorithmicThinTrees	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.AlgorithmicThinTrees	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.AlgorithmicThinTrees	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.AlgorithmicThinTrees	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 38 public declarations without a docstring (['MultiGraph', 'cut', 'Connected', 'SpanningTree'])

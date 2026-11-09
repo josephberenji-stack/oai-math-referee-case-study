@@ -1,0 +1,7 @@
+REFEREE	L4	OAI.CategoryTheory.ConcreteCategory.Notation	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.CategoryTheory.ConcreteCategory.Notation	INFO	0 theorems checked
+REFEREE	L5	OAI.CategoryTheory.ConcreteCategory.Notation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.CategoryTheory.ConcreteCategory.Notation	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.CategoryTheory.ConcreteCategory.Notation	PASS	no instance changes
+REFEREE	VEND	OAI.CategoryTheory.ConcreteCategory.Notation	PASS	not under a Mathlib folder
+exit 1

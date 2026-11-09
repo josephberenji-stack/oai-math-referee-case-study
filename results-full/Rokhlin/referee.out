@@ -1,0 +1,225 @@
+REFEREE	L0	OAI.Rokhlin.prod_setIndicator	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.prod_setIndicator	PASS	59 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.prod_setIndicator	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.prod_setIndicator	PASS	no hypotheses
+REFEREE	L3	OAI.Rokhlin.prod_setIndicator	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.prod_setIndicator	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.prod_setIndicator	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.prod_setIndicator	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.prod_setIndicator	PASS	reaches Set.mem_iInter
+REFEREE	R7	OAI.Rokhlin.prod_setIndicator	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.prod_setIndicator	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.prod_setIndicator	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.prod_setIndicator	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.mixing_nat_of_IsMixing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.mixing_nat_of_IsMixing	REVIEW	OAI.Rokhlin.IsMixing μ T :: carries a project proposition | MeasurableSet s :: side condition | MeasurableSet t :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.mixing_nat_of_IsMixing	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	reaches Filter.tendsto_comap_iff
+REFEREE	R7	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.mixing_nat_of_IsMixing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.mixing_nat_of_IsMixing	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.setIndicator_measurable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.setIndicator_measurable	PASS	18 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.setIndicator_measurable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.setIndicator_measurable	PASS	MeasurableSet s :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.setIndicator_measurable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.setIndicator_measurable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.setIndicator_measurable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.setIndicator_measurable	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.setIndicator_measurable	PASS	reaches Measurable.ite
+REFEREE	R7	OAI.Rokhlin.setIndicator_measurable	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Rokhlin.setIndicator_measurable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.setIndicator_measurable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.setIndicator_measurable	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.sequential_mixing_all	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.sequential_mixing_all	PASS	7191 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.sequential_mixing_all	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.sequential_mixing_all	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition | ∀ (s t : Set Ω),  MeasurableSet s → MeasurableSet t → Filter.Tendsto (fun n => μ (s ∩ (⇑T) :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.sequential_mixing_all	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.sequential_mixing_all	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.sequential_mixing_all	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.sequential_mixing_all	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.sequential_mixing_all	PASS	reaches Nat.strong_induction_on
+REFEREE	R7	OAI.Rokhlin.sequential_mixing_all	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Rokhlin.sequential_mixing_all	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.sequential_mixing_all	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.sequential_mixing_all	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.sequential_step	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.sequential_step	PASS	7166 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.sequential_step	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.sequential_step	REVIEW	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition | ∀ (s t : Set Ω),  MeasurableSet s → MeasurableSet t → Filter.Tendsto (fun n => μ (s ∩ (⇑T) :: side condition | 3 ≤ k :: side condition | ∀ n < k, OAI.Rokhlin.SequentialMixing μ T n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.sequential_step	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.sequential_step	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.sequential_step	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.sequential_step	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.sequential_step	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.Rokhlin.sequential_step	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.sequential_step	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.sequential_step	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.sequential_step	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.proper_rectangles_of_induction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.proper_rectangles_of_induction	PASS	75 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.proper_rectangles_of_induction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.proper_rectangles_of_induction	REVIEW	∀ n < k, OAI.Rokhlin.SequentialMixing μ T n :: carries a project proposition | OAI.Rokhlin.Spaced d :: carries a project proposition | J ≠ Finset.univ :: side condition | ∀ (j : ↥J), MeasurableSet (s j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.proper_rectangles_of_induction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.proper_rectangles_of_induction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.proper_rectangles_of_induction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.proper_rectangles_of_induction	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.proper_rectangles_of_induction	PASS	reaches Fintype.card_fin
+REFEREE	R7	OAI.Rokhlin.proper_rectangles_of_induction	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.proper_rectangles_of_induction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.proper_rectangles_of_induction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.proper_rectangles_of_induction	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.integral_setIndicator	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.integral_setIndicator	PASS	35 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.integral_setIndicator	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.integral_setIndicator	PASS	MeasurableSet s :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.integral_setIndicator	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.integral_setIndicator	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.integral_setIndicator	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.integral_setIndicator	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.integral_setIndicator	PASS	reaches MeasureTheory.integral_indicator_one
+REFEREE	R7	OAI.Rokhlin.integral_setIndicator	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.integral_setIndicator	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.integral_setIndicator	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.integral_setIndicator	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	232 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.mixingOfOrder_of_sequential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.mixingOfOrder_of_sequential	REVIEW	OAI.Rokhlin.SequentialMixing μ T k :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.mixingOfOrder_of_sequential	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.mixingOfOrder_of_sequential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.mixingOfOrder_of_sequential	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.sequential_two	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.sequential_two	PASS	159 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.sequential_two	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.sequential_two	PASS	MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition | ∀ (s t : Set Ω),  MeasurableSet s → MeasurableSet t → Filter.Tendsto (fun n => μ (s ∩ (⇑T) :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.sequential_two	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.sequential_two	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.sequential_two	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.sequential_two	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.sequential_two	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.Rokhlin.sequential_two	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.sequential_two	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.sequential_two	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.sequential_two	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.layoutTime_gap_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.layoutTime_gap_bound	PASS	143 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.layoutTime_gap_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.layoutTime_gap_bound	PASS	i < j :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.layoutTime_gap_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.layoutTime_gap_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.layoutTime_gap_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.layoutTime_gap_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.layoutTime_gap_bound	PASS	reaches Fin.isLt
+REFEREE	R7	OAI.Rokhlin.layoutTime_gap_bound	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.layoutTime_gap_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.layoutTime_gap_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.layoutTime_gap_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.sequential_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.sequential_zero	PASS	79 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.sequential_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.sequential_zero	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.sequential_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.sequential_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.sequential_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.sequential_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.sequential_zero	PASS	reaches congrFun'
+REFEREE	R7	OAI.Rokhlin.sequential_zero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Rokhlin.sequential_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.sequential_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.sequential_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.mixing_all_finite_orders	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.mixing_all_finite_orders	PASS	7220 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.mixing_all_finite_orders	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.mixing_all_finite_orders	REVIEW	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition | OAI.Rokhlin.IsMixing μ T :: carries a project proposition | 3 ≤ k :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.mixing_all_finite_orders	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.mixing_all_finite_orders	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.mixing_all_finite_orders	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.mixing_all_finite_orders	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.mixing_all_finite_orders	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.Rokhlin.mixing_all_finite_orders	PASS	top step OAI.Rokhlin.mixingOfOrder_of_sequential carries content
+REFEREE	R5	OAI.Rokhlin.mixing_all_finite_orders	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.mixing_all_finite_orders	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.mixing_all_finite_orders	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.setIndicator_bounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.setIndicator_bounds	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.setIndicator_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.setIndicator_bounds	PASS	no hypotheses
+REFEREE	L3	OAI.Rokhlin.setIndicator_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.setIndicator_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.setIndicator_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.setIndicator_bounds	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.setIndicator_bounds	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Rokhlin.setIndicator_bounds	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.setIndicator_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.setIndicator_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.setIndicator_bounds	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.sequential_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.sequential_one	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.sequential_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.sequential_one	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.sequential_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.sequential_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.sequential_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.sequential_one	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.sequential_one	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.Rokhlin.sequential_one	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.sequential_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.sequential_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.sequential_one	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.integral_prod_setIndicator	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.integral_prod_setIndicator	PASS	79 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.integral_prod_setIndicator	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.integral_prod_setIndicator	PASS	∀ (i : I), MeasurableSet (s i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.integral_prod_setIndicator	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.integral_prod_setIndicator	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.integral_prod_setIndicator	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.integral_prod_setIndicator	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.integral_prod_setIndicator	PASS	reaches congrFun'
+REFEREE	R7	OAI.Rokhlin.integral_prod_setIndicator	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Rokhlin.integral_prod_setIndicator	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.integral_prod_setIndicator	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.integral_prod_setIndicator	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.shifted_pair	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.shifted_pair	PASS	42 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.shifted_pair	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.shifted_pair	PASS	MeasureTheory.MeasurePreserving (⇑T) μ μ :: side condition | MeasurableSet s :: side condition | MeasurableSet t :: side condition | a ≤ b :: side condition || unbuilt=0
+REFEREE	L3	OAI.Rokhlin.shifted_pair	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.shifted_pair	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.shifted_pair	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.shifted_pair	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.shifted_pair	PASS	reaches Set.preimage_inter
+REFEREE	R7	OAI.Rokhlin.shifted_pair	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.shifted_pair	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.shifted_pair	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.shifted_pair	REVIEW	computed class A?
+REFEREE	L0	OAI.Rokhlin.setIndicator_preimage	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Rokhlin.setIndicator_preimage	PASS	16 constants reached, no stand-in
+REFEREE	L1u	OAI.Rokhlin.setIndicator_preimage	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Rokhlin.setIndicator_preimage	PASS	no hypotheses
+REFEREE	L3	OAI.Rokhlin.setIndicator_preimage	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Rokhlin.setIndicator_preimage	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Rokhlin.setIndicator_preimage	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Rokhlin.setIndicator_preimage	INFO	not a registered target statement
+REFEREE	R1	OAI.Rokhlin.setIndicator_preimage	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Rokhlin.setIndicator_preimage	PASS	no single top step
+REFEREE	R5	OAI.Rokhlin.setIndicator_preimage	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Rokhlin.setIndicator_preimage	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Rokhlin.setIndicator_preimage	PASS	computed class DEF
+REFEREE	L4	OAI.Dynamics.MultipleMixing.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Dynamics.MultipleMixing.Main	INFO	17 theorems checked
+REFEREE	L5	OAI.Dynamics.MultipleMixing.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Dynamics.MultipleMixing.Main	FAIL	no module docstring /-! … -/; 20 public declarations without a docstring (['Spaced', 'SequentialMixing', 'proper_rectangles_of_induction', 'sequential_zero'])

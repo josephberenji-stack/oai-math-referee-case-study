@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LoopMatchingReference.challenge	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LoopMatchingReference.challenge	PASS	4983 constants reached, no stand-in
+REFEREE	L1u	OAI.LoopMatchingReference.challenge	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LoopMatchingReference.challenge	PASS	no hypotheses
+REFEREE	L3	OAI.LoopMatchingReference.challenge	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LoopMatchingReference.challenge	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LoopMatchingReference.challenge	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LoopMatchingReference.challenge	INFO	not a registered target statement
+REFEREE	R1	OAI.LoopMatchingReference.challenge	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.LoopMatchingReference.challenge	PASS	top step OAI.LoopMatching.fullEndpoint carries content
+REFEREE	R5	OAI.LoopMatchingReference.challenge	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LoopMatchingReference.challenge	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LoopMatchingReference.challenge	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.LoopMatching.Endpoint	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.LoopMatching.Endpoint	INFO	1 theorems checked
+REFEREE	L5	OAI.Computability.LoopMatching.Endpoint	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.LoopMatching.Endpoint	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['challenge'])

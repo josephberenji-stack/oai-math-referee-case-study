@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	REVIEW	[opaque with a value OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.cutGeneratorWitness]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	REVIEW	statement-level: [OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.cutGeneratorWitness]; proof-only: 0
+REFEREE	L2	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	REVIEW	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram F S V arity :: carries a project proposition | Finite V :: side condition | D.Proper :: carries a project proposition | ∀ (f : F), D.rank f ≤ D.rank (D.ports.facet ⟨q, none⟩) :: side condition (project data) | 0 < D.genus (D.bandCutParent q) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	INFO	not a registered target statement
+REFEREE	R1	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CharacterVarietiesAllSeamsSupport	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CharacterVarietiesAllSeamsSupport	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CharacterVarietiesAllSeamsSupport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CharacterVarietiesAllSeamsSupport	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['producedMarkedValues_allSeams'])

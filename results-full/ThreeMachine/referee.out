@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	1073 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	OAI.ThreeMachine.StackCompiler.Uniform fun n x => OAI.ThreeMachine.Algorithm.output x.grap :: discharged by OAI.ThreeMachine.StackCompiler.Uniform.requestAnswer || unbuilt=0
+REFEREE	L3	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.StackCompiler.Uniform.exists_requestMachine	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeMachine.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.main_theorem	PASS	13255 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeMachine.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.main_theorem	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.ThreeMachine.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeMachine.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.main_theorem	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	11549 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	no single top step
+REFEREE	R5	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.StackCompiler.requestRawBound_poly	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	11563 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.StackCompiler.requestRawBound_length	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.StackCompiler.requestRawBound_length	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	reaches LE.le.trans
+REFEREE	R7	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	no single top step
+REFEREE	R5	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.StackCompiler.requestRawBound_length	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.StackCompiler.requestRawBound_length	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeMachine.StackCompiler.enc_request	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.StackCompiler.enc_request	PASS	62 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.StackCompiler.enc_request	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.StackCompiler.enc_request	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeMachine.StackCompiler.enc_request	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.StackCompiler.enc_request	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.StackCompiler.enc_request	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.StackCompiler.enc_request	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.StackCompiler.enc_request	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.ThreeMachine.StackCompiler.enc_request	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeMachine.StackCompiler.enc_request	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.StackCompiler.enc_request	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.StackCompiler.enc_request	PASS	computed class DEF
+REFEREE	L0	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	1681 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeMachine.StackCompiler.requestAnswer_time_charge	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.Scheduling.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.Scheduling.Main	INFO	6 theorems checked
+REFEREE	L5	OAI.Computability.Scheduling.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.Scheduling.Main	FAIL	no module docstring /-! … -/; 8 public declarations without a docstring (['enc_request', 'requestAnswer_time_charge', 'Uniform.exists_requestMachine', 'requestRawBound'])

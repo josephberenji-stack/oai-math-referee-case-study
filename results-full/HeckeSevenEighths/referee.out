@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	36468 constants reached, no stand-in
+REFEREE	L1u	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	M ≠ ⊥ :: side condition (project data) | ∀ (u : OAI.SevenEighths.HeckeFamily.Oˣ), χ ((Ideal.Quotient.mk M) ↑u) = 1 :: side condition (project data) | 7 / 8 < s.re :: side condition | ¬(χ = 1 ∧ s = 1) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	INFO	not a registered target statement
+REFEREE	R1	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	top step OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re carries content
+REFEREE	R5	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SevenEighths.HeckeFamily.LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re	REVIEW	computed class A?
+REFEREE	L0	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	NeZero M :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	INFO	not a registered target statement
+REFEREE	R1	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	reaches Ring.HasFiniteQuotients.finiteQuotient
+REFEREE	R7	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SevenEighths.HeckeRayFamily.instFiniteQuotientOIdeal_1	REVIEW	computed class A?
+REFEREE	L0	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	36469 constants reached, no stand-in
+REFEREE	L1u	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	NeZero M :: side condition (project data) | 7 / 8 < s.re :: side condition | ¬(χ = 1 ∧ s = 1) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	INFO	not a registered target statement
+REFEREE	R1	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	reaches IsSepClosed.hasEnoughRootsOfUnity
+REFEREE	R7	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	top step OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re carries content
+REFEREE	R5	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SevenEighths.HeckeRayFamily.LFunction_ne_zero_of_seven_eighths_lt_re	REVIEW	computed class A?
+REFEREE	L0	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	36467 constants reached, no stand-in
+REFEREE	L1u	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	OAI.SevenEighths.HeckeFamily.Character :: discharged by OAI.SevenEighths.CenteredMomentNonprincipalGate.unitCharacter | 7 / 8 < s.re :: side condition | ¬(χ.residue = 1 ∧ s = 1) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	INFO	not a registered target statement
+REFEREE	R1	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	top step OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_certified_bands carries content
+REFEREE	R5	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.DirichletL.Hecke.Nonvanishing	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.DirichletL.Hecke.Nonvanishing	INFO	4 theorems checked
+REFEREE	L5	OAI.NumberTheory.DirichletL.Hecke.Nonvanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.DirichletL.Hecke.Nonvanishing	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['LFunction_ne_zero_of_seven_eighths_lt_re', 'LFunction_ofResidue_ne_zero_of_seven_eighths_lt_re', 'LFunction_ne_zero_of_seven_eighths_lt_re'])

@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.MatchingEntropy.count_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropy.count_main	PASS	1683 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropy.count_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropy.count_main	REVIEW	OAI.MatchingEntropy.LooplessGraph V E :: carries a project proposition | 0 < m :: side condition | Fintype.card V = 2 * m :: side condition | 1 ≤ k :: side condition | ∀ (e : E), ∃! i, e ∈ ↑(M i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.MatchingEntropy.count_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropy.count_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropy.count_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropy.count_main	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropy.count_main	PASS	reaches congrFun'
+REFEREE	R7	OAI.MatchingEntropy.count_main	PASS	no single top step
+REFEREE	R5	OAI.MatchingEntropy.count_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropy.count_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropy.count_main	REVIEW	computed class A?
+REFEREE	L0	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	275 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropy.uniform_decomposition_mem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropy.uniform_decomposition_mem	REVIEW	OAI.MatchingEntropy.LooplessGraph V E :: carries a project proposition | 1 ≤ k :: side condition | ∀ (e : E), ∃! i, e ∈ ↑(M i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropy.uniform_decomposition_mem	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	reaches congrFun'
+REFEREE	R7	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	no single top step
+REFEREE	R5	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropy.uniform_decomposition_mem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropy.uniform_decomposition_mem	REVIEW	computed class A?
+REFEREE	L0	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	259 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropy.entropy_barrier_ge_id	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	0 ≤ t :: side condition | t ≤ Real.log 8 :: side condition || unbuilt=0
+REFEREE	L3	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropy.entropy_barrier_ge_id	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	no single top step
+REFEREE	R5	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropy.entropy_barrier_ge_id	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropy.entropy_barrier_ge_id	REVIEW	computed class A?
+REFEREE	L0	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	497 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropy.marginal_entropy_support_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropy.marginal_entropy_support_bound	REVIEW	OAI.MatchingEntropy.LooplessGraph V E :: carries a project proposition | 0 < m :: side condition | Fintype.card V = 2 * m :: side condition | x ∈ G.polytope :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropy.marginal_entropy_support_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	reaches congrFun'
+REFEREE	R7	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	no single top step
+REFEREE	R5	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropy.marginal_entropy_support_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropy.marginal_entropy_support_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.MatchingEntropy.entropy_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropy.entropy_main	PASS	1651 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropy.entropy_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropy.entropy_main	REVIEW	OAI.MatchingEntropy.LooplessGraph V E :: carries a project proposition | 0 < m :: side condition | Fintype.card V = 2 * m :: side condition | Nonempty G.Matching :: side condition (project data) | y ∈ G.polytope :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.MatchingEntropy.entropy_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropy.entropy_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropy.entropy_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropy.entropy_main	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropy.entropy_main	PASS	reaches congrFun'
+REFEREE	R7	OAI.MatchingEntropy.entropy_main	PASS	no single top step
+REFEREE	R5	OAI.MatchingEntropy.entropy_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropy.entropy_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropy.entropy_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.PerfectMatching.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.PerfectMatching.Main	INFO	5 theorems checked
+REFEREE	L5	OAI.Combinatorics.PerfectMatching.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.PerfectMatching.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

@@ -1,0 +1,559 @@
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	25471 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) | 0 < s :: side condition | Module.finrank ℚ E = 2 * s :: side condition | (↑((OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport.complexUnivers :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.ArithmeticGeometry.Descent.CMVariety.LocalPeriod.Abelian.LocalPeriodFamily by OAI.RepresentationTheory.Theta.Geometric.Intrinsic.FamilyFrames.NativeFamilyPeriodFrame.exponentialFamily, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.ArithmeticGeometry.OrdinaryLocus.Openness.LineBundle.Construction.structureSheafModule = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.complexUniversal_point_eq_of_kernel_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	25618 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) | CategoryTheory.Mono f :: side condition (project data) | 0 < s :: side condition | Module.finrank ℚ E = 2 * s :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.ArithmeticGeometry.Descent.CMVariety.LocalPeriod.Abelian.LocalPeriodFamily by OAI.RepresentationTheory.Theta.Geometric.Intrinsic.FamilyFrames.NativeFamilyPeriodFrame.exponentialFamily, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.ArithmeticGeometry.OrdinaryLocus.Openness.LineBundle.Construction.structureSheafModule = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity.exists_complexUniversal_injective_ball_periods	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	23599 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) | 0 < s :: side condition | Module.finrank ℚ E = 2 * s :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.ArithmeticGeometry.Descent.CMVariety.LocalPeriod.Abelian.LocalPeriodFamily by OAI.RepresentationTheory.Theta.Geometric.Intrinsic.FamilyFrames.NativeFamilyPeriodFrame.exponentialFamily, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods.exists_complexUniversal_ball_periods	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	reaches mul_comm
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialCentralScalar	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	195 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	reaches AlgHom.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	CONTENT	reaches AlgHom.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_inl	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	212 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	reaches AlgHom.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	CONTENT	reaches AlgHom.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_jet	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	194 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	reaches mul_comm
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet.differentialJetMap_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	25674 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) | CategoryTheory.Mono f :: side condition (project data) | 0 < s :: side condition | Module.finrank ℚ E = 2 * s :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.ArithmeticGeometry.Descent.CMVariety.LocalPeriod.Abelian.LocalPeriodFamily by OAI.RepresentationTheory.Theta.Geometric.Intrinsic.FamilyFrames.NativeFamilyPeriodFrame.exponentialFamily, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.ArithmeticGeometry.OrdinaryLocus.Openness.LineBundle.Construction.structureSheafModule = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound.complexUniversal_dimension_le_two	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	1467 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsReduced S.left :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	132 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_embedding_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	1460 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsReduced S.left :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	132 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank.complexUniversal_distinguished_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	2377 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	top step OAI.AlgebraicGeometry.PELModuli.CMPoints.IntrinsicFamilyCharts.NativeFamilyCharts.dimension carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	166 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.complexUniversalFamilyCharts_dimension	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	7956 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.ArithmeticGeometry.Descent.CMVariety.RegularRelativeCharts.Abelian.RelativeCharts.HasAnalyticCoordinates by OAI.ArithmeticGeometry.Descent.CMVariety.RegularSectionCharts.Abelian.RelativeCharts.SectionNormalizedCharts.forwardTotal]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts.exists_complexUniversal_holomorphic_period_matrices	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	258 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_point	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	245 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetSchemeMap_projection	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	282 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	reaches mul_comm
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	233 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	reaches mul_comm
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.universalGroupJet_origin	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	207 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_point	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	155 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_projection	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	225 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	reaches mul_comm
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet.differentialJetOrigin_surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	23547 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) | 0 < s :: side condition | Module.finrank ℚ E = 2 * s :: side condition | (↑((OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport.complexUnivers :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.ArithmeticGeometry.Descent.CMVariety.LocalPeriod.Abelian.LocalPeriodFamily by OAI.RepresentationTheory.Theta.Geometric.Intrinsic.FamilyFrames.NativeFamilyPeriodFrame.exponentialFamily, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.ConeParametrization.Constructions.Cone.normalizedLift = OAI.AlgebraicGeometry.ComplexGroups.HolomorphicAlgebraicity.SegreAt.Constructions.Segre.fillCoordinate, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison.complexUniversal_isHodgeMap_of_kernel_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	1209 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELFamilyIso  (D.model.family :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	106 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	1305 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELFamilyIso  ((OAI.Represent :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	top step OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexPELPoint_eq_of_iso carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	116 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness.complexUniversal_point_eq_of_iso	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	1219 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsReduced S.left :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	110 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_rosati	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	1199 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | D.HasIntegralModelGeometry :: carries a project proposition | AlgebraicGeometry.IsReduced S.left :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	106 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions.complexUniversal_isPELFamily	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	885 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	79 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_fiber	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	2058 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition | AlgebraicGeometry.IsIntegral S.left :: side condition (project data) | AlgebraicGeometry.Smooth S.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	top step OAI.RepresentationTheory.Theta.Geometric.Family.ChartOpenImage.familyChartParameter_center carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	153 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalPeriodFrame_center	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	880 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData E K s q :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	reaches map_natCast
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	top step OAI.AlgebraicGeometry.AbelianScheme.TateComparison.End.endSchemeMap_isMonHom carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	77 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame.complexUniversalEndomorphism_group	REVIEW	computed class A?
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	INFO	1 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	INFO	4 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	INFO	1 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	INFO	7 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	INFO	1 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	INFO	0 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	INFO	3 theorems checked
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['complexUniversal_point_eq_of_kernel_eq', 'exists_complexUniversal_injective_ball_periods'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.BallInjectivity	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_complexUniversal_ball_periods'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.BallPeriods	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['differentialOppositeModule', 'differentialJetRing', 'differentialJet', 'differentialJetMap'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	REVIEW	instance changes at lines 19
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.DifferentialJet	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['complexUniversal_dimension_le_two'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.DimensionBound	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['complexUniversal_distinguished_rank', 'complexUniversal_embedding_rank'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.DistinguishedRank	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['complexUniversalFamilyCharts', 'complexUniversalFamilyCharts_dimension', 'exists_complexUniversal_holomorphic_period_matrices'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.FamilyPeriodCharts	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	FAIL	module docstring has no `## Main results`; 13 public declarations without a docstring (['differentialJetTest', 'differentialJetOrigin', 'differentialJetProjection', 'differentialJetPoint'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	REVIEW	instance changes at lines 17
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.GroupJet	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['complexUniversal_isHodgeMap_of_kernel_eq'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.HodgeComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['complexUniversalHolomorphicTransport'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.HolomorphicTransport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['complexPELPoint_eq_of_iso', 'complexUniversalFiber_modelIso', 'complexUniversal_point_eq_of_iso'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.ModuliFaithfulness	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['complexUniversal_isPELFamily', 'complexUniversalPolarized', 'complexUniversalAction', 'complexUniversal_rosati'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.PELConditions	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['complexUniversalPeriodFrame', 'complexUniversalPeriodFrame_center', 'complexUniversalEndomorphism', 'complexUniversalEndomorphism_fiber'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Universal.PeriodFrame	PASS	not under a Mathlib folder
+exit 1

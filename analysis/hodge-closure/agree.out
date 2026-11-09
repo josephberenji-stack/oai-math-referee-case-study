@@ -1,0 +1,14 @@
+challenge helper declarations compared: 2909
+  statement and body identical: 2423 (83.3%)
+  statement differs: 381 (13.1%)
+  statement identical, body differs: 104 (3.6%)
+  no namesake: 1 (0.0%)
+by kind:
+  abbrev {'statement and body identical': 87, 'statement differs': 9, 'statement identical, body differs': 5}
+  class {'statement and body identical': 1}
+  def {'statement and body identical': 793, 'no namesake': 1, 'statement identical, body differs': 28, 'statement differs': 130}
+  instance {'statement and body identical': 127, 'statement identical, body differs': 9, 'statement differs': 14}
+  lemma {'statement and body identical': 940, 'statement identical, body differs': 39, 'statement differs': 158}
+  structure {'statement identical, body differs': 1, 'statement and body identical': 7}
+  theorem {'statement and body identical': 468, 'statement differs': 70, 'statement identical, body differs': 22}
+Sampled 'statement differs' rows (ComplexPoint/Open.lean: liftToOpen, asOpenPoint, openEquiv) differ only by renaming, e.g. the type ComplexPoint written Basic.ComplexSchemePoint, so 83.3% is a lower bound on text agreement.

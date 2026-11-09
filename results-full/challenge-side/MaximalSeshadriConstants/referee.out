@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	6 constants reached, no stand-in
+REFEREE	L1u	OAI.MaximalSeshadri.Geometry.schemeHasExt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	no hypotheses
+REFEREE	L3	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MaximalSeshadri.Geometry.schemeHasExt	INFO	not a registered target statement
+REFEREE	R1	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	reaches CategoryTheory.HasExt.standard
+REFEREE	R7	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MaximalSeshadri.Geometry.schemeHasExt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MaximalSeshadri.Geometry.schemeHasExt	REVIEW	computed class A?
+REFEREE	L0	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	61 constants reached, no stand-in
+REFEREE	L1u	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	INFO	not a registered target statement
+REFEREE	R1	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	reaches le_top
+REFEREE	R7	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MaximalSeshadri.Geometry.restrictScalar_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	525 constants reached, no stand-in
+REFEREE	L1u	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	FAIL	OAI.MaximalSeshadri.Geometry.Surface :: UNBUILT | OAI.MaximalSeshadri.Geometry.LineBundle S.scheme :: carries a project proposition | OAI.MaximalSeshadri.Geometry.LineBundle.IsAmple S.scheme L :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	INFO	not a registered target statement
+REFEREE	R1	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.MaximalSeshadriConstants	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.MaximalSeshadriConstants	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.MaximalSeshadriConstants	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.MaximalSeshadriConstants	FAIL	no module docstring /-! … -/; 42 public declarations without a docstring (['complexProjectiveSpace', 'constantsInDegreeZero', 'projectiveSpaceToSpec', 'Surface'])

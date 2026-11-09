@@ -1,0 +1,134 @@
+REFEREE	L0	OAI.IndependentProducts.norm_l2ToL1_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.norm_l2ToL1_le	PASS	157 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.norm_l2ToL1_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.norm_l2ToL1_le	PASS	MeasureTheory.IsProbabilityMeasure ν :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.norm_l2ToL1_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.norm_l2ToL1_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.norm_l2ToL1_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.norm_l2ToL1_le	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.norm_l2ToL1_le	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.IndependentProducts.norm_l2ToL1_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.norm_l2ToL1_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.norm_l2ToL1_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.norm_l2ToL1_le	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	527 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.childIncrementL2_orthogonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MemLp (fun w => w) 2 μ :: side condition | ∫ (w : ℝ), w ∂μ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.childIncrementL2_orthogonal	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.childIncrementL2_orthogonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.childIncrementL2_orthogonal	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.weaklyNull_child_difference	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.weaklyNull_child_difference	PASS	882 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.weaklyNull_child_difference	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.weaklyNull_child_difference	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MemLp (fun w => w) 2 μ :: side condition | ∀ᵐ (w : ℝ) ∂μ, 0 < w :: side condition | ∫ (w : ℝ), w ∂μ = 1 :: side condition | ∀ (c : ℝ), ¬∀ᵐ (w : ℝ) ∂μ, w = c :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.weaklyNull_child_difference	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.weaklyNull_child_difference	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.weaklyNull_child_difference	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.weaklyNull_child_difference	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.weaklyNull_child_difference	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.weaklyNull_child_difference	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.weaklyNull_child_difference	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.weaklyNull_child_difference	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.weaklyNull_child_difference	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.main_general	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.main_general	PASS	1189 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.main_general	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.main_general	REVIEW	OAI.IndependentProducts.MultiplierHypotheses μ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.main_general	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.main_general	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.main_general	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.main_general	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.main_general	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.IndependentProducts.main_general	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.main_general	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.main_general	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.main_general	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	457 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.l2ToL1_childIncrement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MemLp (fun w => w) 2 μ :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.l2ToL1_childIncrement	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.l2ToL1_childIncrement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.l2ToL1_childIncrement	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	234 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	CompleteSpace H :: side condition | 0 < c :: side condition | ∀ (n : ℕ), ‖u n‖ = c :: side condition | Pairwise fun n m => inner ℝ (u n) (u m) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	reaches congrFun'
+REFEREE	R7	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.weaklyNull_of_orthogonal_fixed_norm	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	534 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.childIncrementL2_norm_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MemLp (fun w => w) 2 μ :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.childIncrementL2_norm_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.childIncrementL2_norm_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.childIncrementL2_norm_constant	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	313 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.indepFun_pathSquare_mul_child	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | n ≠ m :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.indepFun_pathSquare_mul_child	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	reaches Nat.succ_pos
+REFEREE	R7	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.indepFun_pathSquare_mul_child	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.indepFun_pathSquare_mul_child	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.childIncrementL2_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.childIncrementL2_ae	PASS	371 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.childIncrementL2_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.childIncrementL2_ae	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasureTheory.MemLp (fun w => w) 2 μ :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.childIncrementL2_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.childIncrementL2_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.childIncrementL2_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.childIncrementL2_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.childIncrementL2_ae	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.childIncrementL2_ae	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.childIncrementL2_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.childIncrementL2_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.childIncrementL2_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.l2ToL1_coe	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.l2ToL1_coe	PASS	156 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.l2ToL1_coe	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.l2ToL1_coe	PASS	MeasureTheory.IsProbabilityMeasure ν :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.l2ToL1_coe	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.l2ToL1_coe	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.l2ToL1_coe	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.l2ToL1_coe	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.l2ToL1_coe	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.IndependentProducts.l2ToL1_coe	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.l2ToL1_coe	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.l2ToL1_coe	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.l2ToL1_coe	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.ProductSpaces.WeakNullity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.ProductSpaces.WeakNullity	INFO	10 theorems checked
+REFEREE	L5	OAI.Analysis.ProductSpaces.WeakNullity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.ProductSpaces.WeakNullity	FAIL	no module docstring /-! … -/; 9 public declarations without a docstring (['weaklyNull_of_orthogonal_fixed_norm', 'l2ToL1_coe', 'norm_l2ToL1_le', 'childIncrementL2_ae'])

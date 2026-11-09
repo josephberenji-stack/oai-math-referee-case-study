@@ -1,0 +1,553 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	CategoryTheory.Limits.HasFiniteBiproducts C :: side condition | F.Additive :: side condition | ∀ (i : I), CategoryTheory.Limits.IsZero (F.obj (Opposite.op (M i))) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	reaches CategoryTheory.Limits.IsZero.iff_id_eq_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	CONTENT	reaches CategoryTheory.Limits.HasBiproductsOfShape.has_biproduct
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing.isZero_image	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	664 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	172 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex.differential	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	121 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	reaches zero_add
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	CONTENT	reaches zero_add
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.shortMap_id	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	368 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp a T.toCycles = 0 :: side condition | CategoryTheory.CategoryStruct.comp b U.toCycles = 0 :: side condition | { X₁ := A, X₂ := T.X₁, X₃ := T.cycles, f := a, g := T.toCycles, zero := ha }.ShortExact :: side condition | { X₁ := B, X₂ := U.X₁, X₃ := U.cycles, f := b, g := U.toCycles, zero := hb }.ShortExact :: side condition | Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop T.X₁) Y 1) :: side condition | Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop U.X₁) (F.obj Y) 1) :: side condition | CategoryTheory.CategoryStruct.comp g b = CategoryTheory.CategoryStruct.comp (F.op.map a) φ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	reaches CategoryTheory.ShortComplex.LeftHomologyMapData.homologyMap_comm
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	CONTENT	reaches CategoryTheory.Functor.preservesZeroMorphisms_of_additive
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	620 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	408 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift.cycles	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	589 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	591 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	553 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ),  Subsingleton   (CategoryTheory.Abelian.Ext (Opposite.unop (((F.op.mapHomolog :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	21 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort.short_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	306 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	176 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | κ.f 0 = F.op.map (ι.f 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	reaches HomologicalComplex.from_single_hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero.augmentation	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	321 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.CategoryStruct.comp a T.toCycles = 0 :: side condition | CategoryTheory.CategoryStruct.comp b U.toCycles = 0 :: side condition | { X₁ := A, X₂ := T.X₁, X₃ := T.cycles, f := a, g := T.toCycles, zero := ha }.ShortExact :: side condition | { X₁ := B, X₂ := U.X₁, X₃ := U.cycles, f := b, g := U.toCycles, zero := hb }.ShortExact :: side condition | Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop T.X₁) Y 1) :: side condition | Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop U.X₁) Y 1) :: side condition | CategoryTheory.CategoryStruct.comp g b = CategoryTheory.CategoryStruct.comp a φ.τ₁ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	reaches CategoryTheory.ShortComplex.LeftHomologyMapData.homologyMap_comm
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	CONTENT	reaches CategoryTheory.ShortComplex.hasLeftHomology_of_hasHomology
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	550 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	22 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality.naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	598 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	141 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	CategoryTheory.HasExt C :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	reaches zero_add
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_condition	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	256 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_quasiIsoAt_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	151 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	CategoryTheory.HasExt C :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	reaches CochainComplex.fromSingle₀Equiv_symm_apply_f_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero.augmentation_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	348 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality.cycles	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	496 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	18 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	513 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	20 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	515 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	CategoryTheory.HasExt C :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) Y (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	20 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality.Comparison.short	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	289 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	159 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.CategoryStruct.comp ι φ = CategoryTheory.CategoryStruct.comp ((CochainCompl :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	reaches HomologicalComplex.from_single_hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality.augmentation	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	INFO	2 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['biproductIso', 'coproductIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['isZero_image'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.CoproductVanishing	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorCohomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['map', 'differential'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorComplex	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['shortMap', 'shortMap_id', 'data', 'homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	REVIEW	instance changes at lines 16
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorHomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorPositive	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['cycleMap', 'cycles'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShift	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['short_zero', 'short_succ', 'short'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorShort	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['augmentation', 'homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	REVIEW	instance changes at lines 14
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ExactFunctorZero	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['sequenceMap', 'data', 'homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.HomologyNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['naturality'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.PositiveNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['complex', 'shortHomologyIso', 'positiveHomologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.Resolution	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['homologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionCohomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['data', 'homologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionHomologyData	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cycleExtEquiv'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionShift	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['augmentation_condition', 'augmentation', 'augmentation_zero', 'homologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ResolutionZero	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cycles'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShiftNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['short_zero', 'short_succ', 'short'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ShortNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['augmentation', 'homology'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Contravariant.ZeroNaturality	PASS	not under a Mathlib folder
+exit 1

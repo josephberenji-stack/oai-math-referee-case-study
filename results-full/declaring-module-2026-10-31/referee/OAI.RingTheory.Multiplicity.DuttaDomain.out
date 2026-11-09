@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.Lech.dutta_domain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Lech.dutta_domain	PASS	13315 constants reached, no stand-in
+REFEREE	L1u	OAI.Lech.dutta_domain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Lech.dutta_domain	PASS	no hypotheses
+REFEREE	L3	OAI.Lech.dutta_domain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Lech.dutta_domain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Lech.dutta_domain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Lech.dutta_domain	INFO	not a registered target statement
+REFEREE	R1	OAI.Lech.dutta_domain	PASS	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	OAI.Lech.dutta_domain	PASS	top step OAI.Lech.dutta_complete_charp carries content
+REFEREE	R5	OAI.Lech.dutta_domain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Lech.dutta_domain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Lech.dutta_domain	REVIEW	computed class A?
+REFEREE	L0	OAI.Lech.dutta_complete_charp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Lech.dutta_complete_charp	PASS	13312 constants reached, no stand-in
+REFEREE	L1u	OAI.Lech.dutta_complete_charp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Lech.dutta_complete_charp	REVIEW	IsNoetherianRing R :: side condition | IsLocalRing R :: side condition | IsAdicComplete (IsLocalRing.maximalIdeal R) R :: side condition | Fact (Nat.Prime p) :: side condition | CharP R p :: side condition | OAI.Lech.IsShortComplex R F :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Lech.dutta_complete_charp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Lech.dutta_complete_charp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Lech.dutta_complete_charp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Lech.dutta_complete_charp	INFO	not a registered target statement
+REFEREE	R1	OAI.Lech.dutta_complete_charp	PASS	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	OAI.Lech.dutta_complete_charp	PASS	no single top step
+REFEREE	R5	OAI.Lech.dutta_complete_charp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Lech.dutta_complete_charp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Lech.dutta_complete_charp	REVIEW	computed class A?
+REFEREE	L0	OAI.Lech.isLocalHom_of_map_maximal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Lech.isLocalHom_of_map_maximal	PASS	30 constants reached, no stand-in
+REFEREE	L1u	OAI.Lech.isLocalHom_of_map_maximal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Lech.isLocalHom_of_map_maximal	PASS	IsLocalRing R :: side condition | IsLocalRing S :: side condition | Ideal.map φ (IsLocalRing.maximalIdeal R) = IsLocalRing.maximalIdeal S :: side condition || unbuilt=0
+REFEREE	L3	OAI.Lech.isLocalHom_of_map_maximal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Lech.isLocalHom_of_map_maximal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Lech.isLocalHom_of_map_maximal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Lech.isLocalHom_of_map_maximal	INFO	not a registered target statement
+REFEREE	R1	OAI.Lech.isLocalHom_of_map_maximal	PASS	reaches IsLocalRing.mem_maximalIdeal
+REFEREE	R7	OAI.Lech.isLocalHom_of_map_maximal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Lech.isLocalHom_of_map_maximal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Lech.isLocalHom_of_map_maximal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Lech.isLocalHom_of_map_maximal	REVIEW	computed class A?
+REFEREE	L4	OAI.RingTheory.Multiplicity.DuttaDomain	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RingTheory.Multiplicity.DuttaDomain	INFO	3 theorems checked
+REFEREE	L5	OAI.RingTheory.Multiplicity.DuttaDomain	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RingTheory.Multiplicity.DuttaDomain	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['isLocalHom_of_map_maximal', 'dutta_complete_charp', 'dutta_domain'])

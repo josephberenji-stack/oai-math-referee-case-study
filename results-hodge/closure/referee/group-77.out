@@ -1,0 +1,403 @@
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	IsIdempotentElem e :: side condition | e ∈ ⊥.jacobson :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	reaches Ideal.mem_jacobson_bot
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	CONTENT	reaches Ideal.mem_jacobson_bot
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotent_eq_zero_of_mem_jacobson	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	137 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	IsLocalRing R :: side condition | Module.Finite R C :: side condition | ∀ (c : C), ∃ b, c - f b ∈ Ideal.map (algebraMap R C) (IsLocalRing.maximalIdeal R) :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	reaches RingHomSurjective.ids
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.surjective_of_residue_approximation	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	839 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	HenselianLocalRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_residue_isEquivalence	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	462 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	HenselianLocalRing R :: side condition | Module.Finite R B :: side condition | IsIdempotentElem e₀ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_idempotent_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	108 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	HenselianLocalRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.standardEtale_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	p.Monic :: side condition | p.Separable :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	reaches mul_one
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	CONTENT	reaches mul_one
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_adjoinRoot_of_separable	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	225 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	HenselianLocalRing R :: side condition | n = m + k :: side condition | ↑q * ↑r = Polynomial.map (IsLocalRing.residue R) ↑p :: side condition | IsCoprime ↑q ↑r :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factors	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	679 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	HenselianLocalRing R :: side condition | Module.Finite R A :: side condition | Module.Finite R B :: side condition | Algebra.Etale R A :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_hom_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	295 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	IsLocalRing R :: side condition | Module.Finite (IsLocalRing.ResidueField R) L :: side condition | Algebra.IsSeparable (IsLocalRing.ResidueField R) L :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	reaches minpoly.monic
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	CONTENT	reaches minpoly.monic
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_field_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	658 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	HenselianLocalRing R :: side condition | IsScalarTower R B C :: side condition | Module.Finite R B :: side condition | Module.Finite B C :: side condition | Algebra.Etale B C :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_section_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	IsLocalRing R :: side condition | p₀.Monic :: side condition | p₀.Separable :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	reaches Polynomial.mem_lifts
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	CONTENT	reaches Polynomial.mem_lifts
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_monic_separable_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	IsIdempotentElem e :: side condition | IsIdempotentElem f :: side condition | e - f ∈ ⊥.jacobson :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	reaches Ideal.mem_jacobson_bot
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	CONTENT	reaches Ideal.mem_jacobson_bot
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_eq_of_sub_mem_jacobson	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	320 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	IsLocalRing R :: side condition | Algebra.Etale (IsLocalRing.ResidueField R) S :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_finiteEtale_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	234 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	HenselianLocalRing R :: side condition | p.Monic :: side condition | q.Monic :: side condition | r.Monic :: side condition | Polynomial.map (IsLocalRing.residue R) p = q * r :: side condition | IsCoprime q r :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.lift_coprime_factorization	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	81 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	IsLocalRing R :: side condition | p.Monic :: side condition | IsCoprime (Polynomial.map (IsLocalRing.residue R) p) (Polynomial.map (IsLocalRing.residue  :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	reaches Polynomial.isUnit_resultant_iff_isCoprime
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	CONTENT	reaches Polynomial.isUnit_resultant_iff_isCoprime
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.isCoprime_of_residue_monic	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	690 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	HenselianLocalRing R :: side condition | Module.Finite R A :: side condition | Module.Finite R B :: side condition | Algebra.Etale R A :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.finiteEtale_baseChange_hom_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	228 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	Algebra.EssFiniteType R A :: side condition | Algebra.FormallyUnramified R A :: side condition | I ≤ ⊥.jacobson :: side condition | (Ideal.Quotient.mkₐ R I).comp f = (Ideal.Quotient.mkₐ R I).comp g :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	reaches Ideal.instIsTwoSided_1
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	CONTENT	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.unramified_hom_ext_of_quotient	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	178 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	HenselianLocalRing R :: side condition | Algebra.Etale R S :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	no single top step
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_lift_to_henselian	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	532 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	HenselianLocalRing R :: side condition | Module.Finite R B :: side condition | IsIdempotentElem e₀ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.idempotents_lift_uniquely	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	126 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	Algebra.Etale B C :: side condition | Function.Surjective ⇑(algebraMap B C) :: side condition | RingHom.ker (algebraMap B C) ≤ ⊥.jacobson :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	reaches RingHom.instRingHomClass
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.etale_algebraMap_bijective_of_surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	52 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	IsLocalRing R :: side condition | Algebra.IsIntegral R B :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	reaches Ideal.jacobson.eq_1
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	CONTENT	reaches Ideal.jacobson.eq_1
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.maximalIdeal_map_le_jacobson	REVIEW	computed class A?
+REFEREE	L0	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	Algebra.EssFiniteType B C :: side condition | Algebra.FormallyUnramified B C :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	INFO	not a registered target statement
+REFEREE	IFF	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	INFO	not an iff
+REFEREE	R1	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	INFO	no supplied input
+REFEREE	DUP	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algebra.LocalRing.HenselianLifting.Construction.exists_separability_idempotent	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.LocalRing.HenselianLifting	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.LocalRing.HenselianLifting	INFO	22 theorems checked
+REFEREE	L5	OAI.Algebra.LocalRing.HenselianLifting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.LocalRing.HenselianLifting	FAIL	module docstring has no `## Main results`; 21 public declarations without a docstring (['standardEtale_lift', 'etale_lift_to_henselian', 'lift_coprime_factors', 'lift_coprime_factorization'])
+REFEREE	INST	OAI.Algebra.LocalRing.HenselianLifting	PASS	no instance changes
+REFEREE	VEND	OAI.Algebra.LocalRing.HenselianLifting	PASS	not under a Mathlib folder
+exit 1

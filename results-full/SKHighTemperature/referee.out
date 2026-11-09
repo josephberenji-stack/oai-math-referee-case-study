@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	338 constants reached, no stand-in
+REFEREE	L1u	OAI.SKGap.FullMain.exponential_pair_eventually	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	0 < a :: side condition | 0 < d :: side condition || unbuilt=0
+REFEREE	L3	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKGap.FullMain.exponential_pair_eventually	INFO	not a registered target statement
+REFEREE	R1	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	reaches lt_min
+REFEREE	R7	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	no single top step
+REFEREE	R5	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKGap.FullMain.exponential_pair_eventually	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKGap.FullMain.exponential_pair_eventually	REVIEW	computed class A?
+REFEREE	L0	OAI.SKGap.FullMain.quenched_poincare	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SKGap.FullMain.quenched_poincare	PASS	11615 constants reached, no stand-in
+REFEREE	L1u	OAI.SKGap.FullMain.quenched_poincare	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKGap.FullMain.quenched_poincare	PASS	0 < β :: side condition | β < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.SKGap.FullMain.quenched_poincare	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKGap.FullMain.quenched_poincare	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKGap.FullMain.quenched_poincare	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKGap.FullMain.quenched_poincare	INFO	not a registered target statement
+REFEREE	R1	OAI.SKGap.FullMain.quenched_poincare	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SKGap.FullMain.quenched_poincare	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SKGap.FullMain.quenched_poincare	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKGap.FullMain.quenched_poincare	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKGap.FullMain.quenched_poincare	REVIEW	computed class A?
+REFEREE	L0	OAI.SKGap.FullMain.weighted_accuracy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SKGap.FullMain.weighted_accuracy	PASS	184 constants reached, no stand-in
+REFEREE	L1u	OAI.SKGap.FullMain.weighted_accuracy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKGap.FullMain.weighted_accuracy	PASS	0 ≤ B :: side condition | 0 ≤ C₀ :: side condition | 0 < r :: side condition | 0 < W :: side condition || unbuilt=0
+REFEREE	L3	OAI.SKGap.FullMain.weighted_accuracy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKGap.FullMain.weighted_accuracy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKGap.FullMain.weighted_accuracy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKGap.FullMain.weighted_accuracy	INFO	not a registered target statement
+REFEREE	R1	OAI.SKGap.FullMain.weighted_accuracy	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SKGap.FullMain.weighted_accuracy	PASS	no single top step
+REFEREE	R5	OAI.SKGap.FullMain.weighted_accuracy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKGap.FullMain.weighted_accuracy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKGap.FullMain.weighted_accuracy	REVIEW	computed class A?
+REFEREE	L0	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.SKGap.FullMain.whp_of_measurable_full	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	∀ (n : ℕ), MeasurableSet (Ω n) :: side condition (project data) | Filter.Tendsto (fun n => (OAI.SKGap.disorderLaw β n).real (Ω n)) Filter.atTop (nhds 1) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKGap.FullMain.whp_of_measurable_full	INFO	not a registered target statement
+REFEREE	R1	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	reaches MeasureTheory.Measure.pi.instIsProbabilityMeasure
+REFEREE	R7	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKGap.FullMain.whp_of_measurable_full	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKGap.FullMain.whp_of_measurable_full	REVIEW	computed class A?
+REFEREE	L0	OAI.SKGap.sk_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SKGap.sk_main	PASS	11639 constants reached, no stand-in
+REFEREE	L1u	OAI.SKGap.sk_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKGap.sk_main	PASS	0 < β :: side condition | β < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.SKGap.sk_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKGap.sk_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKGap.sk_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKGap.sk_main	INFO	not a registered target statement
+REFEREE	R1	OAI.SKGap.sk_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SKGap.sk_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SKGap.sk_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKGap.sk_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKGap.sk_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SKGap.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SKGap.Main	INFO	5 theorems checked
+REFEREE	L5	OAI.Probability.SKGap.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SKGap.Main	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['whp_of_measurable_full', 'weighted_accuracy', 'exponential_pair_eventually', 'quenched_poincare'])

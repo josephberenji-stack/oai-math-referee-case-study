@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	3420 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	top step OAI.MatrixMultiplication.CW75ReorderedRectangular.rectangularOmega_lt_target carries content
+REFEREE	R5	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250	REVIEW	computed class A?
+REFEREE	L0	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	4445 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	reaches LE.le.trans
+REFEREE	R7	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	top step OAI.MatrixMultiplication.AuxiliarySeparation.omega_le_nine_quarters carries content
+REFEREE	R5	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixMultiplication.complex_omega_le_nine_quarters	REVIEW	computed class A?
+REFEREE	L0	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	4068 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	top step OAI.MatrixMultiplication.DualExponentBound.alpha_gt carries content
+REFEREE	R5	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixMultiplication.complex_alpha_gt_93_div_200	REVIEW	computed class A?
+REFEREE	L4	OAI.LinearAlgebra.MatrixMultiplication.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.LinearAlgebra.MatrixMultiplication.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.LinearAlgebra.MatrixMultiplication.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.LinearAlgebra.MatrixMultiplication.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

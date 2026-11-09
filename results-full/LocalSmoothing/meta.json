@@ -1,0 +1,21 @@
+{
+ "challenge": "LocalSmoothing",
+ "solution_module": "OAI.Analysis.Fourier.LocalSmoothing.Comparator",
+ "theorems": [
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing",
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz",
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction",
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal",
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya",
+  "OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square"
+ ],
+ "imports_oai": false,
+ "definition_holes": [],
+ "local_definitions": 22,
+ "exit": {
+  "referee": 1,
+  "census": 0,
+  "origins": 0
+ },
+ "seconds": 656
+}

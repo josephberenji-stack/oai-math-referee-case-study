@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.PettyProjection.mainClaim_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PettyProjection.mainClaim_proved	PASS	5213 constants reached, no stand-in
+REFEREE	L1u	OAI.PettyProjection.mainClaim_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PettyProjection.mainClaim_proved	PASS	no hypotheses
+REFEREE	L3	OAI.PettyProjection.mainClaim_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PettyProjection.mainClaim_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PettyProjection.mainClaim_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PettyProjection.mainClaim_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.PettyProjection.mainClaim_proved	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PettyProjection.mainClaim_proved	PASS	top step OAI.PettyProjection.petty_projection_volume carries content
+REFEREE	R5	OAI.PettyProjection.mainClaim_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PettyProjection.mainClaim_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PettyProjection.mainClaim_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.PettyProjection.MainClaim_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PettyProjection.MainClaim_proved	PASS	5214 constants reached, no stand-in
+REFEREE	L1u	OAI.PettyProjection.MainClaim_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PettyProjection.MainClaim_proved	PASS	no hypotheses
+REFEREE	L3	OAI.PettyProjection.MainClaim_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PettyProjection.MainClaim_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PettyProjection.MainClaim_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PettyProjection.MainClaim_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.PettyProjection.MainClaim_proved	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PettyProjection.MainClaim_proved	PASS	top step OAI.PettyProjection.mainClaim_proved carries content
+REFEREE	R5	OAI.PettyProjection.MainClaim_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PettyProjection.MainClaim_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PettyProjection.MainClaim_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.PettyProjection.petty_projection_volume	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PettyProjection.petty_projection_volume	PASS	5211 constants reached, no stand-in
+REFEREE	L1u	OAI.PettyProjection.petty_projection_volume	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PettyProjection.petty_projection_volume	REVIEW	4 ≤ n :: side condition | OAI.PettyProjection.IsConvexBody K :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PettyProjection.petty_projection_volume	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PettyProjection.petty_projection_volume	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PettyProjection.petty_projection_volume	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PettyProjection.petty_projection_volume	INFO	not a registered target statement
+REFEREE	R1	OAI.PettyProjection.petty_projection_volume	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PettyProjection.petty_projection_volume	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PettyProjection.petty_projection_volume	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PettyProjection.petty_projection_volume	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PettyProjection.petty_projection_volume	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.ProjectionBodies.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.ProjectionBodies.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Geometry.ProjectionBodies.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.ProjectionBodies.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['mainClaim_proved', 'MainClaim_proved'])

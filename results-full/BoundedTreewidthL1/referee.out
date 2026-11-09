@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	REVIEW	Nonempty V :: side condition | G.Connected :: side condition | OAI.BoundedTreewidthL1.HasTreeDecomposition G k :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	reaches SimpleGraph.Iso.connected_iff
+REFEREE	R7	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedTreewidthL1.nonempty_tree_decomposition	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	401 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedTreewidthL1.common_bag_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	G.Connected :: side condition | ∀ (e : ↑G.edgeSet), 0 < ℓ e :: side condition | ∀ (i : I), (B i).Nonempty :: side condition | 0 ≤ U :: side condition | 0 < c :: side condition | 0 < a :: side condition | ∀ (x y : V), ‖Ψ x - Ψ y‖ ≤ U * OAI.BoundedTreewidthL1.shortestPathDistance G ℓ x y :: side condition (project data) | ∀ (i : I) (x y : V), x ∈ B i → y ∈ B i → c * OAI.BoundedTreewidthL1.shortestPathDistance G :: side condition (project data) | ∀ (x y : V),  ∃ i,   a * OAI.BoundedTreewidthL1.bagDistance G ℓ (B i) ⋯ x ≤ ‖Φ x - Φ y‖ ∧  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedTreewidthL1.common_bag_comparison	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedTreewidthL1.common_bag_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedTreewidthL1.common_bag_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	111 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedTreewidthL1.l1Append_norm_sub	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	no hypotheses
+REFEREE	L3	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedTreewidthL1.l1Append_norm_sub	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	reaches PiLp.norm_eq_sum
+REFEREE	R7	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedTreewidthL1.l1Append_norm_sub	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedTreewidthL1.l1Append_norm_sub	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedTreewidthL1.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedTreewidthL1.main_theorem	PASS	3810 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedTreewidthL1.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedTreewidthL1.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.BoundedTreewidthL1.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedTreewidthL1.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedTreewidthL1.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedTreewidthL1.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedTreewidthL1.main_theorem	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.BoundedTreewidthL1.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedTreewidthL1.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedTreewidthL1.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedTreewidthL1.main_theorem	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.TreewidthL1.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.TreewidthL1.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Combinatorics.TreewidthL1.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.TreewidthL1.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['l1Append_norm_sub', 'main_theorem'])

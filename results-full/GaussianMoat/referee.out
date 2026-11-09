@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	3850 constants reached, no stand-in
+REFEREE	L1u	OAI.GaussianMoat.finiteSieveEndpoint_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	no hypotheses
+REFEREE	L3	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.GaussianMoat.finiteSieveEndpoint_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	reaches GaussianInt.prime_iff_mod_four_eq_three_of_nat_prime
+REFEREE	R7	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	top step OAI.GaussianMoat.finiteSieve_of_certificates carries content
+REFEREE	R5	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.GaussianMoat.finiteSieveEndpoint_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.GaussianMoat.finiteSieveEndpoint_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.GaussianMoat.fullMain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.GaussianMoat.fullMain	PASS	4032 constants reached, no stand-in
+REFEREE	L1u	OAI.GaussianMoat.fullMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.GaussianMoat.fullMain	PASS	no hypotheses
+REFEREE	L3	OAI.GaussianMoat.fullMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.GaussianMoat.fullMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.GaussianMoat.fullMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.GaussianMoat.fullMain	INFO	not a registered target statement
+REFEREE	R1	OAI.GaussianMoat.fullMain	PASS	reaches Ne.symm
+REFEREE	R7	OAI.GaussianMoat.fullMain	PASS	top step OAI.GaussianMoat.endpoints_of_finiteSieve carries content
+REFEREE	R5	OAI.GaussianMoat.fullMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.GaussianMoat.fullMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.GaussianMoat.fullMain	REVIEW	computed class A?
+REFEREE	L0	OAI.GaussianMoat.exists_sieveCertificate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.GaussianMoat.exists_sieveCertificate	PASS	1849 constants reached, no stand-in
+REFEREE	L1u	OAI.GaussianMoat.exists_sieveCertificate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.GaussianMoat.exists_sieveCertificate	PASS	1 ≤ D :: side condition || unbuilt=0
+REFEREE	L3	OAI.GaussianMoat.exists_sieveCertificate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.GaussianMoat.exists_sieveCertificate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.GaussianMoat.exists_sieveCertificate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.GaussianMoat.exists_sieveCertificate	INFO	not a registered target statement
+REFEREE	R1	OAI.GaussianMoat.exists_sieveCertificate	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.GaussianMoat.exists_sieveCertificate	PASS	top step is not a project theorem
+REFEREE	R5	OAI.GaussianMoat.exists_sieveCertificate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.GaussianMoat.exists_sieveCertificate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.GaussianMoat.exists_sieveCertificate	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.GaussianMoat.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.GaussianMoat.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.NumberTheory.GaussianMoat.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.GaussianMoat.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['exists_sieveCertificate', 'finiteSieveEndpoint_proved', 'fullMain'])

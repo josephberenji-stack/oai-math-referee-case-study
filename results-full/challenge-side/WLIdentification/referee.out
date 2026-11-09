@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.WLIdentification.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.WLIdentification.main	PASS	200 constants reached, no stand-in
+REFEREE	L1u	OAI.WLIdentification.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WLIdentification.main	PASS	no hypotheses
+REFEREE	L3	OAI.WLIdentification.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WLIdentification.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WLIdentification.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WLIdentification.main	INFO	not a registered target statement
+REFEREE	R1	OAI.WLIdentification.main	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.WLIdentification.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WLIdentification.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WLIdentification.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WLIdentification.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	[]
+REFEREE	L1	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	13 constants reached, no stand-in
+REFEREE	L1u	OAI.WLIdentification.Move.ofNat_ctorIdx	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	no hypotheses
+REFEREE	L3	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WLIdentification.Move.ofNat_ctorIdx	INFO	not a registered target statement
+REFEREE	R1	OAI.WLIdentification.Move.ofNat_ctorIdx	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WLIdentification.Move.ofNat_ctorIdx	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.WLIdentification	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.WLIdentification	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.WLIdentification	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.WLIdentification	FAIL	no module docstring /-! … -/; 24 public declarations without a docstring (['Graph', 'Isomorphic', 'neighborColor', 'neighborHistogram'])

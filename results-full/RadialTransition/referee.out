@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.RadialTransition.family_free_energy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.family_free_energy	PASS	1948 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.family_free_energy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.family_free_energy	PASS	1 ≤ t :: side condition | 0 ≤ ρ :: side condition | ∀ (n : ℕ), 0 ≤ a n :: side condition | ∀ (n : ℕ), 1 ≤ R n :: side condition | Summable a :: side condition | (2197 * t * OAI.RadialTransition.bumpIntegral⁻¹ * ∑' (n : ℕ), a n) / 2 ≤ t ^ 2 / 16 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RadialTransition.family_free_energy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.family_free_energy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.family_free_energy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.family_free_energy	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.family_free_energy	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.RadialTransition.family_free_energy	PASS	no single top step
+REFEREE	R5	OAI.RadialTransition.family_free_energy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.family_free_energy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.family_free_energy	REVIEW	computed class A?
+REFEREE	L0	OAI.RadialTransition.support_ball_two_pressures	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.support_ball_two_pressures	PASS	631 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.support_ball_two_pressures	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.support_ball_two_pressures	PASS	Metric.closedBall OAI.RadialTransition.targetSlope OAI.RadialTransition.pressureRadius ⊆   :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RadialTransition.support_ball_two_pressures	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.support_ball_two_pressures	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.support_ball_two_pressures	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.support_ball_two_pressures	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.support_ball_two_pressures	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.RadialTransition.support_ball_two_pressures	PASS	no single top step
+REFEREE	R5	OAI.RadialTransition.support_ball_two_pressures	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.support_ball_two_pressures	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.support_ball_two_pressures	REVIEW	computed class A?
+REFEREE	L0	OAI.RadialTransition.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.main	PASS	4238 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.main	PASS	no hypotheses
+REFEREE	L3	OAI.RadialTransition.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.main	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.RadialTransition.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RadialTransition.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.main	REVIEW	computed class A?
+REFEREE	L0	OAI.RadialTransition.canonical_dual_sup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.canonical_dual_sup	PASS	1443 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.canonical_dual_sup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.canonical_dual_sup	REVIEW	Continuous φ :: side condition | OAI.RadialTransition.IsBoundedPotential φ :: carries a project proposition | OAI.RadialTransition.StableWith φ B :: carries a project proposition | 0 < t :: side condition | 0 ≤ β :: side condition | 0 < ρ :: side condition | ∀ (r : NNReal), 2 ≤ ↑r → φ r ≤ 0 :: side condition | ∀ (d : ℝ),  0 ≤ d →   Filter.Tendsto (fun z => OAI.RadialTransition.finiteCanonical φ t z. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RadialTransition.canonical_dual_sup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.canonical_dual_sup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.canonical_dual_sup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.canonical_dual_sup	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.canonical_dual_sup	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.RadialTransition.canonical_dual_sup	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RadialTransition.canonical_dual_sup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.canonical_dual_sup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.canonical_dual_sup	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.RadialTransition.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.RadialTransition.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Probability.RadialTransition.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.RadialTransition.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['canonical_dual_sup', 'support_ball_two_pressures', 'family_free_energy', 'main'])

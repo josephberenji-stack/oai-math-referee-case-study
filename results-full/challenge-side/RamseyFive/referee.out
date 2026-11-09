@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SharpRamseyFive.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SharpRamseyFive.main	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpRamseyFive.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpRamseyFive.main	PASS	no hypotheses
+REFEREE	L3	OAI.SharpRamseyFive.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpRamseyFive.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpRamseyFive.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpRamseyFive.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpRamseyFive.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SharpRamseyFive.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SharpRamseyFive.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpRamseyFive.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpRamseyFive.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.RamseyFive	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.RamseyFive	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.RamseyFive	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.RamseyFive	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['RamseyProperty', 'ramsey', 'SharpBounds', 'SharpExponent'])

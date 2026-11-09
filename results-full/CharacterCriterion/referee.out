@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	167 constants reached, no stand-in
+REFEREE	L1u	OAI.KirchbergRordam.hasNoCharacters_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	no hypotheses
+REFEREE	L3	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KirchbergRordam.hasNoCharacters_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	reaches DFunLike.congr_fun
+REFEREE	R7	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KirchbergRordam.hasNoCharacters_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KirchbergRordam.hasNoCharacters_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.KirchbergRordam.nonzero_character_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KirchbergRordam.nonzero_character_one	PASS	83 constants reached, no stand-in
+REFEREE	L1u	OAI.KirchbergRordam.nonzero_character_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KirchbergRordam.nonzero_character_one	PASS	χ ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.KirchbergRordam.nonzero_character_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KirchbergRordam.nonzero_character_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KirchbergRordam.nonzero_character_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KirchbergRordam.nonzero_character_one	INFO	not a registered target statement
+REFEREE	R1	OAI.KirchbergRordam.nonzero_character_one	PASS	reaches NonUnitalStarAlgHom.ext
+REFEREE	R7	OAI.KirchbergRordam.nonzero_character_one	PASS	no single top step
+REFEREE	R5	OAI.KirchbergRordam.nonzero_character_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KirchbergRordam.nonzero_character_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KirchbergRordam.nonzero_character_one	REVIEW	computed class A?
+REFEREE	L0	OAI.KirchbergRordam.character_criterion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KirchbergRordam.character_criterion	PASS	8852 constants reached, no stand-in
+REFEREE	L1u	OAI.KirchbergRordam.character_criterion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KirchbergRordam.character_criterion	PASS	Nontrivial A :: side condition | TopologicalSpace.SeparableSpace A :: side condition | ↑ω ≤ Filter.cofinite :: side condition || unbuilt=0
+REFEREE	L3	OAI.KirchbergRordam.character_criterion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KirchbergRordam.character_criterion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KirchbergRordam.character_criterion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KirchbergRordam.character_criterion	INFO	not a registered target statement
+REFEREE	R1	OAI.KirchbergRordam.character_criterion	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.KirchbergRordam.character_criterion	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KirchbergRordam.character_criterion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KirchbergRordam.character_criterion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KirchbergRordam.character_criterion	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.CharacterCriterion.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.CharacterCriterion.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.CharacterCriterion.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.CharacterCriterion.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['nonzero_character_one', 'unitalCharacter', 'hasNoCharacters_iff', 'character_criterion'])

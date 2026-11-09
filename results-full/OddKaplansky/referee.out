@@ -1,0 +1,147 @@
+REFEREE	L0	OAI.OddKaplansky.cellular_eq_operator	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.cellular_eq_operator	PASS	146 constants reached, no stand-in
+REFEREE	L1u	OAI.OddKaplansky.cellular_eq_operator	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OddKaplansky.cellular_eq_operator	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.cellular_eq_operator	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.cellular_eq_operator	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.cellular_eq_operator	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.cellular_eq_operator	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.cellular_eq_operator	PASS	reaches Function.smulCommClass
+REFEREE	R7	OAI.OddKaplansky.cellular_eq_operator	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OddKaplansky.cellular_eq_operator	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.cellular_eq_operator	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.cellular_eq_operator	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.products	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.products	REVIEW	[opaque with a value OAI.OddKaplansky.GraphNumerics.binomWrapped, opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.products	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 1
+REFEREE	L2	OAI.OddKaplansky.Prescribed.products	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.products	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.products	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.products	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.products	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.products	PASS	reaches congrFun'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.products	PASS	top step OAI.OddKaplansky.Construction.scalar_products carries content
+REFEREE	R5	OAI.OddKaplansky.Prescribed.products	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.products	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.products	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.instCharPKP	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.instCharPKP	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.instCharPKP	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	reaches charP_of_injective_ringHom
+REFEREE	R7	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.instCharPKP	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.instCharPKP	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.fixed_field_transfer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.fixed_field_transfer	PASS	952 constants reached, no stand-in
+REFEREE	L1u	OAI.OddKaplansky.fixed_field_transfer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OddKaplansky.fixed_field_transfer	PASS	3 ≤ Fintype.card K :: side condition | 0 < r :: side condition | A * B = 1 :: side condition | B * A ≠ 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.OddKaplansky.fixed_field_transfer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.fixed_field_transfer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.fixed_field_transfer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.fixed_field_transfer	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.fixed_field_transfer	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.OddKaplansky.fixed_field_transfer	PASS	no single top step
+REFEREE	R5	OAI.OddKaplansky.fixed_field_transfer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.fixed_field_transfer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.fixed_field_transfer	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.zeta_primitive	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.zeta_primitive	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.zeta_primitive	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	no single top step
+REFEREE	R5	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.zeta_primitive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.zeta_primitive	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.zeta_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.zeta_le	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.zeta_le	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.zeta_le	PASS	IsPrimitiveRoot z OAI.OddKaplansky.SourceGluing.modulus :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.OddKaplansky.Prescribed.zeta_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.zeta_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.zeta_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.zeta_le	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.zeta_le	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.zeta_le	PASS	top step OAI.OddKaplansky.FiniteChoice.primitive_le carries content
+REFEREE	R5	OAI.OddKaplansky.Prescribed.zeta_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.zeta_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.zeta_le	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.cellular_consequences	REVIEW	[opaque with a value OAI.OddKaplansky.GraphNumerics.binomWrapped, opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.cellular_consequences	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 1
+REFEREE	L2	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.cellular_consequences	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.cellular_consequences	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.cellular_consequences	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.instFactIrreduciblePolynomialFirstFieldPPolynomialXi	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.card_field	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.card_field	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.card_field	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.card_field	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.card_field	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.card_field	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.card_field	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.card_field	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.card_field	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.Prescribed.card_field	PASS	top step OAI.OddKaplansky.QuadraticTower.tower_card carries content
+REFEREE	R5	OAI.OddKaplansky.Prescribed.card_field	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.card_field	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.card_field	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.Prescribed.torsion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.Prescribed.torsion	REVIEW	[opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.Prescribed.torsion	REVIEW	statement-level: [OAI.OddKaplansky.SourceGluing.pWrapped]; proof-only: 0
+REFEREE	L2	OAI.OddKaplansky.Prescribed.torsion	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.Prescribed.torsion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.Prescribed.torsion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.Prescribed.torsion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.Prescribed.torsion	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.Prescribed.torsion	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.OddKaplansky.Prescribed.torsion	PASS	top step OAI.OddKaplansky.Construction.torsion carries content
+REFEREE	R5	OAI.OddKaplansky.Prescribed.torsion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.Prescribed.torsion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.Prescribed.torsion	REVIEW	computed class A?
+REFEREE	L0	OAI.OddKaplansky.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OddKaplansky.main_theorem	REVIEW	[opaque with a value OAI.OddKaplansky.GraphNumerics.binomWrapped, opaque with a value OAI.OddKaplansky.SourceGluing.pWrapped]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OddKaplansky.main_theorem	PASS	proof-only: [OAI.OddKaplansky.GraphNumerics.binomWrapped, OAI.OddKaplansky.SourceGluing.pWrapped]
+REFEREE	L2	OAI.OddKaplansky.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.OddKaplansky.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OddKaplansky.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OddKaplansky.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OddKaplansky.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.OddKaplansky.main_theorem	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OddKaplansky.main_theorem	PASS	no single top step
+REFEREE	R5	OAI.OddKaplansky.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OddKaplansky.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OddKaplansky.main_theorem	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.OddKaplansky.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.OddKaplansky.Main	INFO	11 theorems checked
+REFEREE	L5	OAI.Algebra.OddKaplansky.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.OddKaplansky.Main	FAIL	no module docstring /-! … -/; 18 public declarations without a docstring (['K', 'card_field', 'zeta', 'zeta_primitive'])

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.DoublingHilbert.no_scaled_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DoublingHilbert.no_scaled_embedding	PASS	1808 constants reached, no stand-in
+REFEREE	L1u	OAI.DoublingHilbert.no_scaled_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DoublingHilbert.no_scaled_embedding	PASS	CompleteSpace E :: side condition | FiniteDimensional ℝ E :: side condition | 0 < a :: side condition | 1 ≤ D :: side condition | ∀ (x y : ↑OAI.DoublingHilbert.constructedSet), a * dist x y ≤ dist (f x) (f y) ∧ dist (f x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.DoublingHilbert.no_scaled_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DoublingHilbert.no_scaled_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DoublingHilbert.no_scaled_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DoublingHilbert.no_scaled_embedding	INFO	not a registered target statement
+REFEREE	R1	OAI.DoublingHilbert.no_scaled_embedding	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DoublingHilbert.no_scaled_embedding	PASS	no single top step
+REFEREE	R5	OAI.DoublingHilbert.no_scaled_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DoublingHilbert.no_scaled_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DoublingHilbert.no_scaled_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.DoublingHilbert.no_normalized_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DoublingHilbert.no_normalized_embedding	PASS	1803 constants reached, no stand-in
+REFEREE	L1u	OAI.DoublingHilbert.no_normalized_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DoublingHilbert.no_normalized_embedding	PASS	CompleteSpace E :: side condition | FiniteDimensional ℝ E :: side condition | LipschitzWith D f :: side condition (project data) | ∀ (p q : ↑OAI.DoublingHilbert.constructedSet), dist p q ≤ dist (f p) (f q) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.DoublingHilbert.no_normalized_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DoublingHilbert.no_normalized_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DoublingHilbert.no_normalized_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DoublingHilbert.no_normalized_embedding	INFO	not a registered target statement
+REFEREE	R1	OAI.DoublingHilbert.no_normalized_embedding	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DoublingHilbert.no_normalized_embedding	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DoublingHilbert.no_normalized_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DoublingHilbert.no_normalized_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DoublingHilbert.no_normalized_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.DoublingHilbert.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DoublingHilbert.main	PASS	2031 constants reached, no stand-in
+REFEREE	L1u	OAI.DoublingHilbert.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DoublingHilbert.main	PASS	no hypotheses
+REFEREE	L3	OAI.DoublingHilbert.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DoublingHilbert.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DoublingHilbert.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DoublingHilbert.main	INFO	not a registered target statement
+REFEREE	R1	OAI.DoublingHilbert.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DoublingHilbert.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DoublingHilbert.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DoublingHilbert.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DoublingHilbert.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.DoublingHilbert.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.DoublingHilbert.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Geometry.DoublingHilbert.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.DoublingHilbert.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

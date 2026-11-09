@@ -1,0 +1,430 @@
+module	shape	name
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.AccuratePhase.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.Fits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.bind.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.DrawTree.draw.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.DrawTree.draw.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.DrawTree.draw.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.expectation.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.history.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.iterate.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.DrawTree.leaf.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.DrawTree.leaf.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.DrawTree.leaf.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.run.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.DrawTree.sample.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.DrawTree.uniformChoice.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.DrawTree.uniformVia.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteChain.Sample.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteChain.Sample.toList.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.FiniteChain.cappedTraceKernel.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.FiniteChain.mk.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.FiniteChain.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.FiniteChain.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.FiniteChain.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteChain.pathExpectation.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteChain.sampleMass.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.FiniteChain.traceChain.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteExperiment.expect.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.FiniteKernel.mk.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.FiniteKernel.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.FiniteKernel.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.FiniteKernel.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.FiniteKernel.power.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.GoodMultipliers.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.coin.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.coin.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.Instruction.coin.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.Instruction.halt.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.pop.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.pop.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.Instruction.pop.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.push.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.push.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.Instruction.push.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.query.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.Instruction.query.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.Instruction.query.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.KilledKernel.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.KilledKernel.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.KilledKernel.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.MachineCode.Block.mk.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Block.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Block.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Block.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.bool.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.DataType.list.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.DataType.list.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.list.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.nat.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.DataType.prod.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.DataType.prod.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.prod.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.unit.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.DataType.word.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_bernoulli
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_bind
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_choose
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_draw
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_fail
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_keep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_letIn
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_map
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_noneCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_optionBind
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_precompose
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_proposal
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_pure
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_retainOption
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_someCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_uniformList
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Effect.controlled_withContext
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.Effect.phaseRepeat.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.Effect.treeRepeat.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.add.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.append.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.both.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.both.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.both.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.branch.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.branch.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.branch.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.compose.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.compose.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.compose.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.cons.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.consBit.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.constant.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.constant.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.constant.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_annealLengthCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_bitCountCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_capCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_ceilDivCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_drawsCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenBitCount
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenE
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenL
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenN
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenParams
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenPrepared
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenRecipe3
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenReps
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_frozenSamples
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_lengthNatCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_natPow
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_prodE
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_sampleCountCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_shape4Code
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_sumE
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_tauCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.Expression.controlled_wordBoundCode
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.divRem.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.fold.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.fold.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.fold.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.Expression.foldLast.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.fst.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.ident.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.less.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.mul.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.Expression.natPow.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.query.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.query.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.query.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.rank.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Expression.rank.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.rank.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.Expression.rejectValue.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.reverse.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.snd.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.sub.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.toBits.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.toList.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Expression.toNat.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SamplerModel.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SamplerModel.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.SamplerModel.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.add.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.add.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.add.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.coefficient.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.constant.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.constant.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.constant.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.degree.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.eval.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.input.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.mul.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.mul.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.mul.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.pow.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.SizePolynomial.subst.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Test.coin.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Test.pop.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Test.pop.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Test.pop.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Test.query.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineCode.Test.query.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineCode.Test.query.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.bankEval.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.chargeBound.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.compile.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_applyIf
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_atomic
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_boolAnd
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_boolNot
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_boolOr
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_boolXor
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_both
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_branch
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_chainCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_chunkStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_clog
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_compose
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_countDefect
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_countPlain
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_countWith
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_defectAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_defectCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_defectPairs
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_deficiency
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_drop
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_emptyAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_exchangePositions
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_exchangeSet
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_exchangeWord
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_filterFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_filterStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_filterWith
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_fold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_fromList
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_fullAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_gcd
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_gcdStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_getD
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_headD
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_historyAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_historyWeight
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_input
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_insertFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_insertRat
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_insertStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_learningRatio
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_letIn
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_listAll
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_listAppend
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_listLength
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_listReverse
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_mapEach
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_mapFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_mapStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_mapWith
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_median
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_membersCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_multiplier
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natDiv
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natDivRem
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natEqZero
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natEqual
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natMod
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_natSub
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_normalizeRat
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_onLeft
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_onRight
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_optionMap
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_pairFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_pairPositive
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_plainCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_plainMean
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_powStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_productCode
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_productStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_rangeStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratAdd
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratCross
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratDiv
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratLess
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratMinOne
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratMul
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratProduct
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_ratSum
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_reject
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_rejectFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_rejectStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_rho
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_singleAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_sortFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_sortRat
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_splitAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_splitFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_splitStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_splitWord
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_swap
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_take
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_updateAt
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_updateWord
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_weightFold
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_weightStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordCount
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordCountStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordDrop
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordGet
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordIndexPairs
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordLength
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordNot
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordRange
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordRepeatStep
+OAI.Combinatorics.MatroidCounting.CommonBases	other	OAI.CommonBasesFPRAS.MachineCode.controlled_wordTake
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.encode.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.evalFold.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.evaluate.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.foldCharge.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.foldValue.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.foldWords.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.gcdSteps.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.iterateM.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.loopAccum.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.MachineCode.physicalPosition.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.prependCode.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.run.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.sampledWord.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.stripCost.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.stripZeros.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.MachineCode.words.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineConfig.mk.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.MachineConfig.mk.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.MachineConfig.mk.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.bind.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.draw.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.draw.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.OracleDraw.draw.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.hitting.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.iterate.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.lift.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.pure.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.pure.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.OracleDraw.pure.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.query.inj
+OAI.Combinatorics.MatroidCounting.CommonBases	inj / injEq	OAI.CommonBasesFPRAS.OracleDraw.query.injEq
+OAI.Combinatorics.MatroidCounting.CommonBases	sizeOf_spec	OAI.CommonBasesFPRAS.OracleDraw.query.sizeOf_spec
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.resolve.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.run.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.sample.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.OracleDraw.traverse.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.SlotsFresh.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.SuccessfulHistory.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualCappedTrace.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualPhaseTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualRestartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.actualRestartTree.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualStartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualStepTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualTrace.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.actualTraceTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.addCost.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.addDigits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.binaryValue.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.bitFrame.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.bitPrefix.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.boundedFPRASOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.boundedUniform.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalAlgorithmTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalAmplifiedOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalFairOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalPhaseTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalRestartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.canonicalRestartTree.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalStartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalStepTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalTraceTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.canonicalWitnessTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.carryTail.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.choiceVertices.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.clockQueryOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.clockWord.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.coeffDerivs.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.coinWord.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.compareBits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.defectMean.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.divisionCost.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.divisionWords.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.estimateProductEffect.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.execution.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.faceCubic.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.faceHessian.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.fairOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.finishEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyCalls.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyEffect.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyOracle.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyQueryCount.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyTime.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.greedyWork.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.historyFinishEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.historyFinishEffect.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.historyWeights.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.hittingTree.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.leadingOnes.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.learnedMultipliers.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.loopState.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.loopSum.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.metropolisChain.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.metropolisTrace.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.mulCost.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.mulDigits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.observableProjection.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleFairOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oraclePhaseTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleRestartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.oracleRestartTree.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleStartTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleStepTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleTraceTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.oracleWitnessTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.padMatrix.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.paddedFPRASOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.paddedQueryOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.pairDirection.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.pairMatrix.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.pairMultiplier.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.phaseChain.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.phaseEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.phaseKernel.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.phaseStart.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.plainMean.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.popcountBits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.popcountTime.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.queryAmplifiedOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.queryFairOutput.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rationalAlgorithmTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rationalHistory.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rationalLearn.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rationalWitnessTree.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rawHessian.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.restartEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.restartEffect.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.restartLaw.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.restartLaw.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.rootCoefficient.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.slotDefect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.slotDirection.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.slotPunctures.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.slotTotal.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.slotVariance.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.slotVertices.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.startEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.stepEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.streamValue.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.subCost.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.subDigits.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.traceEffect.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.transportCorrection.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.transportDemand.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.transportEdges.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.transportEdges.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.transportEnergy.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.transportPotential.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	congr_simp	OAI.CommonBasesFPRAS.witnessKernel.congr_simp
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.wordEquiv.eq_def
+OAI.Combinatorics.MatroidCounting.CommonBases	eq_def	OAI.CommonBasesFPRAS.wordGreedy.eq_def

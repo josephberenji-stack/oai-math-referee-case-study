@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	373 constants reached, no stand-in
+REFEREE	L1u	OAI.ThorpCompatibility.log_normalizingFactor_upper	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	0 < A :: side condition | 0 < D :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThorpCompatibility.log_normalizingFactor_upper	INFO	not a registered target statement
+REFEREE	R1	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	no single top step
+REFEREE	R5	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThorpCompatibility.log_normalizingFactor_upper	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThorpCompatibility.log_normalizingFactor_upper	REVIEW	computed class A?
+REFEREE	L0	OAI.weightedCompatibility_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.weightedCompatibility_main	PASS	1383 constants reached, no stand-in
+REFEREE	L1u	OAI.weightedCompatibility_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.weightedCompatibility_main	PASS	no hypotheses
+REFEREE	L3	OAI.weightedCompatibility_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.weightedCompatibility_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.weightedCompatibility_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.weightedCompatibility_main	INFO	not a registered target statement
+REFEREE	R1	OAI.weightedCompatibility_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.weightedCompatibility_main	PASS	top step OAI.ThorpCompatibility.weightedCompatibility_main carries content
+REFEREE	R5	OAI.weightedCompatibility_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.weightedCompatibility_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.weightedCompatibility_main	REVIEW	computed class A?
+REFEREE	L0	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	1205 constants reached, no stand-in
+REFEREE	L1u	OAI.ThorpCompatibility.weightedCompatibility_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	4 ≤ m :: side condition | m ^ 2 = ↑A * ↑D :: side condition | 1000 ≤ Real.log m :: side condition | 0 < 1 - 1000 / Real.log m :: side condition | m / 2 ≤ ↑A :: side condition | ↑A ≤ 2 * m :: side condition | m / 2 ≤ ↑D :: side condition | ↑D ≤ 2 * m :: side condition | (OAI.ThorpCompatibility.uniformMean fun r =>   Real.exp (1 / 400 * Real.log m * ↑(OAI.Thor :: side condition (project data) | ∀ (i : Fin A) (σ : Equiv.Perm (Fin D)), 0 ≤ w i σ :: side condition | ∀ (k : Fin D) (σ : Equiv.Perm (Fin A)), 0 ≤ v k σ :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThorpCompatibility.weightedCompatibility_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	no single top step
+REFEREE	R5	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThorpCompatibility.weightedCompatibility_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThorpCompatibility.weightedCompatibility_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	1382 constants reached, no stand-in
+REFEREE	L1u	OAI.ThorpCompatibility.weightedCompatibility_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	no hypotheses
+REFEREE	L3	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThorpCompatibility.weightedCompatibility_main	INFO	not a registered target statement
+REFEREE	R1	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	no single top step
+REFEREE	R5	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThorpCompatibility.weightedCompatibility_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThorpCompatibility.weightedCompatibility_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.ThorpCompatibility.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.ThorpCompatibility.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Probability.ThorpCompatibility.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.ThorpCompatibility.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['log_normalizingFactor_upper', 'weightedCompatibility_bound', 'weightedCompatibility_main', 'weightedCompatibility_main'])

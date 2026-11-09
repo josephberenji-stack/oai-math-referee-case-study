@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Bernoulli.nonflat_in_seven	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Bernoulli.nonflat_in_seven	PASS	3997 constants reached, no stand-in
+REFEREE	L1u	OAI.Bernoulli.nonflat_in_seven	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Bernoulli.nonflat_in_seven	PASS	no hypotheses
+REFEREE	L3	OAI.Bernoulli.nonflat_in_seven	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Bernoulli.nonflat_in_seven	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Bernoulli.nonflat_in_seven	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Bernoulli.nonflat_in_seven	INFO	not a registered target statement
+REFEREE	R1	OAI.Bernoulli.nonflat_in_seven	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Bernoulli.nonflat_in_seven	PASS	top step OAI.Bernoulli.DeSilvaJerison.exists_nonflat_dimension_seven carries content
+REFEREE	R5	OAI.Bernoulli.nonflat_in_seven	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Bernoulli.nonflat_in_seven	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Bernoulli.nonflat_in_seven	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.BernoulliCone.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.BernoulliCone.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.BernoulliCone.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.BernoulliCone.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['nonflat_in_seven'])

@@ -1,0 +1,1111 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	9044 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	REVIEW	AlgebraicGeometry.IsReduced S :: side condition | AlgebraicGeometry.IsLocallyNoetherian S :: side condition | AlgebraicGeometry.IsReduced T :: side condition | AlgebraicGeometry.IsLocallyNoetherian T :: side condition | AlgebraicGeometry.IsReduced Q :: side condition | AlgebraicGeometry.IsLocallyNoetherian Q :: side condition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction O A.abelian :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction O B.abelian :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Moduli.Isomorphisms.LevelPreservin :: carries a project proposition | e.abelian.hom = m :: side condition (project data) | 0 < n :: side condition | CategoryTheory.CategoryStruct.comp k.hom.hom   ((CategoryTheory.Over.pullback g).map    (O :: side condition (project data) | CategoryTheory.CategoryStruct.comp r.hom.hom   ((CategoryTheory.Over.pullback g).map    (O :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	reaches CategoryTheory.IsPullback.of_hasPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.PolarizedBlockPairingIso.polarizedPulledBackBlockPairing_iso carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DescentRelationMorphisms.Construction.LineDescent.CompatibleAt by OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DescentRelationMorphisms.Construction.LineDescent.compatibleAt_pullback, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine by OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine.of_iso, OAI.AlgebraicGeometry.Picard.PoincareBundle.Affine.NaturalGluingCompatibility.CompatibleWith by OAI.AlgebraicGeometry.Picard.PoincareBundle.Affine.NaturalGluingCompatibility.of_equation]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.unitLine = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.Picard.Homomorphisms.TensorAssociativity.Construction.tensorModuleBilinear = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SheafMaps.tensorBilinear, OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafTensorHom.Construction.presheafTensorHomLocal1 = OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafHomSheaf.Construction.presheafHomSheafLocal1, OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DualAlgebra.Construction.instCommRingDualCoordinate_2 = OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DualAlgebra.Construction.instCommRingDualCoordinate, OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafTensorPullback.Construction.presheafTensorPullbackLocal2 = OAI.AlgebraicGeometry.Picard.Homomorphisms.FreeTensorPullbackIso.Construction.freeTensorPullbackIsoLocal2]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso.Polarized.polarizedActionBlockPairing_iso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	66 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction R A :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction R A :: carries a project proposition | ρ.map = σ.map :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	FIELD	reads the stored axioms OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.commutative
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	222 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction R A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	reaches AddCommGrpCat.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	CONTENT	reaches AddCommGrpCat.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	REVIEW	packaged: the top step is the structural lemma OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.integralAction_ext; the content is in its arguments
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip.actionFromEnd_toEnd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	1260 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	CategoryTheory.CategoryStruct.comp h f = g :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	reaches CategoryTheory.IsPullback.of_hasPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	111 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionIteratedIso_polarized	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	1225 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	f = g :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	reaches CategoryTheory.IsPullback.of_hasPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	104 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.actionBaseCongrIso_polarized	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	1301 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	REVIEW	IsLocalRing R :: side condition | IsScalarTower R F L :: side condition | OAI.AlgebraicGeometry.Isogenies.NeighborCounting.EvaluationDVRLifts.EvaluationDVR R L :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	reaches CategoryTheory.IsPullback.of_hasPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	115 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso.evaluatedIntegralActionIso_polarized	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	692 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	REVIEW	CategoryTheory.IsCommMonObj G.X :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.Isogenies.NeighborCounting.GenericActiveCoordinateData.ActiveCoordin :: carries a project proposition | OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.Coor :: carries a project proposition | Finite B :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	reaches CategoryTheory.Functor.map_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.Parameter.ImageComparison.parameter_kernel_image carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	30 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	CONTENT	reaches CategoryTheory.Functor.map.instIsMonHom
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData.pulledBackHom	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	CONTENT	reaches CategoryTheory.Functor.map.instIsMonHom
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CoordinateKernelDetection.Parameters.CoordinateKernelParameters.pulledBackHom	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	[propext]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	9 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	reaches Nat.Prime.ne_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	CONTENT	reaches Nat.Prime.ne_zero
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.instNeZeroNat_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	633 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	FAIL	CharZero L :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g (A :: carries a project proposition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.AbelianScheme.TorsionQuotient.SubgroupFunctor.SubgroupChoice A.schem :: carries a project proposition | OAI.AlgebraicGeometry.AbelianScheme.IsogenyQuotient.Unit.Construction.TorsionQuotientInput :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	reaches nsmul_eq_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	CONTENT	reaches nsmul_eq_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.TorsionQuotient.SubgroupFunctor.RelativeSubgroup.KilledBy by OAI.AlgebraicGeometry.AbelianScheme.TorsionQuotient.SubgroupFunctor.SubgroupChoice.killed, OAI.AlgebraicGeometry.AbelianScheme.TorsionQuotient.SubgroupFunctor.RelativeSubgroup.HasModuleType by OAI.AlgebraicGeometry.AbelianScheme.TorsionQuotient.SubgroupFunctor.SubgroupChoice.moduleType]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	16 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion.activeChoice_killed	REVIEW	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	1134 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	Fact (Nat.Prime q) :: side condition | CharP k q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.GroupProductFactorMaps.group_product_hom_ext carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	60 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLineIso_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	453 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_first	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	454 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport.chosenActiveMixedLine_second	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	614 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization.chosenActiveMultiplicative_normalization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	818 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	Fact (Nat.Prime q) :: side condition | CharP k q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeIso_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	812 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	Fact (Nat.Prime q) :: side condition | CharP k q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	372 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	19 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	368 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	19 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.chosenActiveMultiplicative_projection	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	370 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	20 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_id	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	808 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	Fact (Nat.Prime q) :: side condition | CharP k q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	reaches AlgebraicGeometry.Scheme.Hom.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	CONTENT	reaches AlgebraicGeometry.Scheme.IsLocallyDirected.instHasColimit
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport.activeMultiplicativeMap_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	87 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	∀ (x : M), q • x = 0 :: side condition | Nonempty (↥J ≃+ M) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	reaches nsmul_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	CONTENT	reaches nsmul_add
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typed_subgroup_killed	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	397 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	Fact (Nat.Prime q) :: side condition | Finite G :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	reaches nsmul_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	CONTENT	reaches nsmul_add
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.activeTorsionSubspaceEquiv_membership	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	131 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	∀ (x : M), q • x = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	reaches nsmul_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	CONTENT	reaches nsmul_add
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices.typedKilledRestrictionEquiv_membership	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	201 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	reaches pow_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_finrank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	311 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	Fact (Nat.Prime q) :: side condition | Finite V :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	reaches pow_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.active_type_iff_finrank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	321 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	Fact (Nat.Prime q) :: side condition | Finite V :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	reaches pow_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeTypedSubspaceEquiv_membership	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	72 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	reaches Nat.card_ulift
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	CONTENT	reaches Nat.card_ulift
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.activeElementary_card	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	[propext]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	9 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	Fact (Nat.Prime q) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	reaches Nat.Prime.ne_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	CONTENT	reaches Nat.Prime.ne_zero
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces.instNeZeroNat_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	45 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	IsLocalRing R :: side condition | IsAdicComplete (IsLocalRing.maximalIdeal R) R :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	reaches IsUnit.map
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	CONTENT	reaches HenselianRing.is_henselian
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.complete_local_henselian	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	85 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	IsAdicComplete I M :: side condition | I ≤ J :: side condition | J ^ e ≤ I :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	reaches LE.le.trans
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport.Lifts.adic_complete_of_cofinal_powers	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	37 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	reaches CategoryTheory.unit_mateEquiv
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	CONTENT	reaches CategoryTheory.unit_mateEquiv
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.adjunct_square	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	35 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	CategoryTheory.CategoryStruct.comp q (F₀.map a) = F₀.map b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	reaches CategoryTheory.cancel_epi
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	CONTENT	reaches CategoryTheory.cancel_epi
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.transport_factorization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	46 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	CategoryTheory.IsIso (OAI.AlgebraicGeometry.Picard.PoincareBundle.DescentRestriction.right :: side condition (project data) | CategoryTheory.CategoryStruct.comp (L'.map c) (α.hom.app N) = CategoryTheory.CategoryStruc :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	CONTENT	reaches CategoryTheory.cancel_mono
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization.factorization_of_square	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	50 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	reaches AlgebraicGeometry.Flat.SpecMap_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	CONTENT	reaches AlgebraicGeometry.Flat.SpecMap_iff
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_flat	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	Module.Finite k A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	reaches AlgebraicGeometry.Scheme.Hom.finrank_SpecMap_algebraMap
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	CONTENT	reaches AlgebraicGeometry.Scheme.Hom.finrank_SpecMap_algebraMap
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	145 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	Module.Finite k A :: side condition | Module.Finite k B :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	reaches AlgebraicGeometry.IsFinite.SpecMap_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	CONTENT	reaches CategoryTheory.Functor.map_isIso
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_product_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	45 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	Module.Finite k A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	reaches AlgebraicGeometry.IsFinite.SpecMap_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	CONTENT	reaches AlgebraicGeometry.IsFinite.SpecMap_iff
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank.affine_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	813 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	HenselianLocalRing R :: side condition | Module.Finite R A :: side condition | Module.Finite R C :: side condition | Algebra.Etale R C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	CONTENT	reaches HenselianLocalRing.toIsLocalRing
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affine_special_fiber_hom_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber.Components.affineBaseChangeIso_inv_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	REVIEW	CategoryTheory.Mono k :: side condition | CategoryTheory.Mono i :: side condition | OAI.AlgebraicGeometry.AbelianScheme.FrobeniusKernel.Prescribed.Construction.PrescribedKern :: carries a project proposition | CategoryTheory.CategoryStruct.comp c k = x :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	420 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	REVIEW	NumberField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.PELModuli.CMPoints.Arithmetic.QadicChoice K κ q :: carries a project proposition | j.HasSplitCoordinates iota :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme d S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction (NumberField :: carries a project proposition | CategoryTheory.Mono i :: side condition (project data) | OAI.AlgebraicGeometry.AbelianScheme.FrobeniusKernel.Prescribed.Construction.PrescribedKern :: carries a project proposition | x ^ q ^ n = 1 :: side condition (project data) | CategoryTheory.CategoryStruct.comp x (ρ.map (j.projector iota hsplit n τ)) = x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	CONTENT	reaches map_one
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.ambient_kernel_factor_iff carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors.native_block_kernel_factor	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	835 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	REVIEW	NumberField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.AlgebraicGeometry.PELModuli.CMPoints.Arithmetic.QadicChoice K κ q :: carries a project proposition | j.HasSplitCoordinates iota :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction (NumberField :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g T :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.ActionData.IntegralAction (NumberField :: carries a project proposition | CategoryTheory.IsMonHom e.hom :: side condition (project data) | CategoryTheory.CategoryStruct.comp ((ρ.pullback b).map (j.projector iota hsplit n τ)) e.ho :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	CONTENT	reaches map_one
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	64 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion.Block.composedBlock_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	205 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalRight_group	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	8833 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	REVIEW	AlgebraicGeometry.IsReduced S :: side condition | AlgebraicGeometry.IsLocallyNoetherian S :: side condition | AlgebraicGeometry.IsReduced T :: side condition | AlgebraicGeometry.IsLocallyNoetherian T :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData A :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization D δ :: carries a project proposition | 0 < n :: side condition | CategoryTheory.IsCommMonObj K.X :: side condition | CategoryTheory.IsCommMonObj L.X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DescentRelationMorphisms.Construction.LineDescent.CompatibleAt by OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DescentRelationMorphisms.Construction.LineDescent.compatibleAt_pullback, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.PositiveOnGeometricFiber by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.positive, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.IsHomogeneousPicardClass by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Dual.Data.DualAbelianData.poincareHomogeneous, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.Isogeny.HasPolarizationType by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.PolarizationData.Polarization.kernelType, OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine by OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine.of_iso, OAI.AlgebraicGeometry.Picard.PoincareBundle.Affine.NaturalGluingCompatibility.CompatibleWith by OAI.AlgebraicGeometry.Picard.PoincareBundle.Affine.NaturalGluingCompatibility.of_equation]
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.unitLine = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.Picard.Homomorphisms.TensorAssociativity.Construction.tensorModuleBilinear = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SheafMaps.tensorBilinear, OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafTensorHom.Construction.presheafTensorHomLocal1 = OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafHomSheaf.Construction.presheafHomSheafLocal1, OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DualAlgebra.Construction.instCommRingDualCoordinate_2 = OAI.AlgebraicGeometry.AbelianScheme.CartierDuality.DualAlgebra.Construction.instCommRingDualCoordinate, OAI.AlgebraicGeometry.Picard.Homomorphisms.PresheafTensorPullback.Construction.presheafTensorPullbackLocal2 = OAI.AlgebraicGeometry.Picard.Homomorphisms.FreeTensorPullbackIso.Construction.freeTensorPullbackIsoLocal2]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.reducedBlockPairing_baseChange	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	205 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.originalLeft_group	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	380 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedRight_group	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	380 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange.Reduced.changedLeft_group	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	CategoryTheory.CategoryStruct.comp p e.hom = CategoryTheory.CategoryStruct.comp e.hom r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	reaches CategoryTheory.cancel_epi
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	CONTENT	reaches CategoryTheory.cancel_epi
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.sourceIso_inverse_comm	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	337 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	CategoryTheory.IsCommMonObj A :: side condition | CategoryTheory.IsCommMonObj B :: side condition | CategoryTheory.IsMonHom p :: side condition | CategoryTheory.IsMonHom r :: side condition | CategoryTheory.IsMonHom e.hom :: side condition | CategoryTheory.CategoryStruct.comp p e.hom = CategoryTheory.CategoryStruct.comp e.hom r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	reaches CategoryTheory.SemiCartesianMonoidalCategory.toUnit_unique
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	CONTENT	reaches CategoryTheory.SemiCartesianMonoidalCategory.toUnit_unique
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	24 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_isMonHom	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	309 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	CategoryTheory.IsCommMonObj A :: side condition | CategoryTheory.IsCommMonObj B :: side condition | CategoryTheory.IsMonHom p :: side condition | CategoryTheory.IsMonHom r :: side condition | CategoryTheory.IsMonHom f :: side condition | CategoryTheory.CategoryStruct.comp p f = CategoryTheory.CategoryStruct.comp f r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	top step OAI.AlgebraicGeometry.AbelianScheme.IsogenyQuotient.OppositeKernel.Construction.torsionBlockLift_inclusion carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	22 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	317 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	CategoryTheory.IsCommMonObj A :: side condition | CategoryTheory.IsCommMonObj B :: side condition | CategoryTheory.IsMonHom p :: side condition | CategoryTheory.IsMonHom r :: side condition | CategoryTheory.IsMonHom f :: side condition | CategoryTheory.CategoryStruct.comp p f = CategoryTheory.CategoryStruct.comp f r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	reaches CategoryTheory.SemiCartesianMonoidalCategory.toUnit_unique
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	CONTENT	reaches CategoryTheory.SemiCartesianMonoidalCategory.toUnit_unique
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	top step OAI.AlgebraicGeometry.AbelianScheme.IsogenyQuotient.GroupMaps.Construction.isMonHom_of_pointwise carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_isMonHom	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	333 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	CategoryTheory.IsCommMonObj A :: side condition | CategoryTheory.IsCommMonObj B :: side condition | CategoryTheory.IsMonHom p :: side condition | CategoryTheory.IsMonHom r :: side condition | CategoryTheory.IsMonHom e.hom :: side condition | CategoryTheory.CategoryStruct.comp p e.hom = CategoryTheory.CategoryStruct.comp e.hom r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	reaches CategoryTheory.MonObj.one_comp
+REFEREE	R1k	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	top step OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceMap_inclusion carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso.blockSourceIso_inclusion	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	INFO	6 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	INFO	0 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['canonicalActionBlockPairing', 'polarizedActionBlockPairing_iso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	REVIEW	instance changes at lines 15, 21
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionBlockPairingIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['actionFamily', 'actionIsoToFamilyIso', 'familyIsoToActionIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionFamilyComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['_root_.OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData.ActionPairingSource.fullKernelComparison', '_root_.OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData.ActionPairingSource.fullKernelComparisonFromComponents', '_root_.OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison.fullKernelComparisonFromPolarizedActions'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	REVIEW	instance changes at lines 19
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionKernelComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['ActionPairingSource', 'ActionPairingSource.map', 'ActionPairingSource.BlockIso', 'ActionPairingSource.blockPairingComparison'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionPairingSourceData	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['integralAction_ext', 'actionFromEnd_toEnd', 'nativeBlockPointEquivOfEq'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionRoundTrip	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['actionBaseCongrIso', 'actionBaseCongrIso_polarized', 'actionIteratedIso', 'actionIteratedIso_polarized'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActionTowerIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['CoordinateKernelDetection.Parameters.CoordinateKernelParameters.image_kernel_eq', 'coordinateAmbientKernelFamily', 'ActiveAmbientComparison'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	REVIEW	instance changes at lines 20, 30, 53, 59
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveAmbientComparisonData	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['activeBlockEvaluationSchemes', 'ActiveBlockEvaluation', 'activeBlockEvaluation'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveBlock	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['activeChoice_killed'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	REVIEW	instance changes at lines 23, 25
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveChoiceTorsion	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['chosenActiveMixedLine', 'chosenActiveMixedLine_first', 'chosenActiveMixedLine_second', 'chosenActiveMixedLineIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMixedLineTransport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['chosenActiveMultiplicative_normalization'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeNormalization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['activeMultiplicativeProjection', 'chosenActiveMultiplicative_projection', 'activeMultiplicativeMap', 'activeMultiplicativeMap_inclusion'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveMultiplicativeTransport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['typedSubgroupsBelowEquiv', 'killedSubgroup', 'typed_subgroup_killed', 'typedKilledRestrictionEquiv'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTorsionChoices	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['activeElementaryVectorSpace', 'activeElementary_card', 'activeElementary_finrank', 'zmodLinearEquiv'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	REVIEW	instance changes at lines 19
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.ActiveTypedSubspaces	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['complete_local_henselian'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdicTransport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['adjunct_square', 'factorization_of_square', 'transport_factorization'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AdjointSquareFactorization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['affine', 'affine_finite', 'affine_flat', 'affine_rank'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineProductRank	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['affineBaseChangeIso', 'affineBaseChangeIso_inv_fst', 'affineBaseChangeIso_naturality'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AffineSpecialFiber	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['ambient_kernel_factor_iff', 'native_block_kernel_factor'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.AmbientKernelFactors	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['composedBlock_inclusion'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BaseChangeSourceInclusion	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['reducedBlockPairing_baseChange'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	REVIEW	instance changes at lines 15, 20, 29, 32, 35, 40
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockPairingBaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['blockSourceMap', 'blockSourceMap_inclusion', 'sourceIso_inverse_comm', 'blockSourceIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.BlockSourceIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['l45NeighborProjectors', 'l45NativeHeckeEvaluation'])
+REFEREE	INST	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Isogenies.NeighborCounting.CMPointsHeckeEvaluation	PASS	not under a Mathlib folder
+exit 1

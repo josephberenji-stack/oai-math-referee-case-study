@@ -1,0 +1,290 @@
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	318 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | A.dim b ≤ d :: side condition (project data) | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | n ≤ d :: side condition | C.LayeredWhisker (fun z => F.map z = A.atom b) n x :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	top step OAI.Thomason.OmegaCategory.LayeredWhisker.row_bounded carries content
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.layered_bounded	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	718 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n + 1, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | n < A.dim b :: side condition (project data) | ∀ (z : C.Cell), C.LayeredWhisker (fun t => F.map t = A.atom b) n z → A.OrderedWhisker F b  :: carries a project proposition | A.AtomPath F n bs a :: carries a project proposition | ∀ c ∈ bs, A.rank b < A.rank c :: side condition (project data) | A.OrderedWhisker F b n x :: carries a project proposition | C.target n x = C.source n a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_high	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	791 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ k < n, ∀ (a : C.Cell), C.source (k + 1) a = a → C.TopSequence k (A.TopGenerator F k) a :: carries a project proposition | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | ∀ (b : A.Index) (x y : C.Cell), F.map x = A.atom b → F.map y = A.atom b → x = y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.whiskerFaithful	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	995 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ k ≤ n, ∀ (a : C.Cell), C.source (k + 1) a = a → C.TopSequence k (A.TopGenerator F k) a :: carries a project proposition | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | ∀ (b : A.Index) (x y : C.Cell), F.map x = A.atom b → F.map y = A.atom b → x = y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	top step OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_of_exchange carries content
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.onCells_injective_step	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	319 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | C.LayeredWhisker (fun z => F.map z = A.atom b) n x :: carries a project proposition | n < p :: side condition || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.layered_row_above	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	361 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | C.Whisker n (A.TopGenerator F n) x :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_atom_layered	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	354 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | A.AtomPath F n bs a :: carries a project proposition | ∀ (c : A.Index), (A.coefficient c (n + 1)) ((F.map a).row (n + 1) false) ≠ 0 → P c :: side condition (project data) | c ∈ bs :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	no single top step
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.index_support	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | ∀ (b : A.Index), (A.coefficient b p) x ≠ 0 → P b :: side condition (project data) | ∀ (b : A.Index), (A.coefficient b p) y ≠ 0 → P b :: side condition (project data) | (A.coefficient b p) (x + y) ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	reaches congrFun'
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.support_add	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	850 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ k < n, ∀ (a : C.Cell), C.source (k + 1) a = a → C.TopSequence k (A.TopGenerator F k) a :: carries a project proposition | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	no single top step
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.hasAdjacentExchange	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	528 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | Function.Injective (F.onCells n) :: side condition (project data) | Function.Bijective (F.onCells (n + 1)) :: side condition (project data) | C.source (n + 1) x = x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.main	PASS	11723 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.main	PASS	no hypotheses
+REFEREE	L3	OAI.Thomason.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.main	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.main	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.main	PASS	top step OAI.Thomason.GrayRecursive.IntervalHom.fullMain_of_standardSimplexComparison_isIso carries content
+REFEREE	R5	OAI.Thomason.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.main	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	579 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n + 1, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | A.dim b = n + 1 :: side condition (project data) | C.source (n + 1) x = x :: side condition (project data) | (F.map x).row (n + 1) false = A.basis (n + 1) b :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	no single top step
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.lower_single_ordered	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	80 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | A.dim b = p :: side condition (project data) | A.dim c = p :: side condition (project data) | A.basis p b = A.basis p c :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.basis_injective_on_dim	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	759 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ k < n, ∀ (a : C.Cell), C.source (k + 1) a = a → C.TopSequence k (A.TopGenerator F k) a :: carries a project proposition | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | n < A.dim b :: side condition (project data) | C.LayeredWhisker (fun t => F.map t = A.atom b) n x :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.layered_ordered	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	4182 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	no hypotheses
+REFEREE	L3	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	top step OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_isIso_of_injective carries content
+REFEREE	R5	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.GrayRecursive.IntervalHom.standardSimplexComparison_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	4152 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	no hypotheses
+REFEREE	L3	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	reaches Nat.strong_induction_on
+REFEREE	R7	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	no single top step
+REFEREE	R5	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.GrayRecursive.IntervalHom.chainComparison_finiteSimplex_onCells_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	469 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | K.Table :: carries a project proposition | OAI.Thomason.DirectedComplex.Table.truncate (n + 1) false x = x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	no single top step
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.table_rank_split	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	717 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n + 1, Function.Bijective (F.onCells k) :: side condition (project data) | ∀ (k : ℕ) (x : C.Cell), OAI.Thomason.DirectedComplex.Table.truncate k false (F.map x) = F. :: side condition (project data) | n < A.dim b :: side condition (project data) | ∀ (z : C.Cell), C.LayeredWhisker (fun t => F.map t = A.atom b) n z → A.OrderedWhisker F b  :: carries a project proposition | A.AtomPath F n bs a :: carries a project proposition | ∀ c ∈ bs, A.rank c ≤ A.rank b :: side condition (project data) | A.OrderedWhisker F b n x :: carries a project proposition | C.target n a = C.source n x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.AtomPath.move_low	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	396 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | A.dim b = n + 1 :: side condition (project data) | C.Whisker n (A.TopGenerator F n) x :: carries a project proposition | (F.map x).row (n + 1) false = A.basis (n + 1) b :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.whisker_layered_of_top	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	360 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | Function.Injective (F.onCells (n + 1)) :: side condition (project data) | C.source (n + 1) l = l :: side condition (project data) | C.source (n + 1) r = r :: side condition (project data) | C.source (n + 1) l' = l' :: side condition (project data) | C.source (n + 1) r' = r' :: side condition (project data) | C.target n l = C.source n r :: side condition (project data) | C.target n l' = C.source n r' :: side condition (project data) | ∀ (b : A.Index), (A.coefficient b (n + 1)) ((F.map l).row (n + 1) false) ≠ 0 → s < A.rank  :: side condition (project data) | ∀ (b : A.Index), (A.coefficient b (n + 1)) ((F.map r).row (n + 1) false) ≠ 0 → ¬s < A.rank :: side condition (project data) | ∀ (b : A.Index), (A.coefficient b (n + 1)) ((F.map l').row (n + 1) false) ≠ 0 → s < A.rank :: side condition (project data) | ∀ (b : A.Index), (A.coefficient b (n + 1)) ((F.map r').row (n + 1) false) ≠ 0 → ¬s < A.ran :: side condition (project data) | C.join n l r = C.join n l' r' :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	no single top step
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.rank_split_unique	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	621 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	REVIEW	OAI.Thomason.DirectedComplex :: discharged by OAI.Thomason.GrayTwo.K | K.RankedAtoms :: carries a project proposition | OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Functor K.nu :: carries a project proposition | ∀ k ≤ n, Function.Bijective (F.onCells k) :: side condition (project data) | n < A.dim b :: side condition (project data) | n < A.dim c :: side condition (project data) | A.rank b ≤ A.rank c :: side condition (project data) | A.OrderedWhisker F b n x :: carries a project proposition | A.OrderedWhisker F c n y :: carries a project proposition | C.target n x = C.source n y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.DirectedComplex.RankedAtoms.ordered_exchange	REVIEW	computed class A?
+REFEREE	L0	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	24 constants reached, no stand-in
+REFEREE	L1u	OAI.Thomason.OmegaCategory.Whisker.mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thomason.OmegaCategory.Whisker.mono	REVIEW	OAI.Thomason.OmegaCategory :: discharged by OAI.Thomason.OmegaCategory.interval | C.Whisker n G x :: carries a project proposition | ∀ (z : C.Cell), G z → H z :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thomason.OmegaCategory.Whisker.mono	INFO	not a registered target statement
+REFEREE	R1	OAI.Thomason.OmegaCategory.Whisker.mono	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thomason.OmegaCategory.Whisker.mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thomason.OmegaCategory.Whisker.mono	REVIEW	computed class DEF
+REFEREE	L4	OAI.CategoryTheory.Thomason.RankedFaithfulness	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.CategoryTheory.Thomason.RankedFaithfulness	INFO	22 theorems checked
+REFEREE	L5	OAI.CategoryTheory.Thomason.RankedFaithfulness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.CategoryTheory.Thomason.RankedFaithfulness	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 22 public declarations without a docstring (['table_rank_split', 'rank_split', 'rank_split_unique', 'support_add'])

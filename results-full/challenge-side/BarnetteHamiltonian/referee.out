@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Barnette.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Barnette.main	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.Barnette.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Barnette.main	PASS	no hypotheses
+REFEREE	L3	OAI.Barnette.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Barnette.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Barnette.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Barnette.main	INFO	not a registered target statement
+REFEREE	R1	OAI.Barnette.main	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Barnette.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Barnette.main	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.Barnette.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Barnette.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.BarnetteHamiltonian	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.BarnetteHamiltonian	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.BarnetteHamiltonian	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.BarnetteHamiltonian	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['main'])

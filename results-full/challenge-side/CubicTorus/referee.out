@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.CubicTorus.unit_cubic_isoperimetric	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	239 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.unit_cubic_isoperimetric	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	V ∈ Set.Ioo 0 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.unit_cubic_isoperimetric	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.unit_cubic_isoperimetric	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CubicTorus	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CubicTorus	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CubicTorus	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CubicTorus	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['Cover', 'Torus'])

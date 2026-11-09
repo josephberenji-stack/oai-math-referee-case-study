@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	165 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	reaches MeasurableSpace.comap._proof_1
+REFEREE	R7	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.instIsMarkovKernelForallSubtypeNatMemFinsetIicStateHistoryKernel	REVIEW	computed class A?
+REFEREE	L0	OAI.DirectionalZeroOne.directional_zero_one	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DirectionalZeroOne.directional_zero_one	PASS	206 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.directional_zero_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.directional_zero_one	REVIEW	3 ≤ d :: side condition | MeasureTheory.IsProbabilityMeasure μ :: side condition (project data) | OAI.DirectionalZeroOne.StrictEllipticity μ :: carries a project proposition | ℓ ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.DirectionalZeroOne.directional_zero_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.directional_zero_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.directional_zero_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.directional_zero_one	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.directional_zero_one	PASS	reaches MeasurableSpace.comap._proof_1
+REFEREE	R7	OAI.DirectionalZeroOne.directional_zero_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalZeroOne.directional_zero_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.directional_zero_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.directional_zero_one	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	reaches MeasurableSpace.comap._proof_1
+REFEREE	R7	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.instIsMarkovKernelStateTransition	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.DirectionalWalk	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.DirectionalWalk	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.DirectionalWalk	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.DirectionalWalk	FAIL	no module docstring /-! … -/; 15 public declarations without a docstring (['Site', 'Step', 'stepVector', 'Row'])

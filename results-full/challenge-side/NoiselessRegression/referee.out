@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.NoiselessRegression.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.NoiselessRegression.main	PASS	213 constants reached, no stand-in
+REFEREE	L1u	OAI.NoiselessRegression.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NoiselessRegression.main	PASS	no hypotheses
+REFEREE	L3	OAI.NoiselessRegression.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NoiselessRegression.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NoiselessRegression.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NoiselessRegression.main	INFO	not a registered target statement
+REFEREE	R1	OAI.NoiselessRegression.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.NoiselessRegression.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.NoiselessRegression.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NoiselessRegression.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NoiselessRegression.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.NoiselessRegression	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.NoiselessRegression	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.NoiselessRegression	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.NoiselessRegression	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 20 public declarations without a docstring (['Vector', 'UnitSphere', 'State', 'Samples'])

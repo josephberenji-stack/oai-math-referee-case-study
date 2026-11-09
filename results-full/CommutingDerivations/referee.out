@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	1125 constants reached, no stand-in
+REFEREE	L1u	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	4 ≤ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	INFO	not a registered target statement
+REFEREE	R1	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	no single top step
+REFEREE	R5	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.CommutingDerivations.OrdinaryExtraMain	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.CommutingDerivations.OrdinaryExtraMain	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.CommutingDerivations.OrdinaryExtraMain	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.CommutingDerivations.OrdinaryExtraMain	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['withOrdinaryExtras', 'extraClearingExponent', 'commuting_derivations_with_ordinary_extras'])

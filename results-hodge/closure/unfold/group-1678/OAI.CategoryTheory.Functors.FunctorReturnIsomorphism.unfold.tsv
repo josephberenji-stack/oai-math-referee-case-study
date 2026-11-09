@@ -1,0 +1,48 @@
+SCHEMA	1	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism
+DECL	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	def	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism	-	{C : Type u} → {D : Type u'} → [inst : CategoryTheory.Category.{v, u} C] → [inst_1 : CategoryTheory.Category.{v', u'} D] → (F : CategoryTheory.Functor C D) → {X Y : C} → {Z : D} → (X ≅ Y) → (Z ≅ F.obj Y) → (F.obj X ≅ Z)
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.CategoryStruct.toQuiver	value	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	Quiver.Hom	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.hom_inv_id	value	theorem	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.mk	value	ctor	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Functor.map	value	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.trans	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	value	def	project
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.symm	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Category.toCategoryStruct	value	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.hom	value	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	Eq	value	inductive	core
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Functor.mapIso	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	CategoryTheory.Iso.inv	value	abbrev	mathlib
+DECL	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	theorem	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism	-	∀ {C : Type u} {D : Type u'} [inst : CategoryTheory.Category.{v, u} C] [inst_1 : CategoryTheory.Category.{v', u'} D] (F : CategoryTheory.Functor C D) {X Y : C} {Z : D} (e : X ≅ Y) (k : Z ≅ F.obj Y), (OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso F e k).hom = OAI.CategoryTheor…
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	Quiver.Hom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	type	def	project
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	Eq	type	inductive	core
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso	type	def	project
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	rfl	value	def	core
+THM	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnIso_hom	CONTENT	CategoryTheory.Iso.hom_inv_id	-	-	-	false	true	2	2	Eq	-
+DECL	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	def	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism	-	{C : Type u} → {D : Type u'} → [inst : CategoryTheory.Category.{v, u} C] → [inst_1 : CategoryTheory.Category.{v', u'} D] → (F : CategoryTheory.Functor C D) → {X Y : C} → {Z : D} → (X ⟶ Y) → (Z ≅ F.obj Y) → (F.obj X ⟶ Z)
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	Quiver.Hom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Functor.map	value	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism.functorReturnMap	CategoryTheory.Iso.inv	value	abbrev	mathlib
+END	OAI.CategoryTheory.Functors.FunctorReturnIsomorphism	3

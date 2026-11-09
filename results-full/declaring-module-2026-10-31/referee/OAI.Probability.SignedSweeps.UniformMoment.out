@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.SignedSweeps.coefficient_mono_depth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SignedSweeps.coefficient_mono_depth	PASS	161 constants reached, no stand-in
+REFEREE	L1u	OAI.SignedSweeps.coefficient_mono_depth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SignedSweeps.coefficient_mono_depth	PASS	0 ≤ η :: side condition | 1 ≤ a :: side condition | a ≤ b :: side condition || unbuilt=0
+REFEREE	L3	OAI.SignedSweeps.coefficient_mono_depth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SignedSweeps.coefficient_mono_depth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SignedSweeps.coefficient_mono_depth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SignedSweeps.coefficient_mono_depth	INFO	not a registered target statement
+REFEREE	R1	OAI.SignedSweeps.coefficient_mono_depth	PASS	reaches Real.sqrt_pos
+REFEREE	R7	OAI.SignedSweeps.coefficient_mono_depth	PASS	no single top step
+REFEREE	R5	OAI.SignedSweeps.coefficient_mono_depth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SignedSweeps.coefficient_mono_depth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SignedSweeps.coefficient_mono_depth	REVIEW	computed class A?
+REFEREE	L0	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	6469 constants reached, no stand-in
+REFEREE	L1u	OAI.SignedSweeps.signed_occurrence_moment_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	no hypotheses
+REFEREE	L3	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SignedSweeps.signed_occurrence_moment_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SignedSweeps.signed_occurrence_moment_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SignedSweeps.signed_occurrence_moment_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	6468 constants reached, no stand-in
+REFEREE	L1u	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	0 < η :: side condition | η < 1 :: side condition | 0 < κ :: side condition | κ < η / 256 :: side condition || unbuilt=0
+REFEREE	L3	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	INFO	not a registered target statement
+REFEREE	R1	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	no single top step
+REFEREE	R5	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SignedSweeps.signed_occurrence_moment_bound_fixed	REVIEW	computed class A?
+REFEREE	L0	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	5335 constants reached, no stand-in
+REFEREE	L1u	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	REVIEW	a + b = d :: side condition | 0 < q :: side condition | 0 ≤ η :: side condition | η ≤ 1 :: side condition | 0 ≤ κ :: side condition | κ ≤ τ :: side condition | ∀ (lam : OAI.SignedSweeps.Partition (2 ^ a)) (u v l : ℕ) (h : u + v + l = 2 ^ a) (α : OAI. :: carries a project proposition | ∀ (lam : OAI.SignedSweeps.Partition (2 ^ b)) (u v l : ℕ) (h : u + v + l = 2 ^ b) (α : OAI. :: carries a project proposition | 2 * max (2 ^ a) (2 ^ b) + 2 * q + 1 ≤ R :: side condition | u + v + l = 2 ^ d :: side condition | (↑α).colLen 0 ≤ q :: side condition | (↑β).colLen 0 ≤ q :: side condition | OAI.SignedSweeps.SignedOccurrence h α β γ lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SignedSweeps.signed_sweep_recurrence_depth_sum	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SignedSweeps.UniformMoment	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SignedSweeps.UniformMoment	INFO	4 theorems checked
+REFEREE	L5	OAI.Probability.SignedSweeps.UniformMoment	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SignedSweeps.UniformMoment	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['coefficient_mono_depth', 'signed_sweep_recurrence_depth_sum', 'signed_occurrence_moment_bound_fixed', 'signed_occurrence_moment_bound'])

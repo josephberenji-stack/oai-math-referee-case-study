@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.InfiniteMatroidCounterexample.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InfiniteMatroidCounterexample.main	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.InfiniteMatroidCounterexample.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InfiniteMatroidCounterexample.main	PASS	no hypotheses
+REFEREE	L3	OAI.InfiniteMatroidCounterexample.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InfiniteMatroidCounterexample.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InfiniteMatroidCounterexample.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InfiniteMatroidCounterexample.main	INFO	not a registered target statement
+REFEREE	R1	OAI.InfiniteMatroidCounterexample.main	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.InfiniteMatroidCounterexample.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InfiniteMatroidCounterexample.main	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.InfiniteMatroidCounterexample.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InfiniteMatroidCounterexample.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.InfiniteMatroid	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.InfiniteMatroid	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.InfiniteMatroid	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.InfiniteMatroid	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['D', 'E', 'contractOnto', 'HasPackingCovering'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	3717 constants reached, no stand-in
+REFEREE	L1u	OAI.SphericalPerceptron.spherical_linear_field_formula	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	no hypotheses
+REFEREE	L3	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SphericalPerceptron.spherical_linear_field_formula	INFO	not a registered target statement
+REFEREE	R1	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SphericalPerceptron.spherical_linear_field_formula	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SphericalPerceptron.spherical_linear_field_formula	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SphericalField.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SphericalField.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Probability.SphericalField.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SphericalField.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['spherical_linear_field_formula'])

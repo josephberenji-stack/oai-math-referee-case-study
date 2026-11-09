@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.UniversalCoverSplitting.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.UniversalCoverSplitting.main	PASS	4409 constants reached, no stand-in
+REFEREE	L1u	OAI.UniversalCoverSplitting.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniversalCoverSplitting.main	REVIEW	OAI.UniversalCoverSplitting.ComplexManifold n :: carries a project proposition | CompactSpace X.Carrier :: side condition (project data) | ConnectedSpace X.Carrier :: side condition (project data) | 2 ≤ n :: side condition | 0 < r₁ :: side condition | 0 < r₂ :: side condition | OAI.UniversalCoverSplitting.KahlerMetric X :: carries a project proposition | OAI.UniversalCoverSplitting.HolomorphicSplitting X r₁ r₂ :: carries a project proposition | OAI.UniversalCoverSplitting.Integrable S.projection :: carries a project proposition | OAI.UniversalCoverSplitting.Integrable (OAI.UniversalCoverSplitting.complementaryProjectio :: carries a project proposition | OAI.UniversalCoverSplitting.ComplexManifold n :: carries a project proposition | OAI.UniversalCoverSplitting.OrdinaryUniversalCover X Z :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.UniversalCoverSplitting.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniversalCoverSplitting.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniversalCoverSplitting.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniversalCoverSplitting.main	INFO	not a registered target statement
+REFEREE	R1	OAI.UniversalCoverSplitting.main	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.UniversalCoverSplitting.main	PASS	no single top step
+REFEREE	R5	OAI.UniversalCoverSplitting.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.UniversalCoverSplitting.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniversalCoverSplitting.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.KahlerSplitting.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.KahlerSplitting.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Geometry.KahlerSplitting.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.KahlerSplitting.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['main'])

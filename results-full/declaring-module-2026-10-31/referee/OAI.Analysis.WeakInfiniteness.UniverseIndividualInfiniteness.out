@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	4922 constants reached, no stand-in
+REFEREE	L1u	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	REVIEW	StarOrderedRing A :: side condition | OAI.WeakPureInfiniteness.Exact A :: carries a project proposition | 1 ≤ n :: side condition | ∀ (a : A), 0 ≤ a → a ≠ 0 → OAI.WeakPureInfiniteness.ProperlyInfinite (OAI.WeakPureInfinite :: carries a project proposition | 0 ≤ a :: side condition | 0 < r :: side condition || unbuilt=0
+REFEREE	L3	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	INFO	not a registered target statement
+REFEREE	R1	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	reaches SeminormedAddCommGroup.to_isUniformAddGroup
+REFEREE	R7	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any	REVIEW	computed class A?
+REFEREE	L0	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	5021 constants reached, no stand-in
+REFEREE	L1u	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	REVIEW	StarOrderedRing A :: side condition | OAI.WeakPureInfiniteness.Exact A :: carries a project proposition | OAI.WeakPureInfiniteness.WeaklyPurelyInfinite A :: carries a project proposition | 0 ≤ a :: side condition || unbuilt=0
+REFEREE	L3	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	INFO	not a registered target statement
+REFEREE	R1	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	reaches SeminormedAddCommGroup.to_isUniformAddGroup
+REFEREE	R7	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.WeakInfiniteness.UniverseIndividualInfiniteness	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.WeakInfiniteness.UniverseIndividualInfiniteness	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.WeakInfiniteness.UniverseIndividualInfiniteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.WeakInfiniteness.UniverseIndividualInfiniteness	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['exists_binary_splitting_over_norm_slice_any', 'exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SKRatio.ratio_cutoff	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SKRatio.ratio_cutoff	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.SKRatio.ratio_cutoff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SKRatio.ratio_cutoff	PASS	0 ≤ β :: side condition | β < 1 / 2 :: side condition | 0 < ε :: side condition | ε < 1 / 2 :: side condition | 0 < η :: side condition || unbuilt=0
+REFEREE	L3	OAI.SKRatio.ratio_cutoff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SKRatio.ratio_cutoff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SKRatio.ratio_cutoff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SKRatio.ratio_cutoff	INFO	not a registered target statement
+REFEREE	R1	OAI.SKRatio.ratio_cutoff	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SKRatio.ratio_cutoff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SKRatio.ratio_cutoff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SKRatio.ratio_cutoff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SKRatio.ratio_cutoff	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SKRatio	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SKRatio	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SKRatio	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SKRatio	FAIL	no module docstring /-! … -/; 17 public declarations without a docstring (['Spin', 'Edge', 'Disorder', 'spinValue'])

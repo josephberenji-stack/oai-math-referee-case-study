@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SubsphereCurrent.full_current_main_scope	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SubsphereCurrent.full_current_main_scope	PASS	4032 constants reached, no stand-in
+REFEREE	L1u	OAI.SubsphereCurrent.full_current_main_scope	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SubsphereCurrent.full_current_main_scope	PASS	no hypotheses
+REFEREE	L3	OAI.SubsphereCurrent.full_current_main_scope	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SubsphereCurrent.full_current_main_scope	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SubsphereCurrent.full_current_main_scope	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SubsphereCurrent.full_current_main_scope	INFO	not a registered target statement
+REFEREE	R1	OAI.SubsphereCurrent.full_current_main_scope	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SubsphereCurrent.full_current_main_scope	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SubsphereCurrent.full_current_main_scope	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SubsphereCurrent.full_current_main_scope	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SubsphereCurrent.full_current_main_scope	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.Subsphere.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.Subsphere.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Probability.Subsphere.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.Subsphere.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['full_current_main_scope'])

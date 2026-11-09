@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.ThreeState.channel_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.channel_sum	PASS	220 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.channel_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.channel_sum	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.channel_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.channel_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.channel_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.channel_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.channel_sum	PASS	reaches Fintype.complete
+REFEREE	R7	OAI.ThreeState.channel_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.channel_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.channel_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.channel_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.poisson_supercritical	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeState.poisson_supercritical	PASS	413 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.poisson_supercritical	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.poisson_supercritical	REVIEW	1 < d :: side condition | OAI.ThreeState.Admissible lam :: carries a project proposition | 1 < d * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.poisson_supercritical	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.poisson_supercritical	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.poisson_supercritical	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.poisson_supercritical	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.poisson_supercritical	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.poisson_supercritical	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.poisson_supercritical	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.poisson_supercritical	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.poisson_supercritical	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.ThreeState.channel_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.channel_nonneg	PASS	194 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.channel_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.channel_nonneg	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.channel_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.channel_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.channel_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.channel_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.channel_nonneg	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.channel_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.channel_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.channel_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.channel_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.regular_supercritical	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeState.regular_supercritical	PASS	367 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.regular_supercritical	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.regular_supercritical	REVIEW	2 ≤ b :: side condition | OAI.ThreeState.Admissible lam :: carries a project proposition | 1 < ↑b * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.regular_supercritical	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.regular_supercritical	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.regular_supercritical	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.regular_supercritical	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.regular_supercritical	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.regular_supercritical	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.regular_supercritical	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.regular_supercritical	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.regular_supercritical	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.ThreeStateSupercritical	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ThreeStateSupercritical	INFO	4 theorems checked
+REFEREE	L5	ComparatorChallenges.ThreeStateSupercritical	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ThreeStateSupercritical	FAIL	no module docstring /-! … -/; 21 public declarations without a docstring (['Spin', 'Admissible', 'channel', 'Observation'])

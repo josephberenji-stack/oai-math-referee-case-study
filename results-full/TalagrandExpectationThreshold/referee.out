@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	1407 constants reached, no stand-in
+REFEREE	L1u	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	REVIEW	Nonempty α :: side condition | Finset.Nonempty F :: side condition | F ≠ Finset.univ :: side condition (project data) | OAI.TalagrandThreshold.Increasing F :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	INFO	not a registered target statement
+REFEREE	R1	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	reaches Finset.eq_univ_iff_forall
+REFEREE	R7	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	no single top step
+REFEREE	R5	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.ExpectationThreshold.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.ExpectationThreshold.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Combinatorics.ExpectationThreshold.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.ExpectationThreshold.Main	FAIL	module docstring has no `## Main results`

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.BassTrace.RightProjective.bassTraceModules	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BassTrace.RightProjective.bassTraceModules	PASS	6390 constants reached, no stand-in
+REFEREE	L1u	OAI.BassTrace.RightProjective.bassTraceModules	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BassTrace.RightProjective.bassTraceModules	PASS	¬IsOfFinOrder g :: side condition || unbuilt=0
+REFEREE	L3	OAI.BassTrace.RightProjective.bassTraceModules	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BassTrace.RightProjective.bassTraceModules	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BassTrace.RightProjective.bassTraceModules	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BassTrace.RightProjective.bassTraceModules	INFO	not a registered target statement
+REFEREE	R1	OAI.BassTrace.RightProjective.bassTraceModules	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.BassTrace.RightProjective.bassTraceModules	PASS	top step OAI.BassTrace.K0.bassTraceK0 carries content
+REFEREE	R5	OAI.BassTrace.RightProjective.bassTraceModules	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BassTrace.RightProjective.bassTraceModules	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BassTrace.RightProjective.bassTraceModules	REVIEW	computed class A?
+REFEREE	L0	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	6391 constants reached, no stand-in
+REFEREE	L1u	OAI.BassTrace.RightProjective.bassTraceModules_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	no hypotheses
+REFEREE	L3	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BassTrace.RightProjective.bassTraceModules_support	INFO	not a registered target statement
+REFEREE	R1	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	top step OAI.BassTrace.K0.bassTraceK0_support carries content
+REFEREE	R5	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BassTrace.RightProjective.bassTraceModules_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BassTrace.RightProjective.bassTraceModules_support	REVIEW	computed class A?
+REFEREE	L0	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	6393 constants reached, no stand-in
+REFEREE	L1u	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	no hypotheses
+REFEREE	L3	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	INFO	not a registered target statement
+REFEREE	R1	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support	REVIEW	computed class A?
+REFEREE	L4	OAI.RingTheory.BassTrace.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RingTheory.BassTrace.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.RingTheory.BassTrace.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RingTheory.BassTrace.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['bassTraceModules', 'bassTraceModules_support', 'bassTraceModules_vanishing_and_support'])

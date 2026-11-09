@@ -1,0 +1,134 @@
+REFEREE	L0	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	2032 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.forward_transitiveCommutant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.forward_transitiveCommutant	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	top step OAI.BackwardIntertwiners.forward_backward_scalar_transitive carries content
+REFEREE	R5	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.forward_transitiveCommutant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.forward_transitiveCommutant	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	251 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.powerCost_quadratic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	2 ≤ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.powerCost_quadratic	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	no single top step
+REFEREE	R5	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.powerCost_quadratic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.powerCost_quadratic	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	324 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	∀ (n : ℕ), 0 ≤ a n :: side condition | ∀ (n : ℕ), a n ≤ Real.exp (-10 * ↑(OAI.BackwardIntertwiners.powerCost n)) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.global_separable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.global_separable	PASS	242 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.global_separable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.global_separable	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.global_separable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.global_separable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.global_separable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.global_separable	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.global_separable	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.BackwardIntertwiners.global_separable	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BackwardIntertwiners.global_separable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.global_separable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.global_separable	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.fiber_separable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.fiber_separable	PASS	172 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.fiber_separable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.fiber_separable	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.fiber_separable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.fiber_separable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.fiber_separable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.fiber_separable	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.fiber_separable	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BackwardIntertwiners.fiber_separable	PASS	no single top step
+REFEREE	R5	OAI.BackwardIntertwiners.fiber_separable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.fiber_separable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.fiber_separable	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	2415 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.direct_algebra_corollary	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	CompleteSpace H :: side condition | TopologicalSpace.SeparableSpace H :: side condition | ¬FiniteDimensional ℂ H :: side condition || unbuilt=0
+REFEREE	L3	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.direct_algebra_corollary	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	reaches not_subsingleton_iff_nontrivial
+REFEREE	R7	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	no single top step
+REFEREE	R5	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.direct_algebra_corollary	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.direct_algebra_corollary	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.global_nontrivial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.global_nontrivial	PASS	514 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.global_nontrivial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.global_nontrivial	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.global_nontrivial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.global_nontrivial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.global_nontrivial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.global_nontrivial	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.global_nontrivial	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.BackwardIntertwiners.global_nontrivial	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BackwardIntertwiners.global_nontrivial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.global_nontrivial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.global_nontrivial	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.direct_fullClaim	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.direct_fullClaim	PASS	2286 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.direct_fullClaim	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.direct_fullClaim	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.direct_fullClaim	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.direct_fullClaim	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.direct_fullClaim	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.direct_fullClaim	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.direct_fullClaim	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.BackwardIntertwiners.direct_fullClaim	PASS	top step OAI.Hyperinvariant233.fullClaim_of_mainClaim carries content
+REFEREE	R5	OAI.BackwardIntertwiners.direct_fullClaim	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.direct_fullClaim	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.direct_fullClaim	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.direct_mainClaim	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.direct_mainClaim	PASS	2124 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.direct_mainClaim	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.direct_mainClaim	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.direct_mainClaim	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.direct_mainClaim	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.direct_mainClaim	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.direct_mainClaim	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.direct_mainClaim	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.BackwardIntertwiners.direct_mainClaim	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BackwardIntertwiners.direct_mainClaim	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.direct_mainClaim	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.direct_mainClaim	REVIEW	computed class A?
+REFEREE	L0	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	996 constants reached, no stand-in
+REFEREE	L1u	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	no hypotheses
+REFEREE	L3	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	INFO	not a registered target statement
+REFEREE	R1	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	top step OAI.BackwardIntertwiners.rootnorm_tendsto_zero_of_bound carries content
+REFEREE	R5	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BackwardIntertwiners.forwardOperator_quasinilpotent	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.BackwardIntertwiners.AlgebraCorollary	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.BackwardIntertwiners.AlgebraCorollary	INFO	10 theorems checked
+REFEREE	L5	OAI.Analysis.BackwardIntertwiners.AlgebraCorollary	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.BackwardIntertwiners.AlgebraCorollary	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['powerCost_quadratic', 'rootnorm_tendsto_zero_of_bound', 'forwardOperator_quasinilpotent', 'forward_transitiveCommutant'])

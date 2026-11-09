@@ -1,0 +1,43 @@
+REFEREE	L0	complexToFieldLinear_algebraMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	complexToFieldLinear_algebraMap	PASS	53 constants reached, no stand-in
+REFEREE	L1u	complexToFieldLinear_algebraMap	INFO	no opaque with a value reached
+REFEREE	L2	complexToFieldLinear_algebraMap	PASS	no hypotheses
+REFEREE	L3	complexToFieldLinear_algebraMap	PASS	no hypothesis refuted on file
+REFEREE	R2	complexToFieldLinear_algebraMap	PASS	not an equivalence with an open problem
+REFEREE	R3	complexToFieldLinear_algebraMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	complexToFieldLinear_algebraMap	INFO	not a registered target statement
+REFEREE	IFF	complexToFieldLinear_algebraMap	INFO	not an iff
+REFEREE	R1	complexToFieldLinear_algebraMap	PASS	reaches LinearMap.congr_fun
+REFEREE	R1k	complexToFieldLinear_algebraMap	CONTENT	reaches LinearMap.congr_fun
+REFEREE	R7	complexToFieldLinear_algebraMap	PASS	top step is not a project theorem
+REFEREE	R1i	complexToFieldLinear_algebraMap	INFO	no supplied input
+REFEREE	DUP	complexToFieldLinear_algebraMap	PASS	1 project definitions, no twins
+REFEREE	SHADOW	complexToFieldLinear_algebraMap	PASS	no copy of a library declaration
+REFEREE	R5	complexToFieldLinear_algebraMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	complexToFieldLinear_algebraMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	complexToFieldLinear_algebraMap	REVIEW	computed class A?
+REFEREE	L0	complexToFieldLinear_comp_algebraMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	complexToFieldLinear_comp_algebraMap	PASS	49 constants reached, no stand-in
+REFEREE	L1u	complexToFieldLinear_comp_algebraMap	INFO	no opaque with a value reached
+REFEREE	L2	complexToFieldLinear_comp_algebraMap	PASS	no hypotheses
+REFEREE	L3	complexToFieldLinear_comp_algebraMap	PASS	no hypothesis refuted on file
+REFEREE	R2	complexToFieldLinear_comp_algebraMap	PASS	not an equivalence with an open problem
+REFEREE	R3	complexToFieldLinear_comp_algebraMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	complexToFieldLinear_comp_algebraMap	INFO	not a registered target statement
+REFEREE	IFF	complexToFieldLinear_comp_algebraMap	INFO	not an iff
+REFEREE	R1	complexToFieldLinear_comp_algebraMap	PASS	reaches Classical.choose_spec
+REFEREE	R1k	complexToFieldLinear_comp_algebraMap	CONTENT	reaches Classical.choose_spec
+REFEREE	R7	complexToFieldLinear_comp_algebraMap	PASS	top step is not a project theorem
+REFEREE	R1i	complexToFieldLinear_comp_algebraMap	INFO	no supplied input
+REFEREE	DUP	complexToFieldLinear_comp_algebraMap	PASS	1 project definitions, no twins
+REFEREE	SHADOW	complexToFieldLinear_comp_algebraMap	PASS	no copy of a library declaration
+REFEREE	R5	complexToFieldLinear_comp_algebraMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	complexToFieldLinear_comp_algebraMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	complexToFieldLinear_comp_algebraMap	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.Algebra.FieldToComplex	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.Algebra.FieldToComplex	INFO	2 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.Algebra.FieldToComplex	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.Algebra.FieldToComplex	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['complexToFieldLinear_algebraMap'])
+REFEREE	INST	HodgeConjecture.Lemmas.Algebra.FieldToComplex	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.Algebra.FieldToComplex	PASS	not under a Mathlib folder
+exit 1

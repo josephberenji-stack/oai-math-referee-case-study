@@ -1,0 +1,553 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	359 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	∀ (i j : ι), (D i) (g j) = if i = j then 1 else 0 :: side condition | z ∈ Ideal.span (Set.range g) :: side condition | q.IsPrime :: side condition | ∀ (i : ι), g i ∈ q :: side condition | E z ∉ q :: side condition | ∀ i ∈ B, E (g i) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	reaches Ideal.mem_span_range_iff_exists_fun
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement.Construction.exists_pointed_boundary_center_replacement	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	∀ (q : Ideal R),  q.IsMaximal →   ∃ S x f g Q,    ∃ (_ : Q.IsPrime), f.Flat ∧ Ideal.comap  :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	reaches Ideal.eq_of_localization_maximal
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.ideal_eq_of_pointed_flat_comparisons	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	114 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	∀ (W : ↑X.affineOpens) (q : Ideal ↑(X.presheaf.obj (Opposite.op ↑W))),  q.IsMaximal →   ∃  :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	reaches AlgebraicGeometry.Scheme.IdealSheafData.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.idealSheaf_eq_of_pointed_flat_comparisons	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	219 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	Finite ι :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffine (U i) :: side condition | ∀ (i : ι), AlgebraicGeometry.IsOpenImmersion (j i) :: side condition | ∀ (i : ι), AlgebraicGeometry.QuasiCompact (j i) :: side condition | ⨆ i, AlgebraicGeometry.Scheme.Hom.opensRange (j i) = ⊤ :: side condition | ∀ (a b : ι) (W : ↑(CategoryTheory.Limits.pullback (j a) (j b)).affineOpens)  (q : Ideal ↑( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	reaches le_antisymm
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	top step OAI.AlgebraicGeometry.Resolution.Blowups.Finite.OpenIdealSheafUniqueness.Construction.existsUnique_idealSheaf_of_finite_affine_cover carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing.Construction.existsUnique_idealSheaf_of_pointed_flat_overlap_comparisons	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	894 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	Algebra.Smooth k R :: side condition | IsNoetherianRing R :: side condition | Algebra.Smooth k (R ⧸ I) :: side condition | I ≤ p.asIdeal :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	reaches Module.Finite.of_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	14 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel.Construction.exists_pointed_coordinate_subspace_open_model	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	116 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	AlgebraicGeometry.Etale q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	reaches AlgebraicGeometry.exists_isAffineOpen_mem_and_subset
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_etale_affine_factorization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	103 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	AlgebraicGeometry.Etale j :: side condition | AlgebraicGeometry.Etale l :: side condition | CategoryTheory.CategoryStruct.comp j f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | CategoryTheory.CategoryStruct.comp l f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | j p = l q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	reaches AlgebraicGeometry.Scheme.exists_preimage_of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization.Construction.exists_pointed_global_etale_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	148 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	IsScalarTower k P R :: side condition | IsScalarTower k P S :: side condition | Algebra.Etale P R :: side condition | Algebra.Etale P S :: side condition | ∀ (p : P), r ((algebraMap P R) p) = r (e.symm ((algebraMap P S) p)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	CONTENT	reaches IsScalarTower.to_smulCommClass'
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_pointed_etale_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	191 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	IsScalarTower k P R :: side condition | IsScalarTower k P S :: side condition | Algebra.Etale P R :: side condition | Algebra.Etale P S :: side condition | IsDomain C :: side condition | ∀ (p : P), r ((algebraMap P R) p) = r (e.symm ((algebraMap P S) p)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	CONTENT	reaches IsScalarTower.to_smulCommClass'
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison.Construction.exists_prime_pointed_etale_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	355 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	∀ (x : ↥X),  ∃ R x_1 j,   AlgebraicGeometry.Etale j ∧    CategoryTheory.CategoryStruct.com :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	reaches Ideal.le_of_localization_maximal
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment.Construction.idealSheaf_le_of_pointed_etale_charts	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	111 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	f.Etale :: side condition | q.IsPrime :: side condition | Q.IsPrime :: side condition | q = Ideal.comap f Q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	reaches RingHom.Etale.iff_flat_and_formallyUnramified
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_ideal_order_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	70 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	f.Etale :: side condition | q.IsPrime :: side condition | Q.IsPrime :: side condition | q = Ideal.comap f Q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	reaches Ideal.ResidueField._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder.Construction.pointed_etale_local_maximalIdeal_map	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	92 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	f.Flat :: side condition | p.IsPrime :: side condition | q.IsPrime :: side condition | Ideal.comap f q = p :: side condition | Ideal.map f J ≤ Ideal.map f K :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	reaches Ideal.map_sup
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.flat_map_ideal_containment_at_prime	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	109 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	∀ (p : PrimeSpectrum R), ∃ S f, f.Flat ∧ ∃ q, PrimeSpectrum.comap f q = p ∧ Ideal.map f J  :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	reaches Ideal.le_of_localization_maximal
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	CONTENT	reaches Ideal.le_of_localization_maximal
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment.Construction.ideal_le_of_pointed_flat_charts	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	Module.Flat R S :: side condition | Q.IsPrime :: side condition | Ideal.map (algebraMap R S) J = Ideal.map (algebraMap R S) K :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	reaches Localization.AtPrime.algebraOfLiesOver._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	CONTENT	reaches Ideal.IsPrime.under
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent.Construction.flat_ideal_equality_reflects_at_prime	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	104 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	AlgebraicGeometry.Etale j :: side condition | AlgebraicGeometry.IsOpenImmersion l :: side condition | CategoryTheory.CategoryStruct.comp j f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | CategoryTheory.CategoryStruct.comp l f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | j p = l q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	reaches AlgebraicGeometry.Scheme.exists_preimage_of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_global_open_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	123 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	IsDomain ↑R :: side condition | IsNoetherianRing ↑R :: side condition | AlgebraicGeometry.IsOpenImmersion j :: side condition | AlgebraicGeometry.IsOpenImmersion l :: side condition | CategoryTheory.CategoryStruct.comp j f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | CategoryTheory.CategoryStruct.comp l f =  OAI.AlgebraicGeometry.Resolution.Blowups.Complex :: side condition (project data) | j p = l q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	reaches AlgebraicGeometry.Scheme.exists_preimage_of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison.Construction.exists_pointed_integral_affine_overlap	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	654 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	REVIEW	OAI.AlgebraicGeometry.Resolution.Blowups.Etale.BoundaryModel.Construction.EtaleBoundaryMod :: carries a project proposition | ∀ (j : ι), M.coordinate j ≠ some h :: side condition (project data) | M.map (MvPolynomial.X h) = z :: side condition (project data) | z ∈ q.asIdeal :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	reaches RingHom.etale_algebraMap
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	CONTENT	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction.Construction.exists_pointed_modeled_coordinate_retraction	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	1644 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	REVIEW	AlgebraicGeometry.Smooth f :: side condition (project data) | OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.Gl :: carries a project proposition | AlgebraicGeometry.Etale q :: side condition | C.chart.map p = q y :: side condition (project data) | q y ∈  (OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.DifferentialIdealSheaf.Constructio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	reaches AlgebraicGeometry.Scheme.basicOpen_le
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Resolution.Blowups.LocalBoundaryProperty.Construction.HasEtaleBoundaryCharts by OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.coefficientBoundary]
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	42 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	742 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	REVIEW	AlgebraicGeometry.Smooth f :: side condition (project data) | OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.Gl :: carries a project proposition | C.map p ∈  (OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.DifferentialIdealSheaf.Constru :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	reaches AlgebraicGeometry.Scheme.basicOpen_le
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	3148 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	CharZero k :: side condition | IsAlgClosed k :: side condition | Algebra.Smooth k R :: side condition | D z = 1 :: side condition | z ∈  OAI.AlgebraicGeometry.Resolution.Blowups.Relative.DifferentialBlowup.Construction.ite :: side condition (project data) | OAI.AlgebraicGeometry.Resolution.Blowups.Relative.DifferentialBlowup.Construction.iterated :: side condition (project data) | ringKrullDim R ≤ 2 :: side condition | (n + 1).factorial ≤ ℓ + 1 :: side condition | z ∈ p.asIdeal :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	reaches Polynomial.coeff_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	172 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover.Construction.exists_pointed_normal_tangent_bound_cover	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	2197 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsLocallyNoetherian X :: side condition | AlgebraicGeometry.Smooth f :: side condition (project data) | I ≠ ⊥ :: side condition | 0 < n + 1 :: side condition | J ≤ I ^ (n + 1) :: side condition | AlgebraicGeometry.Smooth (CategoryTheory.CategoryStruct.comp I.subschemeι f) :: side condition (project data) | AlgebraicGeometry.Smooth  (CategoryTheory.CategoryStruct.comp   (OAI.AlgebraicGeometry.Res :: side condition (project data) | I' ≠ ⊥ :: side condition | 0 < n + 1 :: side condition | J ≤ I' ^ (n + 1) :: side condition | AlgebraicGeometry.Smooth (CategoryTheory.CategoryStruct.comp I'.subschemeι f) :: side condition (project data) | AlgebraicGeometry.Smooth  (CategoryTheory.CategoryStruct.comp   (OAI.AlgebraicGeometry.Res :: side condition (project data) | (OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlP :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	reaches Polynomial.coeff_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	CONTENT	reaches SubsemiringClass.toAddSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	64 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	2702 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	REVIEW	AlgebraicGeometry.Smooth f :: side condition (project data) | P.stepCount = Q.stepCount :: side condition (project data) | P.PointedTangentComparison Q :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	reaches Polynomial.coeff_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	CONTENT	reaches SubsemiringClass.toAddSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent by OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent.symm]
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	106 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	2709 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	REVIEW	AlgebraicGeometry.Smooth f :: side condition (project data) | P.stepCount = Q.stepCount :: side condition (project data) | P.PointedTangentComparison Q :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	reaches Polynomial.coeff_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	CONTENT	reaches SubsemiringClass.toAddSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent by OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent.symm]
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	107 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	2281 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsLocallyNoetherian X :: side condition | AlgebraicGeometry.Smooth f :: side condition (project data) | I ≠ ⊥ :: side condition | 0 < n + 1 :: side condition | J ≤ I ^ (n + 1) :: side condition | AlgebraicGeometry.Smooth (CategoryTheory.CategoryStruct.comp I.subschemeι f) :: side condition (project data) | AlgebraicGeometry.Smooth  (CategoryTheory.CategoryStruct.comp   (OAI.AlgebraicGeometry.Res :: side condition (project data) | (OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlP :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	reaches Polynomial.coeff_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	CONTENT	reaches SubsemiringClass.toAddSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent by OAI.AlgebraicGeometry.Resolution.Blowups.IdealSheaf.CongruentMaps.Construction.IdealSheafCongruent.symm]
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	99 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.BoundaryCenterReplacement	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ComparisonGluing	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_pointed_coordinate_subspace_open_model'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.CoordinateSubspaceModel	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['exists_pointed_global_etale_comparison', 'exists_pointed_etale_affine_factorization'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleAffineFactorization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['idealSheaf_le_of_pointed_etale_charts'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleIdealSheafContainment	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.EtaleLocalOrder	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['flat_map_ideal_containment_at_prime', 'ideal_le_of_pointed_flat_charts'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatContainment	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.FlatIdealDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['exists_pointed_global_open_comparison', 'exists_pointed_integral_affine_overlap'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.GlobalOpenComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_pointed_modeled_coordinate_retraction'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledCoordinateRetraction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['GlobalBoundary.ModeledNormalChart.Construction.GlobalBoundaryNormalChart.normal_mem_at_order_point', 'Pointed.ModeledNormalChartPullback.Construction.exists_pointed_integral_modeled_normal_chart_pullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.ModeledNormalChartPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_pointed_normal_tangent_bound_cover'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	REVIEW	instance changes at lines 16
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.SurfaceTangentBoundCover	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.head_centers_eq'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixCenters	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_etaleComparison_of_pointed_tangent', 'Smooth.ControlPrefix.Construction.SmoothControlPrefix.exists_endpointIso_of_pointed_tangent'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['Smooth.ControlPrefix.Construction.SmoothControlPrefix.PointedTangentComparison.tail'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.Pointed.TangentPrefixTail	PASS	not under a Mathlib folder
+exit 1

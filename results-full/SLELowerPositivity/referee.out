@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	7363 constants reached, no stand-in
+REFEREE	L1u	OAI.SLEExactGauge.sourceLowerMain_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	no hypotheses
+REFEREE	L3	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SLEExactGauge.sourceLowerMain_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	reaches PolynormableSpace.continuousSMul
+REFEREE	R7	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	no single top step
+REFEREE	R5	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SLEExactGauge.sourceLowerMain_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SLEExactGauge.sourceLowerMain_proved	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SLE.LowerPositivity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SLE.LowerPositivity	INFO	1 theorems checked
+REFEREE	L5	OAI.Probability.SLE.LowerPositivity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SLE.LowerPositivity	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['segment', 'SourceLowerMainTarget', 'sourceLowerMain_proved'])

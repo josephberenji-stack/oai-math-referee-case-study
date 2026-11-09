@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.MatroidProphet.hidden_vector	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatroidProphet.hidden_vector	PASS	3417 constants reached, no stand-in
+REFEREE	L1u	OAI.MatroidProphet.hidden_vector	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatroidProphet.hidden_vector	PASS	no hypotheses
+REFEREE	L3	OAI.MatroidProphet.hidden_vector	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatroidProphet.hidden_vector	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatroidProphet.hidden_vector	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatroidProphet.hidden_vector	INFO	not a registered target statement
+REFEREE	R1	OAI.MatroidProphet.hidden_vector	PASS	reaches Nat.lt_of_lt_of_le
+REFEREE	R7	OAI.MatroidProphet.hidden_vector	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MatroidProphet.hidden_vector	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatroidProphet.hidden_vector	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatroidProphet.hidden_vector	REVIEW	computed class A?
+REFEREE	L0	OAI.MatroidProphet.one_sample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatroidProphet.one_sample	PASS	3579 constants reached, no stand-in
+REFEREE	L1u	OAI.MatroidProphet.one_sample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatroidProphet.one_sample	PASS	no hypotheses
+REFEREE	L3	OAI.MatroidProphet.one_sample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatroidProphet.one_sample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatroidProphet.one_sample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatroidProphet.one_sample	INFO	not a registered target statement
+REFEREE	R1	OAI.MatroidProphet.one_sample	PASS	reaches Nat.lt_of_lt_of_le
+REFEREE	R7	OAI.MatroidProphet.one_sample	PASS	top step OAI.MatroidProphet.hiddenVectorChallenge_implies_oneSampleChallenge carries content
+REFEREE	R5	OAI.MatroidProphet.one_sample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatroidProphet.one_sample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatroidProphet.one_sample	REVIEW	computed class A?
+REFEREE	L0	OAI.MatroidProphet.complete_hidden_guarantee	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatroidProphet.complete_hidden_guarantee	PASS	3395 constants reached, no stand-in
+REFEREE	L1u	OAI.MatroidProphet.complete_hidden_guarantee	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatroidProphet.complete_hidden_guarantee	PASS	M.E = Set.univ :: side condition | ∀ (e : Fin n), 0 ≤ w e :: side condition || unbuilt=0
+REFEREE	L3	OAI.MatroidProphet.complete_hidden_guarantee	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatroidProphet.complete_hidden_guarantee	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatroidProphet.complete_hidden_guarantee	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatroidProphet.complete_hidden_guarantee	INFO	not a registered target statement
+REFEREE	R1	OAI.MatroidProphet.complete_hidden_guarantee	PASS	reaches Finset.univ_nonempty
+REFEREE	R7	OAI.MatroidProphet.complete_hidden_guarantee	PASS	no single top step
+REFEREE	R5	OAI.MatroidProphet.complete_hidden_guarantee	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatroidProphet.complete_hidden_guarantee	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatroidProphet.complete_hidden_guarantee	REVIEW	computed class A?
+REFEREE	L0	OAI.MatroidProphet.main_branch_guarantee_small	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatroidProphet.main_branch_guarantee_small	PASS	3015 constants reached, no stand-in
+REFEREE	L1u	OAI.MatroidProphet.main_branch_guarantee_small	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatroidProphet.main_branch_guarantee_small	PASS	M.E = Set.univ :: side condition | OAI.MatroidProphet.maximumRounded M w ≤  (OAI.MatroidProphet.optimum M fun e => OAI.Matroi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.MatroidProphet.main_branch_guarantee_small	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatroidProphet.main_branch_guarantee_small	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatroidProphet.main_branch_guarantee_small	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatroidProphet.main_branch_guarantee_small	INFO	not a registered target statement
+REFEREE	R1	OAI.MatroidProphet.main_branch_guarantee_small	PASS	reaches Finset.univ_nonempty
+REFEREE	R7	OAI.MatroidProphet.main_branch_guarantee_small	PASS	top step OAI.MatroidProphet.main_branch_from_filter carries content
+REFEREE	R5	OAI.MatroidProphet.main_branch_guarantee_small	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatroidProphet.main_branch_guarantee_small	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatroidProphet.main_branch_guarantee_small	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.MatroidProphet.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.MatroidProphet.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Probability.MatroidProphet.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.MatroidProphet.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['main_branch_guarantee_small', 'complete_hidden_guarantee', 'hidden_vector', 'one_sample.{u}'])

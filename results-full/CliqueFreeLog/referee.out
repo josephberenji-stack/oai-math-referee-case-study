@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.CliqueFreeLog.sum_degrees_real	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CliqueFreeLog.sum_degrees_real	PASS	57 constants reached, no stand-in
+REFEREE	L1u	OAI.CliqueFreeLog.sum_degrees_real	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CliqueFreeLog.sum_degrees_real	PASS	no hypotheses
+REFEREE	L3	OAI.CliqueFreeLog.sum_degrees_real	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CliqueFreeLog.sum_degrees_real	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CliqueFreeLog.sum_degrees_real	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CliqueFreeLog.sum_degrees_real	INFO	not a registered target statement
+REFEREE	R1	OAI.CliqueFreeLog.sum_degrees_real	PASS	reaches Nat.cast_sum._simp_1
+REFEREE	R7	OAI.CliqueFreeLog.sum_degrees_real	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CliqueFreeLog.sum_degrees_real	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CliqueFreeLog.sum_degrees_real	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CliqueFreeLog.sum_degrees_real	REVIEW	computed class A?
+REFEREE	L0	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	1833 constants reached, no stand-in
+REFEREE	L1u	OAI.CliqueFreeLog.logarithmic_independence_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	4 ≤ r :: side condition || unbuilt=0
+REFEREE	L3	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CliqueFreeLog.logarithmic_independence_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CliqueFreeLog.logarithmic_independence_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CliqueFreeLog.logarithmic_independence_bound	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.CliqueFree.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.CliqueFree.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.CliqueFree.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.CliqueFree.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['sum_degrees_real'])

@@ -1,0 +1,225 @@
+REFEREE	L0	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	89 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.equationIdealCycle_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	no hypotheses
+REFEREE	L3	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.equationIdealCycle_one	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.equationIdealCycle_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.equationIdealCycle_one	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	91 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.cycleEquation_nonzero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	∀ a ∈ D.support, Prime a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.cycleEquation_nonzero	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	reaches Associates.mk_surjective
+REFEREE	R7	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.cycleEquation_nonzero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.cycleEquation_nonzero	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	445 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	F ≠ 0 :: side condition (project data) | ∀ I ∈ (OAI.Nagata.Workers.W30.equationIdealCycle F).support,  Ideal.IsHomogeneous (MvPolyn :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	no single top step
+REFEREE	R5	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.homogeneous_of_equationIdealCycle	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	524 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	D ≠ 0 :: side condition (project data) | ∀ I ∈ D.support,  I.IsPrime ∧ I ≠ ⊥ ∧ Submodule.IsPrincipal I ∧ Ideal.IsHomogeneous (MvPol :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	96 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.equationIdealCycle_pow	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	no hypotheses
+REFEREE	L3	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.equationIdealCycle_pow	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.equationIdealCycle_pow	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.equationIdealCycle_pow	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	501 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	∀ I ∈ D.support,  I.IsPrime ∧ I ≠ ⊥ ∧ Submodule.IsPrincipal I ∧ Ideal.IsHomogeneous (MvPol :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.exists_homogeneous_equation_of_prime_principal_cycle	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	186 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	∀ I ∈ D.support, I.IsPrime ∧ I ≠ ⊥ ∧ Submodule.IsPrincipal I :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	no single top step
+REFEREE	R5	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.exists_equation_of_prime_principal_cycle	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	215 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	F ≠ 0 :: side condition (project data) | OAI.Nagata.Workers.W30.equationIdealCycle F ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	top step OAI.Nagata.Workers.W30.degree_pos_of_nonzero_nonunit carries content
+REFEREE	R5	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.degree_pos_of_equationIdealCycle_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	124 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	∀ a ∈ D.support, Prime a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.cycleEquation_idealCycle	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	106 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	F ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	reaches Associates.mk_surjective
+REFEREE	R7	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.cycleEquation_equationMultiplicity	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	130 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	F ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.span_mem_equationIdealCycle_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	41 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.cycleEquation_mk	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	no hypotheses
+REFEREE	L3	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.cycleEquation_mk	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	reaches Classical.choose_spec
+REFEREE	R7	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.cycleEquation_mk	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.cycleEquation_mk	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	F ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.equationIdealCycle_zero_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	91 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	I.IsPrime :: side condition (project data) | I ≠ ⊥ :: side condition (project data) | Submodule.IsPrincipal I :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.principalIdealAssociate_prime	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	∀ a ∈ D.support, Prime a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	reaches Associates.ufm
+REFEREE	R7	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.cycleEquation_multiplicity	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	436 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	F ≠ 0 :: side condition (project data) | MvPolynomial.IsHomogeneous F d :: side condition | I ∈ (OAI.Nagata.Workers.W30.equationIdealCycle F).support :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.equationIdealCycle_homogeneous	REVIEW	computed class A?
+REFEREE	L0	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	62 constants reached, no stand-in
+REFEREE	L1u	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	Submodule.IsPrincipal I :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	INFO	not a registered target statement
+REFEREE	R1	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	reaches MvPolynomial.instIsDomainOfIsCancelAdd
+REFEREE	R7	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Nagata.Workers.W30.associatePrincipalIdeal_principalIdealAssociate	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.PlaneCurves.IdealCycles	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.PlaneCurves.IdealCycles	INFO	17 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.PlaneCurves.IdealCycles	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.PlaneCurves.IdealCycles	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['cycleEquation_mk', 'cycleEquation_nonzero', 'cycleEquation_idealCycle', 'equationIdealCycle_one'])

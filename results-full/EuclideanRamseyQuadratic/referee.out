@@ -1,0 +1,108 @@
+REFEREE	L0	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	359 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.sphere_field_quadratic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	∃ c r, ∀ (i : Fin s), dist (a i) c = r :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.sphere_field_quadratic	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.sphere_field_quadratic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.sphere_field_quadratic	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	86 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.quadratic_empty_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.quadratic_empty_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.quadratic_empty_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.quadratic_empty_ramsey	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	124 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.Quadratic.field_rightInverse	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	LinearIndependent F E.row :: side condition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.Quadratic.field_rightInverse	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	reaches Matrix.vecMul_injective_iff
+REFEREE	R7	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	no single top step
+REFEREE	R5	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.Quadratic.field_rightInverse	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.Quadratic.field_rightInverse	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	3747 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	2 ≤ s :: side condition | 1 ≤ d :: side condition | Function.Injective a :: side condition (project data) | ∃ c r, ∀ (i : Fin s), dist (a i) c = r :: side condition (project data) | LinearIndependent (OAI.EuclideanRamsey.Coeff a) fun i q =>  OAI.EuclideanRamsey.augmented  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_of_dimension	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	3912 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	Function.Injective a :: side condition (project data) | affineSpan ℝ (Set.range a) = ⊤ :: side condition (project data) | ∃ c r, ∀ (i : Fin s), dist (a i) c = r :: side condition (project data) | LinearIndependent (OAI.EuclideanRamsey.Coeff a) fun i q =>  OAI.EuclideanRamsey.augmented  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey_all	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	3906 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	0 < s :: side condition | Function.Injective a :: side condition (project data) | affineSpan ℝ (Set.range a) = ⊤ :: side condition (project data) | ∃ c r, ∀ (i : Fin s), dist (a i) c = r :: side condition (project data) | LinearIndependent (OAI.EuclideanRamsey.Coeff a) fun i q =>  OAI.EuclideanRamsey.augmented  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.spherical_quadraticIndependent_ramsey	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	396 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	LinearIndependent (OAI.EuclideanRamsey.Coeff a) (OAI.EuclideanRamsey.augmentedQuadraticRow :: side condition (project data) | (OAI.EuclideanRamsey.augmentedQuadraticRows a).mulVec h = 0 :: side condition (project data) | ∀ (j k : Fin d), h (some j, some k) = if j = k then 1 else 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	no single top step
+REFEREE	R5	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.quadraticIndependent_fieldCriterion	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	198 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.Quadratic.lift_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	∀ (x : F), μ (σ x) = x :: side condition | LinearIndependent F (D.map ⇑μ).row :: side condition | (D.map ⇑μ).mulVec h = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.Quadratic.lift_kernel	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	reaches Matrix.vecMul_injective_iff
+REFEREE	R7	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.Quadratic.lift_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.Quadratic.lift_kernel	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.EuclideanRamsey.Quadratic	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.EuclideanRamsey.Quadratic	INFO	8 theorems checked
+REFEREE	L5	OAI.Combinatorics.EuclideanRamsey.Quadratic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.EuclideanRamsey.Quadratic	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 10 public declarations without a docstring (['field_rightInverse', 'lift_kernel', 'QuadraticIndex', 'augmentedQuadraticRows'])

@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.FourRow.rowSq_zero_entries	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.rowSq_zero_entries	PASS	165 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.rowSq_zero_entries	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.rowSq_zero_entries	PASS	OAI.FourRow.rowSq a = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.FourRow.rowSq_zero_entries	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.rowSq_zero_entries	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.rowSq_zero_entries	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.rowSq_zero_entries	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.rowSq_zero_entries	PASS	reaches Finset.single_le_sum
+REFEREE	R7	OAI.FourRow.rowSq_zero_entries	PASS	no single top step
+REFEREE	R5	OAI.FourRow.rowSq_zero_entries	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.rowSq_zero_entries	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.rowSq_zero_entries	REVIEW	computed class A?
+REFEREE	L0	OAI.FourRow.robust_permanent_explicit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.robust_permanent_explicit	PASS	700 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.robust_permanent_explicit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.robust_permanent_explicit	REVIEW	OAI.FourRow.IsProbability ν :: carries a project proposition | OAI.FourRow.totalVariation ν < OAI.FourRow.robustRadius :: side condition (project data) | OAI.FourRow.UniformMarginals ν :: carries a project proposition | ∀ (i j : OAI.FourRow.Site), 0 ≤ f i j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.FourRow.robust_permanent_explicit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.robust_permanent_explicit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.robust_permanent_explicit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.robust_permanent_explicit	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.robust_permanent_explicit	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourRow.robust_permanent_explicit	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourRow.robust_permanent_explicit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.robust_permanent_explicit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.robust_permanent_explicit	REVIEW	computed class A?
+REFEREE	L0	OAI.FourRow.expectation_scale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.expectation_scale	PASS	85 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.expectation_scale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.expectation_scale	PASS	no hypotheses
+REFEREE	L3	OAI.FourRow.expectation_scale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.expectation_scale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.expectation_scale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.expectation_scale	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.expectation_scale	PASS	reaches congrFun'
+REFEREE	R7	OAI.FourRow.expectation_scale	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourRow.expectation_scale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.expectation_scale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.expectation_scale	REVIEW	computed class A?
+REFEREE	L0	OAI.FourRow.normalized_robust_permanent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.normalized_robust_permanent	PASS	621 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.normalized_robust_permanent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.normalized_robust_permanent	REVIEW	OAI.FourRow.IsProbability ν :: carries a project proposition | OAI.FourRow.UniformMarginals ν :: carries a project proposition | OAI.FourRow.totalVariation ν < OAI.FourRow.robustRadius :: side condition (project data) | ∀ (i j : OAI.FourRow.Site), 0 ≤ f i j :: side condition (project data) | ∀ (i : OAI.FourRow.Site), OAI.FourRow.rowSq (f i) = 4 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.FourRow.normalized_robust_permanent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.normalized_robust_permanent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.normalized_robust_permanent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.normalized_robust_permanent	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.normalized_robust_permanent	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourRow.normalized_robust_permanent	PASS	no single top step
+REFEREE	R5	OAI.FourRow.normalized_robust_permanent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.normalized_robust_permanent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.normalized_robust_permanent	REVIEW	computed class A?
+REFEREE	L0	OAI.FourRow.lpNorm_scale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.lpNorm_scale	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.lpNorm_scale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.lpNorm_scale	PASS	p ≠ 0 :: side condition | 0 ≤ c :: side condition | ∀ (j : OAI.FourRow.Site), 0 ≤ a j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.FourRow.lpNorm_scale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.lpNorm_scale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.lpNorm_scale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.lpNorm_scale	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.lpNorm_scale	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourRow.lpNorm_scale	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourRow.lpNorm_scale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.lpNorm_scale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.lpNorm_scale	REVIEW	computed class A?
+REFEREE	L0	OAI.FourRow.robust_permanent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourRow.robust_permanent	PASS	703 constants reached, no stand-in
+REFEREE	L1u	OAI.FourRow.robust_permanent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourRow.robust_permanent	PASS	no hypotheses
+REFEREE	L3	OAI.FourRow.robust_permanent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourRow.robust_permanent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourRow.robust_permanent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourRow.robust_permanent	INFO	not a registered target statement
+REFEREE	R1	OAI.FourRow.robust_permanent	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourRow.robust_permanent	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourRow.robust_permanent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourRow.robust_permanent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourRow.robust_permanent	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.Permanent.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.Permanent.Main	INFO	6 theorems checked
+REFEREE	L5	OAI.Combinatorics.Permanent.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.Permanent.Main	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['strictExponent', 'robustRadius', 'normalized_robust_permanent', 'lpNorm_scale'])

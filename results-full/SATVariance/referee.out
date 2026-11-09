@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.RandomKSAT.variance_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RandomKSAT.variance_main	PASS	2682 constants reached, no stand-in
+REFEREE	L1u	OAI.RandomKSAT.variance_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RandomKSAT.variance_main	PASS	3 ≤ k :: side condition || unbuilt=0
+REFEREE	L3	OAI.RandomKSAT.variance_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RandomKSAT.variance_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RandomKSAT.variance_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RandomKSAT.variance_main	INFO	not a registered target statement
+REFEREE	R1	OAI.RandomKSAT.variance_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.RandomKSAT.variance_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RandomKSAT.variance_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RandomKSAT.variance_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RandomKSAT.variance_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SATVariance.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SATVariance.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Probability.SATVariance.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SATVariance.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['variance_main'])

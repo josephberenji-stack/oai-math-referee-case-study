@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SymmetricPolar.symmetric_polar_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SymmetricPolar.symmetric_polar_main	PASS	4551 constants reached, no stand-in
+REFEREE	L1u	OAI.SymmetricPolar.symmetric_polar_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SymmetricPolar.symmetric_polar_main	REVIEW	2 ≤ n :: side condition | OAI.SymmetricPolar.IsSymmetricConvexBody K :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.SymmetricPolar.symmetric_polar_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SymmetricPolar.symmetric_polar_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SymmetricPolar.symmetric_polar_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SymmetricPolar.symmetric_polar_main	INFO	not a registered target statement
+REFEREE	R1	OAI.SymmetricPolar.symmetric_polar_main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.SymmetricPolar.symmetric_polar_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SymmetricPolar.symmetric_polar_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SymmetricPolar.symmetric_polar_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SymmetricPolar.symmetric_polar_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.PolarProducts.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.PolarProducts.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Geometry.PolarProducts.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.PolarProducts.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['symmetric_polar_main'])

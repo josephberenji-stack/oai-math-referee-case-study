@@ -1,0 +1,385 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	488 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	Module.Flat R S :: side condition | ∀ (i : ℕ), Module.Free R ↑(P.complex.X i) :: side condition | ∀ (i : ℕ), Module.Finite R ↑(P.complex.X i) :: side condition | ∀ (i : ℕ), Module.Free R ↑(Q.complex.X i) :: side condition | ∀ (i : ℕ), Module.Finite R ↑(Q.complex.X i) :: side condition | CategoryTheory.CategoryStruct.comp (eP.hom.f 0) (P'.π.f 0) =  CategoryTheory.CategoryStruc :: side condition (project data) | CategoryTheory.CategoryStruct.comp (eQ.hom.f 0) (Q'.π.f 0) =  CategoryTheory.CategoryStruc :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	reaches ModuleCat.hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	CONTENT	reaches ModuleCat.instHasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	REVIEW	twins without a proved equivalence: [OAI.NumberTheory.PadicHodge.IntegralComparison.Finite.FreeDualBaseChange.tensorFunctor = OAI.NumberTheory.PadicHodge.IntegralComparison.Koszul.FlatBaseChange.tensorFunctor]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.comparison_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	193 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	CategoryTheory.CategoryStruct.comp (eP.hom.f 0) (P'.π.f 0) =  CategoryTheory.CategoryStruc :: side condition (project data) | CategoryTheory.CategoryStruct.comp (eQ.hom.f 0) (Q'.π.f 0) =  CategoryTheory.CategoryStruc :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	reaches ModuleCat.hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	CONTENT	reaches ModuleCat.instHasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange.transportedLift_augmentation	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	871 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	RingTheory.Sequence.IsWeaklyRegular R rs :: side condition | n ≠ rs.length :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	reaches ModuleCat.hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	CONTENT	reaches ModuleCat.instHasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	REVIEW	twins without a proved equivalence: [OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.quotient = OAI.NumberTheory.PadicHodge.IntegralComparison.Koszul.DualPurity.Q]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.exactAt	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	289 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	reaches ModuleCat.hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity.ordinary_supported	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	3594 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	IsNoetherianRing R :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | SheafOfModules.IsFiniteType M :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	reaches CategoryTheory.ObjectProperty.prop_colimit
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	top step OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType._proof_1 carries content
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.BoundedNegativeQuotient.MvPolynomial.boundedNegativeQuotientMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistEquivalence.MvPolynomial.projectivePositiveTwistEquivalenceMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.InvertibleTensorCoherent.Scheme.Modules.invertibleSheafTensorMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerFrameScalar.powerFrameScalarMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackUnitMonoidal.Scheme.Modules.unitPullbackModuleMonoidalCategory]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_finiteType	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	6960 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	IsNoetherianRing R :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | SheafOfModules.IsFiniteType M :: side condition | Fintype.card σ = n + 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	reaches OrderIso.strictMono
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	top step OAI.NumberTheory.PadicHodge.IntegralComparison.Projective.TopDuality.pairing_bijective carries content
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerCancellationPairing.MvPolynomial.cancellationPowerMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.BoundedNegativeQuotient.MvPolynomial.boundedNegativeQuotientMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistHomChart.MvPolynomial.negativeHomChartMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistHomSections.MvPolynomial.negativeTwistHomSectionMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TensorCancellationShiftSections.tensorCancellationShiftMonoidal]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_pairing_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	3594 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	IsNoetherianRing R :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | SheafOfModules.IsFiniteType M :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	reaches CategoryTheory.ObjectProperty.prop_colimit
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	top step OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent._proof_1 carries content
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.BoundedNegativeQuotient.MvPolynomial.boundedNegativeQuotientMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistEquivalence.MvPolynomial.projectivePositiveTwistEquivalenceMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.InvertibleTensorCoherent.Scheme.Modules.invertibleSheafTensorMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerFrameScalar.powerFrameScalarMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackUnitMonoidal.Scheme.Modules.unitPullbackModuleMonoidalCategory]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.term_quasicoherent	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	7009 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	IsNoetherianRing R :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | SheafOfModules.IsFiniteType M :: side condition | Fintype.card σ = n + 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	reaches forall_congr
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerCancellationPairing.MvPolynomial.cancellationPowerMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.BoundedNegativeQuotient.MvPolynomial.boundedNegativeQuotientMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistHomChart.MvPolynomial.negativeHomChartMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistHomSections.MvPolynomial.negativeTwistHomSectionMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TensorCancellationShiftSections.tensorCancellationShiftMonoidal]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality.complexIso_hom_f_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	84 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	F.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	reaches HomologicalComplex.homologyMap_comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	163 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	F.Additive :: side condition | CategoryTheory.CategoryStruct.comp a Q.π = CategoryTheory.CategoryStruct.comp P.π ((ChainC :: side condition | CategoryTheory.CategoryStruct.comp b Q'.π = CategoryTheory.CategoryStruct.comp P'.π ((Chai :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	reaches CategoryTheory.ProjectiveResolution.lift_commutes
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	CONTENT	reaches CategoryTheory.Abelian.hasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	F.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	reaches Homotopy.homologyMap_eq
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.map_eq_of_homotopy	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	F.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	reaches Quiver.Hom.unop_inj
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	CONTENT	reaches CategoryTheory.Abelian.hasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality.iso_hom	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	155 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	F.Additive :: side condition | CategoryTheory.CategoryStruct.comp a Q.π = P.π :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	reaches CategoryTheory.ProjectiveResolution.lift_commutes
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	CONTENT	reaches CategoryTheory.Abelian.hasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.homology_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	161 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	F.Additive :: side condition | CategoryTheory.CategoryStruct.comp a Q.π = P.π :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	reaches quasiIsoAt_iff_isIso_homologyMap
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	CONTENT	reaches CategoryTheory.Abelian.hasZeroObject
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso.quasiIso	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	4397 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	Nontrivial σ :: side condition | ∀ (i : I), 0 < d i :: side condition | q + 1 ≠ Fintype.card σ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	reaches CategoryTheory.Limits.IsZero.iff_id_eq_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	CONTENT	reaches CategoryTheory.Functor.preservesZeroMorphisms_of_additive
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	top step OAI.NumberTheory.PadicHodge.IntegralComparison.Finite.CoproductVanishing.isZero_image carries content
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	9 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.StandardCech.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.LaurentWeightFinite.MvPolynomial.laurentFiniteDecEq, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.LaurentExceptionalWeights.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerFrameScalar.powerFrameScalarMonoidal]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.coproduct_isZero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	4358 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	Nontrivial σ :: side condition | 0 < d :: side condition | q + 1 ≠ Fintype.card σ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	9 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.StandardCech.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.LaurentWeightFinite.MvPolynomial.laurentFiniteDecEq, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.LaurentExceptionalWeights.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerFrameScalar.powerFrameScalarMonoidal]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.twist_isZero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	12 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	reaches CategoryTheory.Limits.HasFiniteBiproducts.of_hasFiniteProducts
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	CONTENT	reaches CategoryTheory.Limits.HasFiniteBiproducts.of_hasFiniteProducts
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.instHasFiniteBiproductsModules_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	5107 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	Nontrivial σ :: side condition | IsNoetherianRing R :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | SheafOfModules.IsFiniteType M :: side condition | 0 < B :: side condition | q + 1 ≠ Fintype.card σ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	reaches CategoryTheory.MorphismProperty.IsMonoidal.mk'
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.BoundedNegativeQuotient.MvPolynomial.boundedNegativeQuotientMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistEquivalence.MvPolynomial.projectivePositiveTwistEquivalenceMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.InvertibleTensorCoherent.Scheme.Modules.invertibleSheafTensorMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PowerFrameScalar.powerFrameScalarMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackUnitMonoidal.Scheme.Modules.unitPullbackModuleMonoidalCategory]
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing.term_isZero	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	INFO	4 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['transportedLift', 'transportedLift_augmentation', 'comparison_naturality'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.BaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['zeroIso', 'positiveIso', 'comparisonIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	REVIEW	instance changes at lines 22
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Cohomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['shape', 'quotient', 'ordinary', 'koszul'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.DualPurity	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['term_pairing_bijective', 'homComplex', 'topComplex', 'dualTopComplex'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	REVIEW	instance changes at lines 27
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Duality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['opposite', 'homotopyEquiv', 'homologyIso', 'moduleHomologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Hom	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['functor', 'map', 'map_comp', 'map_eq_of_homotopy'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['naturality'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.HomotopyNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['homology_isIso', 'quasiIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.LiftIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['alongIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Transport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['cohomology', 'twist_isZero', 'coproduct_isZero', 'term_isZero'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	REVIEW	instance changes at lines 21, 23
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.ProjectiveResolution.Vanishing	PASS	not under a Mathlib folder
+exit 1

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.TraceReconstruction.quantitative_sample_lower_bound	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	93 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.quantitative_sample_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	s ∈ Set.Ioc 0 1 :: side condition | c ∈ Set.Ioo 0 (1 / (4 * Real.log 2)) :: side condition | Filter.Tendsto n Filter.atTop Filter.atTop :: side condition | ∀ (k : ℕ), q k ∈ Set.Ioo 0 1 :: side condition | Filter.Tendsto (fun k => q k ^ 3 * Real.log ↑(n k)) Filter.atTop Filter.atTop :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.quantitative_sample_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.quantitative_sample_lower_bound	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.TraceReconstruction.superpolynomial_sample_complexity	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	90 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.superpolynomial_sample_complexity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	q ∈ Set.Ioo 0 1 :: side condition | s ∈ Set.Ioc 0 1 :: side condition | 0 < C :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.superpolynomial_sample_complexity	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.superpolynomial_sample_complexity	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.superpolynomial_sample_complexity	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.TraceReconstruction.superpolynomial_one_trace	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	94 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.superpolynomial_one_trace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	q ∈ Set.Ioo 0 1 :: side condition | 0 < C :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.superpolynomial_one_trace	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.superpolynomial_one_trace	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.TraceReconstruction	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TraceReconstruction	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.TraceReconstruction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TraceReconstruction	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['Word', 'Mask', 'Trace', 'SufficientBudget'])

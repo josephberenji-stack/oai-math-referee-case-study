@@ -1,0 +1,199 @@
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	748 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	REVIEW	ContDiff ℝ (↑⊤) c :: side condition (project data) | ∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => c p.1 j :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_curve_deriv	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.balanced_box_routing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.balanced_box_routing	PASS	2090 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.balanced_box_routing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.balanced_box_routing	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition | Pairwise fun i j =>  Disjoint (OAI.BoxTransport.Routing.solidBox (a i) (h i)) (OAI.BoxTran :: side condition (project data) | Pairwise fun i j =>  Disjoint (OAI.BoxTransport.Routing.solidBox (b i) (k i)) (OAI.BoxTran :: side condition (project data) | ∀ (i : Fin n), ∏ j, k i j / h i j = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.balanced_box_routing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.balanced_box_routing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.balanced_box_routing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.balanced_box_routing	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.balanced_box_routing	PASS	reaches Pi.isTopologicalAddGroup
+REFEREE	R7	OAI.BoxTransport.Routing.balanced_box_routing	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.balanced_box_routing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.balanced_box_routing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.balanced_box_routing	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	288 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	reaches congrFun'
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.routeScales_separated_from_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	1653 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.effective_routedField	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition | ContDiff ℝ (↑⊤) (OAI.BoxTransport.Routing.routedField a b h k η) :: side condition (project data) | HasCompactSupport (OAI.BoxTransport.Routing.routedField a b h k η) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.effective_routedField	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	reaches Pi.isTopologicalAddGroup
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.effective_routedField	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.effective_routedField	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	492 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	no hypotheses
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_stageSwitch	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	926 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	top step OAI.BoxTransport.Routing.Computation.Representable.div carries content
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_diagonalLogVelocity	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	550 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	REVIEW	∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => c p.1 j :: carries a project proposition | ∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => r p.1 j :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_movingBoxCutoff	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	174 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.time_partial_curve	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	ContDiff ℝ (↑⊤) c :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.time_partial_curve	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	reaches ContDiff.comp
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.time_partial_curve	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.time_partial_curve	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	372 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	REVIEW	∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => c p.1 j :: carries a project proposition | ∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => v p.1 j :: carries a project proposition | ∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => l p.1 j :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_movingAffinePotential	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	1036 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_routedField	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_routedField	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_routedField	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_routedField	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	542 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_routeCenters	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	no hypotheses
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_routeCenters	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	reaches Fintype.complete
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_routeCenters	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_routeCenters	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	581 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_routeScales	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_routeScales	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	reaches Fintype.complete
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_routeScales	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_routeScales	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	495 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_linearBlend	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	no hypotheses
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_linearBlend	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_linearBlend	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_linearBlend	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	579 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_familyPotential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_familyPotential	REVIEW	∀ (i : Fin n) (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => c i :: carries a project proposition | ∀ (i : Fin n) (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => v i :: carries a project proposition | ∀ (i : Fin n) (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => l i :: carries a project proposition | ∀ (i : Fin n) (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => r i :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_familyPotential	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_familyPotential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_familyPotential	REVIEW	computed class A?
+REFEREE	L0	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	791 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	REVIEW	∀ (j : Fin 3), OAI.BoxTransport.Routing.Computation.Representable fun p => A p j :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	no single top step
+REFEREE	R5	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.Computation.representable_spatialCurl	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.BoxTransport.Routing	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.BoxTransport.Routing	INFO	15 theorems checked
+REFEREE	L5	OAI.Analysis.BoxTransport.Routing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.BoxTransport.Routing	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 15 public declarations without a docstring (['representable_stageSwitch', 'representable_routeCenters', 'representable_linearBlend', 'representable_routeScales'])

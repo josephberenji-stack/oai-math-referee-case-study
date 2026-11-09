@@ -1,0 +1,739 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	REVIEW	[opaque with a value OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	proof-only: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | ∀ (τ : Gal(↥E/ℚ)),  OAI.AlgebraicGeometry.ComplexMultiplication.SignSwitch.CM.signValue (↑ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	reaches SubringClass.toRing._proof_8
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction by OAI.AlgebraicGeometry.ComplexMultiplication.Decomposition.CM.CMComponent.cm, OAI.AlgebraicGeometry.PELModuli.IntegralModel.Components.RelativelyProjective by OAI.AlgebraicGeometry.HodgeConjecture.CMExtraction.ReferenceAlbanese.Intrinsic.singleBaseComponentVariety._proof_7, OAI.ArithmeticGeometry.Models.Scheme.Constructions.Foundations.FinitePresentationMorphism by OAI.ArithmeticGeometry.Models.ModelFiniteness.Constructions.Foundations.baseChange_finitePresentation, OAI.AlgebraicGeometry.AbelianScheme.TateComparison.PELModuli.PELModuliCandidate.ClassifiesReduced by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.classifies, OAI.ArithmeticGeometry.Descent.CMVariety.AbelianEndomorphism.ConjugateAbelianTuples by OAI.ArithmeticGeometry.Descent.CMVariety.AbelianEndomorphism.AbelianEndomorphismTuple.conjugate_comparison, OAI.AlgebraicGeometry.Quotients.FiniteDescent.Invariant.Construction.InvariantCore.Related by OAI.AlgebraicGeometry.Quotients.FiniteDescent.Invariant.Construction.InvariantCore.related_refl]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.PELModuli.IntegralModel.Picard.OpenImmersionGluing.PicardOpenImmersionGluing.isoOnRange = OAI.AlgebraicGeometry.Isogenies.NeighborCounting.OpenImmersionGluing.isoOnRange, OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistSectionCoordinates.MvPolynomial.negativeSectionCoordinatesMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.GlobalGeneration.Dimension.projectiveGlobalGenerationMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistSectionCoordinates.MvPolynomial.negativeSectionCoordinatesMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.UnitFrameSection.instMonoidalCategoryModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistSectionCoordinates.MvPolynomial.negativeSectionCoordinatesMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory, OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistSectionCoordinates.MvPolynomial.negativeSectionCoordinatesMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistPresentationRange.Dimension.negativeTwistPresentationRangeMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistSectionCoordinates.MvPolynomial.negativeSectionCoordinatesMonoidal = OAI.AlgebraicGeometry.SheafCohomology.Projective.NegativeTwistMapCoefficients.Dimension.negativeTwistMapCoefficientsMonoidal]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle.algebraic_cycle_realizing_switch	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	15317 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | IsScalarTower ℚ (↥E) U :: side condition | OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.WeightOneHodgeStructure U :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction (↥E) H :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.CMKnownResults.CM.HodgeRealization H :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.CMKnownResults.CM.HodgeRealization H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.oppositePair_has_finite_cycle	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	928 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	((OAI.AlgebraicGeometry.ComplexMultiplication.CohomologyBaseChange.CM.evaluateComplexOnRat :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	82 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientEvaluation_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	18013 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | OAI.AlgebraicGeometry.HodgeConjecture.Surface.CM.Construction.BallSurfaceSwitchInput E :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.IntersectionCyc :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.intersectionCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.ChowProjectionF :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.chowProjectionFormula | ∀ (τ : Gal(↥E/ℚ)),  OAI.AlgebraicGeometry.ComplexMultiplication.SignSwitch.CM.signValue (↑ :: side condition (project data) | ∀ (i : Fin 4), ↑(v i) 1 = true :: side condition (project data) | ∃ τ, τ ≠ 1 ∧ τ ≠ OAI.AlgebraicGeometry.ComplexMultiplication.GaloisSigns.CM.CMCoefficientF :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.AlgebraicGeometry.HodgeConjecture.HeckeCycles.GeometricSource.CM.BallDatum.IsBallCover by OAI.AlgebraicGeometry.HodgeConjecture.ThetaCycle.Cm.PrincipalBallSurface.isBallCover, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalized_switch_algebraic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	10799 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | p + X.complexDimension = q + S.complexDimension :: side condition (project data) | x ∈ OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.coefficientA :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.coefficientPushforward_algebraic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	18491 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.DegreeTwoAlgebraicityInput :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicityInput | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.LefschetzOneOneInput :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.lefschetzOneOneInput | OAI.AlgebraicGeometry.HodgeConjecture.Surface.CM.Construction.BallSurfaceSwitchInput E :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.IntersectionCyc :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.intersectionCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.ChowProjectionF :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.chowProjectionFormula | ∀ (τ : Gal(↥E/ℚ)),  OAI.AlgebraicGeometry.ComplexMultiplication.SignSwitch.CM.signValue (↑ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.AlgebraicGeometry.HodgeConjecture.HeckeCycles.GeometricSource.CM.BallDatum.IsBallCover by OAI.AlgebraicGeometry.HodgeConjecture.ThetaCycle.Cm.PrincipalBallSurface.isBallCover, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.algebraic_cycle_realizing_switch	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	921 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	82 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.realizeCoefficient_evaluation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	15332 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.WeightOneHodgeStructure ↥E :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction (↥E) H :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.CMKnownResults.CM.HodgeRealization H :: carries a project proposition | OAI.AlgebraicGeometry.ComplexMultiplication.CMKnownResults.CM.HodgeRealization H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.canonicalOppositePair_has_finite_cycle	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	17754 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | OAI.AlgebraicGeometry.HodgeConjecture.Surface.CM.Construction.BallSurfaceSwitchInput E :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.IntersectionCyc :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.intersectionCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.ChowProjectionF :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.chowProjectionFormula || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.AlgebraicGeometry.HodgeConjecture.HeckeCycles.GeometricSource.CM.BallDatum.IsBallCover by OAI.AlgebraicGeometry.HodgeConjecture.ThetaCycle.Cm.PrincipalBallSurface.isBallCover, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.normalizedSwitchAlgebraicity_of_inputs	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	17598 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.IntersectionCyc :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.intersectionCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.ChowProjectionF :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.chowProjectionFormula | ∀ (i : Fin 4), OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction (↥ :: carries a project proposition | PathConnectedSpace S.analyticSpace :: side condition (project data) | PathConnectedSpace X.analyticSpace :: side condition (project data) | S.complexDimension = 2 :: side condition (project data) | 2 ≤ X.complexDimension :: side condition (project data) | OAI.AlgebraicGeometry.HodgeConjecture.CanonicalCoefficients.CM.SurfaceConstruction.canonic :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_algebraic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	17588 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	REVIEW	NumberField ↥E :: side condition | IsGalois ℚ ↥E :: side condition | NumberField.IsCMField ↥E :: side condition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.ScalarTraceDesce :: carries a project proposition | OAI.AlgebraicGeometry.HodgeConjecture.Coefficients.CM.SurfaceConstruction.DegreeTwoAlgebra :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicity | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.IntersectionCyc :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.intersectionCycleClassCompatibility | OAI.AlgebraicGeometry.HodgeConjecture.Intersections.CM.SurfaceConstruction.ChowProjectionF :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.chowProjectionFormula | ∀ (i : Fin 4), OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction (↥ :: carries a project proposition | PathConnectedSpace S.analyticSpace :: side condition (project data) | PathConnectedSpace X.analyticSpace :: side condition (project data) | S.complexDimension = 2 :: side condition (project data) | 2 ≤ X.complexDimension :: side condition (project data) | OAI.AlgebraicGeometry.HodgeConjecture.CanonicalCoefficients.CM.SurfaceConstruction.canonic :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.IsHodgeMap by OAI.AlgebraicGeometry.ComplexMultiplication.WeightOne.CM.RankOneCMAction.hodge_action, OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe.CM.surface_opposite_algebraic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	14677 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.DegreeTwoAlgebraicityInput :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.degreeTwoAlgebraicityInput | OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.LefschetzOneOneInput :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.lefschetzOneOneInput || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne.CM.degreeTwoAlgebraicity_of_inputs	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	872 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	top step OAI.AlgebraicTopology.Kunneth.CupPullbackSingular.Construction.CupPullback.singularCohomologyCup_pullback carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	60 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_cup	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	11968 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.fullCycle_class	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	211 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	reaches CategoryTheory.Over.Hom.w
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	CONTENT	reaches CategoryTheory.Over.Hom.w
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.map_isProper	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	12137 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | S.complexDimension = 2 :: side condition (project data) | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_fourCup_evaluation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	12138 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | S.complexDimension = 2 :: side condition (project data) | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) | ((OAI.AlgebraicGeometry.ComplexMultiplication.CohomologyBaseChange.CM.evaluateComplexOnRat :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedSurface_nonzero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	673 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	reaches SSet.chainComplexFunctor._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	49 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.complexRationalEvaluation_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	12010 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_evaluation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	879 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	61 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_fourCup	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	894 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	63 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_fourCup	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	12011 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) | 2 * S.complexDimension = n :: side condition (project data) | q + q + n = 2 * X.complexDimension :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare_inDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	257 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.schemePullback_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	11997 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_class	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	12006 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.ProperCycleClassCompatibilit :: discharged by OAI.AlgebraicGeometry.HodgeConjecture.Established.CM.SurfaceConstruction.Intrinsic.properCycleClassCompatibility | 0 + X.complexDimension = q + S.complexDimension :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.FrontierClosedFiltration.Cycles.listFrontier_drop, OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.integralSmoothPiecesFrontier by OAI.AlgebraicGeometry.CycleClass.Geometric.IntegralSmoothStratification.IntegralSmoothGeometricStratification.frontier]
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.pushedCycle_poincare	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	reaches CategoryTheory.Limits.Fan.IsLimit.fac
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	CONTENT	reaches CategoryTheory.Limits.Fan.IsLimit.fac
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ.CM.productMap_proj	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	10258 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	PathConnectedSpace S.analyticSpace :: side condition (project data) | PathConnectedSpace X.analyticSpace :: side condition (project data) | S.complexDimension = 2 :: side condition (project data) | a ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	16 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_scalar	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	10212 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	PathConnectedSpace S.analyticSpace :: side condition (project data) | PathConnectedSpace X.analyticSpace :: side condition (project data) | S.complexDimension = 2 :: side condition (project data) | a ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	CONTENT	reaches CategoryTheory.Category.comp_id
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	16 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	932 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	59 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientCup_unit_right	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	8845 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	PathConnectedSpace X.analyticSpace :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	16 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientH0_smul_unit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	10214 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	PathConnectedSpace S.analyticSpace :: side condition (project data) | PathConnectedSpace X.analyticSpace :: side condition (project data) | S.complexDimension = 2 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	CONTENT	reaches CategoryTheory.Category.comp_id
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	16 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Kunneth.Add.Construction.DegreePairs = OAI.AlgebraicTopology.Kunneth.TensorHomologyD.Construction.TensorHomology.DegreePairs, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.surfaceTraceMap_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	8800 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	S.complexDimension = 2 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	16 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar.CM.Construction.coefficientSurfaceTrace_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	CONTENT	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.regroupPairs_fourTensor	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	m ≠ 0 :: side condition | n ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	reaches LinearEquiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	CONTENT	reaches Module.Free.of_divisionRing
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	41 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	reaches Mathlib.Meta.NormNum.isNat_eq_true
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	CONTENT	reaches Mathlib.Meta.NormNum.isNat_eq_true
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourPair_regrouping_sign	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	CONTENT	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_fourTensor	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	127 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	ell (OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTe :: side condition (project data) | ∀ (i : Fin 4), w i ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	reaches smul_ne_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	CONTENT	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	97 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	∀ (i : Fin 4), v i ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	reaches LinearEquiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	CONTENT	reaches Module.Free.of_divisionRing
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	top step OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.simpleTensor_ne_zero carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTensor_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	78 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	ell (OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.fourTe :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	reaches Submodule.span_singleton_smul_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	CONTENT	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction.CM.SurfaceConstruction.contractPairs_span	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	INFO	10 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	INFO	14 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	INFO	6 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	INFO	7 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['algebraic_cycle_realizing_switch'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['coefficientEvaluation_ne_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['degreeTwoAlgebraicity_of_inputs'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionOne	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['productMap_proj', 'schemePullback_fourCup', 'schemePullback_comp', 'fullCycle_class'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionQ	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['surfaceTraceMap', 'surfaceTraceMap_ne_zero', 'surfaceTraceMap_injective', 'coefficientH0_smul_unit'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.SurfaceScalar	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['FourTensor', 'fourTensor', 'regroupPairs_fourTensor', 'simpleTensor_ne_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HodgeConjecture.TensorContraction	PASS	not under a Mathlib folder
+exit 1

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.MinUncut.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.MinUncut.main	PASS	11 constants reached, no stand-in
+REFEREE	L1u	OAI.MinUncut.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MinUncut.main	PASS	no hypotheses
+REFEREE	L3	OAI.MinUncut.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MinUncut.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MinUncut.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MinUncut.main	INFO	not a registered target statement
+REFEREE	R1	OAI.MinUncut.main	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.MinUncut.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MinUncut.main	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.MinUncut.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MinUncut.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.MinUncut	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.MinUncut	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.MinUncut	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.MinUncut	FAIL	no module docstring /-! … -/; 19 public declarations without a docstring (['Literal', 'Literal.eval', 'Clause', 'Clause.eval'])

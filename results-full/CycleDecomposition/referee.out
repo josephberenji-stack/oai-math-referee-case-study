@@ -1,0 +1,121 @@
+REFEREE	L0	OAI.ErdosGallai.main_cost_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.main_cost_bound	PASS	5018 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.main_cost_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.main_cost_bound	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.main_cost_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.main_cost_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.main_cost_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.main_cost_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.main_cost_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ErdosGallai.main_cost_bound	PASS	no single top step
+REFEREE	R5	OAI.ErdosGallai.main_cost_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.main_cost_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.main_cost_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.main_cost_eq_scale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.main_cost_eq_scale	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.main_cost_eq_scale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.main_cost_eq_scale	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.main_cost_eq_scale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.main_cost_eq_scale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.main_cost_eq_scale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.main_cost_eq_scale	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.main_cost_eq_scale	PASS	reaches Subtype.finite
+REFEREE	R7	OAI.ErdosGallai.main_cost_eq_scale	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.main_cost_eq_scale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.main_cost_eq_scale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.main_cost_eq_scale	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	119 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	REVIEW	OAI.ErdosGallai.Scale.AssignedPiece V :: carries a project proposition | OAI.ErdosGallai.Scale.Layers P Dstar :: carries a project proposition | H.count ≤ j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	reaches congrFun'
+REFEREE	R7	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.Scale.Layers.pieceSequence_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.erdos_gallai	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.erdos_gallai	PASS	5020 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.erdos_gallai	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.erdos_gallai	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.erdos_gallai	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.erdos_gallai	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.erdos_gallai	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.erdos_gallai	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.erdos_gallai	PASS	reaches Subtype.finite
+REFEREE	R7	OAI.ErdosGallai.erdos_gallai	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.erdos_gallai	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.erdos_gallai	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.erdos_gallai	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	96 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	REVIEW	OAI.ErdosGallai.Scale.AssignedPiece V :: carries a project proposition | OAI.ErdosGallai.Scale.Layers P Dstar :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	reaches ite_eq_left
+REFEREE	R7	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.Scale.Layers.pieceSequence_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.main_edge_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.main_edge_bound	PASS	201 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.main_edge_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.main_edge_bound	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.main_edge_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.main_edge_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.main_edge_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.main_edge_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.main_edge_bound	PASS	reaches Nat.cast_le
+REFEREE	R7	OAI.ErdosGallai.main_edge_bound	PASS	no single top step
+REFEREE	R5	OAI.ErdosGallai.main_edge_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.main_edge_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.main_edge_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	156 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	REVIEW	OAI.ErdosGallai.Scale.AssignedPiece V :: carries a project proposition | OAI.ErdosGallai.Scale.Layers P Dstar :: carries a project proposition | k ≤ H.count :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	reaches congrFun'
+REFEREE	R7	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.Scale.Layers.past_mass_eq_sequence	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.main_cost_eq_batch	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.main_cost_eq_batch	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.main_cost_eq_batch	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.main_cost_eq_batch	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.main_cost_eq_batch	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.main_cost_eq_batch	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.main_cost_eq_batch	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.main_cost_eq_batch	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.main_cost_eq_batch	PASS	reaches Subtype.finite
+REFEREE	R7	OAI.ErdosGallai.main_cost_eq_batch	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.main_cost_eq_batch	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.main_cost_eq_batch	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.main_cost_eq_batch	REVIEW	computed class A?
+REFEREE	L0	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	438 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.Scale.Layers.prefix_choice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.Scale.Layers.prefix_choice	REVIEW	OAI.ErdosGallai.Scale.AssignedPiece V :: carries a project proposition | OAI.ErdosGallai.Scale.Layers P Dstar :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.Scale.Layers.prefix_choice	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.Scale.Layers.prefix_choice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.Scale.Layers.prefix_choice	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.CycleDecomposition.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.CycleDecomposition.Main	INFO	9 theorems checked
+REFEREE	L5	OAI.Combinatorics.CycleDecomposition.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.CycleDecomposition.Main	FAIL	no module docstring /-! … -/; 10 public declarations without a docstring (['Layers.pieceSequence', 'Layers.pieceSequence_nonneg', 'Layers.pieceSequence_zero', 'Layers.past_mass_eq_sequence'])

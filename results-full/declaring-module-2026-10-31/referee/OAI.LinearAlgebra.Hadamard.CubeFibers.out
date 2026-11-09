@@ -1,0 +1,199 @@
+REFEREE	L0	OAI.HadamardSix.ratio_cube_multiplicities	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.ratio_cube_multiplicities	PASS	547 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.ratio_cube_multiplicities	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.ratio_cube_multiplicities	PASS	∀ (i : OAI.HadamardSix.Index), ‖v i‖ = 1 :: side condition (project data) | ∑ i, v i = 0 :: side condition (project data) | ∑ i, v i ^ 2 = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.ratio_cube_multiplicities	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.ratio_cube_multiplicities	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.ratio_cube_multiplicities	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.ratio_cube_multiplicities	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.ratio_cube_multiplicities	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.HadamardSix.ratio_cube_multiplicities	PASS	no single top step
+REFEREE	R5	OAI.HadamardSix.ratio_cube_multiplicities	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.ratio_cube_multiplicities	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.ratio_cube_multiplicities	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_norm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_norm	PASS	58 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_norm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_norm	REVIEW	OAI.HadamardSix.Unimodular H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_norm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_norm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_norm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_norm	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_norm	PASS	reaches congrFun'
+REFEREE	R7	OAI.HadamardSix.rowRatio_norm	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.rowRatio_norm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_norm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_norm	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.sum_cubes_of_two_values	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.sum_cubes_of_two_values	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.sum_cubes_of_two_values	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.sum_cubes_of_two_values	PASS	∀ (i : OAI.HadamardSix.Index), v i ^ 3 = a ∨ v i ^ 3 = b :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.sum_cubes_of_two_values	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.sum_cubes_of_two_values	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.sum_cubes_of_two_values	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.sum_cubes_of_two_values	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.sum_cubes_of_two_values	PASS	reaches Finset.sum_congr
+REFEREE	R7	OAI.HadamardSix.sum_cubes_of_two_values	PASS	no single top step
+REFEREE	R5	OAI.HadamardSix.sum_cubes_of_two_values	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.sum_cubes_of_two_values	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.sum_cubes_of_two_values	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_second_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_second_sum	PASS	180 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_second_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_second_sum	REVIEW	OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | i ≠ j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_second_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_second_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_second_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_second_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_second_sum	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.rowRatio_second_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.rowRatio_second_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_second_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_second_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.cubeFiber_card_three	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.cubeFiber_card_three	PASS	198 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.cubeFiber_card_three	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.cubeFiber_card_three	PASS	a ≠ b :: side condition | ∀ (i : OAI.HadamardSix.Index), v i ^ 3 = a ∨ v i ^ 3 = b :: side condition (project data) | ∑ i, v i ^ 3 = 3 * (a + b) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.cubeFiber_card_three	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.cubeFiber_card_three	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.cubeFiber_card_three	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.cubeFiber_card_three	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.cubeFiber_card_three	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.cubeFiber_card_three	PASS	no single top step
+REFEREE	R5	OAI.HadamardSix.cubeFiber_card_three	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.cubeFiber_card_three	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.cubeFiber_card_three	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_polynomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_polynomial	PASS	491 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_polynomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_polynomial	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | i ≠ j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_polynomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_polynomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_polynomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_polynomial	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_polynomial	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.rowRatio_polynomial	PASS	top step OAI.HadamardSix.ratioPolynomial_of_power_sums carries content
+REFEREE	R5	OAI.HadamardSix.rowRatio_polynomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_polynomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_polynomial	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	619 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_cube_multiplicities	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_cube_multiplicities	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | i ≠ j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_cube_multiplicities	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	top step OAI.HadamardSix.ratio_cube_multiplicities carries content
+REFEREE	R5	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_cube_multiplicities	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_cube_multiplicities	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.dephased_row_cube_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.dephased_row_cube_support	PASS	636 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.dephased_row_cube_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.dephased_row_cube_support	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | OAI.HadamardSix.IsDephased H :: carries a project proposition | ¬∀ (k : OAI.HadamardSix.Index), H i k ^ 3 = 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.dephased_row_cube_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.dephased_row_cube_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.dephased_row_cube_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.dephased_row_cube_support	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.dephased_row_cube_support	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.dephased_row_cube_support	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.dephased_row_cube_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.dephased_row_cube_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.dephased_row_cube_support	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_first_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_first_sum	PASS	167 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_first_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_first_sum	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | i ≠ j :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_first_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_first_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_first_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_first_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_first_sum	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.rowRatio_first_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.rowRatio_first_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_first_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_first_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.dephase_isDephased	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.dephase_isDephased	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.dephase_isDephased	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.dephase_isDephased	REVIEW	OAI.HadamardSix.Unimodular H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.dephase_isDephased	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.dephase_isDephased	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.dephase_isDephased	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.dephase_isDephased	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.dephase_isDephased	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.HadamardSix.dephase_isDephased	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.dephase_isDephased	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.dephase_isDephased	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.dephase_isDephased	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	628 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.dephased_row_cube_multiplicities	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.dephased_row_cube_multiplicities	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | OAI.HadamardSix.IsDephased H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.dephased_row_cube_multiplicities	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.dephased_row_cube_multiplicities	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.dephased_row_cube_multiplicities	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	640 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.dephased_column_cube_multiplicities	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.dephased_column_cube_multiplicities	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | OAI.HadamardSix.IsDephased H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.dephased_column_cube_multiplicities	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	no single top step
+REFEREE	R5	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.dephased_column_cube_multiplicities	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.dephased_column_cube_multiplicities	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.mem_cubeFiber	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.mem_cubeFiber	PASS	33 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.mem_cubeFiber	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.mem_cubeFiber	PASS	no hypotheses
+REFEREE	L3	OAI.HadamardSix.mem_cubeFiber	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.mem_cubeFiber	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.mem_cubeFiber	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.mem_cubeFiber	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.mem_cubeFiber	PASS	reaches congrFun'
+REFEREE	R7	OAI.HadamardSix.mem_cubeFiber	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HadamardSix.mem_cubeFiber	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.mem_cubeFiber	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.mem_cubeFiber	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	444 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.ratio_cubeFiber_sum_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	∀ (i : OAI.HadamardSix.Index), ‖v i‖ = 1 :: side condition (project data) | ∑ i, v i = 0 :: side condition (project data) | ∑ i, v i ^ 2 = 0 :: side condition (project data) | a ≠ b :: side condition | ∀ (i : OAI.HadamardSix.Index), v i ^ 3 = a ∨ v i ^ 3 = b :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.ratio_cubeFiber_sum_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	reaches Finset.mul_sum
+REFEREE	R7	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	no single top step
+REFEREE	R5	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.ratio_cubeFiber_sum_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.ratio_cubeFiber_sum_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	521 constants reached, no stand-in
+REFEREE	L1u	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	REVIEW	OAI.HadamardSix.IsComplexHadamard H :: carries a project proposition | OAI.HadamardSix.IsComplexHadamard (OAI.HadamardSix.entrywiseSquare H) :: carries a project proposition | i ≠ j :: side condition (project data) | a ≠ b :: side condition | ∀ (k : OAI.HadamardSix.Index), OAI.HadamardSix.rowRatio H i j k ^ 3 = a ∨ OAI.HadamardSix. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	top step OAI.HadamardSix.ratio_cubeFiber_sum_zero carries content
+REFEREE	R5	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HadamardSix.rowRatio_cubeFiber_sum_zero	REVIEW	computed class A?
+REFEREE	L4	OAI.LinearAlgebra.Hadamard.CubeFibers	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.LinearAlgebra.Hadamard.CubeFibers	INFO	15 theorems checked
+REFEREE	L5	OAI.LinearAlgebra.Hadamard.CubeFibers	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.LinearAlgebra.Hadamard.CubeFibers	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 18 public declarations without a docstring (['cubeFiber', 'mem_cubeFiber', 'sum_cubes_of_two_values', 'cubeFiber_card_three'])

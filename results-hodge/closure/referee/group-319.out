@@ -1,0 +1,961 @@
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	224 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	S.ShortExact :: side condition | T.ShortExact :: side condition | Subsingleton (CategoryTheory.Sheaf.H S.X₂ n) :: side condition | Subsingleton (CategoryTheory.Sheaf.H S.X₂ (n + 1)) :: side condition | Subsingleton (CategoryTheory.Sheaf.H T.X₂ n) :: side condition | Subsingleton (CategoryTheory.Sheaf.H T.X₂ (n + 1)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	reaches CategoryTheory.Sheaf.H.map._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Sheaf.CohomologyExact.SheafCohomologyExact.Cohomology.δ_naturality carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps.IntrinsicCech.acyclicMiddleCohomologyShift_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	290 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	∀ (n : ℕ),  (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.AcyclicSheafResolutio :: side condition (project data) | ∀ (p r : ℕ), r < q → Subsingleton ((K.X p).H r) :: side condition | r < q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolutionCycles_cohomology_vanish_below	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	S.ShortExact :: side condition | Subsingleton (S.X₃.H n) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	reaches map_sub
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	CategoryTheory.Mono a :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	reaches CategoryTheory.Adjunction.isRightAdjoint
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	CONTENT	reaches CategoryTheory.Adjunction.isRightAdjoint
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_zero_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	148 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	CategoryTheory.Mono a :: side condition | Subsingleton (G.H 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	reaches subsingleton_of_forall_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_zero_vanish_of_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	309 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	CategoryTheory.Mono e :: side condition | CategoryTheory.CategoryStruct.comp e (K.d 0 1) = 0 :: side condition | { X₁ := F, X₂ := K.X 0, X₃ := K.X 1, f := e, g := K.d 0 1, zero := w }.Exact :: side condition | ∀ (n : ℕ),  (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.AcyclicSheafResolutio :: side condition (project data) | ∀ (p r : ℕ), r < n + 1 → Subsingleton ((K.X p).H r) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.sheafCohomology_map_succ_injective_of_shortExact carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	323 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	CategoryTheory.Mono e :: side condition | CategoryTheory.CategoryStruct.comp e (K.d 0 1) = 0 :: side condition | { X₁ := F, X₂ := K.X 0, X₃ := K.X 1, f := e, g := K.d 0 1, zero := w }.Exact :: side condition | ∀ (n : ℕ),  (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.AcyclicSheafResolutio :: side condition (project data) | ∀ (p r : ℕ), r < n + 1 → Subsingleton ((K.X p).H r) :: side condition | Function.Injective ⇑(CategoryTheory.Sheaf.H.map (K.d 0 1) (n + 1)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology.IntrinsicCech.resolution_firstCohomology_vanish_of_first_differential_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	376 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	CategoryTheory.CategoryStruct.comp eK (K.d 0 1) = 0 :: side condition | CategoryTheory.Mono eK :: side condition | CategoryTheory.CategoryStruct.comp eL (L.d 0 1) = 0 :: side condition | CategoryTheory.Mono eL :: side condition | { X₁ := F, X₂ := K.X 0, X₃ := K.X 1, f := eK, g := K.d 0 1, zero := wK }.Exact :: side condition | { X₁ := G, X₂ := L.X 0, X₃ := L.X 1, f := eL, g := L.d 0 1, zero := wL }.Exact :: side condition | ∀ (n : ℕ),  (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.AcyclicSheafResolutio :: side condition (project data) | ∀ (n : ℕ),  (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.AcyclicSheafResolutio :: side condition (project data) | ∀ (p q : ℕ), Subsingleton (CategoryTheory.Sheaf.H (K.X p) (q + 1)) :: side condition | ∀ (p q : ℕ), Subsingleton (CategoryTheory.Sheaf.H (L.X p) (q + 1)) :: side condition | CategoryTheory.CategoryStruct.comp f eL = CategoryTheory.CategoryStruct.comp eK (ψ.f 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality.IntrinsicCech.resolutionCycleCohomologyShift_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	74 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	↑u = ↑n :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	reaches le_top
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	CONTENT	reaches le_top
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_val	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	75 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	V ≤ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	reaches Units.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	CONTENT	reaches Units.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit.restrictedGlobalUnit_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	812 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition | AlgebraicGeometry.IsAffine X :: side condition | CategoryTheory.IsIso e :: side condition (project data) | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Ample.LineBundles.pullbackSection  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	reaches Function.comp_update
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	43 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_annihilation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	111 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	reaches CategoryTheory.Functor.final_fromPUnit_of_isTerminal
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	CONTENT	reaches instIsContinuousOpensCarrierMapGrothendieckTopology
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.pullbackSection_sub	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	828 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition | AlgebraicGeometry.IsAffine X :: side condition | CategoryTheory.IsIso e :: side condition (project data) | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Ample.LineBundles.pullbackSection  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	reaches Function.comp_update
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	43 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.affine_chart_power_equality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	778 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition | AlgebraicGeometry.IsAffine X :: side condition | CategoryTheory.IsIso e :: side condition (project data) | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Ample.LineBundles.pullbackSection  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	reaches Function.comp_update
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	43 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation.restricted_power_annihilation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	203 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	reaches HomologicalComplex.Hom.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.restrictedTopSectionsComplexIso_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	106 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	reaches CategoryTheory.InjectiveResolution.desc_commutes_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality.IntrinsicCech.chosenSheafResolutionMap_aug	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	148 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	G.IsFiniteType :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections.generatingSectionsOverOfRestrict_isFiniteType	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	reaches le_top
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	CONTENT	reaches le_top
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_onOpen	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	81 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	reaches le_top
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	CONTENT	reaches le_top
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.appIso_top_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	174 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	reaches CategoryTheory.ConcreteCategory.congr_hom
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	CONTENT	reaches CategoryTheory.ConcreteCategory.congr_hom
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars.structureModuleEndValue_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	Module.Finite ↑(X.presheaf.obj (Opposite.op U)) ↑(M.presheaf.obj (Opposite.op U)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	reaches AddMonoidHom.map_add
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	CONTENT	reaches AlgebraicGeometry.Scheme.Opens.instIsOpenImmersionι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness.module_restrict_sections_finite_of_sections_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	93 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	Module.Free ↑(X.presheaf.obj (Opposite.op U)) ↑(M.presheaf.obj (Opposite.op U)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	reaches RingHomInvPair.of_ringEquiv
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	CONTENT	reaches AlgebraicGeometry.Scheme.Opens.instIsOpenImmersionι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness.restrict_globalSections_free	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	213 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	REVIEW	AlgebraicGeometry.IsNoetherian (CategoryTheory.Limits.pullback M.hom M.hom) :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.FieldFaithf :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	reaches AlgebraicGeometry.IsZariskiLocalAtTarget.of_range_subset_iSup
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_open_diagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	216 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	REVIEW	AlgebraicGeometry.IsNoetherian (CategoryTheory.Limits.pullback M.hom M.hom) :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.FieldFaithf :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	reaches AlgebraicGeometry.IsZariskiLocalAtTarget.of_range_subset_iSup
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal.fieldFaithfulParameter_formallyUnramified	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	631 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	Function.Bijective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	CONTENT	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	35 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_nonempty_iff_of_globalFunctions	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	599 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	Function.Injective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	reaches CategoryTheory.Iso.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	CONTENT	reaches CategoryTheory.Iso.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	33 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions.rigidifiedBundleIso_subsingleton_of_globalFunctions	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	509 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition | CategoryTheory.CategoryStruct.comp t a = a' :: side condition | CategoryTheory.CategoryStruct.comp t b = b' :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	CONTENT	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	20 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	512 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition | CategoryTheory.CategoryStruct.comp t a = a' :: side condition | CategoryTheory.CategoryStruct.comp t b = b' :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	CONTENT	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	20 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	46 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition | e.underlying = f.underlying :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	IND	recursion on project types OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.rec, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.casesOn
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLi :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	FAIL	rewording: an iff that holds by definitions and logic alone
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	IND	recursion on project types OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.rec, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.casesOn
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.ext_iff	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	651 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	Function.Bijective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition | Nonempty (L.lineBundle.sheaf ≅ L.lineBundle.sheaf) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	reaches CategoryTheory.Iso.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	CONTENT	reaches CategoryTheory.Iso.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	37 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_self	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	11426 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	REVIEW	AlgebraicGeometry.IsLocallyNoetherian S :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	reaches AlgebraicGeometry.Scheme.Hom.naturality
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	CONTENT	reaches AlgebraicGeometry.Scheme.Hom.naturality
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistTensorCech.MvPolynomial.positiveTwistTensorMonoidalCategory, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.RepresentationTheory.Theta.Geometric.Pullback.UnitComposition.instMonoidalCategoryModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.RepresentationTheory.Theta.Geometric.Pullback.FrameComposition.instMonoidalCategoryModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistEquivalence.MvPolynomial.projectivePositiveTwistEquivalenceMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.ClosedSerreVanishing.MvPolynomial.closedPositiveTwistMonoidalCategory]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.familyZero_globalFunctions_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	11580 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	REVIEW	AlgebraicGeometry.IsLocallyNoetherian S :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme g S :: carries a project proposition | Nonempty (L.lineBundle.sheaf ≅ M.lineBundle.sheaf) :: side condition (project data) | Nonempty (M.lineBundle.sheaf ≅ N.lineBundle.sheaf) :: side condition (project data) | Nonempty (L.lineBundle.sheaf ≅ N.lineBundle.sheaf) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	reaches CategoryTheory.Iso.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	CONTENT	reaches CategoryTheory.Iso.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistTensorCech.MvPolynomial.positiveTwistTensorMonoidalCategory, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.RepresentationTheory.Theta.Geometric.Pullback.UnitComposition.instMonoidalCategoryModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.RepresentationTheory.Theta.Geometric.Pullback.FrameComposition.instMonoidalCategoryModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PositiveTwistEquivalence.MvPolynomial.projectivePositiveTwistEquivalenceMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.PullbackFrameComposition.pullbackFrameMonoidal, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistShiftIso.MvPolynomial.projectiveSpaceTwistShiftMonoidalCategory = OAI.AlgebraicGeometry.SheafCohomology.Projective.ClosedSerreVanishing.MvPolynomial.closedPositiveTwistMonoidalCategory]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes.AbelianScheme.rigidifiedProductComparison_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	651 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	Function.Bijective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition | Nonempty (L.lineBundle.sheaf ≅ M.lineBundle.sheaf) :: side condition (project data) | Nonempty (M.lineBundle.sheaf ≅ N.lineBundle.sheaf) :: side condition (project data) | Nonempty (L.lineBundle.sheaf ≅ N.lineBundle.sheaf) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	reaches CategoryTheory.Iso.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	CONTENT	reaches CategoryTheory.Iso.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	37 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	656 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	Function.Bijective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition | Nonempty (L.lineBundle.sheaf ≅ M.lineBundle.sheaf) :: side condition (project data) | CategoryTheory.CategoryStruct.comp y f = CategoryTheory.CategoryStruct.comp a x :: side condition | Function.Bijective ⇑(CategoryTheory.ConcreteCategory.hom (AlgebraicGeometry.Scheme.Hom.app :: side condition | Nonempty ((L.pullbackSquare f y a h).lineBundle.sheaf ≅ (M.pullbackSquare f y a h).lineBun :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	CONTENT	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	40 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	CategoryTheory.IsPushout (CommRingCat.ofHom g) (CommRingCat.ofHom f) (CommRingCat.ofHom l) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	CONTENT	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace.ringHomNormalizedTrace_pushout	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	[propext]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	reaches nsmul_eq_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ring_nsmul_pow	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	83 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	reaches add_comm
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	CONTENT	reaches add_comm
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial.ringPower_integerBinomial	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	93 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	reaches pow_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	CONTENT	reaches pow_zero
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization.ringPower_linearization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	99 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	Function.Bijective ⇑(Algebra.TensorProduct.lift i j ⋯) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	reaches Commute.all
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.isPushout_of_tensorLift_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	CategoryTheory.IsPushout (CommRingCat.ofHom (algebraMap R A)) (CommRingCat.ofHom (algebraM :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	reaches CommRingCat.isPushout_tensorProduct
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	CONTENT	reaches CommRingCat.isPushout_tensorProduct
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison.tensorLift_bijective_of_isPushout	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	4640 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	REVIEW	IsNoetherianRing R :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatH :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	reaches MvPolynomial.IsHomogeneous.map
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.HasHilbertPolynomial by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert, OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial, OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.IsSaturated by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.saturated]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.TopLinearCoverExpansion.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI = OAI.AlgebraicGeometry.HilbertScheme.Presentations.ReversedModuleCech.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	4315 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	REVIEW	IsNoetherianRing R :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatH :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	reaches one_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Linear.CoordinateIdeals.linearCoordinateIdeal_degreeRelations carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.HasHilbertPolynomial by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert, OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial, OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.IsSaturated by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.saturated]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.TopLinearCoverExpansion.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI = OAI.AlgebraicGeometry.HilbertScheme.Presentations.ReversedModuleCech.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	4359 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	REVIEW	IsNoetherianRing R :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatH :: carries a project proposition | (OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Homogeneous.ConfigurationEvaluati :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	reaches one_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.HasHilbertPolynomial by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert, OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial, OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.IsSaturated by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.saturated]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.TopLinearCoverExpansion.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI = OAI.AlgebraicGeometry.HilbertScheme.Presentations.ReversedModuleCech.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	7094 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	REVIEW	IsNoetherianRing C :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatH :: carries a project proposition | AlgebraicGeometry.IsLocallyNoetherian S :: side condition | OAI.AlgebraicGeometry.HilbertScheme.Presentations.Uniform.FamilyCoordinates.GradedHilbert. :: side condition (project data) | CategoryTheory.CategoryStruct.comp x   (OAI.AlgebraicGeometry.HilbertScheme.Presentations. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	top step OAI.AlgebraicGeometry.HilbertScheme.Presentations.Noetherian.AffineParameterFamily.GradedHilbert.noetherianAffine_hilbert_coordinate_lift_family carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Normalized.Matrices.Grassmannian.IsNormalized by OAI.AlgebraicGeometry.HilbertScheme.Presentations.Affine.QuotientClassifyingCharts.Grassmannian.PrincipalQuotientChart.normalized, OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.HasHilbertPolynomial by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert, OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial, OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.IsSaturated by OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.saturated]
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.TopLinearCoverExpansion.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI = OAI.AlgebraicGeometry.HilbertScheme.Presentations.ReversedModuleCech.ProjectiveCech.instModuleMvPolynomialOrderDual_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	INFO	6 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['initialResolutionCycleSequenceMap', 'successiveResolutionCycleSequenceMap'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionCycleMaps	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['sheafCohomology_map_zero_injective', 'sheafCohomology_zero_vanish_of_mono', 'sheafCohomology_map_succ_injective_of_shortExact', 'resolutionCycles_cohomology_vanish_below'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionFirstCohomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['resolutionCycleCohomologyShift_naturality'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ResolutionShiftNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['restrictedGlobalUnit', 'restrictedGlobalUnit_restrict', 'restrictedGlobalUnit_val'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedGlobalUnit	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['pullbackSection_sub'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedPowerAnnihilation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['sheafRestrictionTopEvaluationIso', 'restrictedTopSectionsComplexIso', 'restrictedTopSectionsComplexIso_naturality', 'chosenSheafResolutionMap'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictedSectionsNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['restrictionFrameImage'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionFrameImage	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionGeneratingSections	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionScalars	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['module_restrict_sections_finite_of_sections_finite'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFiniteness	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['restrict_globalSections_free'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RestrictionSectionFreeness	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['FieldFaithfulParameter', 'fieldFaithfulParameter_open_diagonal', 'fieldFaithfulParameter_formallyUnramified'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidParameterDiagonal	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['RigidifiedLineBundles.RigidifiedLineBundle.familyPullback', 'RigidifiedLineBundles.RigidifiedLineBundle.familyPullbackCompIso', 'RigidifiedLineBundles.RigidifiedLineBundle.familyPullbackCongrIso', 'RigidifiedLineBundles.RigidifiedLineBundleIso.familyPullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedFamilyPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['rigidifiedBundleIso_subsingleton_of_globalFunctions', 'rigidifiedBundleIso_nonempty_iff_of_globalFunctions'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedGlobalFunctions	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['_root_.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo', '_root_.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_underlying', '_root_.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles.RigidifiedLineBundleIso.nativeFamilyPullbackTo_hom'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedHeterogeneousPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['RigidifiedLineBundle', 'RigidifiedLineBundleIso', 'ext', 'refl'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineBundles	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['RigidifiedLineBundles.RigidifiedLineBundle.comparison', 'RigidifiedLineBundles.RigidifiedLineBundle.comparison_self', 'RigidifiedLineBundles.RigidifiedLineBundle.comparison_comp', 'RigidifiedLineBundles.RigidifiedLineBundle.comparison_pullbackSquare'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineCanonicalComparisons	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['RigidifiedLineBundles.RigidifiedLineBundle.pullbackSquare', 'RigidifiedLineBundles.RigidifiedLineBundle.pullbackSquareCongrIso', 'RigidifiedLineBundles.RigidifiedLineBundleIso.pullbackSquare'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RigidifiedLineSquarePullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['ringHomNormalizedTrace', 'ringHomNormalizedTrace_pushout'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingHomNormalizedTrace	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['ring_nsmul_pow', 'ringPower_integerBinomial'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingIntegerBinomial	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['ringPower_linearization'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPowerLinearization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['tensorLift_bijective_of_isPushout', 'isPushout_of_tensorLift_bijective'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.RingPushoutTensorComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChange', 'SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeIso', 'SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism', 'SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coefficientChangeMorphism_ambient'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoefficientChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange', 'SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_degreeRelations', 'SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.coordinateChange_configuration_kernel'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['SaturatedFlatIdeals.SaturatedFlatHilbertIdeal.hilbert_coordinate_lift_family'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.SaturatedCoordinateRecovery	PASS	not under a Mathlib folder
+exit 1

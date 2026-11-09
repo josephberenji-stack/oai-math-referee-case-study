@@ -1,0 +1,121 @@
+REFEREE	L0	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	429 constants reached, no stand-in
+REFEREE	L1u	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	REVIEW	Nat.Prime (d + 1) :: side condition | 5 ≤ d + 1 :: side condition | ∀ (i : ℕ), NumberField (K i) :: side condition | ∀ (i : ℕ), NumberField.IsTotallyReal (K i) :: side condition | ∀ (i : ℕ), Module.finrank ℚ (K i) = d + 1 :: side condition | Filter.Tendsto (fun i => OAI.PrimeDegreePackets.multiplierDiscriminant (M i)) Filter.atTop :: side condition (project data) | OAI.PrimeDegreePackets.IsHaarProbability ↑m :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	reaches NumberField.to_charZero
+REFEREE	R7	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PrimeDegreePackets.orbitMap_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.orbitMap_zero	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.orbitMap_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.orbitMap_zero	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.orbitMap_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.orbitMap_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.orbitMap_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.orbitMap_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.orbitMap_zero	PASS	reaches QuotientGroup.rightRel_apply
+REFEREE	R7	OAI.PrimeDegreePackets.orbitMap_zero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.orbitMap_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.orbitMap_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.orbitMap_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.PrimeDegreePackets.rightAction_mul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.rightAction_mul	PASS	61 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.rightAction_mul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.rightAction_mul	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.rightAction_mul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.rightAction_mul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.rightAction_mul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.rightAction_mul	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.rightAction_mul	PASS	reaches Quotient.inductionOn
+REFEREE	R7	OAI.PrimeDegreePackets.rightAction_mul	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.rightAction_mul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.rightAction_mul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.rightAction_mul	REVIEW	computed class A?
+REFEREE	L0	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	104 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.diagonalFlow_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.diagonalFlow_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	reaches Subtype.ext
+REFEREE	R7	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.diagonalFlow_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.diagonalFlow_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	428 constants reached, no stand-in
+REFEREE	L1u	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	Nat.Prime (d + 1) :: side condition | 5 ≤ d + 1 :: side condition | ∀ (i : ℕ), NumberField (K i) :: side condition | ∀ (i : ℕ), NumberField.IsTotallyReal (K i) :: side condition | ∀ (i : ℕ), Module.finrank ℚ (K i) = d + 1 :: side condition | Filter.Tendsto (fun i => OAI.PrimeDegreePackets.multiplierDiscriminant (M i)) Filter.atTop :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	reaches NumberField.to_charZero
+REFEREE	R7	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PrimeDegreePackets.orbitMap_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.orbitMap_add	PASS	161 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.orbitMap_add	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.orbitMap_add	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.orbitMap_add	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.orbitMap_add	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.orbitMap_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.orbitMap_add	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.orbitMap_add	PASS	reaches QuotientGroup.rightRel_apply
+REFEREE	R7	OAI.PrimeDegreePackets.orbitMap_add	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.orbitMap_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.orbitMap_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.orbitMap_add	REVIEW	computed class A?
+REFEREE	L0	OAI.PrimeDegreePackets.xBorelSpace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.xBorelSpace	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.xBorelSpace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.xBorelSpace	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.xBorelSpace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.xBorelSpace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.xBorelSpace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.xBorelSpace	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.xBorelSpace	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PrimeDegreePackets.xBorelSpace	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.xBorelSpace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.xBorelSpace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.xBorelSpace	PASS	computed class DEF
+REFEREE	L0	OAI.PrimeDegreePackets.rightAction_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.rightAction_one	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.rightAction_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.rightAction_one	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.rightAction_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.rightAction_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.rightAction_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.rightAction_one	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.rightAction_one	PASS	reaches Quotient.inductionOn
+REFEREE	R7	OAI.PrimeDegreePackets.rightAction_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.rightAction_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.rightAction_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.rightAction_one	REVIEW	computed class A?
+REFEREE	L0	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	118 constants reached, no stand-in
+REFEREE	L1u	OAI.PrimeDegreePackets.diagonalFlow_add	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	no hypotheses
+REFEREE	L3	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PrimeDegreePackets.diagonalFlow_add	INFO	not a registered target statement
+REFEREE	R1	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	reaches Subtype.ext
+REFEREE	R7	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PrimeDegreePackets.diagonalFlow_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PrimeDegreePackets.diagonalFlow_add	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.DukePrimeDegree	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.DukePrimeDegree	INFO	9 theorems checked
+REFEREE	L5	ComparatorChallenges.DukePrimeDegree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.DukePrimeDegree	FAIL	no module docstring /-! … -/; 36 public declarations without a docstring (['G', 'integralGroup', 'X', 'rightAction'])

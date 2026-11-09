@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Problem313.sharp_threshold_width	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Problem313.sharp_threshold_width	PASS	103 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem313.sharp_threshold_width	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem313.sharp_threshold_width	REVIEW	2 ≤ n :: side condition | OAI.Problem313.VertexInvariant f :: carries a project proposition | OAI.Problem313.IncreasingGraphProperty f :: carries a project proposition | OAI.Problem313.NontrivialGraphProperty f :: carries a project proposition | 0 < ε :: side condition | ε < 1 / 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Problem313.sharp_threshold_width	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem313.sharp_threshold_width	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem313.sharp_threshold_width	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem313.sharp_threshold_width	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem313.sharp_threshold_width	PASS	reaches congrFun'
+REFEREE	R7	OAI.Problem313.sharp_threshold_width	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem313.sharp_threshold_width	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem313.sharp_threshold_width	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem313.sharp_threshold_width	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SharpThreshold	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SharpThreshold	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SharpThreshold	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SharpThreshold	FAIL	no module docstring /-! … -/; 13 public declarations without a docstring (['GraphEdge', 'GraphConfig', 'permEdge', 'permuteConfig'])

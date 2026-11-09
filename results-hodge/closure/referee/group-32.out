@@ -1,0 +1,133 @@
+REFEREE	L0	AlgebraicGeometry.cycleComponentMap_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.cycleComponentMap_lift	PASS	180 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.cycleComponentMap_lift	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.cycleComponentMap_lift	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition | z ∈ AlgebraicGeometry.cycleComponentSupport X x :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.cycleComponentMap_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.cycleComponentMap_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.cycleComponentMap_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.cycleComponentMap_lift	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.cycleComponentMap_lift	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.cycleComponentMap_lift	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.cycleComponentMap_lift	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.cycleComponentMap_lift	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.cycleComponentMap_lift	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.cycleComponentMap_lift	PASS	10 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.cycleComponentMap_lift	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.cycleComponentMap_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.cycleComponentMap_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.cycleComponentMap_lift	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	261 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.cycleComponent_isNoetherian	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.cycleComponent_isNoetherian	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.cycleComponent_isNoetherian	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.cycleComponent_isNoetherian	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	reaches AlgebraicGeometry.LocallyOfFiniteType.isLocallyNoetherian
+REFEREE	R1k	AlgebraicGeometry.cycleComponent_isNoetherian	CONTENT	reaches AlgebraicGeometry.LocallyOfFiniteType.isLocallyNoetherian
+REFEREE	R7	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	top step AlgebraicGeometry.isNoetherian_of_isProjective carries content
+REFEREE	R1i	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.cycleComponent_isNoetherian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.cycleComponent_isNoetherian	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	340 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.isClosed_cycleComponentSupport	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.isClosed_cycleComponentSupport	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.isClosed_cycleComponentSupport	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.isClosed_cycleComponentSupport	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.isClosed_cycleComponentSupport	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	top step AlgebraicGeometry.isClosed_complexPoint_underlying_preimage carries content
+REFEREE	R1i	AlgebraicGeometry.isClosed_cycleComponentSupport	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	12 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.isClosed_cycleComponentSupport	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.isClosed_cycleComponentSupport	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	102 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	reaches AlgebraicGeometry.locallyOfFinitePresentation_comp
+REFEREE	R1k	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	CONTENT	reaches AlgebraicGeometry.locallyOfFinitePresentation_comp
+REFEREE	R7	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	top step AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus carries content
+REFEREE	R1i	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	2 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.cycleComponent_smoothLocus_smooth	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	158 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition | AlgebraicGeometry.Point.underlying z ∈ closure {x} :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	6 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.cycleComponent_vanishingIdeal_le_complexPoint_ker	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.range_cycleComponentι	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.range_cycleComponentι	PASS	48 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.range_cycleComponentι	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.range_cycleComponentι	PASS	no hypotheses
+REFEREE	L3	AlgebraicGeometry.range_cycleComponentι	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.range_cycleComponentι	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.range_cycleComponentι	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.range_cycleComponentι	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.range_cycleComponentι	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.range_cycleComponentι	PASS	reaches isClosed_closure
+REFEREE	R1k	AlgebraicGeometry.range_cycleComponentι	CONTENT	reaches isClosed_closure
+REFEREE	R7	AlgebraicGeometry.range_cycleComponentι	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.range_cycleComponentι	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.range_cycleComponentι	PASS	2 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.range_cycleComponentι	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.range_cycleComponentι	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.range_cycleComponentι	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.range_cycleComponentι	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	331 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	10 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.isClosed_complexPoint_underlying_preimage	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	PASS	all 1 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	INFO	7 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['range_cycleComponentι', 'cycleComponentMap_lift', 'isClosed_cycleComponentSupport'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.Support	PASS	not under a Mathlib folder
+exit 1

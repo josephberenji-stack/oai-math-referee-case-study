@@ -1,0 +1,121 @@
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	395 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	∀ j < r, (MvPolynomial.homogeneousComponent j) q = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	reaches Filter.Eventually.mono
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	top step OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto carries content
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto_positive	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	48 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	∀ j < r, (MvPolynomial.homogeneousComponent j) q = 0 :: side condition | Finsupp.degree e < r :: side condition || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	reaches congrFun'
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	no single top step
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.coeff_eq_zero_of_lower_components	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	2941 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.smooth_initial_form_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	2 ≤ d :: side condition | 2 ≤ r :: side condition | (MvPolynomial.homogeneousComponent r) ((OAI.PermanentBorder.affineSubstitution a fun i j = :: side condition (project data) | ∀ j < r,  (MvPolynomial.homogeneousComponent j)    ((OAI.PermanentBorder.affineSubstitutio :: side condition (project data) | ∀ (y : Fin d → ℂ),  (MvPolynomial.eval y)     ((MvPolynomial.homogeneousComponent r)       :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.smooth_initial_form_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	no single top step
+REFEREE	R5	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.smooth_initial_form_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.smooth_initial_form_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	641 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	REVIEW	OAI.PermanentBorder.HasBorderDeterminant n q :: carries a project proposition | ∀ j < r, (MvPolynomial.homogeneousComponent j) q = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	no single top step
+REFEREE	R5	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.HasBorderDeterminant.lowest_homogeneousComponent	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	no hypotheses
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	reaches congrFun'
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.dilation_eq_aeval	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	183 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	no hypotheses
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	reaches congrFun'
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.dilation_monomial	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	212 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	no hypotheses
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	reaches MvPolynomial.induction_on'
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.coeff_dilation	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	269 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	∀ j < r, (MvPolynomial.homogeneousComponent j) q = 0 :: side condition | t ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	reaches congrFun'
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.coeff_normalizedDilation	REVIEW	computed class A?
+REFEREE	L0	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	367 constants reached, no stand-in
+REFEREE	L1u	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	∀ j < r, (MvPolynomial.homogeneousComponent j) q = 0 :: side condition | Filter.Tendsto t l (nhds 0) :: side condition | ∀ᶠ (j : α) in l, t j ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	INFO	not a registered target statement
+REFEREE	R1	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	reaches Filter.Eventually.mono
+REFEREE	R7	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	no single top step
+REFEREE	R5	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PermanentBorder.InitialHomogeneous.normalizedDilation_tendsto	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.Determinantal.InitialForm	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.Determinantal.InitialForm	INFO	9 theorems checked
+REFEREE	L5	OAI.Algebra.Determinantal.InitialForm	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.Determinantal.InitialForm	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['dilation', 'dilation_eq_aeval', 'dilation_monomial', 'coeff_dilation'])

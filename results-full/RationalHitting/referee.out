@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	5345 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.ExecutableGenerator.implementation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	no hypotheses
+REFEREE	L3	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.ExecutableGenerator.implementation	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	reaches Nat.mul_pos
+REFEREE	R7	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	top step OAI.RationalHitting.ExecutableGenerator.implementation_of_stack carries content
+REFEREE	R5	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.ExecutableGenerator.implementation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.ExecutableGenerator.implementation	REVIEW	computed class A?
+REFEREE	L0	OAI.RationalHitting.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RationalHitting.main	PASS	5357 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.main	PASS	no hypotheses
+REFEREE	L3	OAI.RationalHitting.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.main	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.main	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.RationalHitting.main	PASS	top step OAI.RationalHitting.ExecutableGenerator.main_of_implementation carries content
+REFEREE	R5	OAI.RationalHitting.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.main	REVIEW	computed class A?
+REFEREE	L0	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	2438 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.ExecutableGenerator.stack_implementation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	no hypotheses
+REFEREE	L3	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.ExecutableGenerator.stack_implementation	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	reaches Nat.mul_pos
+REFEREE	R7	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.ExecutableGenerator.stack_implementation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.ExecutableGenerator.stack_implementation	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.RationalHitting.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.RationalHitting.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Computability.RationalHitting.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.RationalHitting.Main	FAIL	no module docstring /-! … -/

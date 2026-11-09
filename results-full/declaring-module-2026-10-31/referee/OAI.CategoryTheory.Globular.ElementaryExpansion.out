@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	142 constants reached, no stand-in
+REFEREE	L1u	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	FAIL	OAI.Grothendieck.GlobularSet :: UNBUILT | OAI.Grothendieck.GlobularSet :: UNBUILT | OAI.Grothendieck.GlobularSet :: UNBUILT | OAI.Grothendieck.GlobularSet :: UNBUILT | X.Hom Y :: carries a project proposition | R.Hom S :: carries a project proposition | X.Hom R :: carries a project proposition | Y.Hom S :: carries a project proposition | i.comp b = a.comp j :: side condition (project data) | OAI.Grothendieck.GlobularSet.ExactBoundaryTest j :: carries a project proposition | ∀ k ≤ d, Function.Bijective (a.app k) :: side condition (project data) | Function.Injective (b.app d) :: side condition (project data) | Function.Surjective (b.app (d + 1)) :: side condition (project data) | Y.boundary d y = i.boundaryMap d bd :: side condition (project data) || unbuilt=4
+REFEREE	L3	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	INFO	not a registered target statement
+REFEREE	R1	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	reaches Subtype.property
+REFEREE	R7	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	no single top step
+REFEREE	R5	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Grothendieck.GlobularSet.exactBoundaryTest_at_of_low_square	PASS	computed class C
+REFEREE	L0	OAI.Grothendieck.elementary_expansion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Grothendieck.elementary_expansion	PASS	2935 constants reached, no stand-in
+REFEREE	L1u	OAI.Grothendieck.elementary_expansion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Grothendieck.elementary_expansion	FAIL	OAI.Grothendieck.GlobularTheory :: UNBUILT | C.IsCoherator :: carries a project proposition | C.Model :: carries a project proposition | X.IsCellular :: carries a project proposition | C.Model :: carries a project proposition | CategoryTheory.IsPushout a (OAI.Grothendieck.GlobularTheory.Model.J C n) i b :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.Grothendieck.elementary_expansion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Grothendieck.elementary_expansion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Grothendieck.elementary_expansion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Grothendieck.elementary_expansion	INFO	not a registered target statement
+REFEREE	R1	OAI.Grothendieck.elementary_expansion	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.Grothendieck.elementary_expansion	PASS	top step OAI.Grothendieck.GlobularTheory.Model.weakEquivalence_of_exactBoundaryTest carries content
+REFEREE	R5	OAI.Grothendieck.elementary_expansion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Grothendieck.elementary_expansion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Grothendieck.elementary_expansion	PASS	computed class C
+REFEREE	L4	OAI.CategoryTheory.Globular.ElementaryExpansion	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.CategoryTheory.Globular.ElementaryExpansion	INFO	2 theorems checked
+REFEREE	L5	OAI.CategoryTheory.Globular.ElementaryExpansion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.CategoryTheory.Globular.ElementaryExpansion	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['exactBoundaryTest_at_of_low_square.{v}', 'elementary_expansion.{v}'])

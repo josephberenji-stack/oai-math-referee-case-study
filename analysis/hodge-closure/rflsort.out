@@ -1,0 +1,64 @@
+pure-rfl theorems parsed 4880
+projection 2733
+unfold 727
+identification 619
+other 519
+other-rel 107
+iff-rfl 103
+same-head 72
+
+identifications on the switch subtree 598 of 619
+
+TOP 40 IDENTIFICATIONS BY FILES RESTING ON THEM
+10036	2	SW	AlgebraicGeometry.Foundations.Scheme.FunctionFieldScalar::functionFieldScalarMap_apply	functionFieldScalarMap = germ	functionFieldScalarMap f c = X.presheaf.germ ⊤ (genericPoint X) (by trivial) (f.appTop ((Scheme.ΓSpecIso (.of K)).inv c))
+8815	0	SW	AlgebraicGeometry.Foundations.Scheme.ProjectiveCoordinatesIn::affineChart_apply	affineChart = ratio	affineChart i p j = ratio i j.val p.val
+7856	1	SW	AlgebraicGeometry.ComplexPoints.Analytic.ProjectiveCharts::projectiveFinChart_apply	projectiveFinChart = ratio	projectiveFinChart i p j = Foundations.Scheme.ProjectiveCoordinatesIn.Algebraic.ProjectiveCoordinates.ratio i (i.succAbove j) p
+7452	4	SW	AlgebraicGeometry.Foundations.Scheme.SmoothProjectiveComponents::SmoothProjective.SmoothProjectivePresentation.componentInclusionOfStalkDomains_over	componentInclusionOfStalkDomains = componentVarietyOfStalkDomains	P.componentInclusionOfStalkDomains hlocal C ≫ P.structureMap = (P.componentVarietyOfStalkDomains hlocal C).structureMap
+7451	10	SW	AlgebraicGeometry.Foundations.Scheme.SmoothProjectiveDecomposition::SmoothProjective.SmoothProjectivePresentation.componentInclusion_over	componentInclusion = componentVariety	P.componentInclusion C ≫ P.structureMap = (P.componentVariety C).structureMap
+6910	9	SW	AlgebraicGeometry.ComplexPoints.Analytic.ProjectiveScheme::ProjectiveScheme.projectiveSchemePointHomeomorph_apply	projectiveSchemePointHomeomorph = projectivizationSchemePoint	ProjectiveScheme.projectiveSchemePointHomeomorph n p = ProjectiveScheme.projectivizationSchemePoint n p
+6637	2	SW	AlgebraicGeometry.ComplexPoints.Analytic.JacobianRegularity::selectedCoordinateEquiv_apply	selectedCoordinateEquiv = splitCoordinates	selectedCoordinateEquiv s hs x = splitCoordinates s x
+6024	0	SW	AlgebraicGeometry.CycleClass.Geometric.LocalHomology::subspaceMap_inclusion	subspaceMap = subspaceInclusion	subspaceMap f h ≫ subspaceInclusion Y B = subspaceInclusion X A ≫ f
+5957	6	SW	AlgebraicTopology.Cohomology.Singular.UniversalCoefficient::singularUniversalCoefficientEquiv_apply	singularUniversalCoefficientEquiv = singularEvaluation	singularUniversalCoefficientEquiv X n c = Evaluation.singularEvaluation (ModuleCat.of F F) X n c
+5862	4	SW	Analysis.DifferentialForms.Manifold.ComplexAction::complexTangentScalarMap_apply	complexTangentScalarMap = complexTangentSMul	complexTangentScalarMap x z v = complexTangentSMul x z v
+5539	3	SW	AlgebraicTopology.DeRham.Comparison.SmallSingularCochains::smallSingularRefinement_inclusion	smallSingularRefinement = smallSingularInclusion	smallSingularRefinement X U V hUV ≫ SmallSingularSet.smallSingularInclusion X V = SmallSingularSet.smallSingularInclusion X U
+5503	5	SW	AlgebraicTopology.Cohomology.Singular.SmoothComparison::smoothRestriction_eq_simplicialPullback	smoothSingularCochainRestriction = simplicialPullback	Smooth.smoothSingularCochainRestriction M E = Functor.simplicialPullback M (Smooth.smoothSingularInclusion E)
+5475	3	SW	AlgebraicTopology.Cohomology.Singular.SmoothOpen::subsetSmoothToAmbient_inclusion	subsetSmoothToAmbient = subsetSmoothSingularSubcomplex	subsetSmoothToAmbient U ≫ Smooth.smoothSingularInclusion E = (subsetSmoothSingularSubcomplex U).ι ≫ TopCat.toSSet.map (normedSubsetInclusion U)
+5468	6	SW	AlgebraicTopology.Cohomology.Singular.SmoothConvexComparison::SmoothConvexComparison.convexContractionSimplex_ambient	normedSubsetInclusion = linearContractionSimplex	(SmoothOpen.normedSubsetInclusion U).hom.comp (SmoothConvexComparison.convexContractionSimplex hU c σ τ) = SmoothHomotopy.linearContractionSimplex (c : E) ((SmoothOpen.normedSubsetInclusion U).hom.com
+5405	9	SW	AlgebraicTopology.Cohomology.Singular.OpenCochainPresheafComparison::manifoldSmoothOpenCochainPresheafIso_hom_app	manifoldSmoothOpenCochainPresheafIso = manifoldSmoothPullback	(manifoldSmoothOpenCochainPresheafIso E M A W).hom.app (op V) = ManifoldSmoothFunctor.manifoldSmoothPullback E E A (ChartOpenDiffeomorph.nestedOpenDiffeomorph E W V) (ChartOpenDiffeomorph.nestedOpenDi
+5352	2	SW	AlgebraicTopology.DeRham.Comparison.CubicalDegenerateQ::cubicalBoundaryLinear_apply	cubicalBoundaryLinear = singularBoundary	cubicalBoundaryLinear n m c = StokesF.SingularCubeStokes.singularBoundary c
+5265	2	SW	AlgebraicGeometry.AbelianModuli.HilbertConstruction.Picard.BaseChange::relativePicardPresheafBaseChangeIso_hom_app	relativePicardPresheafBaseChangeIso = pullbackClass	(relativePicardPresheafBaseChangeIso X f).hom.app (.op T) q = Line.Bundles.LineBundle.pullbackClass (familyBaseChangeIso X f T).inv q
+5265	2	SW	AlgebraicGeometry.AbelianModuli.HilbertConstruction.Picard.BaseChange::relativePicardPresheafBaseChangeIso_inv_app	relativePicardPresheafBaseChangeIso = pullbackClass	(relativePicardPresheafBaseChangeIso X f).inv.app (.op T) q = Line.Bundles.LineBundle.pullbackClass (familyBaseChangeIso X f T).hom q
+5250	6	SW	AlgebraicGeometry.CycleClass.Geometric.DimensionCycles::basis_apply	basis = single	basis R V p Z = Finsupp.single Z (1 : R)
+4999	7	SW	AlgebraicTopology.DeRham.Comparison.SmoothCechDoubleComplex::smoothCechExteriorD_apply	smoothCechExteriorD = d	smoothCechExteriorD U p n c a = Analysis.DifferentialForms.Manifold.OpenD.SmoothOpenForm.d (c a)
+4993	8	SW	AlgebraicTopology.DeRham.Comparison.CechDoubleComplexFunctor::cechDoubleComplex_XX	cechDoubleComplex = of	((cechDoubleComplex U K).X p).X q = ModuleCat.of ℂ (SmoothCech.CechCochain (K.X q) U p)
+4993	8	SW	AlgebraicTopology.DeRham.Comparison.CechDoubleComplexFunctor::cechDoubleComplex_row	cechDoubleComplex = cechComplex	(cechDoubleComplex U K).flip.X q = SmoothCech.cechComplex (K.X q) U
+4988	8	SW	Analysis.DifferentialForms.Manifold.SheafDeRham::manifoldDeRhamSheafSectionsComplex_X	manifoldDeRhamSheafSectionsComplex = of	(manifoldDeRhamSheafSectionsComplex E U).X n = ModuleCat.of ℂ (Open.SmoothOpenManifoldForm E U n)
+4988	8	SW	Analysis.DifferentialForms.Manifold.SheafDeRham::manifoldDeRhamGlobalSectionsIso_hom_f_apply	manifoldDeRhamGlobalSectionsIso = toGlobal	((manifoldDeRhamGlobalSectionsIso E M).hom.f n) form = Open.SmoothOpenManifoldForm.toGlobal form
+4988	8	SW	Analysis.DifferentialForms.Manifold.SheafDeRham::manifoldDeRhamGlobalSectionsIso_inv_f_apply	manifoldDeRhamGlobalSectionsIso = onOpen	((manifoldDeRhamGlobalSectionsIso E M).inv.f n) form = Manifold.Algebra.SmoothManifoldForm.onOpen ⊤ form
+4904	0	SW	Analysis.DifferentialForms.Manifold.Coefficients::postcomposeForm_apply	postcomposeForm = T	postcomposeForm T form x v = T (form x v)
+4893	8	SW	AlgebraicTopology.DeRham.Comparison.ManifoldCubeIntegration::manifoldCubeIntegration_apply	manifoldCubeIntegration = complexIntegrateForm	manifoldCubeIntegration sigma form = ComplexCubeIntegration.complexIntegrateForm (StokesF.SingularCubeStokes.idCube n) (manifoldCubePullback sigma form)
+4858	10	SW	Analysis.DifferentialForms.Manifold.CechDeRham::manifoldDeRhamPresheafComplex_X_sheaf	manifoldDeRhamPresheafComplex = manifoldDeRhamSheafComplex	(manifoldDeRhamPresheafComplex E M).X p = ((SheafDeRham.manifoldDeRhamSheafComplex E M).X p).presheaf
+4858	10	SW	Analysis.DifferentialForms.Manifold.CechDeRham::manifoldCechExteriorD_apply	manifoldCechExteriorD = d	manifoldCechExteriorD U p n c a = Open.SmoothOpenManifoldForm.d (c a)
+4858	10	SW	Analysis.DifferentialForms.Manifold.CechDeRham::manifoldCechDoubleComplex_XX	manifoldCechDoubleComplex = of	((manifoldCechDoubleComplex (E := E) U).X n).X p = ModuleCat.of ℂ (CechContraction.ManifoldCechCochain (E := E) U p n)
+4858	10	SW	Analysis.DifferentialForms.Manifold.CechDeRham::manifoldCechDoubleComplex_row	manifoldCechDoubleComplex = manifoldCechComplex	(manifoldCechDoubleComplex (E := E) U).flip.X p = CechContraction.manifoldCechComplex (E := E) U p
+4840	5	SW	AlgebraicTopology.Cohomology.Singular.SmallCochainCechComparison::smallSingularCechComparisonIso_hom_f	smallSingularCechComparisonIso = ofHom	(smallSingularCechComparisonIso X U M n).hom.f k = ModuleCat.ofHom (smallSingularCechDegreeEquiv X U M n k).toLinearMap
+4813	12	SW	AlgebraicTopology.Cohomology.Singular.CechDoubleComplex::singularCechDoubleComplex_XX	singularCechDoubleComplex = of	((singularCechDoubleComplex X U M).X k).X n = ModuleCat.of ℂ (DeRham.Comparison.SmoothCech.CechCochain (DeRham.Comparison.SingularPresheaf.singularCochainDegreePresheaf M X n) U k)
+4813	12	SW	AlgebraicTopology.Cohomology.Singular.CechDoubleComplex::singularCechDoubleComplex_row	singularCechDoubleComplex = cechComplex	(singularCechDoubleComplex X U M).flip.X n = DeRham.Comparison.SmoothCech.cechComplex (DeRham.Comparison.SingularPresheaf.singularCochainDegreePresheaf M X n) U
+4778	3	SW	AlgebraicTopology.DeRham.Comparison.DuffyDegenerateFaces::oneFaceCube_apply	oneFaceCube = coordinates	oneFaceCube n i t = DuffyCoordinates.Duffy.coordinates (n + 2) (Fin.insertNth i.castSucc 1 t)
+4761	0	SW	Topology.Euclidean.ProductComplexes::indexedProductComplex_X	indexedProductComplex = of	(indexedProductComplex R K).X n = ModuleCat.of R (∀ i, (K i).X n)
+4751	6	SW	AlgebraicTopology.Cohomology.Singular.ManifoldSmoothSmall::manifoldSmoothSmallInclusion_ambient	manifoldSmoothSmallInclusion = manifoldSmoothSmallAmbientInclusion	manifoldSmoothSmallInclusion E X U ≫ ManifoldSmooth.manifoldSmoothInclusion E X = manifoldSmoothSmallAmbientInclusion E X U
+4751	6	SW	AlgebraicTopology.Cohomology.Singular.ManifoldSmoothSmall::manifoldSmoothSmallToContinuousSmall_ambient	manifoldSmoothSmallToContinuousSmall = manifoldSmoothSmallAmbientInclusion	manifoldSmoothSmallToContinuousSmall E X U ≫ DeRham.Comparison.SmallSingularSet.smallSingularInclusion (TopCat.of X) U = manifoldSmoothSmallAmbientInclusion E X U
+4746	9	SW	AlgebraicGeometry.CycleClass.Geometric.SmoothSubdivisionHomotopy::SmoothSimplexModels.Cycles.SmoothSimplexSpace.subdivision_ofManifold	subdivision = manifoldSmoothSubdivisionChainMap	SmoothSimplexModels.Cycles.SmoothSimplexSpace.subdivision (SmoothSimplexModels.Cycles.SmoothSimplexSpace.ofManifold E M) = AlgebraicTopology.Cohomology.Singular.ManifoldSmoothSubdivision.manifoldSmoot
+4745	8	SW	AlgebraicTopology.Cohomology.Singular.ManifoldSmoothSmallCech::manifoldSmoothSmallCechComparisonIso_hom_f	manifoldSmoothSmallCechComparisonIso = ofHom	(manifoldSmoothSmallCechComparisonIso E X U A n).hom.f k = ModuleCat.ofHom (manifoldSmoothSmallCechDegreeEquiv E X U A n k).toLinearMap
+
+iff-rfl (proved by Iff.rfl or rfl on an iff) top 10 by reach
+9753	3	AlgebraicGeometry.ComplexPoints.Analytic.PrincipalOpen::Foundations.Scheme.AffineComplexPoints.affineComplexPoints.mem_principalOpen	x ∈ Foundations.Scheme.AffineComplexPoints.affineComplexPoints.principalOpen a ↔ x a ≠ 0
+8057	1	AlgebraicGeometry.Foundations.Scheme.ProjectiveZeroLocus::mem_homogeneousProjectiveZeroLocus_mk	Projectivization.mk K v hv ∈ homogeneousProjectiveZeroLocus f hf ↔ eval v f = 0
+7223	0	AlgebraicGeometry.AbelianModuli.HilbertConstruction.Abelian.Schemes::mem_torsionPoints	x ∈ A.torsionPoints N T ↔ x ^ N = 1
+6712	1	AlgebraicGeometry.Foundations.Scheme.QuotientComplexPoints::mem_affineIdealZeroLocus_iff_le_ker	x ∈ affineIdealZeroLocus I ↔ I ≤ RingHom.ker x.toRingHom
+5953	1	AlgebraicTopology.DeRham.Comparison.SmallSingularSet::mem_smallSingularSubcomplex	σ ∈ (smallSingularSubcomplex X U).obj n ↔ ∃ i, Set.range (X.toSSetObjEquiv n σ) ⊆ U i
+5937	1	Analysis.DifferentialForms.Manifold.Bidegree::mem_pureBidegreeSubmodule	form ∈ pureBidegreeSubmodule E p q ↔ HasBidegree E p q form
+5869	2	Analysis.DifferentialForms.Manifold.ManifoldBidegree::mem_pureManifoldFormSubmodule	form ∈ pureManifoldFormSubmodule E M p q ↔ HasManifoldBidegree E M p q (form : Algebra.RawManifoldForm E M (p + q))
+5757	5	Analysis.DifferentialForms.Manifold.ManifoldDeRham::ManifoldDeRham.mem_manifoldClosedForms	form ∈ ManifoldDeRham.manifoldClosedForms E M n ↔ Manifold.Algebra.SmoothManifoldForm.d form = 0
+5640	5	AlgebraicTopology.Cohomology.Singular.ChartBalls::mem_chartBallDomain	y ∈ chartBallDomain E x r ↔ y ∈ (chartAt E x).source ∧ chartAt E x y ∈ Metric.ball (chartAt E x x) r
+5640	5	AlgebraicTopology.Cohomology.Singular.ChartBalls::mem_chartBallOpen	y ∈ chartBallOpen E x r ↔ y ∈ (chartAt E x).source ∧ chartAt E x y ∈ Metric.ball (chartAt E x x) r

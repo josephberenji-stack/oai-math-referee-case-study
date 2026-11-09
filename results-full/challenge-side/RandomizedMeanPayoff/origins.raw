@@ -1,0 +1,69 @@
+warning: PrimeNumberTheoremAnd: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/PrimeNumberTheoremAnd' has local changes
+warning: belyi: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/belyi' has local changes
+warning: formal-schemes: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/formal-schemes' has local changes
+warning: elliptic-curves: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/elliptic-curves' has local changes
+warning: tempered-fundamental-groups: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/tempered-fundamental-groups' has local changes
+warning: oka: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/oka' has local changes
+warning: orbicurve-cores: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/orbicurve-cores' has local changes
+warning: pi1: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/pi1' has local changes
+warning: heights: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/heights' has local changes
+warning: genl: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/genl' has local changes
+warning: tate-curves-theta: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/tate-curves-theta' has local changes
+warning: iut: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/iut' has local changes
+warning: gromov: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/gromov' has local changes
+warning: SphereEversion: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/SphereEversion' has local changes
+warning: schoenflies-lean: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/schoenflies-lean' has local changes
+warning: ClassFieldTheory: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/ClassFieldTheory' has local changes
+warning: AINTLIB: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/AINTLIB' has local changes
+warning: AbsorptionCutoff: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/AbsorptionCutoff' has local changes
+warning: StrongPNT: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/StrongPNT' has local changes
+warning: carleson: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/carleson' has local changes
+warning: rellich-kondrachov: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/rellich-kondrachov' has local changes
+warning: Zeta3Irrational: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/Zeta3Irrational' has local changes
+warning: fixed-point-theorems: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/fixed-point-theorems' has local changes
+ORIGIN	OAI.randomized_quasipolynomial_mean_payoff	solution-side constants 0 (definitions/types 0)	library constants 204	first: []
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.step
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.m
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Configuration.control
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.head
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.step.match_1
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.maxOwner
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.n
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.CorrectOutput
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.initial
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Configuration
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.play
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.move
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Machine.start
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Action
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.result
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.run
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Strategy
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Symbol
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.step.match_3
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.position.match_1
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Configuration.tape
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.padBits
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Direction.offset.match_1
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Direction.casesOn
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.input
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.position._f
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Winning
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Machine.states
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.tail
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.MainClaim
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Machine
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Machine.transition
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Action.write
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Action.next
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Action.shift
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.encodeInt
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Direction
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Configuration.head
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Game.weight
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.position
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.run._f
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.encodeNat
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.meanPayoff
+CDEF	OAI.randomized_quasipolynomial_mean_payoff	OAI.MeanPayoff.Direction.offset

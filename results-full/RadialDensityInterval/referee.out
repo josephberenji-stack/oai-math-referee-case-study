@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	630 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.support_ball_two_pressures_nearby	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	Metric.closedBall OAI.RadialTransition.targetSlope OAI.RadialTransition.pressureRadius ⊆   :: side condition (project data) | |ρ - 5 * OAI.RadialTransition.packingDensity / 3| < OAI.RadialTransition.pressureRadius /  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.support_ball_two_pressures_nearby	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	no single top step
+REFEREE	R5	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.support_ball_two_pressures_nearby	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.support_ball_two_pressures_nearby	REVIEW	computed class A?
+REFEREE	L0	OAI.RadialTransition.densityInterval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RadialTransition.densityInterval	PASS	4239 constants reached, no stand-in
+REFEREE	L1u	OAI.RadialTransition.densityInterval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RadialTransition.densityInterval	PASS	no hypotheses
+REFEREE	L3	OAI.RadialTransition.densityInterval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RadialTransition.densityInterval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RadialTransition.densityInterval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RadialTransition.densityInterval	INFO	not a registered target statement
+REFEREE	R1	OAI.RadialTransition.densityInterval	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.RadialTransition.densityInterval	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RadialTransition.densityInterval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RadialTransition.densityInterval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RadialTransition.densityInterval	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.RadialTransition.DensityInterval	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.RadialTransition.DensityInterval	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.RadialTransition.DensityInterval	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.RadialTransition.DensityInterval	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['support_ball_two_pressures_nearby', 'densityInterval'])

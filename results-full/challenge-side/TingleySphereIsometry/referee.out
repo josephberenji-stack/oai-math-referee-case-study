@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Tingley.tingley_sphere_isometry_full	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Tingley.tingley_sphere_isometry_full	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.Tingley.tingley_sphere_isometry_full	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Tingley.tingley_sphere_isometry_full	PASS	CompleteSpace X :: side condition | CompleteSpace Y :: side condition | Nontrivial X :: side condition | Nontrivial Y :: side condition | Isometry f :: side condition (project data) | Function.Surjective f :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Tingley.tingley_sphere_isometry_full	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Tingley.tingley_sphere_isometry_full	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Tingley.tingley_sphere_isometry_full	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Tingley.tingley_sphere_isometry_full	INFO	not a registered target statement
+REFEREE	R1	OAI.Tingley.tingley_sphere_isometry_full	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.Tingley.tingley_sphere_isometry_full	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Tingley.tingley_sphere_isometry_full	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Tingley.tingley_sphere_isometry_full	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Tingley.tingley_sphere_isometry_full	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.TingleySphereIsometry	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TingleySphereIsometry	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.TingleySphereIsometry	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TingleySphereIsometry	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['UnitSphere', 'normalize'])

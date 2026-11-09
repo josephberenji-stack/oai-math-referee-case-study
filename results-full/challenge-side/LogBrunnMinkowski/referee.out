@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LogBrunnMinkowski.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LogBrunnMinkowski.main	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.LogBrunnMinkowski.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LogBrunnMinkowski.main	REVIEW	1 ≤ n :: side condition | OAI.LogBrunnMinkowski.IsConvexBody K :: carries a project proposition | OAI.LogBrunnMinkowski.IsConvexBody L :: carries a project proposition | OAI.LogBrunnMinkowski.OriginSymmetric K :: carries a project proposition | OAI.LogBrunnMinkowski.OriginSymmetric L :: carries a project proposition | 0 ≤ t :: side condition | t ≤ 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.LogBrunnMinkowski.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LogBrunnMinkowski.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LogBrunnMinkowski.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LogBrunnMinkowski.main	INFO	not a registered target statement
+REFEREE	R1	OAI.LogBrunnMinkowski.main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.LogBrunnMinkowski.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LogBrunnMinkowski.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LogBrunnMinkowski.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LogBrunnMinkowski.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.LogBrunnMinkowski	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.LogBrunnMinkowski	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.LogBrunnMinkowski	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.LogBrunnMinkowski	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['Space', 'IsConvexBody', 'OriginSymmetric', 'support'])

@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	2740 constants reached, no stand-in
+REFEREE	L1u	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	REVIEW	CompleteSpace X :: side condition | OAI.ReflexiveFixedPoints.CanonicallyReflexive X :: carries a project proposition | C.Nonempty :: side condition | IsClosed C :: side condition | Bornology.IsBounded C :: side condition | Convex ℝ C :: side condition | Set.MapsTo F C C :: side condition | ∀ a ∈ C, ∀ b ∈ C, ‖F a - F b‖ ≤ ‖a - b‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	INFO	not a registered target statement
+REFEREE	R1	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	top step OAI.ReflexiveFixedPoints.ambient_fixedPoint_of_property carries content
+REFEREE	R5	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ReflexiveFixedPoints.exists_ambient_fixedPoint_of_canonicallyReflexive	REVIEW	computed class A?
+REFEREE	L0	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	2740 constants reached, no stand-in
+REFEREE	L1u	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	REVIEW	CompleteSpace X :: side condition | OAI.ReflexiveFixedPoints.CanonicallyReflexive X :: carries a project proposition | C.Nonempty :: side condition | IsClosed C :: side condition | Bornology.IsBounded C :: side condition | Convex ℝ C :: side condition | LipschitzWith 1 F :: side condition || unbuilt=0
+REFEREE	L3	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	INFO	not a registered target statement
+REFEREE	R1	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	top step OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive carries content
+REFEREE	R5	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_lipschitzWith_one	REVIEW	computed class A?
+REFEREE	L0	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	2739 constants reached, no stand-in
+REFEREE	L1u	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	REVIEW	CompleteSpace X :: side condition | OAI.ReflexiveFixedPoints.CanonicallyReflexive X :: carries a project proposition | C.Nonempty :: side condition | IsClosed C :: side condition | Bornology.IsBounded C :: side condition | Convex ℝ C :: side condition | ∀ (a b : ↑C), ‖↑(F a) - ↑(F b)‖ ≤ ‖↑a - ↑b‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	INFO	not a registered target statement
+REFEREE	R1	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	top step OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive carries content
+REFEREE	R5	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive	REVIEW	computed class A?
+REFEREE	L0	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	2738 constants reached, no stand-in
+REFEREE	L1u	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	REVIEW	CompleteSpace X :: side condition | OAI.ReflexiveFixedPoints.CanonicallyReflexive X :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	INFO	not a registered target statement
+REFEREE	R1	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ReflexiveFixedPoints.hasNonexpansiveFixedPointProperty_of_canonicallyReflexive	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Nonexpansive.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.Nonexpansive.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Analysis.Nonexpansive.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Nonexpansive.Main	FAIL	module docstring has no `## Main results`

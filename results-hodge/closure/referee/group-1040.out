@@ -1,0 +1,271 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	854 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	∀ (i : Fin (n + 1)), w i ≠ 0 :: side condition | ∀ (i : ι), MvPolynomial.IsWeightedHomogeneous w (b i) (e i) :: side condition | ∀ (i : ι), b i ≠ 0 :: side condition (project data) | ∀ (i : ι), e i ≤ D :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	CONTENT	reaches Equiv.injective
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	19 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.exists_uniform_weighted_elimination_generators	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	328 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	∀ (i : ι), b i ∈ I ∧ b i ≠ 0 :: side condition (project data) | ∀ f ∈ I,  f ≠ 0 →   ∃ i,    (OAI.AlgebraicGeometry.HilbertScheme.Presentations.Elimination :: side condition (project data) | f ∈ I :: side condition (project data) | f ∈ MvPolynomial.supported K (↑s)ᶜ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	CONTENT	reaches Equiv.injective
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination.GradedHilbert.elimination_mem_span_of_leading_cover	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	253 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal  :: side condition (project data) | ∀ a ∈ G, Finsupp.degree a ≤ N :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	reaches MvPolynomial.mem_ideal_span_monomial_image
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.homogeneous_generators_of_initial_generators	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	170 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	(MvPolynomial.monomial a) 1 ∈  OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialId :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	reaches MvPolynomial.mem_ideal_span_monomial_image
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.lift_initial_monomial	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	95 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	f ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	reaches MvPolynomial.support_homogeneousComponent
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	CONTENT	reaches MvPolynomial.support_homogeneousComponent
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.leadingDegree_homogeneousComponent	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	145 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	∀ b ∈ B, b ∈ I ∧ b ≠ 0 :: side condition (project data) | ∀ f ∈ I, f ≠ 0 → ∃ b ∈ B, m.degree b ≤ m.degree f :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	reaches Ideal.span_le
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	CONTENT	reaches Ideal.span_le
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.ideal_eq_span_of_leading_cover	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	314 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	reaches Minimal.eq_of_ge
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial]
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators.GradedHilbert.exists_finite_homogeneous_generators	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	reaches CategoryTheory.Limits.prod.lift_map
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.productGroupValues_baseChange	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	reaches CategoryTheory.Limits.prod.lift_map
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.groupProductValue_baseChange	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	85 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	reaches CategoryTheory.Limits.prod.comp_lift
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_product_identity	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	71 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	reaches CategoryTheory.Limits.prod.comp_lift
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities.Core.preservesGroupLaw_iff_two_identities	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	175 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	AlgebraicGeometry.Flat A.hom :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation A.hom :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	reaches CategoryTheory.Limits.prod.comp_lift
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation.Core.groupLawMorphismEquation_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	731 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	I.toIdeal.FG :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations.GradedHilbert.finite_single_degree_projective_equations_above	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['elimination_mem_span_of_leading_cover', 'exists_uniform_weighted_elimination_generators'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerElimination	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['leadingDegree_homogeneousComponent', 'lift_initial_monomial', 'ideal_eq_span_of_leading_cover', 'exists_finite_homogeneous_generators'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroebnerGenerators	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['groupIdentityValue', 'groupProductValue', 'productGroupValues', 'preservesGroupLaw_iff_two_identities'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawFiniteIdentities	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['groupProductTransformation', 'productGroupTransformation', 'groupLawMorphismEquation', 'groupLawMorphismEquation_iff'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.GroupLawMorphismEquation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	FAIL	module docstring has no `## Main results`; 9 public declarations without a docstring (['projectiveSpaceMap', 'projectiveSpace', 'projectiveSpaceProjection', 'tupleNatTrans'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['finite_single_degree_projective_equations_above'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.HighDegreeProjectiveEquations	PASS	not under a Mathlib folder
+exit 1

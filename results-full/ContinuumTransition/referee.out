@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ContinuumTemperature.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ContinuumTemperature.main_theorem	PASS	4103 constants reached, no stand-in
+REFEREE	L1u	OAI.ContinuumTemperature.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ContinuumTemperature.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.ContinuumTemperature.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ContinuumTemperature.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ContinuumTemperature.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ContinuumTemperature.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.ContinuumTemperature.main_theorem	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ContinuumTemperature.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ContinuumTemperature.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ContinuumTemperature.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ContinuumTemperature.main_theorem	REVIEW	computed class A?
+REFEREE	L0	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	228 constants reached, no stand-in
+REFEREE	L1u	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	0 ≤ γ :: side condition || unbuilt=0
+REFEREE	L3	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	INFO	not a registered target statement
+REFEREE	R1	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	reaches Metric.mem_closedBall
+REFEREE	R7	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ContinuumTemperature.SlopeBall_subset_closedBall	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.ContinuumTransition.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.ContinuumTransition.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.ContinuumTransition.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.ContinuumTransition.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['SlopeBall_subset_closedBall', 'main_theorem'])

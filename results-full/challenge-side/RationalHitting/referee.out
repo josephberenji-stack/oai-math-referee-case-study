@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.RationalHitting.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.RationalHitting.main	PASS	147 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.main	PASS	no hypotheses
+REFEREE	L3	OAI.RationalHitting.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.main	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.main	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.RationalHitting.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RationalHitting.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.RationalHitting.Formula.Eval.brecOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RationalHitting.Formula.Eval.brecOn	PASS	42 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.Formula.Eval.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.Formula.Eval.brecOn	REVIEW	OAI.RationalHitting.Formula.Eval c X a✝¹ a✝ :: carries a project proposition | ∀ (a : OAI.RationalHitting.Formula n) (a_1 : R) (t : OAI.RationalHitting.Formula.Eval c X  :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RationalHitting.Formula.Eval.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.Formula.Eval.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.Formula.Eval.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.Formula.Eval.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.Formula.Eval.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.RationalHitting.Formula.Eval.brecOn	PASS	no single top step
+REFEREE	R5	OAI.RationalHitting.Formula.Eval.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.Formula.Eval.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.Formula.Eval.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.RationalHitting.Formula.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.RationalHitting.Formula.brecOn.eq	PASS	20 constants reached, no stand-in
+REFEREE	L1u	OAI.RationalHitting.Formula.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RationalHitting.Formula.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.RationalHitting.Formula.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RationalHitting.Formula.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RationalHitting.Formula.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RationalHitting.Formula.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.RationalHitting.Formula.brecOn.eq	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.RationalHitting.Formula.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RationalHitting.Formula.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RationalHitting.Formula.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RationalHitting.Formula.brecOn.eq	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.RationalHitting	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.RationalHitting	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.RationalHitting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.RationalHitting	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['Formula', 'size', 'Mat', 'Tuple'])

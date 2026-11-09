@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	199 constants reached, no stand-in
+REFEREE	L1u	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	∀ (x : H), ‖x‖ = 1 → δ ≤ ‖inner ℂ x (T x)‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	INFO	not a registered target statement
+REFEREE	R1	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	reaches norm_zero
+REFEREE	R7	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HilbertCrouzeix.lowerBound_of_unit_inner	REVIEW	computed class A?
+REFEREE	L0	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	123 constants reached, no stand-in
+REFEREE	L1u	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	0 < δ :: side condition | ∀ (x : H), δ * ‖x‖ ≤ ‖T x‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	INFO	not a registered target statement
+REFEREE	R1	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	reaches AntilipschitzWith.of_le_mul_dist
+REFEREE	R7	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HilbertCrouzeix.antilipschitz_of_lowerBound	REVIEW	computed class A?
+REFEREE	L0	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	394 constants reached, no stand-in
+REFEREE	L1u	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	CompleteSpace H :: side condition || unbuilt=0
+REFEREE	L3	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	INFO	not a registered target statement
+REFEREE	R1	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HilbertCrouzeix.spectrum_subset_numericalClosure	REVIEW	computed class A?
+REFEREE	L0	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	755 constants reached, no stand-in
+REFEREE	L1u	OAI.HilbertCrouzeix.numericalClosure_geometry	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	CompleteSpace H :: side condition || unbuilt=0
+REFEREE	L3	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HilbertCrouzeix.numericalClosure_geometry	INFO	not a registered target statement
+REFEREE	R1	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HilbertCrouzeix.numericalClosure_geometry	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HilbertCrouzeix.numericalClosure_geometry	REVIEW	computed class A?
+REFEREE	L0	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	321 constants reached, no stand-in
+REFEREE	L1u	OAI.HilbertCrouzeix.isUnit_of_unit_inner	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	CompleteSpace H :: side condition | 0 < δ :: side condition | ∀ (x : H), ‖x‖ = 1 → δ ≤ ‖inner ℂ x (T x)‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HilbertCrouzeix.isUnit_of_unit_inner	INFO	not a registered target statement
+REFEREE	R1	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	reaches inv_nonneg
+REFEREE	R7	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	no single top step
+REFEREE	R5	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HilbertCrouzeix.isUnit_of_unit_inner	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HilbertCrouzeix.isUnit_of_unit_inner	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.HilbertCrouzeix.Spectrum	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.HilbertCrouzeix.Spectrum	INFO	5 theorems checked
+REFEREE	L5	OAI.Analysis.HilbertCrouzeix.Spectrum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.HilbertCrouzeix.Spectrum	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['lowerBound_of_unit_inner', 'antilipschitz_of_lowerBound', 'isUnit_of_unit_inner', 'spectrum_subset_numericalClosure'])

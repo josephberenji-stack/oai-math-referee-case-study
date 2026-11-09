@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	11006 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	no hypotheses
+REFEREE	L3	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	top step OAI.MetricKMedian.exists_internal_program carries content
+REFEREE	R5	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedianRecovery.RefinedRecovery.companion_threshold_input	REVIEW	computed class A?
+REFEREE	L0	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	11303 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	0 < ε :: side condition | 0 < L₀ :: side condition | 0 < μ :: side condition | μ ≤ 1 / 4 :: side condition | ↑μ ≤ ε / 12 :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	top step OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery_conditional carries content
+REFEREE	R5	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.KMedianRecovery.Refined.Recovery	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.KMedianRecovery.Refined.Recovery	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.KMedianRecovery.Refined.Recovery	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.KMedianRecovery.Refined.Recovery	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['companion_threshold_input', 'refined_recovery'])

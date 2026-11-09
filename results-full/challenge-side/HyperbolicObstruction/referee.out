@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.HyperbolicObstruction.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.HyperbolicObstruction.main	PASS	182 constants reached, no stand-in
+REFEREE	L1u	OAI.HyperbolicObstruction.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HyperbolicObstruction.main	PASS	no hypotheses
+REFEREE	L3	OAI.HyperbolicObstruction.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HyperbolicObstruction.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HyperbolicObstruction.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HyperbolicObstruction.main	INFO	not a registered target statement
+REFEREE	R1	OAI.HyperbolicObstruction.main	PASS	reaches TopologicalSpace.induced._proof_3
+REFEREE	R7	OAI.HyperbolicObstruction.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HyperbolicObstruction.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HyperbolicObstruction.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HyperbolicObstruction.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	23 constants reached, no stand-in
+REFEREE	L1u	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	REVIEW	K.DiskHomotopy a✝² a✝¹ a✝ :: carries a project proposition | ∀ (a a_1 : List K.Vertex) (a_2 : ℕ) (t : K.DiskHomotopy a a_1 a_2),  OAI.HyperbolicObstruc :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	no single top step
+REFEREE	R5	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HyperbolicObstruction.FiniteComplex.DiskHomotopy.brecOn	REVIEW	computed class DEF
+REFEREE	L4	ComparatorChallenges.HyperbolicObstruction	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HyperbolicObstruction	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.HyperbolicObstruction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HyperbolicObstruction	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 14 public declarations without a docstring (['FiniteComplex', 'Vertex', 'Carrier', 'Edge'])

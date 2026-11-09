@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	10 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	NumberField K :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	CONTENT	reaches NumberField.instIsDomainRingOfIntegers
+REFEREE	R7	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ClassGroup.Finiteness.classGroup_finite	PASS	computed class DEF
+REFEREE	L0	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	97 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	NumberField K :: side condition | I ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	reaches Fintype.card_pos
+REFEREE	R1k	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	CONTENT	reaches NumberField.instIsDomainRingOfIntegers
+REFEREE	R7	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ClassGroup.Finiteness.fractionalIdeal_pow_principal	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.ClassGroup.Finiteness	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.ClassGroup.Finiteness	INFO	2 theorems checked
+REFEREE	L5	OAI.NumberTheory.ClassGroup.Finiteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ClassGroup.Finiteness	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['classGroup_finite', 'fractionalIdeal_pow_principal'])
+REFEREE	INST	OAI.NumberTheory.ClassGroup.Finiteness	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ClassGroup.Finiteness	PASS	not under a Mathlib folder
+exit 1

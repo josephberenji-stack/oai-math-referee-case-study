@@ -1,0 +1,400 @@
+runtests.lean:89:68: warning: Variable name `testsDir` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _testsDir
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+# Running tests
+
+
+## Running test: simple_axiom_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (230ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (195ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Illegal axiom detected: 'helper'
+
+## Running test: simple_mismatch
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (195ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (176ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Challenge and solution constant kind don't match: 'comm'
+
+## Running test: proj_trick
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (838ms)
+warning: Challenge.lean:15:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[tgt, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, T] from Challenge
+Building Solution
+✔ [2/3] Built Solution (707ms)
+Build completed successfully (3 jobs).
+Exporting #[tgt, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, T] from Solution
+uncaught exception: Const does not match between challenge and target 'S.mk'
+
+## Running test: primitive_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (178ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (75ms)
+Build completed successfully (3 jobs).
+PANIC at dumpConstant Export:237:48: Constant String.mk not found in environment.
+backtrace:
+/srv/oai/tools/bin/lean4export(+0x9984485) [0x56e021541485]
+/srv/oai/tools/bin/lean4export(+0x997b9f7) [0x56e0215389f7]
+/srv/oai/tools/bin/lean4export(lean_panic_fn_borrowed+0x2b) [0x56e021538adb]
+/srv/oai/tools/bin/lean4export(panic spec at dumpConstant (lean4export)+0x2ae) [0x56e01afe219e]
+/srv/oai/tools/bin/lean4export(List.forIn'.loop [arity↓] spec at main (lean4export)+0x2a1) [0x56e01afd3e61]
+/srv/oai/tools/bin/lean4export(main [λ] (lean4export)+0x167) [0x56e01afd4387]
+/srv/oai/tools/bin/lean4export(main [boxed, λ] (lean4export)+0x13) [0x56e01afd4623]
+/srv/oai/tools/bin/lean4export(<apply/3>+0x970) [0x56e021548bc0]
+/srv/oai/tools/bin/lean4export(M.run [arity↓] (lean4export)+0x30) [0x56e01afd6490]
+/srv/oai/tools/bin/lean4export(+0x9932fa7) [0x56e0214effa7]
+/srv/oai/tools/bin/lean4export(+0x9933625) [0x56e0214f0625]
+/lib/x86_64-linux-gnu/libc.so.6(+0x9cb84) [0x7f4423c9cb84]
+/lib/x86_64-linux-gnu/libc.so.6(+0x129ecc) [0x7f4423d29ecc]
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Child exited with 134
+
+## Running test: simple_match
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (176ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (306ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+Running Lean default kernel on solution.
+Lean default kernel accepts the solution
+Your solution is okay!
+
+## Running test: opaque_value
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (183ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (189ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Illegal axiom detected: 'f'
+
+## Running test: def_hole_axiom_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (187ms)
+warning: Challenge.lean:1:4: declaration uses `sorry`
+warning: Challenge.lean:3:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Challenge
+Building Solution
+⚠ [2/3] Built Solution (194ms)
+warning: Solution.lean:7:18: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Solution
+uncaught exception: Illegal axiom detected: 'sorryAx'
+
+## Running test: def_hole
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (193ms)
+warning: Challenge.lean:1:4: declaration uses `sorry`
+warning: Challenge.lean:3:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Challenge
+Building Solution
+✔ [2/3] Built Solution (177ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Solution
+Running Lean default kernel on solution.
+Lean default kernel accepts the solution
+Your solution is okay!
+
+## Running test: char_ofnat_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (174ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (53ms)
+Build completed successfully (3 jobs).
+PANIC at dumpConstant Export:237:48: Constant Quot not found in environment.
+backtrace:
+/srv/oai/tools/bin/lean4export(+0x9984485) [0x5fde078f4485]
+/srv/oai/tools/bin/lean4export(+0x997b9f7) [0x5fde078eb9f7]
+/srv/oai/tools/bin/lean4export(lean_panic_fn_borrowed+0x2b) [0x5fde078ebadb]
+/srv/oai/tools/bin/lean4export(panic spec at dumpConstant (lean4export)+0x2ae) [0x5fde0139519e]
+/srv/oai/tools/bin/lean4export(List.forIn'.loop [arity↓] spec at main (lean4export)+0x2a1) [0x5fde01386e61]
+/srv/oai/tools/bin/lean4export(main [λ] (lean4export)+0x167) [0x5fde01387387]
+/srv/oai/tools/bin/lean4export(main [boxed, λ] (lean4export)+0x13) [0x5fde01387623]
+/srv/oai/tools/bin/lean4export(<apply/3>+0x970) [0x5fde078fbbc0]
+/srv/oai/tools/bin/lean4export(M.run [arity↓] (lean4export)+0x30) [0x5fde01389490]
+/srv/oai/tools/bin/lean4export(+0x9932fa7) [0x5fde078a2fa7]
+/srv/oai/tools/bin/lean4export(+0x9933625) [0x5fde078a3625]
+/lib/x86_64-linux-gnu/libc.so.6(+0x9cb84) [0x75748049cb84]
+/lib/x86_64-linux-gnu/libc.so.6(+0x129ecc) [0x757480529ecc]
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Child exited with 134
+
+## Running test: numeric_namespace
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge.«12.34».«5»
+⚠ [2/2] Built Challenge.«12.34».«5» (192ms)
+warning: Challenge/12.34/5.lean:2:8: declaration uses `sorry`
+Build completed successfully (2 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, «123».foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge.«12.34».«5»
+Building Solution
+✔ [2/3] Built Solution (190ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, «123».foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+Running Lean default kernel on solution.
+Lean default kernel accepts the solution
+Your solution is okay!
+
+## Running test: olean_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (175ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (902ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, boom, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+Running Lean default kernel on solution.
+Lean default kernel rejects the solution
+uncaught exception: while replaying declaration 'boom':
+(kernel) application type mismatch
+  @id
+    (@Eq Bool
+      (Decidable.decide (Not (@LE.le Nat instLENat badNat 9223372036854775807))
+        (instDecidableNot (@LE.le Nat instLENat badNat 9223372036854775807) (Nat.decLe badNat 9223372036854775807)))
+      Bool.true)
+    (@Eq.refl Bool Bool.true)
+argument has type
+  @Eq Bool Bool.true Bool.true
+but function has type
+  @Eq Bool
+      (Decidable.decide (Not (@LE.le Nat instLENat badNat 9223372036854775807))
+        (instDecidableNot (@LE.le Nat instLENat badNat 9223372036854775807) (Nat.decLe badNat 9223372036854775807)))
+      Bool.true →
+    @Eq Bool
+      (Decidable.decide (Not (@LE.le Nat instLENat badNat 9223372036854775807))
+        (instDecidableNot (@LE.le Nat instLENat badNat 9223372036854775807) (Nat.decLe badNat 9223372036854775807)))
+      Bool.true
+
+## Running test: theorem_hole_issue
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (193ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+warning: Challenge.lean:7:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, hex, hw, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (193ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, hex, hw, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+Running Lean default kernel on solution.
+Lean default kernel accepts the solution
+Your solution is okay!
+
+## Running test: simple_kind_mismatch
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (193ms)
+warning: Challenge.lean:1:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+Building Solution
+✔ [2/3] Built Solution (177ms)
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, comm, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Solution
+uncaught exception: Illegal axiom detected: 'helper'
+
+## Running test: def_hole_type_mismatch
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (193ms)
+warning: Challenge.lean:1:4: declaration uses `sorry`
+warning: Challenge.lean:3:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Challenge
+Building Solution
+⚠ [2/3] Built Solution (181ms)
+warning: Solution.lean:5:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Solution
+uncaught exception: Const does not match between challenge and target 'n'
+
+## Running test: def_hole_kind_mismatch
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (195ms)
+warning: Challenge.lean:1:4: declaration uses `sorry`
+warning: Challenge.lean:3:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Challenge
+Building Solution
+⚠ [2/3] Built Solution (191ms)
+warning: Solution.lean:5:8: declaration uses `sorry`
+Build completed successfully (3 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, foo, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam, n] from Solution
+uncaught exception: Solution constant is not a definition: 'n'
+
+## Running test: quot_mismatch
+
+info: comparatortest: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+Building Challenge
+⚠ [2/3] Built Challenge (57ms)
+warning: Challenge.lean:7:0: Definition `Nat.add` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:8:0: Definition `Nat.sub` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:9:0: Definition `Nat.mul` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:10:0: Definition `Nat.pow` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:11:0: Definition `Nat.gcd` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:12:0: Definition `Nat.div` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:13:0: Definition `Nat.mod` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:14:0: Definition `Nat.beq` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:15:0: Definition `Nat.ble` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:16:0: Definition `Nat.land` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:17:0: Definition `Nat.lor` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:18:0: Definition `Nat.xor` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:19:0: Definition `Nat.shiftLeft` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:20:0: Definition `Nat.shiftRight` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:21:0: Definition `String.ofList` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:22:0: Definition `Char.ofNat` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:23:0: Definition `List` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Challenge.lean:24:0: Definition `eagerReduce` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+Build completed successfully (3 jobs).
+PANIC at dumpConstant Export:237:48: Constant Nat not found in environment.
+backtrace:
+/srv/oai/tools/bin/lean4export(+0x9984485) [0x6043bdfd7485]
+/srv/oai/tools/bin/lean4export(+0x997b9f7) [0x6043bdfce9f7]
+/srv/oai/tools/bin/lean4export(lean_panic_fn_borrowed+0x2b) [0x6043bdfceadb]
+/srv/oai/tools/bin/lean4export(panic spec at dumpConstant (lean4export)+0x2ae) [0x6043b7a7819e]
+/srv/oai/tools/bin/lean4export(List.forIn'.loop [arity↓] spec at main (lean4export)+0x2a1) [0x6043b7a69e61]
+/srv/oai/tools/bin/lean4export(main [λ] (lean4export)+0x167) [0x6043b7a6a387]
+/srv/oai/tools/bin/lean4export(main [boxed, λ] (lean4export)+0x13) [0x6043b7a6a623]
+/srv/oai/tools/bin/lean4export(<apply/3>+0x970) [0x6043bdfdebc0]
+/srv/oai/tools/bin/lean4export(M.run [arity↓] (lean4export)+0x30) [0x6043b7a6c490]
+/srv/oai/tools/bin/lean4export(+0x9932fa7) [0x6043bdf85fa7]
+/srv/oai/tools/bin/lean4export(+0x9933625) [0x6043bdf86625]
+/lib/x86_64-linux-gnu/libc.so.6(+0x9cb84) [0x79872069cb84]
+/lib/x86_64-linux-gnu/libc.so.6(+0x129ecc) [0x798720729ecc]
+Exporting #[Quot.lift, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Challenge
+uncaught exception: Child exited with 134
+
+# Summary
+
+✓ simple_axiom_issue: PASSED
+✓ simple_mismatch: PASSED
+✓ proj_trick: PASSED
+✓ primitive_issue: PASSED
+✓ simple_match: PASSED
+✓ opaque_value: PASSED
+✓ def_hole_axiom_issue: PASSED
+✓ def_hole: PASSED
+✓ char_ofnat_issue: PASSED
+✓ numeric_namespace: PASSED
+✓ olean_issue: PASSED
+✓ theorem_hole_issue: PASSED
+✓ simple_kind_mismatch: PASSED
+✓ def_hole_type_mismatch: PASSED
+✓ def_hole_kind_mismatch: PASSED
+✓ quot_mismatch: PASSED
+
+All tests passed!
+exit 0

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	10047 constants reached, no stand-in
+REFEREE	L1u	OAI.OrdinaryCorrelations.binary_corrected_elliott	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OrdinaryCorrelations.binary_corrected_elliott	REVIEW	OAI.OrdinaryCorrelations.OneBounded f₁ :: carries a project proposition | OAI.OrdinaryCorrelations.OneBounded f₂ :: carries a project proposition | OAI.OrdinaryCorrelations.Multiplicative f₁ :: carries a project proposition | OAI.OrdinaryCorrelations.Multiplicative f₂ :: carries a project proposition | OAI.OrdinaryCorrelations.UniformlyNonpretentious f₁ ∨ OAI.OrdinaryCorrelations.UniformlyNo :: carries a project proposition | h₁ ≠ h₂ :: side condition || unbuilt=0
+REFEREE	L3	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OrdinaryCorrelations.binary_corrected_elliott	INFO	not a registered target statement
+REFEREE	R1	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	reaches lt_or_gt_of_ne
+REFEREE	R7	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OrdinaryCorrelations.binary_corrected_elliott	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OrdinaryCorrelations.binary_corrected_elliott	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.OrdinaryCorrelations.Elliott.BinaryCorrectedElliott	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.OrdinaryCorrelations.Elliott.BinaryCorrectedElliott	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.OrdinaryCorrelations.Elliott.BinaryCorrectedElliott	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.OrdinaryCorrelations.Elliott.BinaryCorrectedElliott	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['binary_corrected_elliott'])

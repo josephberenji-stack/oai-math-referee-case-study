@@ -1,0 +1,43 @@
+REFEREE	L0	Submodule.liftQ_smul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Submodule.liftQ_smul	PASS	53 constants reached, no stand-in
+REFEREE	L1u	Submodule.liftQ_smul	INFO	no opaque with a value reached
+REFEREE	L2	Submodule.liftQ_smul	PASS	SMulCommClass R₂ S M₂ :: side condition | p ≤ f.ker :: side condition | p ≤ (c • f).ker :: side condition || unbuilt=0
+REFEREE	L3	Submodule.liftQ_smul	PASS	no hypothesis refuted on file
+REFEREE	R2	Submodule.liftQ_smul	PASS	not an equivalence with an open problem
+REFEREE	R3	Submodule.liftQ_smul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Submodule.liftQ_smul	INFO	not a registered target statement
+REFEREE	IFF	Submodule.liftQ_smul	INFO	not an iff
+REFEREE	R1	Submodule.liftQ_smul	PASS	reaches Submodule.linearMap_qext
+REFEREE	R1k	Submodule.liftQ_smul	CONTENT	reaches Submodule.linearMap_qext
+REFEREE	R7	Submodule.liftQ_smul	PASS	top step is not a project theorem
+REFEREE	R1i	Submodule.liftQ_smul	INFO	no supplied input
+REFEREE	DUP	Submodule.liftQ_smul	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Submodule.liftQ_smul	PASS	no copy of a library declaration
+REFEREE	R5	Submodule.liftQ_smul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Submodule.liftQ_smul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Submodule.liftQ_smul	REVIEW	computed class A?
+REFEREE	L0	Submodule.liftQ_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Submodule.liftQ_add	PASS	41 constants reached, no stand-in
+REFEREE	L1u	Submodule.liftQ_add	INFO	no opaque with a value reached
+REFEREE	L2	Submodule.liftQ_add	PASS	p ≤ f.ker :: side condition | p ≤ g.ker :: side condition | p ≤ (f + g).ker :: side condition || unbuilt=0
+REFEREE	L3	Submodule.liftQ_add	PASS	no hypothesis refuted on file
+REFEREE	R2	Submodule.liftQ_add	PASS	not an equivalence with an open problem
+REFEREE	R3	Submodule.liftQ_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Submodule.liftQ_add	INFO	not a registered target statement
+REFEREE	IFF	Submodule.liftQ_add	INFO	not an iff
+REFEREE	R1	Submodule.liftQ_add	PASS	reaches Submodule.linearMap_qext
+REFEREE	R1k	Submodule.liftQ_add	CONTENT	reaches Submodule.linearMap_qext
+REFEREE	R7	Submodule.liftQ_add	PASS	top step is not a project theorem
+REFEREE	R1i	Submodule.liftQ_add	INFO	no supplied input
+REFEREE	DUP	Submodule.liftQ_add	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Submodule.liftQ_add	PASS	no copy of a library declaration
+REFEREE	R5	Submodule.liftQ_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Submodule.liftQ_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Submodule.liftQ_add	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	INFO	2 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	FAIL	no module docstring /-! … -/
+REFEREE	INST	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Mathlib.LinearAlgebra.Quotient.Basic	REVIEW	vendored library path HodgeConjecture/Mathlib/LinearAlgebra/Quotient/Basic.lean
+exit 1

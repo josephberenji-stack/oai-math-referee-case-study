@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PlanarFalconer.mainTarget_proved	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PlanarFalconer.mainTarget_proved	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarFalconer.mainTarget_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarFalconer.mainTarget_proved	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarFalconer.mainTarget_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarFalconer.mainTarget_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarFalconer.mainTarget_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarFalconer.mainTarget_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarFalconer.mainTarget_proved	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PlanarFalconer.mainTarget_proved	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarFalconer.mainTarget_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarFalconer.mainTarget_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarFalconer.mainTarget_proved	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.PlanarFalconer	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PlanarFalconer	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.PlanarFalconer	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PlanarFalconer	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['Plane', 'distanceSet', 'MainTarget', 'mainTarget_proved'])

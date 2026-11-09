@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	10312 constants reached, no stand-in
+REFEREE	L1u	OAI.FixedClauseThreshold.Computability.satTrialSeparation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	no hypotheses
+REFEREE	L3	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FixedClauseThreshold.Computability.satTrialSeparation	INFO	not a registered target statement
+REFEREE	R1	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FixedClauseThreshold.Computability.satTrialSeparation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FixedClauseThreshold.Computability.satTrialSeparation	REVIEW	computed class A?
+REFEREE	L0	OAI.FixedClauseThreshold.Computability.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FixedClauseThreshold.Computability.main	PASS	10459 constants reached, no stand-in
+REFEREE	L1u	OAI.FixedClauseThreshold.Computability.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FixedClauseThreshold.Computability.main	PASS	no hypotheses
+REFEREE	L3	OAI.FixedClauseThreshold.Computability.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FixedClauseThreshold.Computability.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FixedClauseThreshold.Computability.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FixedClauseThreshold.Computability.main	INFO	not a registered target statement
+REFEREE	R1	OAI.FixedClauseThreshold.Computability.main	PASS	reaches Primrec.ite
+REFEREE	R7	OAI.FixedClauseThreshold.Computability.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FixedClauseThreshold.Computability.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FixedClauseThreshold.Computability.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FixedClauseThreshold.Computability.main	REVIEW	computed class A?
+REFEREE	L0	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	10455 constants reached, no stand-in
+REFEREE	L1u	OAI.FixedClauseThreshold.Computability.threshold_program	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	no hypotheses
+REFEREE	L3	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FixedClauseThreshold.Computability.threshold_program	INFO	not a registered target statement
+REFEREE	R1	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	top step OAI.FixedClauseThreshold.Computability.threshold_program_of_trial_separation carries content
+REFEREE	R5	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FixedClauseThreshold.Computability.threshold_program	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FixedClauseThreshold.Computability.threshold_program	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SATComputability.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SATComputability.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Probability.SATComputability.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SATComputability.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['satTrialSeparation', 'threshold_program', 'MainStatement', 'main'])

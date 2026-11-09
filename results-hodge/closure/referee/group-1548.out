@@ -1,0 +1,67 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	1331 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	Algebra.Smooth k R :: side condition | D z = 1 :: side condition | ∀ (i j : ι), (δ i) ((Ideal.Quotient.mk (Ideal.span {z})) (g j)) = if i = j then 1 else 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	reaches Ideal.Quotient.eq_zero_iff_mem
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	50 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup.Construction.normal_quotient_frame_blowup_smooth	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	576 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	Algebra.Smooth k R :: side condition | Function.Surjective ⇑q :: side condition | q z = 0 :: side condition | D z = 1 :: side condition | ∀ (i j : ι), (δ i) (q (g j)) = if i = j then 1 else 0 :: side condition | RingHom.ker q.toRingHom ≤ p.asIdeal :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	reaches Matrix.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_coordinates	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	361 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	Algebra.Smooth k R :: side condition | Function.Surjective ⇑q :: side condition | q z = 0 :: side condition | D z = 1 :: side condition | ∀ (i j : ι), (δ i) (q (g j)) = if i = j then 1 else 0 :: side condition | RingHom.ker q.toRingHom ≤ p.asIdeal :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	reaches Matrix.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame.Construction.quotient_dual_frame_lifts_to_pointed_open	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	INFO	2 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['normal_quotient_frame_blowup_smooth'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientFrameBlowup	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['quotient_dual_frame_lifts_to_pointed_open', 'quotient_dual_frame_lifts_to_pointed_coordinates'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.NormalQuotientOpenFrame	PASS	not under a Mathlib folder
+exit 1

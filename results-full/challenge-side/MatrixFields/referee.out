@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	27 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixAllFields.MatrixMultiplication.Arithmetic.Program.brecOn.eq	REVIEW	computed class A?
+REFEREE	L0	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	131 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.MatrixFields	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.MatrixFields	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.MatrixFields	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.MatrixFields	FAIL	no module docstring /-! … -/; 14 public declarations without a docstring (['Gate', 'eval', 'cost', 'Program'])

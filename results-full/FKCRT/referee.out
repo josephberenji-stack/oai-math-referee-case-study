@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.FKCRT.Inventory.actual_map_tests	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FKCRT.Inventory.actual_map_tests	PASS	9766 constants reached, no stand-in
+REFEREE	L1u	OAI.FKCRT.Inventory.actual_map_tests	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FKCRT.Inventory.actual_map_tests	FAIL	OAI.FKCRT.Inventory.Parameters :: UNBUILT | MeasureTheory.IsProbabilityMeasure μ :: side condition | ∀ (i : Fin 3), ProbabilityTheory.IsBrownianReal (B i) μ :: side condition | ProbabilityTheory.iIndepFun (fun i ω t => B i t ω) μ :: side condition | OAI.FKCRT.IsGHPTest F :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.FKCRT.Inventory.actual_map_tests	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FKCRT.Inventory.actual_map_tests	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FKCRT.Inventory.actual_map_tests	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FKCRT.Inventory.actual_map_tests	INFO	not a registered target statement
+REFEREE	R1	OAI.FKCRT.Inventory.actual_map_tests	PASS	reaches lt_self_iff_false._simp_1
+REFEREE	R7	OAI.FKCRT.Inventory.actual_map_tests	PASS	no single top step
+REFEREE	R5	OAI.FKCRT.Inventory.actual_map_tests	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FKCRT.Inventory.actual_map_tests	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FKCRT.Inventory.actual_map_tests	PASS	computed class C
+REFEREE	L0	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	18 constants reached, no stand-in
+REFEREE	L1u	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	no hypotheses
+REFEREE	L3	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	INFO	not a registered target statement
+REFEREE	R1	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FKCRT.Inventory.instBorelSpaceContinuousMapElemRealUnitInterval_oAI_1	PASS	computed class DEF
+REFEREE	L0	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	10121 constants reached, no stand-in
+REFEREE	L1u	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	no hypotheses
+REFEREE	L3	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	INFO	not a registered target statement
+REFEREE	R1	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	no single top step
+REFEREE	R5	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.FKMaps.Convergence	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.FKMaps.Convergence	INFO	3 theorems checked
+REFEREE	L5	OAI.Probability.FKMaps.Convergence	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.FKMaps.Convergence	FAIL	no module docstring /-! … -/

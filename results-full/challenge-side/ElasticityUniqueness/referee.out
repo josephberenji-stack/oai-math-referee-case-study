@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Elasticity.global_uniqueness	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Elasticity.global_uniqueness	PASS	224 constants reached, no stand-in
+REFEREE	L1u	OAI.Elasticity.global_uniqueness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Elasticity.global_uniqueness	PASS	no hypotheses
+REFEREE	L3	OAI.Elasticity.global_uniqueness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Elasticity.global_uniqueness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Elasticity.global_uniqueness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Elasticity.global_uniqueness	INFO	not a registered target statement
+REFEREE	R1	OAI.Elasticity.global_uniqueness	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Elasticity.global_uniqueness	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Elasticity.global_uniqueness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Elasticity.global_uniqueness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Elasticity.global_uniqueness	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.ElasticityUniqueness	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ElasticityUniqueness	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.ElasticityUniqueness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ElasticityUniqueness	FAIL	module docstring has no `## Main results`; 24 public declarations without a docstring (['X', 'V', 'coordVector', 'SmoothBoundary'])

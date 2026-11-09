@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.TreeEdit.EditScript.brecOn	PASS	[]
+REFEREE	L1	OAI.TreeEdit.EditScript.brecOn	PASS	15 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.EditScript.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.EditScript.brecOn	REVIEW	OAI.TreeEdit.EditScript a✝² a✝¹ a✝ :: carries a project proposition | ∀ (a a_1 : List α) (a_2 : ℕ) (t : OAI.TreeEdit.EditScript a a_1 a_2),  OAI.TreeEdit.EditSc :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TreeEdit.EditScript.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.EditScript.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.EditScript.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.EditScript.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.EditScript.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.TreeEdit.EditScript.brecOn	PASS	no single top step
+REFEREE	R5	OAI.TreeEdit.EditScript.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.EditScript.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.EditScript.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.TreeEdit.binary_torus	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TreeEdit.binary_torus	PASS	72 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.binary_torus	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.binary_torus	PASS	no hypotheses
+REFEREE	L3	OAI.TreeEdit.binary_torus	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.binary_torus	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.binary_torus	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.binary_torus	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.binary_torus	PASS	reaches fact_one_le_one_ennreal
+REFEREE	R7	OAI.TreeEdit.binary_torus	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TreeEdit.binary_torus	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.binary_torus	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.binary_torus	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.TreeEdit	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TreeEdit	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.TreeEdit	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TreeEdit	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['binary_torus'])

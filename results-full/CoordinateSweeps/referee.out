@@ -1,0 +1,212 @@
+REFEREE	L0	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	0 ≤ t :: side condition | OAI.CoordinateSweeps.logMoment t ≤ ↑B :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	reaches LT.lt.le
+REFEREE	R7	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.moment_le_exp_of_logMoment_le	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	525 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥(H.placementChart (H.removedPlacement μ p eB)).stabiliz :: carries a project proposition | σ.dimension ≤  Fintype.card (OAI.CoordinateSweeps.YoungCorner.Boxes μ) ^    Fintype.card ( :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.retained_log_dimension	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	4638 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | OAI.CoordinateSweeps.Grid :: UNBUILT | (A.concat B).Holes h :: carries a project proposition | OAI.CoordinateSweeps.ScaleLarge r :: carries a project proposition | A.Allowed r :: carries a project proposition | B.Allowed r :: carries a project proposition | A.b ≤ B.b :: side condition (project data) | B.b ≤ 2 * A.b :: side condition (project data) | 1 ≤ q :: side condition | OAI.CoordinateSweeps.ScalarInduction.MainSizeReady q ↑(A.concat B).size :: carries a project proposition | 0 ≤ z :: side condition | z < 1 :: side condition | ∀ (j : Fin (A.concat B).b) (g : Equiv.Perm (OAI.CoordinateSweeps.Cube ((A.concat B).bits j :: side condition (project data) | ∀ (j : Fin (A.concat B).b) (g : Equiv.Perm (OAI.CoordinateSweeps.Cube ((A.concat B).bits j :: side condition (project data) | OAI.CoordinateSweeps.MomentBound A q z :: carries a project proposition | OAI.CoordinateSweeps.MomentBound B q z :: carries a project proposition | H.Feasible :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition | ↑(A.concat B).size ^ (1 - OAI.CoordinateSweeps.a / 4) ≤ Real.log ↑σ.dimension :: side condition (project data) || unbuilt=2
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	reaches Nat.add_pos_left
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.conditional_large_main	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	53 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	0 ≤ t :: side condition | t ≤ Real.exp B :: side condition || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	reaches Real.log_exp
+REFEREE	R7	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.logMoment_le_of_moment_le_exp	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	177 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.eventually_scaleLarge	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.eventually_scaleLarge	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.eventually_scaleLarge	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.eventually_scaleLarge	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	3132 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition | OAI.CoordinateSweeps.ScaleLarge r :: carries a project proposition | OAI.CoordinateSweeps.SparseScalar.ScaleReady r :: carries a project proposition | G.Allowed r :: carries a project proposition | OAI.CoordinateSweeps.ScalarInduction.MainSizeReady OAI.CoordinateSweeps.SparseScalar.q ↑G. :: carries a project proposition | H.Feasible :: carries a project proposition | OAI.CoordinateSweeps.SparsePerturb r zStar :: carries a project proposition | z ∈ Set.Icc 0 zStar :: side condition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition | σ.dimension ≠ 1 :: side condition (project data) | ¬(1 + OAI.CoordinateSweeps.c G.size) * Real.log ↑σ.dimension ≤   OAI.CoordinateSweeps.e G. :: side condition (project data) | Real.log ↑σ.dimension < ↑G.size ^ (1 - OAI.CoordinateSweeps.a / 4) :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.conditional_sparse_main	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.all_grid_moment	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.all_grid_moment	PASS	5936 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.all_grid_moment	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.all_grid_moment	FAIL	OAI.CoordinateSweeps.ScaleLarge r :: carries a project proposition | OAI.CoordinateSweeps.SparseScalar.ScaleReady r :: carries a project proposition | ∀ (G : OAI.CoordinateSweeps.Grid),  G.Allowed r → OAI.CoordinateSweeps.ScalarInduction.Mai :: carries a project proposition | OAI.CoordinateSweeps.SparsePerturb r zStar :: carries a project proposition | z ∈ Set.Icc 0 zStar :: side condition | OAI.CoordinateSweeps.Grid :: UNBUILT | G.Allowed r :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.all_grid_moment	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.all_grid_moment	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.all_grid_moment	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.all_grid_moment	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.all_grid_moment	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.all_grid_moment	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.all_grid_moment	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.all_grid_moment	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.all_grid_moment	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	3849 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | OAI.CoordinateSweeps.Grid :: UNBUILT | (A.concat B).Holes h :: carries a project proposition | OAI.CoordinateSweeps.ScaleLarge r :: carries a project proposition | A.Allowed r :: carries a project proposition | B.Allowed r :: carries a project proposition | A.b ≤ B.b :: side condition (project data) | B.b ≤ 2 * A.b :: side condition (project data) | 1 ≤ q :: side condition | OAI.CoordinateSweeps.ScalarInduction.MainSizeReady q ↑(A.concat B).size :: carries a project proposition | OAI.CoordinateSweeps.MomentBound A q z :: carries a project proposition | OAI.CoordinateSweeps.MomentBound B q z :: carries a project proposition | H.Feasible :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition | 0 < p :: side condition | ↑p ≤ ↑(A.concat B).size ^ OAI.CoordinateSweeps.a :: side condition (project data) | OAI.CoordinateSweeps.YoungCorner.hasShape μ (Equiv.refl (OAI.CoordinateSweeps.YoungCorner. :: carries a project proposition | OAI.CoordinateSweeps.YoungCorner.Hook μ p :: carries a project proposition || unbuilt=2
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	reaches Nat.add_pos_left
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.hook_auxiliary	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	496 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	reaches LinearMap.ext
+REFEREE	R7	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.YoungCorner.shape_finrank_pos	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	1355 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	0 < s :: side condition | Fintype.card (OAI.CoordinateSweeps.YoungCorner.Boxes μ) ≤ s :: side condition (project data) | ↑s ^ OAI.CoordinateSweeps.a ≤ ↑p + 1 :: side condition (project data) | 800 ≤ Real.log ↑s :: side condition | ↑s ^ (1 - OAI.CoordinateSweeps.a / 2) ≤  ↑(Fintype.card (OAI.CoordinateSweeps.YoungCorner. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.YoungCorner.removed_dimension_entropy	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	394 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition | H.Feasible :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	reaches congrFun'
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.conditionalAverage_free_cancel	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.conditional_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.conditional_main	PASS	6037 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.conditional_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.conditional_main	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.conditional_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.conditional_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.conditional_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.conditional_main	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.conditional_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.conditional_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.conditional_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.conditional_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.conditional_main	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	1016 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition | OAI.CoordinateSweeps.UnitaryIrrep ↥H.stabilizer :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.exists_initial_shape	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	541 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.augmented_boxesChart	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	198 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	0 < k :: side condition || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	no single top step
+REFEREE	R5	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.YoungCorner.log_factorial_lower	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.exists_main_scale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.exists_main_scale	PASS	562 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.exists_main_scale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.exists_main_scale	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.exists_main_scale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.exists_main_scale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.exists_main_scale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.exists_main_scale	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.exists_main_scale	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.exists_main_scale	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.exists_main_scale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.exists_main_scale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.exists_main_scale	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.CoordinateSweeps.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.CoordinateSweeps.Main	INFO	16 theorems checked
+REFEREE	L5	OAI.Probability.CoordinateSweeps.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.CoordinateSweeps.Main	FAIL	no module docstring /-! … -/; 13 public declarations without a docstring (['moment_le_exp_of_logMoment_le', 'logMoment_le_of_moment_le_exp', 'conditionalAverage_free_cancel', 'cHat'])

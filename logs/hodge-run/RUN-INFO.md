@@ -1,0 +1,28 @@
+# Full run:  the machine and the inputs
+
+- first boot of the run: 2026-11-01T06:10:55Z
+- machine type: n2-highmem-64;  zone: europe-west1-b
+- CPUs: 64;  memory: 503 GB;  disk: 1.8T
+- image: Ubuntu 24.04.5 LTS;  kernel: 7.0.0-1014-gcp
+- kernel security modules: lockdown,capability,landlock,yama,apparmor,ima,evm
+- Lean: leanprover/lean4:v4.34.1;  elan 4.2.4 (227caca13 2026-08-25)
+- Comparator: d03acab154d269c06e60e4de7e4cc85deebff94b, built with leanprover/lean4:v4.34.1;  lean4export: 076e8e57707e813375e8f9da8bf989799ace9680
+- landrun: ec104f6edc1e14d7fec6d31146f1ec6f9c192c5a;  go version go1.27.3 linux/amd64
+- Comparator invoked through: systemd-run
+- Comparator's own tests on this machine: exit 0 (results-full/tools/comparator-selftest.out)
+- this boot's pass ended: 2026-11-01T06:11:56Z;  every stage done: no
+- this boot's pass ended: 2026-11-01T06:19:06Z;  every stage done: no
+- this boot's pass ended: 2026-11-01T06:21:26Z;  every stage done: no
+- lean-referee-case-study: 7028bade2e58323327494cc27681f1e8c6c5c31f (results on the branch hodge-run)
+- Discipline-Architecture-2: f9daa7c6a09b0ced88683e3215da0f3f35fa4314
+- openai/math: 7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a
+- settings: runall-jobs=1  build-scope=challenges  comparator-timeout=10800  stop-when-done=no
+- Lean: leanprover/lean4:v4.34.1;  elan 4.2.4 (227caca13 2026-08-25)
+- Comparator: d03acab154d269c06e60e4de7e4cc85deebff94b, built with leanprover/lean4:v4.34.1;  lean4export: 076e8e57707e813375e8f9da8bf989799ace9680
+- landrun: ec104f6edc1e14d7fec6d31146f1ec6f9c192c5a;  go version go1.27.3 linux/amd64
+- Comparator invoked through: systemd-run
+- Comparator's own tests on this machine: exit 0 (results-full/tools/comparator-selftest.out)
+- openai/math after lake update: 0 tracked files changed (results-full/openai-tracked-changes-after-update.txt)
+- this boot's pass ended: 2026-11-01T11:09:26Z;  every stage done: yes
+- this boot's pass ended: 2026-11-01T14:43:15Z;  every stage done: yes
+- this boot's pass ended: 2026-11-03T20:54:35Z;  every stage done: yes

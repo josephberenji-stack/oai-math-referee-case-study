@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.LaughlinFock.certificate_four	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LaughlinFock.certificate_four	PASS	7571 constants reached, no stand-in
+REFEREE	L1u	OAI.LaughlinFock.certificate_four	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LaughlinFock.certificate_four	PASS	1 ≤ D :: side condition | D ≤ 23 :: side condition || unbuilt=0
+REFEREE	L3	OAI.LaughlinFock.certificate_four	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LaughlinFock.certificate_four	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LaughlinFock.certificate_four	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LaughlinFock.certificate_four	INFO	not a registered target statement
+REFEREE	R1	OAI.LaughlinFock.certificate_four	PASS	reaches Complex.instCharZero
+REFEREE	R7	OAI.LaughlinFock.certificate_four	PASS	top step OAI.LaughlinFock.planar_certificate_of_integer carries content
+REFEREE	R5	OAI.LaughlinFock.certificate_four	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LaughlinFock.certificate_four	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LaughlinFock.certificate_four	REVIEW	computed class A?
+REFEREE	L0	OAI.LaughlinFock.thm_fock	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LaughlinFock.thm_fock	PASS	10699 constants reached, no stand-in
+REFEREE	L1u	OAI.LaughlinFock.thm_fock	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LaughlinFock.thm_fock	PASS	0 < γ :: side condition | γ < OAI.LaughlinFock.gammaStar :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LaughlinFock.thm_fock	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LaughlinFock.thm_fock	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LaughlinFock.thm_fock	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LaughlinFock.thm_fock	INFO	not a registered target statement
+REFEREE	R1	OAI.LaughlinFock.thm_fock	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LaughlinFock.thm_fock	PASS	top step OAI.LaughlinFock.integer_threshold_of_certificates_le carries content
+REFEREE	R5	OAI.LaughlinFock.thm_fock	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LaughlinFock.thm_fock	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LaughlinFock.thm_fock	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.LaughlinFock.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.LaughlinFock.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.LaughlinFock.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.LaughlinFock.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['certificate_four', 'thm_fock'])

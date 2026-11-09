@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	1671 constants reached, no stand-in
+REFEREE	L1u	OAI.NCHitting.Formula.eval_generator_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	CharZero F :: side condition | 0 < n :: side condition | 0 < s :: side condition | f.size ≤ s :: side condition (project data) | f.coeff ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NCHitting.Formula.eval_generator_ne_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NCHitting.Formula.eval_generator_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NCHitting.Formula.eval_generator_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	266 constants reached, no stand-in
+REFEREE	L1u	OAI.NCHitting.Formula.eval_generator_one_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	CharZero F :: side condition | f.size ≤ 1 :: side condition (project data) | f.coeff ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NCHitting.Formula.eval_generator_one_ne_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	no single top step
+REFEREE	R5	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NCHitting.Formula.eval_generator_one_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NCHitting.Formula.eval_generator_one_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NCHitting.universal_hitting	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NCHitting.universal_hitting	PASS	1672 constants reached, no stand-in
+REFEREE	L1u	OAI.NCHitting.universal_hitting	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NCHitting.universal_hitting	PASS	1 ≤ n :: side condition | 1 ≤ s :: side condition | CharZero F :: side condition | f.size ≤ s :: side condition (project data) | ∃ w, f.coeff w ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NCHitting.universal_hitting	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NCHitting.universal_hitting	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NCHitting.universal_hitting	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NCHitting.universal_hitting	INFO	not a registered target statement
+REFEREE	R1	OAI.NCHitting.universal_hitting	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.NCHitting.universal_hitting	PASS	top step OAI.NCHitting.Formula.eval_generator_ne_zero carries content
+REFEREE	R5	OAI.NCHitting.universal_hitting	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NCHitting.universal_hitting	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NCHitting.universal_hitting	REVIEW	computed class A?
+REFEREE	L0	OAI.NCHitting.Formula.series_order_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NCHitting.Formula.series_order_lt	PASS	1454 constants reached, no stand-in
+REFEREE	L1u	OAI.NCHitting.Formula.series_order_lt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NCHitting.Formula.series_order_lt	PASS	CharZero F :: side condition | 0 < n :: side condition | f.coeff ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NCHitting.Formula.series_order_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NCHitting.Formula.series_order_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NCHitting.Formula.series_order_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NCHitting.Formula.series_order_lt	INFO	not a registered target statement
+REFEREE	R1	OAI.NCHitting.Formula.series_order_lt	PASS	reaches Fintype.card_unique
+REFEREE	R7	OAI.NCHitting.Formula.series_order_lt	PASS	no single top step
+REFEREE	R5	OAI.NCHitting.Formula.series_order_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NCHitting.Formula.series_order_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NCHitting.Formula.series_order_lt	REVIEW	computed class A?
+REFEREE	L0	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	168 constants reached, no stand-in
+REFEREE	L1u	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	REVIEW	OAI.NCHitting.AcyclicRepresentation F n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	INFO	not a registered target statement
+REFEREE	R1	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	reaches congrFun'
+REFEREE	R7	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	top step is not a project theorem
+REFEREE	R5	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NCHitting.AcyclicRepresentation.scalarOutput_eq_contract	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.FormulaHitting.Hitting	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.FormulaHitting.Hitting	INFO	5 theorems checked
+REFEREE	L5	OAI.Algebra.FormulaHitting.Hitting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.FormulaHitting.Hitting	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['AcyclicRepresentation.scalarOutput_eq_contract', 'Formula.series_order_lt', 'Formula.eval_generator_one_ne_zero', 'Formula.eval_generator_ne_zero'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	1781 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	no hypotheses
+REFEREE	L3	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	reaches Finset.abs_sum_le_sum_abs
+REFEREE	R7	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedTreePotentials.TreeCalculus.main_counterexample	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.TreePotential.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.TreePotential.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.TreePotential.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.TreePotential.Main	FAIL	no module docstring /-! … -/

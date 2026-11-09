@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	389 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	REVIEW	OAI.ThreeState.TreeClauses.Admissible lam :: carries a project proposition | 1 < ↑d * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	0 ≤ rate :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	reaches Mathlib.Meta.Positivity.div_nonneg_of_nonneg_of_pos
+REFEREE	R7	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.Probability.poissonWeight_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	344 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	REVIEW	OAI.ThreeState.TreeClauses.Admissible lam :: carries a project proposition | 1 < ↑b * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	212 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.channelWeight_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.channelWeight_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	reaches Fintype.complete
+REFEREE	R7	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.channelWeight_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.channelWeight_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	194 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.channelWeight_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.channelWeight_nonneg	REVIEW	OAI.ThreeState.TreeClauses.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.channelWeight_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.channelWeight_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.channelWeight_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	33 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	reaches ProbabilityTheory.hasSum_one_poissonMeasure
+REFEREE	R7	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.TreeClauses.Probability.poissonWeight_mass	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.ThreeStateTreeClauses	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ThreeStateTreeClauses	INFO	6 theorems checked
+REFEREE	L5	ComparatorChallenges.ThreeStateTreeClauses	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ThreeStateTreeClauses	FAIL	no module docstring /-! … -/; 20 public declarations without a docstring (['Spin', 'Admissible', 'channelWeight', 'channelWeight_nonneg'])

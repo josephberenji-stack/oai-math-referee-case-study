@@ -1,0 +1,48 @@
+SCHEMA	1	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange
+DECL	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	theorem	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange	-	∀ {P X Y Z : AlgebraicGeometry.Scheme} {a : P ⟶ X} {b : P ⟶ Y} {c : X ⟶ Z} {d : Y ⟶ Z}, CategoryTheory.IsPullback a b c d → Set.range ⇑a = ⇑c ⁻¹' Set.range ⇑d
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.Scheme	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.PresheafedSpace.carrier	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.ConcreteCategory.hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CommRingCat	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	TopCat.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	ContinuousMap	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.IsPullback	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CommRingCat.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.LocallyRingedSpace.Hom.toHom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.Scheme.Hom.toLRSHom'	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.LocallyRingedSpace.toSheafedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	TopCat.str	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	TopCat.carrier	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Set.preimage	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.PresheafedSpace.Hom.base	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	TopCat.instConcreteCategoryContinuousMapCarrier	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.SheafedSpace.toPresheafedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.Scheme.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	TopCat	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Set.range	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	ContinuousMap.instFunLike	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	DFunLike.coe	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.Scheme.toLocallyRingedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Set	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Set.ext	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Membership.mem	value	propdef	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Exists	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	And.casesOn	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	And	value	structure	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Exists.casesOn	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Iff.intro	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Exists.intro	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Eq.ndrec	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.IsPullback.toCommSq	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CategoryTheory.CommSq.w	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	Set.instMembership	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	AlgebraicGeometry.Scheme.exists_preimage_of_isPullback	value	theorem	mathlib
+THM	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange.BundleCycles.range_of_isPullback	CONTENT	Set.ext	-	-	-	false	false	0	4	Eq	-
+END	OAI.AlgebraicGeometry.Divisors.LineBundles.PullbackRange	1

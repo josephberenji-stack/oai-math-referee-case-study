@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	CategoryTheory.IsPullback i' u f i :: side condition | CategoryTheory.IsPullback j' z f j :: side condition | Set.range ⇑j = (Set.range ⇑i)ᶜ :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	reaches Set.image_congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CONTENT	reaches Set.image_congr
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cartesianComplement_range'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	PASS	not under a Mathlib folder
+exit 1

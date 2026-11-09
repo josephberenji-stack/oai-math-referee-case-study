@@ -1,0 +1,22 @@
+# Full run:  the machine and the inputs
+
+- first boot of the run: 2026-10-28T15:51:35Z
+- machine type: e2-standard-32;  zone: us-central1-a
+- CPUs: 32;  memory: 125 GB;  disk: 290G
+- image: Ubuntu 24.04.5 LTS;  kernel: 7.0.0-1014-gcp
+- kernel security modules: lockdown,capability,landlock,yama,apparmor,ima,evm
+- lean-referee-case-study: dca63bbf6c104af262fecf5914fa983cd0a59822 (results on the branch full-run)
+- Discipline-Architecture-2: a98736bcddeea1fe8b7f18f6520e6f2dd268c143
+- openai/math: 7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a
+- settings: runall-jobs=6  build-scope=challenges  comparator-timeout=10800  stop-when-done=yes
+- Lean: leanprover/lean4:v4.34.1;  elan 4.2.4 (227caca13 2026-08-25)
+- Comparator: d03acab154d269c06e60e4de7e4cc85deebff94b, built with leanprover/lean4:v4.34.1;  lean4export: 076e8e57707e813375e8f9da8bf989799ace9680
+- landrun: ec104f6edc1e14d7fec6d31146f1ec6f9c192c5a;  go version go1.27.3 linux/amd64
+- Comparator invoked through: systemd-run
+- Comparator's own tests on this machine: exit 0 (results-full/tools/comparator-selftest.out)
+- openai/math after lake update: 0 tracked files changed (results-full/openai-tracked-changes-after-update.txt)
+- this boot's pass ended: 2026-10-29T04:14:20Z;  every stage done: no
+- this boot's pass ended: 2026-10-29T09:43:32Z;  every stage done: yes
+- this boot's pass ended: 2026-10-29T19:43:37Z;  every stage done: no
+- this boot's pass ended: 2026-10-30T11:02:11Z;  every stage done: yes
+- this boot's pass ended: 2026-10-31T16:28:26Z;  every stage done: yes

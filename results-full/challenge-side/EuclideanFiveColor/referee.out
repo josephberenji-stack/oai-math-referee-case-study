@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.EuclideanFiveColor.no_proper_five_coloring	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	24 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.no_proper_five_coloring	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.no_proper_five_coloring	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.no_proper_five_coloring	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.no_proper_five_coloring	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.EuclideanFiveColor	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.EuclideanFiveColor	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.EuclideanFiveColor	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.EuclideanFiveColor	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['ProperColoring', 'no_proper_five_coloring'])

@@ -1,0 +1,51 @@
+From d83968be978b3e3ceee7173443971e89434646e5 Mon Sep 17 00:00:00 2001
+From: Joseph Berenji <j.berenji4321@gmail.com>
+Date: Tue, 3 Nov 2026 13:33:40 -0600
+Subject: [PATCH] referee: a finite step limit for its own commands (4,000,000;
+ REFEREE_HEARTBEATS)
+
+Six OAI Hodge closure groups stopped at Lean's default 200000 heartbeats on
+#referee_module, after their modules built. build_file now sets maxHeartbeats
+before the commands. Self-test 99 of 99; rows unchanged on Voxel3.
+---
+ discipline/lean/METHOD-LOG.md   | 11 +++++++++++
+ discipline/lean/referee_lean.py |  7 ++++++-
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+
+diff --git a/discipline/lean/METHOD-LOG.md b/discipline/lean/METHOD-LOG.md
+index 9447c93..0ad9869 100644
+--- a/discipline/lean/METHOD-LOG.md
++++ b/discipline/lean/METHOD-LOG.md
+@@ -449,3 +449,14 @@ R1 FAIL:  without the fix it is PASS (`NOT CAUGHT`, 95 of 96), with it FAIL.  **
+ smith-noiff-2026-11-01 Smith, LabelsI, LabelsI2, GraphInj, CuntzKrieger, TorsLevels7, BlockFold4,
+ OrderClausePhysics2):  unchanged except one new FAIL, `LabelsI.vle_val`.  Its proof reads the V's `≤`, an instance
+ field, and `congrArg`;  before the fix it passed through `true_or` inside that instance.
++
++### 22.  3 Nov 19:30–:  the step limit of the referee's own commands
++
++**Word.**  Joseph, 3 Nov 2026, 19:30 UTC:  "yes please make the fix in the VM", to raising the step limit of the
++referee's own checks.  **Found.**  On the OAI Hodge closure, six groups (675, 1134, 1154, 1192, 1200 and 1201), rerun
++at 32 GB, stopped with "(deterministic) timeout at `whnf`, maximum number of heartbeats (200000)".  Each failing line
++is a `#referee_module` command of the check file (imports, the core's 1085 lines at 6e33e0d, then the resolve,
++storage, unfold and module commands).  The modules had built;  the referee's walk over them ran past Lean's default.
++**Built.**  `build_file` sets `maxHeartbeats` before the commands:  4,000,000 by default, `REFEREE_HEARTBEATS`
++overrides it (0 = no limit).  The limit stays finite, so a runaway check still stops.  **Self-test** (integrated build,
++Lean 4.33.1):  99 of 99.  The rows on pixel3d's Voxel3 are identical with and without the change.
+diff --git a/discipline/lean/referee_lean.py b/discipline/lean/referee_lean.py
+index 5cfe85a..50b26f3 100644
+--- a/discipline/lean/referee_lean.py
++++ b/discipline/lean/referee_lean.py
+@@ -88,7 +88,12 @@ def build_file(modules, body, names, off, extra_imports=(), header_tokens=None,
+     imports = "".join(f"import {m}\n" for m in list(extra_imports) + list(modules))
+     core = core_text(off)
+     core = core.split("import Lean\n", 1)
+-    text = imports + "import Lean\n" + core[1] + "\n" + body + "\n" + "".join(f"#referee {n}\n" for n in names)
++    # the step limit of the referee's own commands (found 3 Nov 2026 on the OAI Hodge closure:  `#referee_module` on
++    # six groups of large HodgeConjecture modules stopped at Lean's default of 200000 heartbeats, after the modules
++    # themselves had built);  finite, so a runaway check still stops;  REFEREE_HEARTBEATS overrides it (0 = no limit)
++    hb = os.environ.get("REFEREE_HEARTBEATS", "4000000")
++    text = (imports + "import Lean\n" + core[1] + "\n" + f"set_option maxHeartbeats {hb}\n" + body + "\n"
++            + "".join(f"#referee {n}\n" for n in names))
+     for m, toks in ({} if "L4" in off else (header_tokens or {})).items():
+         text += f'#referee_resolve {m} "{" ".join(sorted(toks))}"\n'
+     # L7:  the storage walk of each module (RefereeCore prints nothing when L7 is switched off)

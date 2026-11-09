@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	REVIEW	OAI.TwoPointCorrelations.Multiplicative f₁ :: carries a project proposition | OAI.TwoPointCorrelations.Multiplicative f₂ :: carries a project proposition | OAI.TwoPointCorrelations.OneBounded f₁ :: carries a project proposition | OAI.TwoPointCorrelations.OneBounded f₂ :: carries a project proposition | OAI.TwoPointCorrelations.UniformlyNonpretentious f₁ ∨ OAI.TwoPointCorrelations.UniformlyNo :: carries a project proposition | 0 < a₁ :: side condition | 0 < a₂ :: side condition | a₁ * b₂ ≠ a₂ * b₁ :: side condition || unbuilt=0
+REFEREE	L3	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	INFO	not a registered target statement
+REFEREE	R1	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OrdinaryTwoPointCorrelations.affine_corrected_elliott	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	no hypotheses
+REFEREE	L3	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	INFO	not a registered target statement
+REFEREE	R1	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OrdinaryTwoPointCorrelations.liouville_log_saving	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	REVIEW	OAI.TwoPointCorrelations.Multiplicative f₁ :: carries a project proposition | OAI.TwoPointCorrelations.Multiplicative f₂ :: carries a project proposition | OAI.TwoPointCorrelations.OneBounded f₁ :: carries a project proposition | OAI.TwoPointCorrelations.OneBounded f₂ :: carries a project proposition | OAI.TwoPointCorrelations.UniformlyNonpretentious f₁ ∨ OAI.TwoPointCorrelations.UniformlyNo :: carries a project proposition | h₁ ≠ h₂ :: side condition || unbuilt=0
+REFEREE	L3	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	INFO	not a registered target statement
+REFEREE	R1	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OrdinaryTwoPointCorrelations.binary_corrected_elliott	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.OrdinaryTwoPointCorrelations	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.OrdinaryTwoPointCorrelations	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.OrdinaryTwoPointCorrelations	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.OrdinaryTwoPointCorrelations	FAIL	no module docstring /-! … -/; 12 public declarations without a docstring (['liouville', 'correlationSum', 'affineSum', 'Multiplicative'])

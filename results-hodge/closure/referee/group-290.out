@@ -1,0 +1,97 @@
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	REVIEW	[opaque with a value OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	REVIEW	statement-level: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]; proof-only: 0
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	REVIEW	HomologicalComplex.Acyclic L :: side condition (project data) | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsK :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.homotopyZero_def	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	373 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	K.IsStrictlyLE d :: side condition | ∀ (n : ℤ), CategoryTheory.Projective (K.X n) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	reaches implies_congr
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_projective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	REVIEW	[opaque with a value OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	proof-only: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	reaches HomotopyCategory.quotient_obj_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_iff_leftOrthogonal	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	356 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	((OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cochain.OppositeComparison.Cocha :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	reaches implies_congr
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.isKProjective_of_op	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	REVIEW	[opaque with a value OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	proof-only: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.wrapped._@.OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.1898266213._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsK :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	reaches HomotopyCategory.quotient_obj_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic.CochainComplex.IsKProjective.leftOrthogonal	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	INFO	5 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['isKProjective_iff_leftOrthogonal', 'IsKProjective.leftOrthogonal', 'isKProjective_of_op', 'isKProjective_of_projective'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	REVIEW	instance changes at lines 74
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.ProjectiveBasic	PASS	not under a Mathlib folder
+exit 1

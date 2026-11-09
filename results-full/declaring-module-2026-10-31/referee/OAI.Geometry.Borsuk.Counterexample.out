@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.BorsukNine.Admissible.support_ten_system	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BorsukNine.Admissible.support_ten_system	PASS	3778 constants reached, no stand-in
+REFEREE	L1u	OAI.BorsukNine.Admissible.support_ten_system	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BorsukNine.Admissible.support_ten_system	REVIEW	OAI.BorsukNine.Admissible f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BorsukNine.Admissible.support_ten_system	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BorsukNine.Admissible.support_ten_system	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BorsukNine.Admissible.support_ten_system	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BorsukNine.Admissible.support_ten_system	INFO	not a registered target statement
+REFEREE	R1	OAI.BorsukNine.Admissible.support_ten_system	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.BorsukNine.Admissible.support_ten_system	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BorsukNine.Admissible.support_ten_system	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BorsukNine.Admissible.support_ten_system	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BorsukNine.Admissible.support_ten_system	REVIEW	computed class A?
+REFEREE	L0	OAI.BorsukNine.no_admissible_ten	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BorsukNine.no_admissible_ten	PASS	11063 constants reached, no stand-in
+REFEREE	L1u	OAI.BorsukNine.no_admissible_ten	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BorsukNine.no_admissible_ten	PASS	no hypotheses
+REFEREE	L3	OAI.BorsukNine.no_admissible_ten	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BorsukNine.no_admissible_ten	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BorsukNine.no_admissible_ten	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BorsukNine.no_admissible_ten	INFO	not a registered target statement
+REFEREE	R1	OAI.BorsukNine.no_admissible_ten	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.BorsukNine.no_admissible_ten	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BorsukNine.no_admissible_ten	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BorsukNine.no_admissible_ten	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BorsukNine.no_admissible_ten	REVIEW	computed class A?
+REFEREE	L0	OAI.BorsukNine.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BorsukNine.main_theorem	PASS	11131 constants reached, no stand-in
+REFEREE	L1u	OAI.BorsukNine.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BorsukNine.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.BorsukNine.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BorsukNine.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BorsukNine.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BorsukNine.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.BorsukNine.main_theorem	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.BorsukNine.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BorsukNine.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BorsukNine.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BorsukNine.main_theorem	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.Borsuk.Counterexample	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.Borsuk.Counterexample	INFO	3 theorems checked
+REFEREE	L5	OAI.Geometry.Borsuk.Counterexample	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.Borsuk.Counterexample	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['Admissible.support_ten_system', 'no_admissible_ten', 'main_theorem'])

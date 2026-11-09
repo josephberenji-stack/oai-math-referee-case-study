@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.Laughlin.sharpMainTarget_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.sharpMainTarget_proved	PASS	20690 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.sharpMainTarget_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.sharpMainTarget_proved	PASS	no hypotheses
+REFEREE	L3	OAI.Laughlin.sharpMainTarget_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.sharpMainTarget_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.sharpMainTarget_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.sharpMainTarget_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.sharpMainTarget_proved	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.Laughlin.sharpMainTarget_proved	PASS	top step OAI.Laughlin.sharpMainTarget_of_haldane carries content
+REFEREE	R5	OAI.Laughlin.sharpMainTarget_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.sharpMainTarget_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.sharpMainTarget_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.Laughlin.charge_neutral_gap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.charge_neutral_gap	PASS	20954 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.charge_neutral_gap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.charge_neutral_gap	PASS	no hypotheses
+REFEREE	L3	OAI.Laughlin.charge_neutral_gap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.charge_neutral_gap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.charge_neutral_gap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.charge_neutral_gap	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.charge_neutral_gap	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.Laughlin.charge_neutral_gap	PASS	top step OAI.Laughlin.Charge.charge_neutral_full_of_published carries content
+REFEREE	R5	OAI.Laughlin.charge_neutral_gap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.charge_neutral_gap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.charge_neutral_gap	REVIEW	computed class A?
+REFEREE	L0	OAI.Laughlin.planar_gap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.planar_gap	PASS	20212 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.planar_gap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.planar_gap	REVIEW	OAI.Laughlin.Planar.HomogeneousState N :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Laughlin.planar_gap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.planar_gap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.planar_gap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.planar_gap	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.planar_gap	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Laughlin.planar_gap	PASS	top step OAI.Laughlin.Planar.full_planar_endpoint carries content
+REFEREE	R5	OAI.Laughlin.planar_gap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.planar_gap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.planar_gap	REVIEW	computed class A?
+REFEREE	L0	OAI.Laughlin.uniform_fock_gap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.uniform_fock_gap	PASS	20072 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.uniform_fock_gap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.uniform_fock_gap	PASS	0 < γ :: side condition | γ < OAI.Laughlin.gammaStar :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Laughlin.uniform_fock_gap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.uniform_fock_gap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.uniform_fock_gap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.uniform_fock_gap	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.uniform_fock_gap	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Laughlin.uniform_fock_gap	PASS	top step OAI.Laughlin.Fock.physical_fock_square_uniform_sharp carries content
+REFEREE	R5	OAI.Laughlin.uniform_fock_gap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.uniform_fock_gap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.uniform_fock_gap	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Laughlin.UniformGap	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.Laughlin.UniformGap	INFO	4 theorems checked
+REFEREE	L5	OAI.Analysis.Laughlin.UniformGap	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Laughlin.UniformGap	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['uniform_fock_gap', 'sharpMainTarget_proved', 'charge_neutral_gap', 'planar_gap'])

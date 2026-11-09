@@ -1,0 +1,535 @@
+REFEREE	L0	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	423 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	IsOpen s :: side condition | x ∈ s :: side condition | ContDiffOn ℂ ⊤ a s :: side condition | ∀ (i : Fin p), ContDiffOn ℂ ⊤ (f i) s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	reaches SeparatelyContinuousMul.to_continuousSMul
+REFEREE	R1k	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	CONTENT	reaches SeparatelyContinuousMul.to_continuousSMul
+REFEREE	R7	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDerivWithin_smul_exactWedgeWithin	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	308 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	IsOpen s :: side condition | x ∈ s :: side condition | ∀ (i : Fin p), ContDiffOn ℂ ⊤ (f i) s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDerivWithin_exactWedgeWithin_eq_zero	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	177 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	∀ (i : Fin p), DifferentiableWithinAt ℂ (f i) s x :: side condition | UniqueDiffWithinAt ℂ s x :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	INFO	not an iff
+REFEREE	R1	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	CONTENT	reaches ContinuousAlternatingMap.ext
+REFEREE	R7	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.wedgeFDerivWithin_eq_standardVolumeForm_comp	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	280 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exactWedgeWithin_differentiableWithinAt	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	IsOpen s :: side condition | x ∈ s :: side condition | ∀ (i : Fin p), ContDiffOn ℂ ⊤ (f i) s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exactWedgeWithin_differentiableWithinAt	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exactWedgeWithin_differentiableWithinAt	INFO	not an iff
+REFEREE	R1	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.exactWedgeWithin_differentiableWithinAt	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	no single top step
+REFEREE	R1i	DifferentialForm.exactWedgeWithin_differentiableWithinAt	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exactWedgeWithin_differentiableWithinAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exactWedgeWithin_differentiableWithinAt	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.analyticOnNhd_untranslateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.analyticOnNhd_untranslateForm	PASS	81 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.analyticOnNhd_untranslateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.analyticOnNhd_untranslateForm	PASS	AnalyticOnNhd ℂ A (Metric.ball 0 r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.analyticOnNhd_untranslateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.analyticOnNhd_untranslateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.analyticOnNhd_untranslateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.analyticOnNhd_untranslateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.analyticOnNhd_untranslateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.analyticOnNhd_untranslateForm	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.analyticOnNhd_untranslateForm	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.analyticOnNhd_untranslateForm	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.analyticOnNhd_untranslateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.analyticOnNhd_untranslateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.analyticOnNhd_untranslateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.analyticOnNhd_untranslateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.analyticOnNhd_untranslateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.analyticOnNhd_untranslateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	231 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.intervalIntegral_ofReal_pow_smul	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	CompleteSpace G :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.intervalIntegral_ofReal_pow_smul	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.intervalIntegral_ofReal_pow_smul	INFO	not an iff
+REFEREE	R1	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	reaches intervalIntegral.integral_smul_const
+REFEREE	R1k	DifferentialForm.intervalIntegral_ofReal_pow_smul	CONTENT	reaches intervalIntegral.integral_smul_const
+REFEREE	R7	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.intervalIntegral_ofReal_pow_smul	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.intervalIntegral_ofReal_pow_smul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.intervalIntegral_ofReal_pow_smul	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	409 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	HasFPowerSeriesOnBall η p 0 R :: side condition | x ∈ Metric.eball 0 R :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	INFO	not an iff
+REFEREE	R1	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	no single top step
+REFEREE	R1i	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.hasSum_intervalIntegral_radialTerms_of_hasFPowerSeriesOnBall	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.analyticOnNhd_translateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.analyticOnNhd_translateForm	PASS	81 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.analyticOnNhd_translateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.analyticOnNhd_translateForm	PASS	AnalyticOnNhd ℂ A (Metric.ball c r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.analyticOnNhd_translateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.analyticOnNhd_translateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.analyticOnNhd_translateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.analyticOnNhd_translateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.analyticOnNhd_translateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.analyticOnNhd_translateForm	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.analyticOnNhd_translateForm	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.analyticOnNhd_translateForm	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.analyticOnNhd_translateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.analyticOnNhd_translateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.analyticOnNhd_translateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.analyticOnNhd_translateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.analyticOnNhd_translateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.analyticOnNhd_translateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	422 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	0 < p.radius :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	INFO	not an iff
+REFEREE	R1	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.analyticOnNhd_radialPrimitiveSeries_sum	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.intervalIntegral_ofReal_pow	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.intervalIntegral_ofReal_pow	PASS	217 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.intervalIntegral_ofReal_pow	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.intervalIntegral_ofReal_pow	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.intervalIntegral_ofReal_pow	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.intervalIntegral_ofReal_pow	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.intervalIntegral_ofReal_pow	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.intervalIntegral_ofReal_pow	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.intervalIntegral_ofReal_pow	INFO	not an iff
+REFEREE	R1	DifferentialForm.intervalIntegral_ofReal_pow	PASS	reaches PolynormableSpace.continuousSMul
+REFEREE	R1k	DifferentialForm.intervalIntegral_ofReal_pow	CONTENT	reaches PolynormableSpace.continuousSMul
+REFEREE	R7	DifferentialForm.intervalIntegral_ofReal_pow	PASS	no single top step
+REFEREE	R1i	DifferentialForm.intervalIntegral_ofReal_pow	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.intervalIntegral_ofReal_pow	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.intervalIntegral_ofReal_pow	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.intervalIntegral_ofReal_pow	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.intervalIntegral_ofReal_pow	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.intervalIntegral_ofReal_pow	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	220 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialPrimitiveSeries_succ_apply	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialPrimitiveSeries_succ_apply	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialPrimitiveSeries_succ_apply	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radialPrimitiveSeries_succ_apply	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialPrimitiveSeries_succ_apply	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialPrimitiveSeries_succ_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialPrimitiveSeries_succ_apply	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	396 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialPrimitiveSeries_radius_pos	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	0 < p.radius :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialPrimitiveSeries_radius_pos	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialPrimitiveSeries_radius_pos	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radialPrimitiveSeries_radius_pos	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialPrimitiveSeries_radius_pos	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialPrimitiveSeries_radius_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialPrimitiveSeries_radius_pos	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	1073 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	FiniteDimensional ℂ E :: side condition | 0 < r :: side condition | HasFPowerSeriesOnBall η p 0 ↑r :: side condition | Set.EqOn (extDeriv η) 0 (Metric.ball 0 ↑r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	INFO	not an iff
+REFEREE	R1	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	no single top step
+REFEREE	R1i	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	10 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exists_analyticOnNhd_primitive_on_ball_of_hasFPowerSeriesOnBall	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialPrimitiveSeries_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialPrimitiveSeries_zero	PASS	217 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialPrimitiveSeries_zero	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialPrimitiveSeries_zero	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.radialPrimitiveSeries_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialPrimitiveSeries_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialPrimitiveSeries_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialPrimitiveSeries_zero	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialPrimitiveSeries_zero	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialPrimitiveSeries_zero	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radialPrimitiveSeries_zero	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radialPrimitiveSeries_zero	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialPrimitiveSeries_zero	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialPrimitiveSeries_zero	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialPrimitiveSeries_zero	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialPrimitiveSeries_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialPrimitiveSeries_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialPrimitiveSeries_zero	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	351 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	0 < r :: side condition | AnalyticOnNhd ℂ η (Metric.ball c r) :: side condition | Set.EqOn (extDeriv η) 0 (Metric.ball c r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	INFO	not an iff
+REFEREE	R1	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	no single top step
+REFEREE	R1i	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.zeroForm_eq_at_center_of_closedOn_ball	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_untranslateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_untranslateForm	PASS	132 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_untranslateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_untranslateForm	PASS	DifferentiableAt ℂ A (x - c) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_untranslateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_untranslateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_untranslateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_untranslateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_untranslateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_untranslateForm	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.extDeriv_untranslateForm	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.extDeriv_untranslateForm	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDeriv_untranslateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_untranslateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_untranslateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_untranslateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_untranslateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_untranslateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	677 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	HasFPowerSeriesOnBall η p 0 R :: side condition | x ∈ Metric.eball 0 R :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	no single top step
+REFEREE	R1i	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialHomotopy_eq_radialPrimitiveSeries_sum	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	1099 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	FiniteDimensional ℂ E :: side condition | 0 < r :: side condition | AnalyticOnNhd ℂ η (Metric.ball 0 r) :: side condition | Set.EqOn (extDeriv η) 0 (Metric.ball 0 r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	INFO	not an iff
+REFEREE	R1	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	no single top step
+REFEREE	R1i	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	10 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_ball	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	393 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radius_le_radius_radialPrimitiveSeries	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radius_le_radius_radialPrimitiveSeries	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radius_le_radius_radialPrimitiveSeries	INFO	not an iff
+REFEREE	R1	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radius_le_radius_radialPrimitiveSeries	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radius_le_radius_radialPrimitiveSeries	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radius_le_radius_radialPrimitiveSeries	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radius_le_radius_radialPrimitiveSeries	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	324 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.norm_radialPrimitiveSeries_succ_le	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.norm_radialPrimitiveSeries_succ_le	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.norm_radialPrimitiveSeries_succ_le	INFO	not an iff
+REFEREE	R1	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.norm_radialPrimitiveSeries_succ_le	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.norm_radialPrimitiveSeries_succ_le	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.norm_radialPrimitiveSeries_succ_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.norm_radialPrimitiveSeries_succ_le	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	39 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.mem_ball_iff_sub_mem_ball	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.mem_ball_iff_sub_mem_ball	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	boundary: the right side states it in numbers
+REFEREE	R1	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	reaches Metric.mem_ball._simp_1
+REFEREE	R1k	DifferentialForm.mem_ball_iff_sub_mem_ball	CONTENT	reaches Metric.mem_ball._simp_1
+REFEREE	R7	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.mem_ball_iff_sub_mem_ball	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.mem_ball_iff_sub_mem_ball	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.mem_ball_iff_sub_mem_ball	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	435 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	x ∈ Metric.eball 0 p.radius :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	no single top step
+REFEREE	R1i	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialPrimitiveSeries_sum_eq_tsum	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_translateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_translateForm	PASS	133 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_translateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_translateForm	PASS	DifferentiableAt ℂ A (c + x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_translateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_translateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_translateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_translateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_translateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_translateForm	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.extDeriv_translateForm	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.extDeriv_translateForm	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDeriv_translateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_translateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_translateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_translateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_translateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_translateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.add_mem_ball_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.add_mem_ball_iff	PASS	40 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.add_mem_ball_iff	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.add_mem_ball_iff	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.add_mem_ball_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.add_mem_ball_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.add_mem_ball_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.add_mem_ball_iff	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.add_mem_ball_iff	PASS	boundary: the right side states it in numbers
+REFEREE	R1	DifferentialForm.add_mem_ball_iff	PASS	reaches Metric.mem_ball._simp_1
+REFEREE	R1k	DifferentialForm.add_mem_ball_iff	CONTENT	reaches Metric.mem_ball._simp_1
+REFEREE	R7	DifferentialForm.add_mem_ball_iff	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.add_mem_ball_iff	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.add_mem_ball_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.add_mem_ball_iff	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.add_mem_ball_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.add_mem_ball_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.add_mem_ball_iff	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	1130 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	FiniteDimensional ℂ E :: side condition | 0 < r :: side condition | AnalyticOnNhd ℂ η (Metric.ball c r) :: side condition | Set.EqOn (extDeriv η) 0 (Metric.ball c r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	INFO	not an iff
+REFEREE	R1	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	no single top step
+REFEREE	R1i	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	12 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exists_analyticOnNhd_primitive_on_smaller_centered_ball	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	689 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	HasFPowerSeriesOnBall η p 0 R :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	INFO	not an iff
+REFEREE	R1	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.analyticOnNhd_radialHomotopy_of_hasFPowerSeriesOnBall	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.fderiv_translateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.fderiv_translateForm	PASS	118 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.fderiv_translateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.fderiv_translateForm	PASS	DifferentiableAt ℂ A (c + x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.fderiv_translateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.fderiv_translateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.fderiv_translateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.fderiv_translateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.fderiv_translateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.fderiv_translateForm	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.fderiv_translateForm	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.fderiv_translateForm	PASS	no single top step
+REFEREE	R1i	DifferentialForm.fderiv_translateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.fderiv_translateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.fderiv_translateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.fderiv_translateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.fderiv_translateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.fderiv_translateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.fderiv_untranslateForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.fderiv_untranslateForm	PASS	114 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.fderiv_untranslateForm	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.fderiv_untranslateForm	PASS	DifferentiableAt ℂ A (x - c) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.fderiv_untranslateForm	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.fderiv_untranslateForm	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.fderiv_untranslateForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.fderiv_untranslateForm	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.fderiv_untranslateForm	INFO	not an iff
+REFEREE	R1	DifferentialForm.fderiv_untranslateForm	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.fderiv_untranslateForm	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.fderiv_untranslateForm	PASS	no single top step
+REFEREE	R1i	DifferentialForm.fderiv_untranslateForm	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.fderiv_untranslateForm	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.fderiv_untranslateForm	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.fderiv_untranslateForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.fderiv_untranslateForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.fderiv_untranslateForm	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	296 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	HasFPowerSeriesOnBall η p 0 R :: side condition | x ∈ Metric.eball 0 R :: side condition | t ∈ Set.Icc 0 1 :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	INFO	not an iff
+REFEREE	R1	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R1k	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	CONTENT	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	no single top step
+REFEREE	R1i	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.hasSum_radialIntegrand_of_hasFPowerSeriesOnBall	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	FAIL	header names declared nowhere in the project: ['Poincare']
+REFEREE	MODULE	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	INFO	4 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	INFO	25 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exactWedgeWithin_differentiableWithinAt'])
+REFEREE	INST	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.ExactWedge	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	FAIL	module docstring has no `## Main results`; 12 public declarations without a docstring (['radialPrimitiveSeries_zero', 'radialPrimitiveSeries_succ_apply', 'norm_radialPrimitiveSeries_succ_le', 'radius_le_radius_radialPrimitiveSeries'])
+REFEREE	INST	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.Analysis.Calculus.DifferentialForm.HolomorphicPoincare	PASS	not under a Mathlib folder
+exit 1

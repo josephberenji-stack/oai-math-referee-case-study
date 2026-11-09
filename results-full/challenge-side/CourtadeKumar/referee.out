@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	80 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	no hypotheses
+REFEREE	L3	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CourtadeKumar	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CourtadeKumar	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CourtadeKumar	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CourtadeKumar	FAIL	no module docstring /-! … -/; 17 public declarations without a docstring (['Cube', 'Cube', 'cubeAverage', 'ell'])

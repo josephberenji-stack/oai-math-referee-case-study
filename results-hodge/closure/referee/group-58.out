@@ -1,0 +1,745 @@
+REFEREE	L0	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	175 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	FiniteDimensional ℂ E :: side condition | Continuous fun p => F p.1 p.2 :: side condition | Continuous fun p => F' p.1 p.2 :: side condition | ∀ (x : E) (t : ℝ), HasFDerivAt (fun x => F x t) (F' x t) x :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	INFO	not an iff
+REFEREE	R1	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	no single top step
+REFEREE	R1i	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialIntegrand	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialIntegrand	PASS	390 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialIntegrand	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialIntegrand	PASS	DifferentiableAt ℂ η (↑t • x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialIntegrand	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialIntegrand	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialIntegrand	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialIntegrand	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialIntegrand	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialIntegrand	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.extDeriv_radialIntegrand	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.extDeriv_radialIntegrand	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDeriv_radialIntegrand	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialIntegrand	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialIntegrand	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialIntegrand	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialIntegrand	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialIntegrand	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	163 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | ContinuousOn (fun p => F p.1 p.2) (s ×ˢ Set.Icc 0 1) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	reaches FiniteDimensional.proper
+REFEREE	R1k	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	CONTENT	reaches FiniteDimensional.proper
+REFEREE	R7	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_intervalIntegral_of_continuousOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	474 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	top step DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn carries content
+REFEREE	R1i	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialHomotopy_hasFDerivAt_of_contDiffOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuous_radialIntegrand	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuous_radialIntegrand	PASS	234 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuous_radialIntegrand	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuous_radialIntegrand	PASS	Continuous η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuous_radialIntegrand	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuous_radialIntegrand	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuous_radialIntegrand	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuous_radialIntegrand	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuous_radialIntegrand	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuous_radialIntegrand	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.continuous_radialIntegrand	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.continuous_radialIntegrand	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuous_radialIntegrand	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuous_radialIntegrand	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuous_radialIntegrand	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuous_radialIntegrand	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuous_radialIntegrand	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuous_radialIntegrand	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuous_radialPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuous_radialPullback	PASS	104 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuous_radialPullback	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuous_radialPullback	PASS	Continuous η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuous_radialPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuous_radialPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuous_radialPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuous_radialPullback	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuous_radialPullback	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuous_radialPullback	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.continuous_radialPullback	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.continuous_radialPullback	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.continuous_radialPullback	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuous_radialPullback	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuous_radialPullback	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuous_radialPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuous_radialPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuous_radialPullback	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy	PASS	461 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy	PASS	FiniteDimensional ℂ E :: side condition | ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy	PASS	6 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	328 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.alternatize_curryDerivativeAt_add	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.alternatize_curryDerivativeAt_add	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.alternatize_curryDerivativeAt_add	INFO	not an iff
+REFEREE	R1	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.alternatize_curryDerivativeAt_add	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.alternatize_curryDerivativeAt_add	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.alternatize_curryDerivativeAt_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.alternatize_curryDerivativeAt_add	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.smul_mem_of_starConvex_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.smul_mem_of_starConvex_zero	PASS	76 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.smul_mem_of_starConvex_zero	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.smul_mem_of_starConvex_zero	PASS	StarConvex ℝ 0 s :: side condition | x ∈ s :: side condition | t ∈ Set.Icc 0 1 :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.smul_mem_of_starConvex_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.smul_mem_of_starConvex_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.smul_mem_of_starConvex_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.smul_mem_of_starConvex_zero	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.smul_mem_of_starConvex_zero	INFO	not an iff
+REFEREE	R1	DifferentialForm.smul_mem_of_starConvex_zero	PASS	reaches StarConvex.segment_subset
+REFEREE	R1k	DifferentialForm.smul_mem_of_starConvex_zero	CONTENT	reaches StarConvex.segment_subset
+REFEREE	R7	DifferentialForm.smul_mem_of_starConvex_zero	PASS	no single top step
+REFEREE	R1i	DifferentialForm.smul_mem_of_starConvex_zero	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.smul_mem_of_starConvex_zero	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.smul_mem_of_starConvex_zero	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.smul_mem_of_starConvex_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.smul_mem_of_starConvex_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.smul_mem_of_starConvex_zero	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	215 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_radialPullbackDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_radialPullbackDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_radialPullbackDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuousOn_radialPullbackDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuousOn_radialPullbackDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_radialPullbackDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_radialPullbackDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	339 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_radialIntegrandFDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_radialIntegrandFDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_radialIntegrandFDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuousOn_radialIntegrandFDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuousOn_radialIntegrandFDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_radialIntegrandFDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_radialIntegrandFDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	769 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy_add_of_contDiffOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	515 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialHomotopy_contDiffOn_one	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialHomotopy_contDiffOn_one	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialHomotopy_contDiffOn_one	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.radialHomotopy_contDiffOn_one	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	no single top step
+REFEREE	R1i	DifferentialForm.radialHomotopy_contDiffOn_one	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	6 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialHomotopy_contDiffOn_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialHomotopy_contDiffOn_one	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	362 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.integral_radialPullbackDeriv_of_contDiffOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_radialIntegrand	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_radialIntegrand	PASS	275 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_radialIntegrand	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_radialIntegrand	PASS	StarConvex ℝ 0 s :: side condition | ContinuousOn η s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_radialIntegrand	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_radialIntegrand	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_radialIntegrand	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_radialIntegrand	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_radialIntegrand	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_radialIntegrand	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.continuousOn_radialIntegrand	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.continuousOn_radialIntegrand	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuousOn_radialIntegrand	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_radialIntegrand	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_radialIntegrand	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_radialIntegrand	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_radialIntegrand	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_radialIntegrand	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_radialPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_radialPullback	PASS	159 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_radialPullback	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_radialPullback	PASS	StarConvex ℝ 0 s :: side condition | ContinuousOn η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_radialPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_radialPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_radialPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_radialPullback	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_radialPullback	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_radialPullback	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.continuousOn_radialPullback	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.continuousOn_radialPullback	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuousOn_radialPullback	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_radialPullback	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_radialPullback	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_radialPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_radialPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_radialPullback	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialIntegrand_contDiff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialIntegrand_contDiff	PASS	233 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialIntegrand_contDiff	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialIntegrand_contDiff	PASS	ContDiff ℂ ⊤ η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialIntegrand_contDiff	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialIntegrand_contDiff	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialIntegrand_contDiff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialIntegrand_contDiff	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialIntegrand_contDiff	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialIntegrand_contDiff	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.radialIntegrand_contDiff	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.radialIntegrand_contDiff	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialIntegrand_contDiff	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialIntegrand_contDiff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialIntegrand_contDiff	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialIntegrand_contDiff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialIntegrand_contDiff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialIntegrand_contDiff	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuous_extDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuous_extDeriv	PASS	142 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuous_extDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuous_extDeriv	PASS	ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuous_extDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuous_extDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuous_extDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuous_extDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuous_extDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuous_extDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuous_extDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuous_extDeriv	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.continuous_extDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuous_extDeriv	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuous_extDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuous_extDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuous_extDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuous_extDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	798 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | Set.EqOn (extDeriv η) 0 s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exists_contDiffOn_primitive_of_closedOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialIntegrand_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialIntegrand_apply	PASS	126 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialIntegrand_apply	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialIntegrand_apply	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.radialIntegrand_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialIntegrand_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialIntegrand_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialIntegrand_apply	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialIntegrand_apply	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialIntegrand_apply	PASS	reaches SeparatelyContinuousMul.to_continuousSMul
+REFEREE	R1k	DifferentialForm.radialIntegrand_apply	CONTENT	reaches SeparatelyContinuousMul.to_continuousSMul
+REFEREE	R7	DifferentialForm.radialIntegrand_apply	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialIntegrand_apply	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialIntegrand_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialIntegrand_apply	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialIntegrand_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialIntegrand_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialIntegrand_apply	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	274 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | Set.EqOn (extDeriv η) 0 s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.zeroForm_eq_at_zero_of_closedOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	255 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialIntegrand_hasFDerivAt	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	DifferentiableAt ℂ η (↑t • x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialIntegrand_hasFDerivAt	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialIntegrand_hasFDerivAt	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.radialIntegrand_hasFDerivAt	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	no single top step
+REFEREE	R1i	DifferentialForm.radialIntegrand_hasFDerivAt	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialIntegrand_hasFDerivAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialIntegrand_hasFDerivAt	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	803 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.exists_contDiffOn_primitive_on_ball	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	FiniteDimensional ℂ E :: side condition | 0 < r :: side condition | ContDiffOn ℂ 1 η (Metric.ball 0 r) :: side condition | Set.EqOn (extDeriv η) 0 (Metric.ball 0 r) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.exists_contDiffOn_primitive_on_ball	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.exists_contDiffOn_primitive_on_ball	INFO	not an iff
+REFEREE	R1	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.exists_contDiffOn_primitive_on_ball	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	top step DifferentialForm.exists_contDiffOn_primitive_of_closedOn carries content
+REFEREE	R1i	DifferentialForm.exists_contDiffOn_primitive_on_ball	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.exists_contDiffOn_primitive_on_ball	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.exists_contDiffOn_primitive_on_ball	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	195 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | x₀ ∈ s :: side condition | ContinuousOn (fun p => F p.1 p.2) (s ×ˢ Set.Icc 0 1) :: side condition | ContinuousOn (fun p => F' p.1 p.2) (s ×ˢ Set.Icc 0 1) :: side condition | ∀ x ∈ s, ∀ t ∈ Set.Icc 0 1, HasFDerivAt (fun x => F x t) (F' x t) x :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.hasFDerivAt_intervalIntegral_of_continuousOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	307 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuous_radialIntegrandFDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuous_radialIntegrandFDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuous_radialIntegrandFDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuous_radialIntegrandFDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuous_radialIntegrandFDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuous_radialIntegrandFDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuous_radialIntegrandFDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialPullback_hasDerivAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialPullback_hasDerivAt	PASS	202 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialPullback_hasDerivAt	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialPullback_hasDerivAt	PASS	DifferentiableAt ℂ η (↑t • x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialPullback_hasDerivAt	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialPullback_hasDerivAt	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialPullback_hasDerivAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialPullback_hasDerivAt	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialPullback_hasDerivAt	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialPullback_hasDerivAt	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.radialPullback_hasDerivAt	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.radialPullback_hasDerivAt	PASS	no single top step
+REFEREE	R1i	DifferentialForm.radialPullback_hasDerivAt	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialPullback_hasDerivAt	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialPullback_hasDerivAt	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialPullback_hasDerivAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialPullback_hasDerivAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialPullback_hasDerivAt	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	774 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | Set.EqOn (extDeriv η) 0 s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy_of_closedOn	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialIntegrand_differentiableAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialIntegrand_differentiableAt	PASS	233 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialIntegrand_differentiableAt	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialIntegrand_differentiableAt	PASS	Differentiable ℂ η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialIntegrand_differentiableAt	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialIntegrand_differentiableAt	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialIntegrand_differentiableAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialIntegrand_differentiableAt	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialIntegrand_differentiableAt	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialIntegrand_differentiableAt	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.radialIntegrand_differentiableAt	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.radialIntegrand_differentiableAt	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialIntegrand_differentiableAt	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialIntegrand_differentiableAt	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialIntegrand_differentiableAt	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialIntegrand_differentiableAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialIntegrand_differentiableAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialIntegrand_differentiableAt	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuous_radialPullbackDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuous_radialPullbackDeriv	PASS	169 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuous_radialPullbackDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuous_radialPullbackDeriv	PASS	ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuous_radialPullbackDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuous_radialPullbackDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuous_radialPullbackDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuous_radialPullbackDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuous_radialPullbackDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuous_radialPullbackDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuous_radialPullbackDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuous_radialPullbackDeriv	PASS	no single top step
+REFEREE	R1i	DifferentialForm.continuous_radialPullbackDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuous_radialPullbackDeriv	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuous_radialPullbackDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuous_radialPullbackDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuous_radialPullbackDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuous_radialPullbackDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialIntegrandFDeriv_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialIntegrandFDeriv_eq	PASS	316 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialIntegrandFDeriv_eq	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialIntegrandFDeriv_eq	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.radialIntegrandFDeriv_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialIntegrandFDeriv_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialIntegrandFDeriv_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialIntegrandFDeriv_eq	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialIntegrandFDeriv_eq	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialIntegrandFDeriv_eq	PASS	reaches ContinuousLinearMap.ext
+REFEREE	R1k	DifferentialForm.radialIntegrandFDeriv_eq	CONTENT	reaches ContinuousLinearMap.ext
+REFEREE	R7	DifferentialForm.radialIntegrandFDeriv_eq	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.radialIntegrandFDeriv_eq	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialIntegrandFDeriv_eq	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialIntegrandFDeriv_eq	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialIntegrandFDeriv_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialIntegrandFDeriv_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialIntegrandFDeriv_eq	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.curryDerivativeAt_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.curryDerivativeAt_apply	PASS	231 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.curryDerivativeAt_apply	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.curryDerivativeAt_apply	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.curryDerivativeAt_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.curryDerivativeAt_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.curryDerivativeAt_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.curryDerivativeAt_apply	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.curryDerivativeAt_apply	INFO	not an iff
+REFEREE	R1	DifferentialForm.curryDerivativeAt_apply	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.curryDerivativeAt_apply	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.curryDerivativeAt_apply	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.curryDerivativeAt_apply	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.curryDerivativeAt_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.curryDerivativeAt_apply	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.curryDerivativeAt_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.curryDerivativeAt_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.curryDerivativeAt_apply	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	44 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.zeroForm_eq_constOfIsEmpty	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.zeroForm_eq_constOfIsEmpty	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.zeroForm_eq_constOfIsEmpty	INFO	not an iff
+REFEREE	R1	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	reaches Fin.isEmpty'
+REFEREE	R1k	DifferentialForm.zeroForm_eq_constOfIsEmpty	CONTENT	reaches Fin.isEmpty'
+REFEREE	R7	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.zeroForm_eq_constOfIsEmpty	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.zeroForm_eq_constOfIsEmpty	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.zeroForm_eq_constOfIsEmpty	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.integral_radialPullbackDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.integral_radialPullbackDeriv	PASS	312 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.integral_radialPullbackDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.integral_radialPullbackDeriv	PASS	ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.integral_radialPullbackDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.integral_radialPullbackDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.integral_radialPullbackDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.integral_radialPullbackDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.integral_radialPullbackDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.integral_radialPullbackDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.integral_radialPullbackDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.integral_radialPullbackDeriv	PASS	no single top step
+REFEREE	R1i	DifferentialForm.integral_radialPullbackDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.integral_radialPullbackDeriv	PASS	2 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.integral_radialPullbackDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.integral_radialPullbackDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.integral_radialPullbackDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.integral_radialPullbackDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	420 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.radialHomotopy_hasFDerivAt	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	FiniteDimensional ℂ E :: side condition | ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.radialHomotopy_hasFDerivAt	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.radialHomotopy_hasFDerivAt	INFO	not an iff
+REFEREE	R1	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.radialHomotopy_hasFDerivAt	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	top step DifferentialForm.hasFDerivAt_intervalIntegral_of_continuous carries content
+REFEREE	R1i	DifferentialForm.radialHomotopy_hasFDerivAt	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.radialHomotopy_hasFDerivAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.radialHomotopy_hasFDerivAt	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	724 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy_of_closed	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	FiniteDimensional ℂ E :: side condition | ContDiff ℂ 1 η :: side condition | extDeriv η = 0 :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy_of_closed	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy_of_closed	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy_of_closed	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy_of_closed	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy_of_closed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy_of_closed	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy_add	PASS	719 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy_add	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy_add	PASS	FiniteDimensional ℂ E :: side condition | ContDiff ℂ 1 η :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy_add	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy_add	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy_add	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy_add	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy_add	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy_add	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy_add	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy_add	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy_add	PASS	9 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy_add	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy_add	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	282 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.zeroForm_eq_at_zero_of_closed	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	ContDiff ℂ 1 η :: side condition | extDeriv η = 0 :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.zeroForm_eq_at_zero_of_closed	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.zeroForm_eq_at_zero_of_closed	INFO	not an iff
+REFEREE	R1	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.zeroForm_eq_at_zero_of_closed	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.zeroForm_eq_at_zero_of_closed	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	1 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.zeroForm_eq_at_zero_of_closed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.zeroForm_eq_at_zero_of_closed	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialIntegrand_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialIntegrand_add	PASS	472 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialIntegrand_add	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialIntegrand_add	PASS	DifferentiableAt ℂ η (↑t • x) :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialIntegrand_add	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialIntegrand_add	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialIntegrand_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialIntegrand_add	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialIntegrand_add	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialIntegrand_add	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R1k	DifferentialForm.extDeriv_radialIntegrand_add	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	DifferentialForm.extDeriv_radialIntegrand_add	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.extDeriv_radialIntegrand_add	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialIntegrand_add	PASS	3 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialIntegrand_add	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialIntegrand_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialIntegrand_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialIntegrand_add	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.continuousOn_extDeriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.continuousOn_extDeriv	PASS	139 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.continuousOn_extDeriv	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.continuousOn_extDeriv	PASS	IsOpen s :: side condition | ContDiffOn ℂ 1 η s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.continuousOn_extDeriv	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.continuousOn_extDeriv	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.continuousOn_extDeriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.continuousOn_extDeriv	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.continuousOn_extDeriv	INFO	not an iff
+REFEREE	R1	DifferentialForm.continuousOn_extDeriv	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.continuousOn_extDeriv	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.continuousOn_extDeriv	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.continuousOn_extDeriv	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.continuousOn_extDeriv	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.continuousOn_extDeriv	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.continuousOn_extDeriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.continuousOn_extDeriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.continuousOn_extDeriv	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	186 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.isBoundedBilinearMap_curryLeft	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	no hypotheses
+REFEREE	L3	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.isBoundedBilinearMap_curryLeft	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.isBoundedBilinearMap_curryLeft	INFO	not an iff
+REFEREE	R1	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	reaches ContinuousAlternatingMap.instAddCommGroup._proof_7
+REFEREE	R1k	DifferentialForm.isBoundedBilinearMap_curryLeft	CONTENT	reaches ContinuousAlternatingMap.instAddCommGroup._proof_7
+REFEREE	R7	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	top step is not a project theorem
+REFEREE	R1i	DifferentialForm.isBoundedBilinearMap_curryLeft	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	0 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.isBoundedBilinearMap_curryLeft	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.isBoundedBilinearMap_curryLeft	REVIEW	computed class A?
+REFEREE	L0	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	518 constants reached, no stand-in
+REFEREE	L1u	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	INFO	no opaque with a value reached
+REFEREE	L2	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	FiniteDimensional ℂ E :: side condition | IsOpen s :: side condition | StarConvex ℝ 0 s :: side condition | ContDiffOn ℂ 1 η s :: side condition | x ∈ s :: side condition || unbuilt=0
+REFEREE	L3	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	no hypothesis refuted on file
+REFEREE	R2	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	not an equivalence with an open problem
+REFEREE	R3	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	INFO	not a registered target statement
+REFEREE	IFF	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	INFO	not an iff
+REFEREE	R1	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	reaches Algebra.to_smulCommClass
+REFEREE	R1k	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	no single top step
+REFEREE	R1i	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	INFO	no supplied input
+REFEREE	DUP	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	6 project definitions, no twins
+REFEREE	SHADOW	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	no copy of a library declaration
+REFEREE	R5	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	DifferentialForm.extDeriv_radialHomotopy_of_contDiffOn	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	INFO	41 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	FAIL	module docstring has no `## Main results`; 17 public declarations without a docstring (['radialIntegrand_apply', 'radialIntegrand_differentiableAt', 'radialIntegrand_contDiff', 'radialIntegrand_hasFDerivAt'])
+REFEREE	INST	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	REVIEW	instance changes at lines 372, 374, 377
+REFEREE	VEND	HodgeConjecture.Mathlib.Analysis.Calculus.DifferentialForm.Poincare	REVIEW	vendored library path HodgeConjecture/Mathlib/Analysis/Calculus/DifferentialForm/Poincare.lean
+exit 1

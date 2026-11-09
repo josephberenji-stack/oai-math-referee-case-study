@@ -1,0 +1,238 @@
+REFEREE	L0	OAI.CurrentProjection.conditionalKL_chain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.conditionalKL_chain	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.conditionalKL_chain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.conditionalKL_chain	PASS	StandardBorelSpace A :: side condition | Nonempty A :: side condition | MeasureTheory.IsProbabilityMeasure μ :: side condition | ProbabilityTheory.IsMarkovKernel κ :: side condition | MeasureTheory.IsProbabilityMeasure π :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.conditionalKL_chain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.conditionalKL_chain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.conditionalKL_chain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.conditionalKL_chain	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.conditionalKL_chain	PASS	reaches ProbabilityTheory.Kernel.snd_eq
+REFEREE	R7	OAI.CurrentProjection.conditionalKL_chain	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.conditionalKL_chain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.conditionalKL_chain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.conditionalKL_chain	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	StandardBorelSpace A :: side condition | StandardBorelSpace B :: side condition | StandardBorelSpace C :: side condition | Nonempty A :: side condition | Nonempty B :: side condition | Nonempty C :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | Measurable f :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	reaches StandardBorelSpace.prod
+REFEREE	R7	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.conditionalMutualInformation_map_right_le	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.actualRowSourceRefinement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.actualRowSourceRefinement	PASS	317 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.actualRowSourceRefinement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.actualRowSourceRefinement	PASS	Countable W :: side condition | MeasurableSingletonClass W :: side condition | Countable E :: side condition | MeasurableSingletonClass E :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition (project data) | MeasureTheory.IsProbabilityMeasure ν :: side condition (project data) | (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.swapLast) P).fst = ν.prod (OAI.CurrentP :: side condition (project data) | Measurable e :: side condition (project data) | OAI.CurrentProjection.shannonEntropy   (MeasureTheory.Measure.map (⇑OAI.CurrentProjection. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.actualRowSourceRefinement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.actualRowSourceRefinement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.actualRowSourceRefinement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.actualRowSourceRefinement	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.actualRowSourceRefinement	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.actualRowSourceRefinement	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.actualRowSourceRefinement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.actualRowSourceRefinement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.actualRowSourceRefinement	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.measurable_exposedJointMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.measurable_exposedJointMap	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.measurable_exposedJointMap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.measurable_exposedJointMap	PASS	no hypotheses
+REFEREE	L3	OAI.CurrentProjection.measurable_exposedJointMap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.measurable_exposedJointMap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.measurable_exposedJointMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.measurable_exposedJointMap	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.measurable_exposedJointMap	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.measurable_exposedJointMap	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.measurable_exposedJointMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.measurable_exposedJointMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.measurable_exposedJointMap	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	59 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.compProd_prod_swapAssoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	MeasureTheory.SFinite μ :: side condition | ProbabilityTheory.IsSFiniteKernel κ :: side condition | ProbabilityTheory.IsSFiniteKernel η :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.compProd_prod_swapAssoc	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	reaches measurable_fst
+REFEREE	R7	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.compProd_prod_swapAssoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.compProd_prod_swapAssoc	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.conditionalMutualInformation_swap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	StandardBorelSpace A :: side condition | StandardBorelSpace B :: side condition | Nonempty A :: side condition | Nonempty B :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.conditionalMutualInformation_swap	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	reaches StandardBorelSpace.prod
+REFEREE	R7	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.conditionalMutualInformation_swap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.conditionalMutualInformation_swap	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.mutualInformation_chain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.mutualInformation_chain	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.mutualInformation_chain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.mutualInformation_chain	PASS	StandardBorelSpace A :: side condition | StandardBorelSpace B :: side condition | Nonempty A :: side condition | Nonempty B :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.mutualInformation_chain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.mutualInformation_chain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.mutualInformation_chain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.mutualInformation_chain	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.mutualInformation_chain	PASS	reaches StandardBorelSpace.prod
+REFEREE	R7	OAI.CurrentProjection.mutualInformation_chain	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.mutualInformation_chain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.mutualInformation_chain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.mutualInformation_chain	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	181 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	StandardBorelSpace W :: side condition | StandardBorelSpace X :: side condition | Nonempty W :: side condition | Nonempty X :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | MeasureTheory.IsProbabilityMeasure ν :: side condition | MeasureTheory.IsProbabilityMeasure γ :: side condition | (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.swapLast) P).fst = ν.prod γ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	reaches Measurable.prodMk
+REFEREE	R7	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.rowInformation_eq_conditionalMutualInformation	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	203 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	StandardBorelSpace W :: side condition | StandardBorelSpace X :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | MeasureTheory.IsProbabilityMeasure ν :: side condition | MeasureTheory.IsProbabilityMeasure γ :: side condition | (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.swapLast) P).fst = ν.prod γ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	reaches Measurable.prodMk
+REFEREE	R7	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.rowInformation_eq_sourceConditionalInformation	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	524 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	StandardBorelSpace A :: side condition | Nonempty A :: side condition | Nonempty B :: side condition | Countable B :: side condition | MeasurableSingletonClass B :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | OAI.CurrentProjection.shannonEntropy (MeasureTheory.Measure.map (⇑MeasurableEquiv.prodAsso :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	reaches MeasureTheory.instIsProbabilityMeasureMap
+REFEREE	R7	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.conditionalMutualInformation_le_entropy	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.fst_map_swapAssoc_compProd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	MeasureTheory.SFinite μ :: side condition | ProbabilityTheory.IsSFiniteKernel κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.fst_map_swapAssoc_compProd	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	reaches ProbabilityTheory.Kernel.snd_eq
+REFEREE	R7	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.fst_map_swapAssoc_compProd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.fst_map_swapAssoc_compProd	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.compProd_prod_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.compProd_prod_assoc	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.compProd_prod_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.compProd_prod_assoc	PASS	MeasureTheory.SFinite μ :: side condition | ProbabilityTheory.IsSFiniteKernel κ :: side condition | ProbabilityTheory.IsSFiniteKernel η :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.compProd_prod_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.compProd_prod_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.compProd_prod_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.compProd_prod_assoc	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.compProd_prod_assoc	PASS	reaches measurable_fst
+REFEREE	R7	OAI.CurrentProjection.compProd_prod_assoc	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.compProd_prod_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.compProd_prod_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.compProd_prod_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	74 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.conditionalMutualInformation_compProd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	StandardBorelSpace A :: side condition | StandardBorelSpace B :: side condition | Nonempty A :: side condition | Nonempty B :: side condition | MeasureTheory.IsFiniteMeasure μ :: side condition | ProbabilityTheory.IsMarkovKernel κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.conditionalMutualInformation_compProd	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	reaches StandardBorelSpace.prod
+REFEREE	R7	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.conditionalMutualInformation_compProd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.conditionalMutualInformation_compProd	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.alignedExperiment_probability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.alignedExperiment_probability	PASS	94 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.alignedExperiment_probability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.alignedExperiment_probability	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.alignedExperiment_probability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.alignedExperiment_probability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.alignedExperiment_probability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.alignedExperiment_probability	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.alignedExperiment_probability	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.alignedExperiment_probability	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.alignedExperiment_probability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.alignedExperiment_probability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.alignedExperiment_probability	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.actualRowSourceMain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.actualRowSourceMain	PASS	2410 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.actualRowSourceMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.actualRowSourceMain	REVIEW	Countable W :: side condition | MeasurableSingletonClass W :: side condition | OAI.CurrentProjection.AdmissibleDimensions d m r q :: carries a project proposition | MeasureTheory.IsProbabilityMeasure P :: side condition (project data) | MeasureTheory.IsProbabilityMeasure ν :: side condition (project data) | (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.swapLast) P).fst = ν.prod (OAI.CurrentP :: side condition (project data) | ν ≤ ENNReal.ofReal H • OAI.CurrentProjection.uniformSphere d :: side condition (project data) | OAI.CurrentProjection.shannonEntropy (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.sw :: side condition (project data) | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: side condition (project data) | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: side condition (project data) | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: side condition (project data) | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: side condition (project data) | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: carries a project proposition | ∀ (w : OAI.CurrentProjection.PositiveMessage (MeasureTheory.Measure.map (⇑OAI.CurrentProje :: carries a project proposition | MeasureTheory.Integrable  (fun sw =>   Real.log    (1 +     OAI.CurrentProjection.momentBo :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.actualRowSourceMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.actualRowSourceMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.actualRowSourceMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.actualRowSourceMain	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.actualRowSourceMain	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.actualRowSourceMain	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.actualRowSourceMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.actualRowSourceMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.actualRowSourceMain	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.measurable_alignedMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.measurable_alignedMap	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.measurable_alignedMap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.measurable_alignedMap	PASS	no hypotheses
+REFEREE	L3	OAI.CurrentProjection.measurable_alignedMap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.measurable_alignedMap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.measurable_alignedMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.measurable_alignedMap	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.measurable_alignedMap	PASS	reaches Measurable.prodMk
+REFEREE	R7	OAI.CurrentProjection.measurable_alignedMap	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.measurable_alignedMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.measurable_alignedMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.measurable_alignedMap	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.fst_map_assoc_compProd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	MeasureTheory.SFinite μ :: side condition | ProbabilityTheory.IsSFiniteKernel κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.fst_map_assoc_compProd	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	reaches ProbabilityTheory.Kernel.fst_eq
+REFEREE	R7	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.fst_map_assoc_compProd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.fst_map_assoc_compProd	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	30 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.kernel_prod_eq_compProd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	ProbabilityTheory.IsSFiniteKernel κ :: side condition | ProbabilityTheory.IsSFiniteKernel η :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.kernel_prod_eq_compProd	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	reaches ProbabilityTheory.Kernel.ext
+REFEREE	R7	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.kernel_prod_eq_compProd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.kernel_prod_eq_compProd	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.GaussianReplacement.ConditionalInfo	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.GaussianReplacement.ConditionalInfo	INFO	18 theorems checked
+REFEREE	L5	OAI.Probability.GaussianReplacement.ConditionalInfo	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.GaussianReplacement.ConditionalInfo	FAIL	no module docstring /-! … -/; 25 public declarations without a docstring (['conditionalMutualInformation', 'kernel_prod_eq_compProd', 'compProd_prod_assoc', 'swapAssoc'])

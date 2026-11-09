@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.SnakyCertificate.certificate_correct	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SnakyCertificate.certificate_correct	PASS	797 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyCertificate.certificate_correct	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyCertificate.certificate_correct	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyCertificate.certificate_correct	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyCertificate.certificate_correct	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyCertificate.certificate_correct	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyCertificate.certificate_correct	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyCertificate.certificate_correct	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.SnakyCertificate.certificate_correct	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyCertificate.certificate_correct	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyCertificate.certificate_correct	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyCertificate.certificate_correct	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.SnakyCertificate.rotationModulus_neZero	PASS	[propext]
+REFEREE	L1	OAI.SnakyCertificate.rotationModulus_neZero	PASS	7 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyCertificate.rotationModulus_neZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyCertificate.rotationModulus_neZero	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyCertificate.rotationModulus_neZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyCertificate.rotationModulus_neZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyCertificate.rotationModulus_neZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyCertificate.rotationModulus_neZero	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyCertificate.rotationModulus_neZero	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.SnakyCertificate.rotationModulus_neZero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyCertificate.rotationModulus_neZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyCertificate.rotationModulus_neZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyCertificate.rotationModulus_neZero	REVIEW	computed class A?
+REFEREE	L0	OAI.SnakyCertificate.digitModulus_neZero	PASS	[propext]
+REFEREE	L1	OAI.SnakyCertificate.digitModulus_neZero	PASS	7 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyCertificate.digitModulus_neZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyCertificate.digitModulus_neZero	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyCertificate.digitModulus_neZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyCertificate.digitModulus_neZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyCertificate.digitModulus_neZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyCertificate.digitModulus_neZero	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyCertificate.digitModulus_neZero	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.SnakyCertificate.digitModulus_neZero	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyCertificate.digitModulus_neZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyCertificate.digitModulus_neZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyCertificate.digitModulus_neZero	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.SnakyCertificate	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SnakyCertificate	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.SnakyCertificate	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SnakyCertificate	FAIL	no module docstring /-! … -/; 669 public declarations without a docstring (['Cell', 'origin', 'snaky', 'orient'])

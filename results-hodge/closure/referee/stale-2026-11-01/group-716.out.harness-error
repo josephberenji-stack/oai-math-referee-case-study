@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 969, in <module>
+    sys.exit(main(sys.argv[1:]))
+             ^^^^^^^^^^^^^^^^^^
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 941, in main
+    return report_modules(project, modules, off)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 655, in report_modules
+    rows, names, errs, raw = run_lean(project, text)
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 183, in run_lean
+    p = subprocess.run(["lake", "env", "lean", f"-M{os.environ.get('REFEREE_MEM', '6144')}", "-j2",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'lake'
+exit 1

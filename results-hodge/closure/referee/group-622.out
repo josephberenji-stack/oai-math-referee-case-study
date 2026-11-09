@@ -1,0 +1,847 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	1123 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	FiniteDimensional ℂ E :: side condition | FiniteDimensional ℂ F :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | IsManifold (modelWithCornersSelf ℂ F) (↑⊤) N :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ F) (↑⊤) g :: side condition | e ∈ atlas E M :: side condition | k ∈ atlas F N :: side condition | x ∈ e.source :: side condition | g x ∈ k.source :: side condition | ContDiffAt ℂ ⊤ (fun z => ↑k (g (↑e.symm z))) (↑e x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	CONTENT	reaches RingCat.Colimits.hasColimits_ringCat
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquiv_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	1147 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	FiniteDimensional ℂ E :: side condition | FiniteDimensional ℂ F :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | IsManifold (modelWithCornersSelf ℂ F) (↑⊤) N :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ F) (↑⊤) g :: side condition | e ∈ atlas E M :: side condition | k ∈ atlas F N :: side condition | x ∈ e.source :: side condition | g x ∈ k.source :: side condition | ↑e x = u :: side condition | ↑k (g x) = v :: side condition | ContDiffAt ℂ ⊤ (fun z => ↑k (g (↑e.symm z))) u :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	CONTENT	reaches RingCat.Colimits.hasColimits_ringCat
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts.AnalyticLocal.chartStructureStalkEquivAt_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	1711 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | e ∈ atlas E M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	top step OAI.Geometry.ComplexTorus.RiemannProjectivity.HolomorphicContourF.Constructions.HolomorphicDerivative.contDiffOn_infty_of_differentiableOn carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	56 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients.form_scalarCoefficient_holomorphic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	155 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	CONTENT	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_preservesZero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	143 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	reaches CategoryTheory.leOfHom
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	CONTENT	reaches instNormedSpaceLieAddGroup
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarPresheaf_isSheaf	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	69 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	CONTENT	reaches CategoryTheory.instFaithfulSheafSheafCompose
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	REVIEW	packaged: the top step is the structural lemma OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful._proof_1; the content is in its arguments
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.complexSheafForget_faithful	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	180 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	reaches CategoryTheory.leOfHom
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	CONTENT	reaches CategoryTheory.hasSheafCompose_of_preservesMulticospan
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf.Dolbeault.holomorphicScalarSheaf_forget	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	2483 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) | AlgebraicGeometry.IsIntegral Y.left :: side condition (project data) | AlgebraicGeometry.Smooth Y.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	reaches RingHom.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	CONTENT	reaches RingHom.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	139 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback.analytificationRingedStalkSquare	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	712 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	FiniteDimensional ℂ E :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	CONTENT	reaches Filter.Germ.coe_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.exists_holomorphicSectionGerm	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	333 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	V ≤ U :: side condition | x ∈ V :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	reaches RingHom.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	CONTENT	reaches RingHom.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms.AnalyticLocal.holomorphicSectionGerm_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	143 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	∀ (i j : ι) (x : E) (hi : x ∈ V i) (hj : x ∈ V j), ↑(a i) ⟨x, hi⟩ = ↑(a j) ⟨x, hj⟩ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	CONTENT	reaches ContDiffOn.congr
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing.existsUnique_holomorphicSection_glue	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	187 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	CONTENT	reaches ContDiffOn.congr
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold.holomorphicSection_iff_contMDiff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	227 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	CONTENT	reaches ContDiffOn.congr
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf.holomorphicSectionPresheaf_isSheaf	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	1935 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	reaches Equiv.apply_symm_apply
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	CONTENT	reaches Equiv.apply_symm_apply
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	98 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex.inclusionSheafMap_normalization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	3984 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	CONTENT	reaches Equiv.injective
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.isSmoothManifoldFormOn_degreeCast, OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.AlgebraicTopology.Kunneth.ManifoldWedge.Constructions.manifoldDegreeCast._proof_1]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	273 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.algebraicToHolomorphicSheafMap_factorization	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	2996 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	CONTENT	reaches CategoryTheory.Category.comp_id
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	194 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization.zariskiHolomorphicSheafUnit_smooth	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	2850 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	CONTENT	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	top step OAI.AlgebraicGeometry.Comparison.Betti.Module.SheafStalkQuasiIso.Holomorphic.moduleSheafQuasiIsoAt_of_stalk carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	2142 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	CONTENT	reaches CategoryTheory.Preadditive.fullSubcategory._proof_3
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	top step OAI.AlgebraicGeometry.Comparison.Betti.Module.SheafStalkQuasiIso.Holomorphic.moduleSheafQuasiIsoAt_of_stalk carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	101 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIsoAt_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	2933 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	reaches HomologicalComplex.Hom.comm
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.inclusionSheafMap_quasiIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	1557 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	reaches HomologicalComplex.exactAt_iff'
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	top step OAI.AlgebraicTopology.Cohomology.Singular.StalkExactnessAt.stalkComplex_exactAt_succ_of_local_primitives carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	18 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso.smoothPresheafStalk_exactAt_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	1802 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	reaches HomologicalComplex.Hom.comm
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	77 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicComplexSheafificationUnit_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	1973 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	100 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections.holomorphicSheafSectionIso_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	2601 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	reaches HomologicalComplex.Hom.comm
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.sheafStalk_exactAt_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	2463 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	reaches HomologicalComplex.exactAt_iff'
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	top step OAI.AlgebraicTopology.Cohomology.Singular.StalkExactnessAt.stalkComplex_exactAt_succ_of_local_primitives carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedAddCommGroupContinuousAlternatingMapRealFin_oAI = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedSpace = OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.instNormedSpaceRealContinuousAlternatingMapFin_oAI, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialCurryDerivative.radialCurryAuxAltNormedGroup, OAI.AlgebraicTopology.DeRham.Comparison.RadialExteriorIntegral.exteriorIntegralAltNormedGroup = OAI.AlgebraicTopology.DeRham.Comparison.RadialHomotopyIdentity.radialIdentityAltNormedGroup]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness.presheafStalk_exactAt_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	831 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	FiniteDimensional ℂ E :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	CONTENT	reaches Filter.Germ.coe_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	2081 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	FiniteDimensional ℂ E :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	CONTENT	reaches Filter.Germ.coe_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	42 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicFunctionStalk_noetherian	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	432 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms.AnalyticLocal.holomorphicStalkToGerm_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	407 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	x ∈ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	CONTENT	reaches ContDiffOn.congr
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	403 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	x ∈ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	CONTENT	reaches ContDiffOn.congr
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap.AnalyticLocal.holomorphicStalkToGerm_germ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	1099 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	FiniteDimensional ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	CONTENT	reaches RingCat.Colimits.hasColimits_ringCat
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalk_isUnit_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	1069 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	FiniteDimensional ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | x ∈ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	CONTENT	reaches Filter.Germ.coe_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.manifoldStalkValue_germ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	437 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | e ∈ atlas E M :: side condition | x ∈ e.source :: side condition | x ∈ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	reaches Filter.Germ.coe_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	CONTENT	reaches Filter.Germ.coe_mul
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	15 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues.AnalyticLocal.chartSectionGerm_value	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	984 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	FiniteDimensional ℂ E :: side condition | x ∈ U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	reaches ContDiffOn.congr
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	16 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf.AnalyticLocal.standardHolomorphicStalkEquiv_germ	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	1845 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	reaches AlgebraicGeometry.Spec.map_id
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	CONTENT	reaches CategoryTheory.Category.comp_id
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	103 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.algebraicToHolomorphicStructureSheaf_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	257 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	reaches CategoryTheory.Functor.isContinuous_of_coverPreserving
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	CONTENT	reaches CategoryTheory.Functor.isContinuous_of_coverPreserving
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicAnalytificationSite_continuous	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	1851 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	reaches CategoryTheory.Functor.isRightAdjoint_of_leftAdjointObjIsDefined_eq_top
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	CONTENT	reaches CategoryTheory.Functor.isRightAdjoint_of_leftAdjointObjIsDefined_eq_top
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	104 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModulePresheafDirectImage_isRightAdjoint	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	1907 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	AlgebraicGeometry.IsIntegral X.left :: side condition (project data) | AlgebraicGeometry.Smooth X.hom :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	reaches CategoryTheory.Adjunction.isRightAdjoint
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	CONTENT	reaches CategoryTheory.Adjunction.isRightAdjoint
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	105 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism.holomorphicModuleDirectImage_isRightAdjoint	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	1785 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	IsScalarTower ℝ ℂ E :: side condition | FiniteDimensional ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | e ∈ atlas E M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	60 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients.form_coefficients_holomorphic	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	1718 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition | FiniteDimensional ℂ E :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	56 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicZeroForm_scalar_contMDiff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	1465 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	IsScalarTower ℝ ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	59 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions.holomorphicFunctionZeroForm_apply	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	INFO	2 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['chartStructureStalkEquiv_pullback', 'chartStructureStalkEquivAt', 'chartStructureStalkEquivAt_pullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.RingedStalkCharts	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['complexCovectorEvaluation', 'form_scalarCoefficient_holomorphic'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	REVIEW	instance changes at lines 26
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarCoefficients	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['holomorphicScalarRestrict', 'holomorphicScalarPresheaf', 'holomorphicScalarPresheaf_isSheaf', 'holomorphicScalarSheaf'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ScalarSheaf	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['analyticHolomorphicStalkPullback', 'algebraicSchemeStalkPullback', 'analytificationRingedStalkSquare'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SchemeStalkPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['holomorphicSectionFunctionMap', 'holomorphicSectionFunctionEquiv', 'holomorphicPiSectionsEquiv', 'holomorphicSectionsBasisEquiv'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionFrames	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['holomorphicSectionGerm', 'holomorphicSectionGerm_restrict', 'exists_holomorphicSectionGerm'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGerms	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['existsUnique_holomorphicSection_glue'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionGluing	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['holomorphicSection_iff_contMDiff', 'holomorphicSectionContMDiffEquiv'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionManifold	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['holomorphicSectionPresheaf', 'holomorphicSectionPresheaf_isSheaf', 'holomorphicSectionSheaf'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SectionSheaf	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['sheafCategory', 'sheafComplex', 'complexSheafificationAdjunction', 'smoothSheafUnderlyingIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	REVIEW	instance changes at lines 16
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafComplex	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['zariskiHolomorphicSheafUnit_smooth', 'algebraicToHolomorphicSheafMap_factorization'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafFactorization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['smoothPresheafStalk_exactAt_succ', 'inclusionSheafMap_quasiIsoAt_zero', 'inclusionSheafMap_quasiIsoAt_succ', 'inclusionSheafMap_quasiIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	REVIEW	instance changes at lines 18
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafQuasiIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['holomorphicComplexSheafificationUnit_isIso', 'holomorphicSheafSectionIso', 'holomorphicSheafSectionIso_inclusion'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	REVIEW	instance changes at lines 14
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.SheafSections	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['presheafStalk_exactAt_succ', 'sheafStalk_exactAt_succ'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	REVIEW	instance changes at lines 16
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkExactness	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['holomorphicStalkToGerm_injective', 'holomorphicStalkToGerm_surjective', 'holomorphicFunctionStalkEquiv', 'holomorphicFunctionStalk_noetherian'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkGerms	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['holomorphicGermCocone', 'holomorphicStalkToGerm', 'holomorphicStalkToGerm_germ', 'holomorphicStalkToGerm_germ_apply'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkMap	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['chartSectionGerm_value', 'manifoldStalkValue', 'manifoldStalkValue_germ', 'manifoldStalk_isUnit_iff'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StalkValues	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['holomorphicFunctionContMDiffEquiv', 'holomorphicStandardFunctionPresheafIso', 'standardHolomorphicStalkEquiv', 'standardHolomorphicStalkEquiv_germ'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StandardFunctionSheaf	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['analyticHolomorphicStructureSheaf', 'holomorphicStructureDirectImage', 'algebraicToHolomorphicStructureSheaf', 'algebraicToHolomorphicStructureSheaf_apply'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.StructureMorphism	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['form_coefficients_holomorphic'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	REVIEW	instance changes at lines 17
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.VectorCoefficients	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['complexConstantZeroCovector', 'holomorphicFunctionZeroForm', 'holomorphicFunctionZeroForm_apply', 'holomorphicZeroForm_scalar_contMDiff'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	REVIEW	instance changes at lines 27
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.Holomorphic.ZeroFunctions	PASS	not under a Mathlib folder
+exit 1

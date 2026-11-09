@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.PartitionConsistency.Derives.brecOn	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.PartitionConsistency.Derives.brecOn	PASS	94 constants reached, no stand-in
+REFEREE	L1u	OAI.PartitionConsistency.Derives.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PartitionConsistency.Derives.brecOn	REVIEW	OAI.PartitionConsistency.Derives a✝¹ a✝ :: carries a project proposition | ∀ {n : ℕ} (a : Set (OAI.PartitionConsistency.Formula n)) (a_1 : OAI.PartitionConsistency.F :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PartitionConsistency.Derives.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PartitionConsistency.Derives.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PartitionConsistency.Derives.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PartitionConsistency.Derives.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.PartitionConsistency.Derives.brecOn	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PartitionConsistency.Derives.brecOn	PASS	no single top step
+REFEREE	R5	OAI.PartitionConsistency.Derives.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PartitionConsistency.Derives.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PartitionConsistency.Derives.brecOn	REVIEW	computed class A?
+REFEREE	L0	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.PartitionConsistency.Formula.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PartitionConsistency.Formula.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PartitionConsistency.Formula.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PartitionConsistency.Formula.brecOn.eq	REVIEW	computed class A?
+REFEREE	L0	OAI.PartitionConsistency.main_consistency	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PartitionConsistency.main_consistency	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.PartitionConsistency.main_consistency	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PartitionConsistency.main_consistency	FAIL	OAI.PartitionConsistency.Consistent OAI.PartitionConsistency.SetLanguage.ZF :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.PartitionConsistency.main_consistency	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PartitionConsistency.main_consistency	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PartitionConsistency.main_consistency	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PartitionConsistency.main_consistency	INFO	not a registered target statement
+REFEREE	R1	OAI.PartitionConsistency.main_consistency	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PartitionConsistency.main_consistency	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PartitionConsistency.main_consistency	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PartitionConsistency.main_consistency	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PartitionConsistency.main_consistency	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.PartitionConsistency	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PartitionConsistency	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.PartitionConsistency	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PartitionConsistency	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 12 public declarations without a docstring (['neg', 'iff', 'raise', 'Sentence'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	8947 constants reached, no stand-in
+REFEREE	L1u	OAI.CKSSourceExterior.area_controlled_end_replacement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CKSSourceExterior.area_controlled_end_replacement	REVIEW	IsManifold OAI.CKSGeometricCuts.I3 (↑⊤) N :: side condition (project data) | T2Space N :: side condition | SecondCountableTopology N :: side condition | ConnectedSpace N :: side condition | ContMDiff OAI.CKSGeometricCuts.I3 (OAI.CKSGeometricCuts.I3.prod (modelWithCornersSelf ℝ OA :: side condition (project data) | ∀ (x : N) (v w : TangentSpace OAI.CKSGeometricCuts.I3 x), ((K x) v) w = ((K x) w) v :: side condition (project data) | OAI.CKSSourceExterior.Orientable :: carries a project proposition | IsCompact (ModelWithCorners.boundary N) :: side condition (project data) | (ModelWithCorners.boundary N).Nonempty :: side condition (project data) | OAI.CKSReplacementCompleteness.IsComplete OAI.CKSGeometricCuts.I3  (Bundle.ContMDiffRieman :: carries a project proposition | OAI.CKSSpatialManifold.PhysicalDEC OAI.CKSGeometricCuts.I3 g.inner K :: carries a project proposition | OAI.CKSSourceExterior.CKSData g K :: carries a project proposition | ‖(OAI.CKSLorentz.bondiCharge d.massAspect).2‖ < (OAI.CKSLorentz.bondiCharge d.massAspect). :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CKSSourceExterior.area_controlled_end_replacement	INFO	not a registered target statement
+REFEREE	R1	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	no single top step
+REFEREE	R5	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CKSSourceExterior.area_controlled_end_replacement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CKSSourceExterior.area_controlled_end_replacement	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.Relativity.CKS.SourceReplacement	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.Relativity.CKS.SourceReplacement	INFO	1 theorems checked
+REFEREE	L5	OAI.Geometry.Relativity.CKS.SourceReplacement	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.Relativity.CKS.SourceReplacement	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['area_controlled_end_replacement'])

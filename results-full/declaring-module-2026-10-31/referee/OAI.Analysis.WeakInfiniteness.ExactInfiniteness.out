@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	5301 constants reached, no stand-in
+REFEREE	L1u	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	REVIEW	StarOrderedRing A :: side condition | OAI.WeakPureInfiniteness.Exact A :: carries a project proposition | OAI.WeakPureInfiniteness.WeaklyPurelyInfinite A :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	INFO	not a registered target statement
+REFEREE	R1	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	reaches SeminormedAddCommGroup.to_isUniformAddGroup
+REFEREE	R7	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	top step OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite_any carries content
+REFEREE	R5	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.WeakInfiniteness.ExactInfiniteness	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.WeakInfiniteness.ExactInfiniteness	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.WeakInfiniteness.ExactInfiniteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.WeakInfiniteness.ExactInfiniteness	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['exact_weaklyPurelyInfinite_stronglyPurelyInfinite'])

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	53 constants reached, no stand-in
+REFEREE	L1u	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	REVIEW	OAI.MaxCutGames.Foundations.Target.Instance q :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	INFO	not a registered target statement
+REFEREE	R1	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	reaches congrFun'
+REFEREE	R7	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	no single top step
+REFEREE	R5	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OptimalMaxCut.LongCode.InstanceAdapter.bits_eq_gameBits	REVIEW	computed class A?
+REFEREE	L0	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	2110 constants reached, no stand-in
+REFEREE	L1u	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	t ∈ Set.Icc (-1) 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	INFO	not a registered target statement
+REFEREE	R1	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	reaches NeZero.of_gt'
+REFEREE	R7	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OptimalMaxCut.LongCode.InstanceAdapter.exists_encoded_gridComputer	REVIEW	computed class A?
+REFEREE	L0	OAI.OptimalMaxCut.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.OptimalMaxCut.main	REVIEW	[opaque with a value OAI.MaxCutGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.OptimalMaxCut.main	PASS	proof-only: [OAI.MaxCutGames.Foundations.PCP.RoundTables.fixedWalkParameter]
+REFEREE	L2	OAI.OptimalMaxCut.main	PASS	no hypotheses
+REFEREE	L3	OAI.OptimalMaxCut.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.OptimalMaxCut.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.OptimalMaxCut.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.OptimalMaxCut.main	INFO	not a registered target statement
+REFEREE	R1	OAI.OptimalMaxCut.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.OptimalMaxCut.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.OptimalMaxCut.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.OptimalMaxCut.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.OptimalMaxCut.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.MaxCut.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.MaxCut.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Computability.MaxCut.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.MaxCut.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['bits_eq_gameBits'])

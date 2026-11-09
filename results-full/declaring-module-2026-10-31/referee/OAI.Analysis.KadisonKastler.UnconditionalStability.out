@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.KadisonKastler.universal_strong_stability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KadisonKastler.universal_strong_stability	REVIEW	[opaque with a value OAI.KadisonSimilarity.cyclicCommonEmbeddingData]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.KadisonKastler.universal_strong_stability	PASS	proof-only: [OAI.KadisonSimilarity.cyclicCommonEmbeddingData]
+REFEREE	L2	OAI.KadisonKastler.universal_strong_stability	PASS	no hypotheses
+REFEREE	L3	OAI.KadisonKastler.universal_strong_stability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KadisonKastler.universal_strong_stability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KadisonKastler.universal_strong_stability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KadisonKastler.universal_strong_stability	INFO	not a registered target statement
+REFEREE	R1	OAI.KadisonKastler.universal_strong_stability	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.KadisonKastler.universal_strong_stability	PASS	top step OAI.KadisonKastler.universalStrongStability_of_factors carries content
+REFEREE	R5	OAI.KadisonKastler.universal_strong_stability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KadisonKastler.universal_strong_stability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KadisonKastler.universal_strong_stability	REVIEW	computed class A?
+REFEREE	L0	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	32739 constants reached, no stand-in
+REFEREE	L1u	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	no hypotheses
+REFEREE	L3	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	INFO	not a registered target statement
+REFEREE	R1	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	no single top step
+REFEREE	R5	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KadisonKastler.unconditional_properlyInfinite_strong_stability	REVIEW	computed class A?
+REFEREE	L0	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	32852 constants reached, no stand-in
+REFEREE	L1u	OAI.KadisonKastler.uniform_factor_strong_stability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	no hypotheses
+REFEREE	L3	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KadisonKastler.uniform_factor_strong_stability	INFO	not a registered target statement
+REFEREE	R1	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	top step OAI.KadisonKastler.uniformFactorStability_of_properlyInfinite carries content
+REFEREE	R5	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KadisonKastler.uniform_factor_strong_stability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KadisonKastler.uniform_factor_strong_stability	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.KadisonKastler.UnconditionalStability	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.KadisonKastler.UnconditionalStability	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.KadisonKastler.UnconditionalStability	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.KadisonKastler.UnconditionalStability	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['unconditional_properlyInfinite_strong_stability', 'uniform_factor_strong_stability'])

@@ -1,0 +1,17 @@
+module	shape	name
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Circuit.mk.inj
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Circuit.mk.injEq
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Circuit.mk.sizeOf_spec
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.add.inj
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.add.injEq
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Gate.add.sizeOf_spec
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.scale.inj
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.scale.injEq
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Gate.scale.sizeOf_spec
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.sub.inj
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Gate.sub.injEq
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Gate.sub.sizeOf_spec
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Program.nil.sizeOf_spec
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Program.step.inj
+ComparatorChallenges.ExactFourier	inj / injEq	OAI.ExactFourier.Program.step.injEq
+ComparatorChallenges.ExactFourier	sizeOf_spec	OAI.ExactFourier.Program.step.sizeOf_spec

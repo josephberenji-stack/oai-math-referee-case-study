@@ -1,0 +1,349 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	13 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	AlgebraicGeometry.IsSeparated f :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	UNFOLD	definitions and logic only
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	REVIEW	packaged: the top step is the structural lemma OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated._proof_1; the content is in its arguments
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces.overMk_isSeparated	REVIEW	computed class DEF
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	2174 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	X.IsSeparated :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | CategoryTheory.CategoryStruct.comp   (HomologicalComplex.homologyMap    (OAI.NumberTheory. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	90 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	2163 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	X.IsSeparated :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	87 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	2175 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	X.IsSeparated :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | CategoryTheory.CategoryStruct.comp   (HomologicalComplex.homologyMap    (OAI.NumberTheory. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	90 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.serre_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	2162 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	X.IsSeparated :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) | ∀ (q : ℕ), q ≠ c → (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.in :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	87 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality.total_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	412 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	CONTENT	reaches CategoryTheory.Preadditive.comp_add
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	415 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	CONTENT	reaches CategoryTheory.Preadditive.comp_add
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.localHom_surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	475 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	CONTENT	reaches CategoryTheory.Preadditive.comp_add
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.hom_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	509 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	AlgebraicGeometry.IsOpenImmersion f :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	reaches SheafOfModules.hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	CONTENT	reaches SheafOfModules.hom_ext
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	17 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction.precomp	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	519 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	523 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.sections_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	1828 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	iSup U = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	115 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	2217 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	REVIEW	iSup U = ⊤ :: side condition | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N K :: carries a project proposition | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N L :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	129 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	2216 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	REVIEW	iSup U = ⊤ :: side condition | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N K :: carries a project proposition | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N L :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	129 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.homology_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	1785 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	iSup U = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	104 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	1786 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	iSup U = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	104 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.edge_naturality_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	1827 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	iSup U = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	115 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality.comparisonMap_naturality	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	INFO	8 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	INFO	0 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['ProjectiveOver'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.Interfaces	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['totalHomologyIso', 'homologyIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechConcentration	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	FAIL	module docstring has no `## Main results`; 13 public declarations without a docstring (['homComplex', 'internalComplex', 'total', 'additiveTotal'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['cohomologyMap', 'total_naturality', 'serre_naturality'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomConcentrationNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['localHom', 'localHom_injective', 'localHom_surjective', 'hom'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomOpenRestriction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	FAIL	module docstring has no `## Main results`; 10 public declarations without a docstring (['homMap', 'internalMap', 'sectionMap', 'totalMap'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['HomologyTo', 'transport', 'ChainHomologyTo', 'ofChain'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomTotalTransport	PASS	not under a Mathlib folder
+exit 1

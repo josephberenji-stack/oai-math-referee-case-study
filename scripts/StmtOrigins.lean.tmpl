@@ -1,0 +1,54 @@
+@@IMPORTS@@
+open Lean Elab Command
+
+/-- modules kept inside the challenge folder under their own names (e.g. `HodgeConjecture`):  challenge-folder helpers -/
+def helperRoots : List Name := @@HELPERS@@
+
+def isHelper (m : Name) : Bool := helperRoots.any (·.isPrefixOf m)
+
+/-- every constant a statement reaches through definitions' types and values, stopping at opaque values -/
+partial def stmtClosureO (env : Environment) (e : Expr) (seen : NameSet) : NameSet := Id.run do
+  let mut s := seen
+  for c in e.getUsedConstants do
+    if s.contains c then continue
+    s := s.insert c
+    match env.find? c with
+    | some (.defnInfo dv) =>
+      let m := (env.getModuleIdxFor? c).map (fun i => env.header.moduleNames[i.toNat]!)
+      if (m.map (fun m => (`OAI).isPrefixOf m || (`ComparatorChallenges).isPrefixOf m || isHelper m)).getD true then
+        s := stmtClosureO env dv.value (stmtClosureO env dv.type s)
+      else s := stmtClosureO env dv.type s
+    | some (.opaqueInfo _) => pure ()
+    | some ci => s := stmtClosureO env ci.type s
+    | none => pure ()
+  return s
+
+elab "#stmt_origins " id:ident : command => do
+  let env ← getEnv
+  let n := id.getId
+  let some ci := env.find? n | logInfo m!"ORIGIN\t{n}\tMISSING"
+  let cl := stmtClosureO env ci.type {}
+  let mut oai : Array Name := #[]
+  let mut nOther := 0
+  for c in cl.toList do
+    let m := (env.getModuleIdxFor? c).map (fun i => env.header.moduleNames[i.toNat]!)
+    match m with
+    | some m => if (`OAI).isPrefixOf m then oai := oai.push c else nOther := nOther + 1
+    | none => pure ()
+  let defs := oai.filter fun c => match env.find? c with | some (.defnInfo _) | some (.opaqueInfo _) | some (.inductInfo _) => true | _ => false
+  logInfo m!"ORIGIN\t{n}\tsolution-side constants {oai.size} (definitions/types {defs.size})\tlibrary constants {nOther}\tfirst: {(defs.toList.take 12)}"
+  for d in defs do logInfo m!"ODEF\t{n}\t{d}"
+  -- the challenge file's own definitions (challenge-file mode:  the module is `ComparatorChallenges.*`)
+  for c in cl.toList do
+    let m := (env.getModuleIdxFor? c).map (fun i => env.header.moduleNames[i.toNat]!)
+    if (m.map (fun m => (`ComparatorChallenges).isPrefixOf m)).getD false then
+      match env.find? c with
+      | some (.defnInfo _) | some (.opaqueInfo _) | some (.inductInfo _) => logInfo m!"CDEF\t{n}\t{c}"
+      | _ => pure ()
+  -- the challenge folder's helper modules (a third origin:  neither the solution's library nor the challenge file)
+  for c in cl.toList do
+    let m := (env.getModuleIdxFor? c).map (fun i => env.header.moduleNames[i.toNat]!)
+    if (m.map isHelper).getD false then
+      match env.find? c with
+      | some (.defnInfo _) | some (.opaqueInfo _) | some (.inductInfo _) => logInfo m!"HDEF\t{n}\t{c}"
+      | _ => pure ()

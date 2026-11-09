@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.BufferedIsing.finite_graph_comparison	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.BufferedIsing.finite_graph_comparison	PASS	103 constants reached, no stand-in
+REFEREE	L1u	OAI.BufferedIsing.finite_graph_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BufferedIsing.finite_graph_comparison	REVIEW	OAI.BufferedIsing.FiniteGraph n m :: carries a project proposition | Disjoint I J :: side condition | Disjoint I F :: side condition | Disjoint J F :: side condition | ↑i ∈ I :: side condition | ↑j ∈ J :: side condition | ∀ (b : OAI.BufferedIsing.Spins n), 0 ≤ mix b :: side condition (project data) | ∀ (b : OAI.BufferedIsing.Spins n), 0 ≤ mix' b :: side condition (project data) | ∑ b, mix b = 1 :: side condition (project data) | ∑ b, mix' b = 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BufferedIsing.finite_graph_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BufferedIsing.finite_graph_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BufferedIsing.finite_graph_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BufferedIsing.finite_graph_comparison	INFO	not a registered target statement
+REFEREE	R1	OAI.BufferedIsing.finite_graph_comparison	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BufferedIsing.finite_graph_comparison	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BufferedIsing.finite_graph_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BufferedIsing.finite_graph_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BufferedIsing.finite_graph_comparison	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.BufferedIsing	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.BufferedIsing	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.BufferedIsing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.BufferedIsing	FAIL	no module docstring /-! … -/; 8 public declarations without a docstring (['Spins', 'spin', 'energy', 'weight'])

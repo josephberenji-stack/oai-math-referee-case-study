@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	307 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	IsLocalRing R :: side condition | Matrix.fromBlocks A B C D ∈ Matrix.symplecticGroup l R :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	reaches Matrix.isUnit_iff_isUnit_det
+REFEREE	R1k	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	CONTENT	reaches Matrix.isUnit_iff_isUnit_det
+REFEREE	R7	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	no single top step
+REFEREE	R1i	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Symplectic.BigCell.SymplecticBigCell.exists_symmetric_X_isUnit_det_add_mul_of_symplectic	REVIEW	computed class A?
+REFEREE	L4	OAI.LinearAlgebra.Symplectic.BigCell	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.LinearAlgebra.Symplectic.BigCell	INFO	1 theorems checked
+REFEREE	L5	OAI.LinearAlgebra.Symplectic.BigCell	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.LinearAlgebra.Symplectic.BigCell	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.LinearAlgebra.Symplectic.BigCell	PASS	no instance changes
+REFEREE	VEND	OAI.LinearAlgebra.Symplectic.BigCell	PASS	not under a Mathlib folder
+exit 1

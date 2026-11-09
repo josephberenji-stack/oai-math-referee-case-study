@@ -1,0 +1,186 @@
+REFEREE	L0	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	486 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	REVIEW	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (eig N) :: side condition | ∀ (N : ℕ), Measurable (Y N) :: side condition | ∀ (N : ℕ), MeasureTheory.IsProbabilityMeasure (H N) :: side condition (project data) | ∀ (N : ℕ), (H N).IsMulRightInvariant :: side condition (project data) | ∀ (N : ℕ), OAI.InvariantIsing.ConditionalFieldOrbitLaw P (fun ω => (eig N ω, fun x => 0))  :: carries a project proposition | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | ∀ᵐ (ω : Ω) ∂P, ∀ (ε : ℝ), 0 < ε → ∀ᶠ (N : ℕ) in Filter.atTop, ∀ (i : Fin N), a - ε ≤ eig N :: side condition | ∀ᵐ (ω : Ω) ∂P, Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (eig (k  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.positive_temperature_pressure_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	481 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.positive_temperature_pressure_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (U N) :: side condition (project data) | ∀ (N : ℕ), (MeasureTheory.Measure.map (U N) P).IsMulRightInvariant :: side condition (project data) | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | ∀ (ε : ℝ), 0 < ε → ∀ᶠ (N : ℕ) in Filter.atTop, ∀ (i : Fin N), a - ε ≤ eig N i ∧ eig N i ≤  :: side condition | 0 < β :: side condition | Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (eig (k + 1))) Filter.a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.positive_temperature_pressure_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.positive_temperature_pressure_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.positive_temperature_pressure_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	no hypotheses
+REFEREE	L3	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	reaches Matrix.mem_orthogonalGroup_iff'
+REFEREE	R7	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	no single top step
+REFEREE	R5	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.orthogonal_mulVec_norm_sq	REVIEW	computed class A?
+REFEREE	L0	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	316 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	0 < α :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (Z N) :: side condition (project data) | ∀ (N : ℕ),  ProbabilityTheory.HasLaw (Z N)   (ProbabilityTheory.stdGaussian (EuclideanSpac :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	418 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	0 < α :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (Z N) :: side condition (project data) | ∀ (N : ℕ),  ProbabilityTheory.HasLaw (Z N)   (ProbabilityTheory.stdGaussian (EuclideanSpac :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	498 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	REVIEW	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (eig N) :: side condition | ∀ (N : ℕ), Measurable (Y N) :: side condition | ∀ (N : ℕ), MeasureTheory.IsProbabilityMeasure (H N) :: side condition (project data) | ∀ (N : ℕ), (H N).IsMulRightInvariant :: side condition (project data) | ∀ (N : ℕ), OAI.InvariantIsing.ConditionalFieldOrbitLaw P (fun ω => (eig N ω, fun x => 0))  :: carries a project proposition | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | MeasureTheory.TendstoInMeasure P  (fun k ω => MeasureTheory.LevyProkhorov.ofMeasure (OAI.I :: side condition (project data) | MeasureTheory.TendstoInMeasure P (fun k ω => OAI.InvariantIsing.spectralExcess (eig (k + 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.ground_state_limit_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	487 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.ground_state_limit_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (U N) :: side condition (project data) | ∀ (N : ℕ), (MeasureTheory.Measure.map (U N) P).IsMulRightInvariant :: side condition (project data) | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | ∀ (ε : ℝ), 0 < ε → ∀ᶠ (N : ℕ) in Filter.atTop, ∀ (i : Fin N), a - ε ≤ eig N i ∧ eig N i ≤  :: side condition | Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (eig (k + 1))) Filter.a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.ground_state_limit_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.ground_state_limit_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.ground_state_limit_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	126 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.empiricalSpectralWeight_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	0 < N :: side condition || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.empiricalSpectralWeight_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	reaches congrFun'
+REFEREE	R7	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.empiricalSpectralWeight_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.empiricalSpectralWeight_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.finiteSpectralMeasure_probability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	∀ (a : ι), 0 ≤ ρ a :: side condition | ∑ a, ρ a = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.finiteSpectralMeasure_probability	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	reaches HasSum.isProbabilityMeasure_sum_dirac
+REFEREE	R7	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.finiteSpectralMeasure_probability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.finiteSpectralMeasure_probability	REVIEW	computed class A?
+REFEREE	L0	OAI.InvariantIsing.random_pressure_limit_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	508 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.random_pressure_limit_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.random_pressure_limit_unconditional	REVIEW	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (eig N) :: side condition | ∀ (N : ℕ), Measurable (Y N) :: side condition | ∀ (N : ℕ), MeasureTheory.IsProbabilityMeasure (H N) :: side condition (project data) | ∀ (N : ℕ), (H N).IsMulRightInvariant :: side condition (project data) | ∀ (N : ℕ), OAI.InvariantIsing.ConditionalFieldOrbitLaw P (fun ω => (eig N ω, fun x => 0))  :: carries a project proposition | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | MeasureTheory.TendstoInMeasure P  (fun k ω => MeasureTheory.LevyProkhorov.ofMeasure (OAI.I :: side condition (project data) | MeasureTheory.TendstoInMeasure P (fun k ω => OAI.InvariantIsing.spectralExcess (eig (k + 1 :: side condition (project data) | MeasureTheory.UniformIntegrable (fun k => Y (k + 1)) 1 P :: side condition || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.random_pressure_limit_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.random_pressure_limit_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.random_pressure_limit_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	322 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	0 < α :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (Z N) :: side condition (project data) | ∀ (N : ℕ),  ProbabilityTheory.HasLaw (Z N)   (ProbabilityTheory.stdGaussian (EuclideanSpac :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	492 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (U N) :: side condition (project data) | ∀ (N : ℕ), (MeasureTheory.Measure.map (U N) P).IsMulRightInvariant :: side condition (project data) | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | Filter.Tendsto (fun k => OAI.InvariantIsing.spectralMinimum (eig (k + 1))) Filter.atTop (n :: side condition (project data) | Filter.Tendsto (fun k => OAI.InvariantIsing.spectralMaximum (eig (k + 1))) Filter.atTop (n :: side condition (project data) | Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (eig (k + 1))) Filter.a :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	reaches Finset.image_nonempty
+REFEREE	R7	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	569 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (U N) :: side condition (project data) | ∀ (N : ℕ), (MeasureTheory.Measure.map (U N) P).IsMulRightInvariant :: side condition (project data) | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | Filter.Tendsto (fun k => OAI.InvariantIsing.spectralMinimum (eig (k + 1))) Filter.atTop (n :: side condition (project data) | Filter.Tendsto (fun k => OAI.InvariantIsing.spectralMaximum (eig (k + 1))) Filter.atTop (n :: side condition (project data) | Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (eig (k + 1))) Filter.a :: side condition (project data) | MeasureTheory.Integrable (fun x => x) ↑ξ :: side condition | Filter.Tendsto  (fun k => OAI.InvariantIsing.fieldWassersteinOne (OAI.InvariantIsing.empir :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	reaches Finset.image_nonempty
+REFEREE	R7	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	563 constants reached, no stand-in
+REFEREE	L1u	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	REVIEW	MeasureTheory.IsProbabilityMeasure P :: side condition | ∀ (N : ℕ), Measurable (d N) :: side condition (project data) | ∀ (N : ℕ), Measurable (Y N) :: side condition | ∀ (N : ℕ), MeasureTheory.IsProbabilityMeasure (H N) :: side condition (project data) | ∀ (N : ℕ), (H N).IsMulRightInvariant :: side condition (project data) | ∀ (N : ℕ), OAI.InvariantIsing.ConditionalFieldOrbitLaw P (d N) (Y N) (H N) :: carries a project proposition | IsCompact (↑ν).support :: side condition | (↑ν).support ⊆ Set.Icc a b :: side condition | a ∈ (↑ν).support :: side condition | b ∈ (↑ν).support :: side condition | ∀ᵐ (ω : Ω) ∂P, ∀ (ε : ℝ), 0 < ε → ∀ᶠ (N : ℕ) in Filter.atTop, ∀ (i : Fin N), a - ε ≤ (d N  :: side condition | ∀ᵐ (ω : Ω) ∂P, Filter.Tendsto (fun k => OAI.InvariantIsing.empiricalSpectralLaw ⋯ (d (k +  :: side condition (project data) | MeasureTheory.Integrable (fun x => x) ↑ξ :: side condition | ∀ᵐ (ω : Ω) ∂P,  Filter.Tendsto   (fun k => OAI.InvariantIsing.fieldWassersteinOne (OAI.Inv :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.InvariantIsing	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.InvariantIsing	INFO	14 theorems checked
+REFEREE	L5	ComparatorChallenges.InvariantIsing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.InvariantIsing	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 79 public declarations without a docstring (['Spin', 'spinValue', 'logPartition', 'fieldEnergy'])

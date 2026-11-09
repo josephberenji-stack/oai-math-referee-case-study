@@ -1,0 +1,6 @@
+module	shape	name
+OAI.Probability.Honeycomb.FreeEnergy	inj / injEq	OAI.HoneycombForce.Vertex.mk.inj
+OAI.Probability.Honeycomb.FreeEnergy	inj / injEq	OAI.HoneycombForce.Vertex.mk.injEq
+OAI.Probability.Honeycomb.FreeEnergy	sizeOf_spec	OAI.HoneycombForce.Vertex.mk.sizeOf_spec
+OAI.Probability.Honeycomb.FreeEnergy	eq_def	OAI.HoneycombForce.walkLists.eq_def
+OAI.Probability.Honeycomb.FreeEnergy	congr_simp	Subadditive.lim.congr_simp

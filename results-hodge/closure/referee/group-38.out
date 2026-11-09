@@ -1,0 +1,1309 @@
+REFEREE	L0	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	336 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	∀ (x : ↑X) (U : TopologicalSpace.Opens ↑X),  x ∈ U →   ∃ V ≤ U, x ∈ V ∧ QuasiIso (((TopCat :: side condition (project data) || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	reaches HomologicalComplex.mem_quasiIso_iff
+REFEREE	R1k	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	top step TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic carries content
+REFEREE	R1i	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.quasiIso_of_cofinal_section_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	288 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	∀ (U : TopologicalSpace.Opens ↑X),  x ∈ U →   ∃ V ≤ U,    x ∈ V ∧     CategoryTheory.Limit :: side condition (project data) || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	reaches CategoryTheory.Iso.isZero_iff
+REFEREE	R1k	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.cohomologySheaf_stalk_isZero_of_cofinal_sections	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	291 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	∀ (x : ↑X) (U : TopologicalSpace.Opens ↑X),  x ∈ U →   ∃ V ≤ U,    x ∈ V ∧     CategoryThe :: side condition (project data) || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	reaches TopCat.Sheaf.isZero_iff_stalkFunctor_obj_isZero
+REFEREE	R1k	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections	REVIEW	computed class A?
+REFEREE	L0	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	74 constants reached, no stand-in
+REFEREE	L1u	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	∀ (U : TopologicalSpace.Opens ↑X), x ∈ U → ∃ V ≤ U, x ∈ V ∧ CategoryTheory.Limits.IsZero ( :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	INFO	not an iff
+REFEREE	R1	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	reaches AddCommGrpCat.isZero_iff_subsingleton
+REFEREE	R1k	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	INFO	no supplied input
+REFEREE	DUP	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Presheaf.isZero_stalk_of_cofinal_sections	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	383 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	K.IsStrictlyGE N :: side condition | HomologicalComplex.Acyclic K :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	reaches CategoryTheory.Functor.map_add
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	3 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_acyclic	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	215 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	HomologicalComplex.ExactAt K (i + 1) :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cyclesShortComplex_shortExact	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	304 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	K.IsStrictlyGE N :: side condition | HomologicalComplex.Acyclic K :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	reaches CategoryTheory.Functor.map_isZero
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.of_isZero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.of_isZero	PASS	91 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.of_isZero	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.of_isZero	PASS	CategoryTheory.Limits.IsZero F :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.of_isZero	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.of_isZero	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.of_isZero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.of_isZero	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.of_isZero	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.of_isZero	PASS	reaches CategoryTheory.Functor.map_isZero
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.of_isZero	CONTENT	reaches CategoryTheory.Functor.map_isZero
+REFEREE	R7	TopCat.Sheaf.IsFlasque.of_isZero	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.of_isZero	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.of_isZero	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.of_isZero	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.of_isZero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.of_isZero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.of_isZero	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	285 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	K.IsStrictlyGE N :: side condition | HomologicalComplex.Acyclic K :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	237 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	A.IsFlasque :: side condition | (CategoryTheory.Limits.kernel f).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	2 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.forget_preservesCokernel	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	120 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	reaches CategoryTheory.Limits.cokernel.condition
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.imageCokernelShortComplex_shortExact	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	137 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	reaches CategoryTheory.Limits.kernel.condition
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.kernelImageShortComplex_shortExact	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	142 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.image_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	A.IsFlasque :: side condition | (CategoryTheory.Limits.kernel f).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.image_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.image_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.image_isFlasque	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.image_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.image_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.image_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	141 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.shortExact_map_forget	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	S.ShortExact :: side condition | S.X₁.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.shortExact_map_forget	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.shortExact_map_forget	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	reaches List.TFAE.out
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.shortExact_map_forget	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.shortExact_map_forget	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.shortExact_map_forget	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.shortExact_map_forget	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	572 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.globalSectionsNat_map_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	QuasiIso f :: side condition | ∀ (m : ℕ), (K.X m).IsFlasque :: side condition | ∀ (m : ℕ), (L.X m).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.globalSectionsNat_map_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.globalSectionsNat_map_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	reaches CategoryTheory.Functor.map_add
+REFEREE	R1k	TopCat.Sheaf.globalSectionsNat_map_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.globalSectionsNat_map_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	5 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.globalSectionsNat_map_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.globalSectionsNat_map_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.extendNat_term_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.extendNat_term_isFlasque	PASS	173 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.extendNat_term_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.extendNat_term_isFlasque	PASS	∀ (m : ℕ), (K.X m).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.extendNat_term_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.extendNat_term_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.extendNat_term_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.extendNat_term_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.extendNat_term_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.extendNat_term_isFlasque	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.extendNat_term_isFlasque	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.extendNat_term_isFlasque	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.extendNat_term_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.extendNat_term_isFlasque	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.extendNat_term_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.extendNat_term_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.extendNat_term_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.extendNat_term_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	337 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	K.IsStrictlyGE N :: side condition | ∀ i ≤ M, HomologicalComplex.ExactAt K i :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition | i ≤ M :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	reaches CategoryTheory.Functor.map_isZero
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_of_exact_le	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	315 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	K.IsStrictlyGE N :: side condition | ∀ i ≤ M, HomologicalComplex.ExactAt K i :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition | N + ↑m ≤ M :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.cycles_isFlasque_add_nat_of_exact_le	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	610 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.lowestSectionCohomologyIso_hom	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	K.IsStrictlyGE N :: side condition | ∀ j < n, CategoryTheory.Limits.IsZero (HomologicalComplex.homology K j) :: side condition | ∀ (j : ℤ), (K.X j).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.lowestSectionCohomologyIso_hom	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.lowestSectionCohomologyIso_hom	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	reaches CategoryTheory.isIso_toSheafify
+REFEREE	R1k	TopCat.Sheaf.lowestSectionCohomologyIso_hom	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.lowestSectionCohomologyIso_hom	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	11 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.lowestSectionCohomologyIso_hom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.lowestSectionCohomologyIso_hom	REVIEW	computed class A?
+REFEREE	L0	TopCat.Presheaf.IsFlasque.biprod	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Presheaf.IsFlasque.biprod	PASS	102 constants reached, no stand-in
+REFEREE	L1u	TopCat.Presheaf.IsFlasque.biprod	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Presheaf.IsFlasque.biprod	PASS	F.IsFlasque :: side condition | G.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Presheaf.IsFlasque.biprod	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Presheaf.IsFlasque.biprod	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Presheaf.IsFlasque.biprod	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Presheaf.IsFlasque.biprod	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Presheaf.IsFlasque.biprod	INFO	not an iff
+REFEREE	R1	TopCat.Presheaf.IsFlasque.biprod	PASS	reaches CategoryTheory.Limits.preservesBinaryBiproduct_of_preservesBinaryProduct
+REFEREE	R1k	TopCat.Presheaf.IsFlasque.biprod	CONTENT	reaches CategoryTheory.Limits.HasBinaryBiproducts.has_binary_biproduct
+REFEREE	R7	TopCat.Presheaf.IsFlasque.biprod	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Presheaf.IsFlasque.biprod	INFO	no supplied input
+REFEREE	DUP	TopCat.Presheaf.IsFlasque.biprod	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Presheaf.IsFlasque.biprod	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Presheaf.IsFlasque.biprod	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Presheaf.IsFlasque.biprod	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Presheaf.IsFlasque.biprod	REVIEW	computed class A?
+REFEREE	L0	TopCat.Presheaf.IsFlasque.of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Presheaf.IsFlasque.of_iso	PASS	68 constants reached, no stand-in
+REFEREE	L1u	TopCat.Presheaf.IsFlasque.of_iso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Presheaf.IsFlasque.of_iso	PASS	G.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Presheaf.IsFlasque.of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Presheaf.IsFlasque.of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Presheaf.IsFlasque.of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Presheaf.IsFlasque.of_iso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Presheaf.IsFlasque.of_iso	INFO	not an iff
+REFEREE	R1	TopCat.Presheaf.IsFlasque.of_iso	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Presheaf.IsFlasque.of_iso	CONTENT	reaches CategoryTheory.cancel_mono
+REFEREE	R7	TopCat.Presheaf.IsFlasque.of_iso	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Presheaf.IsFlasque.of_iso	INFO	no supplied input
+REFEREE	DUP	TopCat.Presheaf.IsFlasque.of_iso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Presheaf.IsFlasque.of_iso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Presheaf.IsFlasque.of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Presheaf.IsFlasque.of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Presheaf.IsFlasque.of_iso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	204 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	∀ (i : ℤ), (K.X i).IsFlasque :: side condition | ∀ (i : ℤ), (L.X i).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	reaches CategoryTheory.Limits.preservesBinaryBiproduct_of_preservesBinaryProduct
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_term_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.biprod	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.biprod	PASS	173 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.biprod	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.biprod	PASS	F.IsFlasque :: side condition | G.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.biprod	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.biprod	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.biprod	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.biprod	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.biprod	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.biprod	PASS	reaches CategoryTheory.Limits.preservesBinaryBiproduct_of_preservesBinaryProduct
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.biprod	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.biprod	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.biprod	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.biprod	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.biprod	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.biprod	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.biprod	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.biprod	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	22 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	HomologicalComplex.Acyclic K :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	reaches HomologicalComplex.ExactAt.of_iso
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.acyclic_of_iso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	509 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	QuasiIso f :: side condition | K.IsStrictlyGE nK :: side condition | L.IsStrictlyGE nL :: side condition | ∀ (i : ℤ), (K.X i).IsFlasque :: side condition | ∀ (i : ℤ), (L.X i).IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	reaches CochainComplex.isStrictlyGE_mappingCone
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	3 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.globalSectionsComplex_map_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.of_iso	PASS	77 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.of_iso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.of_iso	PASS	G.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.of_iso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.of_iso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.of_iso	PASS	reaches CategoryTheory.cancel_mono
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.of_iso	CONTENT	reaches CategoryTheory.cancel_mono
+REFEREE	R7	TopCat.Sheaf.IsFlasque.of_iso	PASS	top step TopCat.Presheaf.IsFlasque.of_iso carries content
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.of_iso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.of_iso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.of_iso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.of_iso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	90 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	HomologicalComplex.Acyclic (CochainComplex.mappingCone f) :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	reaches HomologicalComplex.mem_quasiIso_iff
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.quasiIso_of_mappingCone_acyclic	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	91 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	QuasiIso f :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	reaches HomotopyCategory.quotient_obj_mem_subcategoryAcyclic_iff_acyclic
+REFEREE	R1k	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.IsFlasque.BoundedBelowComplex.mappingCone_acyclic_of_quasiIso	REVIEW	computed class A?
+REFEREE	L0	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	48 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteColimits	PASS	computed class DEF
+REFEREE	L0	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	31 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	reaches CategoryTheory.Functor.map_add
+REFEREE	R1k	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additivePresheafStalkFunctor_additive	REVIEW	computed class A?
+REFEREE	L0	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	88 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	reaches CategoryTheory.Functor.map_add
+REFEREE	R1k	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additiveSheafStalkFunctor_additive	REVIEW	computed class A?
+REFEREE	L0	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	45 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additiveSheafStalkFunctor_preservesFiniteLimits	PASS	computed class DEF
+REFEREE	L0	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	39 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	CONTENT	reaches CategoryTheory.Limits.PreservesColimits.preservesFiniteColimits
+REFEREE	R7	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	REVIEW	packaged: the top step is the structural lemma _private.HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection.0.AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits._proof_1; the content is in its arguments
+REFEREE	R1i	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteColimits	REVIEW	computed class DEF
+REFEREE	L0	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	124 constants reached, no stand-in
+REFEREE	L1u	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	no hypotheses
+REFEREE	L3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	INFO	not an iff
+REFEREE	R1	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	reaches CategoryTheory.Limits.preservesFiniteLimits_of_natIso
+REFEREE	R1k	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	CONTENT	reaches CategoryTheory.Limits.preservesFiniteLimits_of_natIso
+REFEREE	R7	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	INFO	no supplied input
+REFEREE	DUP	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	3 project definitions, no twins
+REFEREE	SHADOW	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicTopology.Singular.additivePresheafStalkFunctor_preservesFiniteLimits	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.injective_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.injective_isFlasque	PASS	147 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.injective_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.injective_isFlasque	PASS	CategoryTheory.Injective F :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.injective_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.injective_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.injective_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.injective_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.injective_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.injective_isFlasque	PASS	reaches AddCommGrpCat.epi_iff_surjective
+REFEREE	R1k	TopCat.Sheaf.injective_isFlasque	CONTENT	reaches AddCommGrpCat.epi_iff_surjective
+REFEREE	R7	TopCat.Sheaf.injective_isFlasque	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.injective_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.injective_isFlasque	PASS	2 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.injective_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.injective_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.injective_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.injective_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	106 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	reaches CategoryTheory.Adjunction.homEquiv_naturality_left
+REFEREE	R1k	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	2 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.freeAbelianYonedaSheafHomEquiv_naturality	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	240 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	6 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientConstantResolution_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	321 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	14 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientConstantAugmentation_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	451 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	17 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientToOpenResolution_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	861 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	reaches CategoryTheory.Functor.map_add
+REFEREE	R1k	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	25 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.globalRestrictedAmbientToOpenResolution_quasiIso	REVIEW	computed class A?
+REFEREE	L0	CochainComplex.comp_liftToInjectiveNat	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	CochainComplex.comp_liftToInjectiveNat	PASS	156 constants reached, no stand-in
+REFEREE	L1u	CochainComplex.comp_liftToInjectiveNat	INFO	no opaque with a value reached
+REFEREE	L2	CochainComplex.comp_liftToInjectiveNat	PASS	CategoryTheory.EnoughInjectives C :: side condition | CategoryTheory.Mono a :: side condition | QuasiIso a :: side condition | ∀ (n : ℕ), CategoryTheory.Injective (I.X n) :: side condition || unbuilt=0
+REFEREE	L3	CochainComplex.comp_liftToInjectiveNat	PASS	no hypothesis refuted on file
+REFEREE	R2	CochainComplex.comp_liftToInjectiveNat	PASS	not an equivalence with an open problem
+REFEREE	R3	CochainComplex.comp_liftToInjectiveNat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	CochainComplex.comp_liftToInjectiveNat	INFO	not a registered target statement
+REFEREE	IFF	CochainComplex.comp_liftToInjectiveNat	INFO	not an iff
+REFEREE	R1	CochainComplex.comp_liftToInjectiveNat	PASS	reaches HomologicalComplex.mono_of_mono_f
+REFEREE	R1k	CochainComplex.comp_liftToInjectiveNat	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	CochainComplex.comp_liftToInjectiveNat	PASS	no single top step
+REFEREE	R1i	CochainComplex.comp_liftToInjectiveNat	INFO	no supplied input
+REFEREE	DUP	CochainComplex.comp_liftToInjectiveNat	PASS	2 project definitions, no twins
+REFEREE	SHADOW	CochainComplex.comp_liftToInjectiveNat	PASS	no copy of a library declaration
+REFEREE	R5	CochainComplex.comp_liftToInjectiveNat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	CochainComplex.comp_liftToInjectiveNat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	CochainComplex.comp_liftToInjectiveNat	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	511 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.ambientAugmentation_comp_openResolution	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.ambientAugmentation_comp_openResolution	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.ambientAugmentation_comp_openResolution	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	reaches HomologicalComplex.Hom.ext
+REFEREE	R1k	TopCat.Sheaf.ambientAugmentation_comp_openResolution	CONTENT	reaches HomologicalComplex.Hom.ext
+REFEREE	R7	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.ambientAugmentation_comp_openResolution	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	19 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.ambientAugmentation_comp_openResolution	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.ambientAugmentation_comp_openResolution	REVIEW	computed class A?
+REFEREE	L0	CochainComplex.liftToInjectiveNat_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	CochainComplex.liftToInjectiveNat_quasiIso	PASS	158 constants reached, no stand-in
+REFEREE	L1u	CochainComplex.liftToInjectiveNat_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	CochainComplex.liftToInjectiveNat_quasiIso	PASS	CategoryTheory.EnoughInjectives C :: side condition | CategoryTheory.Mono a :: side condition | QuasiIso a :: side condition | ∀ (n : ℕ), CategoryTheory.Injective (I.X n) :: side condition | QuasiIso r :: side condition || unbuilt=0
+REFEREE	L3	CochainComplex.liftToInjectiveNat_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	CochainComplex.liftToInjectiveNat_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	CochainComplex.liftToInjectiveNat_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	CochainComplex.liftToInjectiveNat_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	CochainComplex.liftToInjectiveNat_quasiIso	INFO	not an iff
+REFEREE	R1	CochainComplex.liftToInjectiveNat_quasiIso	PASS	reaches CochainComplex.Plus._proof_1
+REFEREE	R1k	CochainComplex.liftToInjectiveNat_quasiIso	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	CochainComplex.liftToInjectiveNat_quasiIso	PASS	no single top step
+REFEREE	R1i	CochainComplex.liftToInjectiveNat_quasiIso	INFO	no supplied input
+REFEREE	DUP	CochainComplex.liftToInjectiveNat_quasiIso	PASS	2 project definitions, no twins
+REFEREE	SHADOW	CochainComplex.liftToInjectiveNat_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	CochainComplex.liftToInjectiveNat_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	CochainComplex.liftToInjectiveNat_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	CochainComplex.liftToInjectiveNat_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	324 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	reaches HomologicalComplex.mono_of_mono_f
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	14 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientConstantAugmentation_mono	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	449 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	reaches HomologicalComplex.mono_of_mono_f
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	top step CochainComplex.comp_liftToInjectiveNat carries content
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	17 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	515 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	19 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.ambientAugmentation_comp_openResolution_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	452 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	17 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.restrictedAmbientAugmentation_comp_comparison_assoc	REVIEW	computed class A?
+REFEREE	L0	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	162 constants reached, no stand-in
+REFEREE	L1u	CochainComplex.comp_liftToInjectiveNat_assoc	INFO	no opaque with a value reached
+REFEREE	L2	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	CategoryTheory.EnoughInjectives C :: side condition | CategoryTheory.Mono a :: side condition | QuasiIso a :: side condition | ∀ (n : ℕ), CategoryTheory.Injective (I.X n) :: side condition || unbuilt=0
+REFEREE	L3	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	CochainComplex.comp_liftToInjectiveNat_assoc	INFO	not a registered target statement
+REFEREE	IFF	CochainComplex.comp_liftToInjectiveNat_assoc	INFO	not an iff
+REFEREE	R1	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	reaches CochainComplex.Plus._proof_1
+REFEREE	R1k	CochainComplex.comp_liftToInjectiveNat_assoc	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	CochainComplex.comp_liftToInjectiveNat_assoc	INFO	no supplied input
+REFEREE	DUP	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	2 project definitions, no twins
+REFEREE	SHADOW	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	no copy of a library declaration
+REFEREE	R5	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	CochainComplex.comp_liftToInjectiveNat_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	CochainComplex.comp_liftToInjectiveNat_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	742 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	K.IsStrictlyGE N :: side condition | ∀ (j : ℤ), (K.X j).IsFlasque :: side condition | ∀ j ≤ n,  ∀ x ∈ U,   ∀ (V : TopologicalSpace.Opens ↑X),    x ∈ V →     ∃ W ≤ V,      x ∈ W :: side condition (project data) || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	15 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	317 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	∀ x ∈ U,  ∀ (V : TopologicalSpace.Opens ↑X),   x ∈ V →    ∃ W ≤ V,     x ∈ W ∧      Catego :: side condition (project data) || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	reaches TopCat.Sheaf.isZero_iff_stalkFunctor_obj_isZero
+REFEREE	R1k	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	top step TopCat.Sheaf.cohomologySheaf_isZero_of_cofinal_sections carries content
+REFEREE	R1i	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openRestriction_homology_isZero_of_cofinal_sections	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	171 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestriction_map_quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	QuasiIso f :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestriction_map_quasiIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestriction_map_quasiIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openSheafRestriction_map_quasiIso	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestriction_map_quasiIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestriction_map_quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestriction_map_quasiIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	105 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	4 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	185 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	10 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	40 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	reaches CategoryTheory.Limits.preservesFiniteColimits_of_natIso
+REFEREE	R1k	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	CONTENT	reaches CategoryTheory.Limits.preservesFiniteColimits_of_natIso
+REFEREE	R7	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestriction_preservesFiniteColimits	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestriction_additive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestriction_additive	PASS	84 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestriction_additive	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestriction_additive	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openSheafRestriction_additive	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestriction_additive	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestriction_additive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestriction_additive	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestriction_additive	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestriction_additive	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openSheafRestriction_additive	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	TopCat.Sheaf.openSheafRestriction_additive	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestriction_additive	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestriction_additive	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestriction_additive	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestriction_additive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestriction_additive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestriction_additive	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	37 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestriction_isFlasque	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	F.IsFlasque :: side condition || unbuilt=0
+REFEREE	L3	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestriction_isFlasque	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestriction_isFlasque	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openSheafRestriction_isFlasque	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestriction_isFlasque	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestriction_isFlasque	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestriction_isFlasque	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	171 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	CONTENT	reaches CategoryTheory.sheafToPresheaf_isRightAdjoint
+REFEREE	R7	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	10 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	154 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	63 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	0 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestriction_preservesFiniteLimits	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	102 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	reaches CategoryTheory.toSheafify_sheafifyLift
+REFEREE	R1k	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	CONTENT	reaches CategoryTheory.toSheafify_sheafifyLift
+REFEREE	R7	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	4 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.toSheafify_constantToOpenSheafRestriction	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	177 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	CONTENT	reaches CategoryTheory.sheafToPresheaf_isRightAdjoint
+REFEREE	R7	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	10 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.constantToOpen_openSheafRestrictionToConstant_assoc	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	151 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	CONTENT	reaches CategoryTheory.sheafToPresheaf_isRightAdjoint
+REFEREE	R7	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	7 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.constantRestriction_pushforward_constantToOpen	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	181 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	reaches Equiv.injective
+REFEREE	R1k	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	CONTENT	reaches Equiv.injective
+REFEREE	R7	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	10 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openSheafRestrictionToConstant_constantToOpen	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	142 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openRestrictionSheafificationIso_naturality	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	145 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	no single top step
+REFEREE	R1i	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	153 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.toSheafify_openRestrictionSheafificationIso_assoc	REVIEW	computed class A?
+REFEREE	L0	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	51 constants reached, no stand-in
+REFEREE	L1u	Topology.IsOpenEmbedding.functor_isCocontinuous	INFO	no opaque with a value reached
+REFEREE	L2	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	Topology.IsOpenEmbedding ⇑(CategoryTheory.ConcreteCategory.hom f) :: side condition || unbuilt=0
+REFEREE	L3	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	no hypothesis refuted on file
+REFEREE	R2	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	not an equivalence with an open problem
+REFEREE	R3	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Topology.IsOpenEmbedding.functor_isCocontinuous	INFO	not a registered target statement
+REFEREE	IFF	Topology.IsOpenEmbedding.functor_isCocontinuous	INFO	not an iff
+REFEREE	R1	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	reaches Quiver.Hom.le
+REFEREE	R1k	Topology.IsOpenEmbedding.functor_isCocontinuous	CONTENT	reaches Quiver.Hom.le
+REFEREE	R7	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	top step is not a project theorem
+REFEREE	R1i	Topology.IsOpenEmbedding.functor_isCocontinuous	INFO	no supplied input
+REFEREE	DUP	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	no copy of a library declaration
+REFEREE	R5	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Topology.IsOpenEmbedding.functor_isCocontinuous	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Topology.IsOpenEmbedding.functor_isCocontinuous	REVIEW	computed class A?
+REFEREE	L0	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	150 constants reached, no stand-in
+REFEREE	L1u	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	INFO	no opaque with a value reached
+REFEREE	L2	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	no hypotheses
+REFEREE	L3	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	INFO	not a registered target statement
+REFEREE	IFF	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	INFO	not an iff
+REFEREE	R1	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	CONTENT	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R7	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	INFO	no supplied input
+REFEREE	DUP	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	no copy of a library declaration
+REFEREE	R5	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopCat.Sheaf.openRestrictionSheafificationIso_naturality_assoc	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	FAIL	header names declared nowhere in the project: ['Sheaf.FlasqueBoundedBelow']
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	INFO	4 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	INFO	0 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	INFO	5 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	INFO	5 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	INFO	1 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	INFO	9 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	INFO	6 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	INFO	12 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	INFO	13 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	INFO	5 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.CohomologyStalkVanishing	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	REVIEW	instance changes at lines 41
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueAcyclic	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cyclesShortComplex_shortExact'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueBoundedBelow	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['imageCokernelShortComplex_shortExact'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueCokernel	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueExtendNat	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowerVanishing	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['lowestSectionCohomologyIso_hom'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueLowestCohomology	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.FlasqueQuasiIso	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.HomologySection	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.InjectiveFlasque	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['comp_liftToInjectiveNat', 'liftToInjectiveNat_quasiIso', 'restrictedAmbientAugmentation_comp_comparison', 'restrictedAmbientToOpenResolution_quasiIso'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenInjectiveResolution	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestrictedVanishing	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['toSheafify_constantToOpenSheafRestriction', 'openSheafRestrictionToConstant_constantToOpen', 'constantToOpen_openSheafRestrictionToConstant'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenRestriction	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['openRestrictionSheafificationIso_naturality'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicTopology.Sheaf.OpenSheafification	PASS	not under a Mathlib folder
+exit 1

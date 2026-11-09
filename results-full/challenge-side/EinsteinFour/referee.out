@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.PositiveEinsteinFour.classification	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PositiveEinsteinFour.classification	PASS	261 constants reached, no stand-in
+REFEREE	L1u	OAI.PositiveEinsteinFour.classification	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PositiveEinsteinFour.classification	REVIEW	IsManifold OAI.EinsteinFour.I4 (↑⊤) M :: side condition (project data) | T2Space M :: side condition | SecondCountableTopology M :: side condition | CompactSpace M :: side condition | ConnectedSpace M :: side condition | OAI.EinsteinFour.IsEinstein g :: carries a project proposition | OAI.EinsteinFour.HasPositiveSectionalCurvature g :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PositiveEinsteinFour.classification	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PositiveEinsteinFour.classification	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PositiveEinsteinFour.classification	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PositiveEinsteinFour.classification	INFO	not a registered target statement
+REFEREE	R1	OAI.PositiveEinsteinFour.classification	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PositiveEinsteinFour.classification	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PositiveEinsteinFour.classification	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PositiveEinsteinFour.classification	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PositiveEinsteinFour.classification	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PositiveEinsteinFour.classificationOn	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PositiveEinsteinFour.classificationOn	PASS	263 constants reached, no stand-in
+REFEREE	L1u	OAI.PositiveEinsteinFour.classificationOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PositiveEinsteinFour.classificationOn	PASS	IsManifold OAI.EinsteinFour.I4 (↑⊤) M :: side condition (project data) | T2Space M :: side condition | SecondCountableTopology M :: side condition | CompactSpace M :: side condition | ConnectedSpace M :: side condition || unbuilt=0
+REFEREE	L3	OAI.PositiveEinsteinFour.classificationOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PositiveEinsteinFour.classificationOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PositiveEinsteinFour.classificationOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PositiveEinsteinFour.classificationOn	INFO	not a registered target statement
+REFEREE	R1	OAI.PositiveEinsteinFour.classificationOn	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PositiveEinsteinFour.classificationOn	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PositiveEinsteinFour.classificationOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PositiveEinsteinFour.classificationOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PositiveEinsteinFour.classificationOn	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PositiveEinsteinFour.orientedClassification	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PositiveEinsteinFour.orientedClassification	PASS	262 constants reached, no stand-in
+REFEREE	L1u	OAI.PositiveEinsteinFour.orientedClassification	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PositiveEinsteinFour.orientedClassification	FAIL	OAI.PositiveEinsteinFour.ClosedOrientedMetricFour :: UNBUILT | OAI.EinsteinFour.IsEinstein X.metric :: carries a project proposition | OAI.EinsteinFour.HasPositiveSectionalCurvature X.metric :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.PositiveEinsteinFour.orientedClassification	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PositiveEinsteinFour.orientedClassification	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PositiveEinsteinFour.orientedClassification	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PositiveEinsteinFour.orientedClassification	INFO	not a registered target statement
+REFEREE	R1	OAI.PositiveEinsteinFour.orientedClassification	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PositiveEinsteinFour.orientedClassification	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PositiveEinsteinFour.orientedClassification	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PositiveEinsteinFour.orientedClassification	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PositiveEinsteinFour.orientedClassification	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.EinsteinFour	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.EinsteinFour	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.EinsteinFour	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.EinsteinFour	FAIL	no module docstring /-! … -/; 29 public declarations without a docstring (['FourSpace', 'I4', 'coordinateVector', 'RoundSphere4'])

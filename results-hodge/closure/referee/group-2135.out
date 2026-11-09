@@ -1,0 +1,499 @@
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	608 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition | IsManifold (modelWithCornersSelf ℝ F) (↑⊤) N :: side condition | ContMDiff (modelWithCornersSelf ℝ E) (modelWithCornersSelf ℝ F) (↑⊤) g :: side condition | Function.Surjective g :: side condition | ∀ (x : M), Function.Surjective ⇑(mfderiv% g x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	REVIEW	packaged: the top step is the structural lemma OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.ext; the content is in its arguments
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	REVIEW	input supplied by unfolding alone: [OAI.Analysis.DifferentialForms.Manifold.Algebra.IsSmoothManifoldFormOn by OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.smooth]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	14 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothFormPullback_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	181 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	REVIEW	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition | ∀ (x : M) (u : E),  (((↑form).inChart (chartAt E x) (↑(chartAt E x) x)) fun x => u) =   (( :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	reaches ContinuousAlternatingMap.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	REVIEW	packaged: the top step is the structural lemma OAI.Analysis.DifferentialForms.Manifold.Algebra.SmoothManifoldForm.ext; the content is in its arguments
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness.smoothOneForm_eq_of_preferredChart	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	647 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	FiniteDimensional ℝ E :: side condition | IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition | T2Space M :: side condition | CompactSpace M :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	reaches CategoryTheory.Limits.cokernel.condition
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	CONTENT	reaches instNormedSpaceLieAddGroup
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf.smoothComplexFunctionSheaf_H1_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	313 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	reaches dite_eq_left_of_eq_true
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	CONTENT	reaches IsSemitopologicalSemiring.toContinuousAdd
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.openZeroFormScalar_contMDiffOn	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	328 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	reaches dite_eq_left_of_eq_true
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	CONTENT	reaches IsSemitopologicalSemiring.toContinuousAdd
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	top step OAI.AlgebraicGeometry.DivisorClass.Chern.Manifold.DolbeaultZeroKernel.openManifoldZeroScalar_apply carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothZeroFormScalar_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	475 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	reaches dite_eq_left_of_eq_true
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	CONTENT	reaches IsSemitopologicalSemiring.toContinuousAdd
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	11 supplied inputs, each carries content
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothScalarOpenZeroForm_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	491 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	IsManifold (modelWithCornersSelf ℝ E) (↑⊤) M :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	reaches dite_eq_left_of_eq_true
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	CONTENT	reaches IsSemitopologicalSemiring.toContinuousAdd
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	11 supplied inputs, each carries content
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	24 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions.smoothOpenZeroFormEquiv_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	IsLocalRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	reaches RingHom.domain_nontrivial
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	CONTENT	reaches RingHom.domain_nontrivial
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	top step OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.instIsLocalRingCarrierObjOppositeOpensCarrierCarrierCommRingCatSpecOfPresheafOpOpensTop_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	109 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	IsLocalRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	reaches Inseparable.eq
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	CONTENT	reaches Inseparable.eq
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint.affineLocalClosedPoint_spec	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	43 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	IsNoetherianRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	reaches isNoetherianRing_of_ringEquiv
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	CONTENT	reaches isNoetherianRing_of_ringEquiv
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isNoetherianRing	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	IsLocalRing R :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	reaches RingHom.domain_nontrivial
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	CONTENT	reaches RingHom.domain_nontrivial
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings.specGlobal_isLocalRing	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	145 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	IsScalarTower R P S :: side condition | Nontrivial S :: side condition | IsLocalization W S :: side condition | Algebra.IsStandardSmoothOfRelativeDimension n R P :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	reaches RingHom.domain_nontrivial
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	CONTENT	reaches RingHom.domain_nontrivial
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.standardSmooth_spec_localization_properties	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	reaches RingHom.ext
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	CONTENT	reaches RingHom.ext
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_pointMap	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	reaches CategoryTheory.ConcreteCategory.congr_hom
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	CONTENT	reaches CategoryTheory.ConcreteCategory.congr_hom
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties.specGlobalAlgebra_geometric	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	k ∈ K :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	reaches LinearMap.congr_fun
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	CONTENT	reaches SMulCommClass.rat
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	REVIEW	twins without a proved equivalence: [OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.algebra = OAI.AlgebraicGeometry.AbelianScheme.TateComparison.HeckeKernel.SphericalHecke]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.kernel_fixed	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	114 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	↑g = ↑h :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weil_value_eq_of_same_coset	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	174 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	IsScalarTower ℚ ℂ S :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.evaluateKernel_translate	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	221 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	IsScalarTower ℚ ℂ S :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	REVIEW	twins without a proved equivalence: [OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.algebra = OAI.AlgebraicGeometry.AbelianScheme.TateComparison.HeckeKernel.SphericalHecke]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_eq_evaluateKernel	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	133 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_smul	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	252 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	IsScalarTower ℚ ℂ S :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	REVIEW	twins without a proved equivalence: [OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.algebra = OAI.AlgebraicGeometry.AbelianScheme.TateComparison.HeckeKernel.SphericalHecke]
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.weilOperator_preserves_fixed	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	123 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	reaches map_add
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.SphericalGU.Spherical.cosetValue_mk	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	683 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData E K s q Index Ga MpR Mp :: carries a project proposition | D.pel.HasIntegralModelGeometry :: carries a project proposition | D.HasFiniteCoordinates :: carries a project proposition | D.pel.IsGoodCompletelySplitPrime :: carries a project proposition | u ∈ D.localReferenceLattice v :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	reaches map_mul
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	46 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_single	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData E K s q Index Ga MpR Mp :: carries a project proposition | u ∈ D.jointLocalLattice :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	reaches Submodule.span_induction
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_projection	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	696 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData E K s q Index Ga MpR Mp :: carries a project proposition | D.pel.HasIntegralModelGeometry :: carries a project proposition | D.HasFiniteCoordinates :: carries a project proposition | D.pel.IsGoodCompletelySplitPrime :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	reaches map_mul
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	46 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	693 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | NumberField K :: side condition | Fact (Nat.Prime q) :: side condition | OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData E K s q Index Ga MpR Mp :: carries a project proposition | D.pel.HasIntegralModelGeometry :: carries a project proposition | D.HasFiniteCoordinates :: carries a project proposition | D.pel.IsGoodCompletelySplitPrime :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	reaches map_mul
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Datum.RankThreePELDatum.IsAdmissible by OAI.AlgebraicGeometry.AbelianScheme.TateComparison.Data.SphericalPELAlbaneseData.HasIntegralModelGeometry.reference_admissible]
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	46 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff	REVIEW	computed class A?
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	PASS	all 0 header names resolve
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	INFO	1 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	INFO	4 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	INFO	2 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	INFO	3 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	INFO	7 theorems checked
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	INFO	4 theorems checked
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['smoothFormPullback_injective', 'smoothOneForm_eq_of_preferredChart'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SmoothPullbackFaithfulness	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['smoothComplexFunctionSheaf', 'smoothComplexFunctionSheaf_H1_zero'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SmoothSheaf	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['openZeroFormScalar_contMDiffOn', 'smoothZeroFormScalar', 'smoothZeroFormScalar_apply', 'smoothScalarOpenZeroForm_bijective'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SmoothZeroFormFunctions	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['affineLocalClosedPoint_spec'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	REVIEW	instance changes at lines 18
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SpecClosedPoint	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['specGlobal_isLocalRing', 'specGlobal_isNoetherianRing'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SpecLocalRings	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['specGlobalAlgebra', 'specGlobalAlgebraEquiv', 'specGlobalAlgebra_geometric', 'specGlobalAlgebra_pointMap'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SpecLocalizationProperties	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	FAIL	module docstring has no `## Main results`; 21 public declarations without a docstring (['algebra', 'kernel', 'coefficient', 'fixedInputs'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SphericalGU	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['Data.ActiveHeckeThetaData.jointLocalLattice_projection', 'Data.ActiveHeckeThetaData.jointLocalLattice_single', 'Data.ActiveHeckeThetaData.jointLocalLattice_mem_iff', 'Data.ActiveHeckeThetaData.jointLocalLattice_standard'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.SplitLocalLattice	PASS	not under a Mathlib folder
+exit 1

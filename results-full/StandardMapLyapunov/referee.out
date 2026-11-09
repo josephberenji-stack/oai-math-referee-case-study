@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.StandardMapEntropy.main_entropy_complete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StandardMapEntropy.main_entropy_complete	PASS	6606 constants reached, no stand-in
+REFEREE	L1u	OAI.StandardMapEntropy.main_entropy_complete	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StandardMapEntropy.main_entropy_complete	PASS	no hypotheses
+REFEREE	L3	OAI.StandardMapEntropy.main_entropy_complete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StandardMapEntropy.main_entropy_complete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StandardMapEntropy.main_entropy_complete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StandardMapEntropy.main_entropy_complete	INFO	not a registered target statement
+REFEREE	R1	OAI.StandardMapEntropy.main_entropy_complete	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.StandardMapEntropy.main_entropy_complete	PASS	top step is not a project theorem
+REFEREE	R5	OAI.StandardMapEntropy.main_entropy_complete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StandardMapEntropy.main_entropy_complete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StandardMapEntropy.main_entropy_complete	REVIEW	computed class A?
+REFEREE	L0	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	343 constants reached, no stand-in
+REFEREE	L1u	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	REVIEW	Measurable L :: side condition (project data) | ∀ᵐ (z : OAI.StandardMapEntropy.Torus) ∂OAI.StandardMapEntropy.area, OAI.StandardMapEntropy :: carries a project proposition | ∀ᵐ (z : OAI.StandardMapEntropy.Torus) ∂OAI.StandardMapEntropy.area,  Filter.Tendsto (fun n :: side condition (project data) | 0 < OAI.StandardMapEntropy.area {z | 0 < L z} :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	INFO	not a registered target statement
+REFEREE	R1	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StandardMapEntropy.positiveLargestLyapunov_of_ae_spectrum	REVIEW	computed class A?
+REFEREE	L4	OAI.Dynamics.StandardMap.EntropyLyapunov	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Dynamics.StandardMap.EntropyLyapunov	INFO	2 theorems checked
+REFEREE	L5	OAI.Dynamics.StandardMap.EntropyLyapunov	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Dynamics.StandardMap.EntropyLyapunov	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['PositiveLargestLyapunov', 'positiveLargestLyapunov_of_ae_spectrum', 'main_entropy_complete'])

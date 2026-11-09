@@ -1,0 +1,223 @@
+REFEREE	L0	PolynomialCatenary.Triangular.lt_up	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.lt_up	PASS	92 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.lt_up	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.lt_up	PASS	∀ (i : Fin (n + 1)), v i < 2 + f.totalDegree :: side condition | l ∈ List.ofFn ⇑v :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Triangular.lt_up	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.lt_up	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.lt_up	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.lt_up	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.lt_up	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.lt_up	PASS	reaches Lean.Grind.Nat.lt_eq
+REFEREE	R1k	PolynomialCatenary.Triangular.lt_up	CONTENT	reaches Lean.Grind.Nat.lt_eq
+REFEREE	R7	PolynomialCatenary.Triangular.lt_up	PASS	top step _private.HodgeConjecture.Mathlib.Algebra.PolynomialCatenary.0.PolynomialCatenary.Triangular.lt_up._proof_1_1 carries content
+REFEREE	R1i	PolynomialCatenary.Triangular.lt_up	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.lt_up	PASS	0 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.lt_up	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.lt_up	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.lt_up	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.lt_up	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	74 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	P.IsPrime :: side condition | g.Monic :: side condition | g ∈ P :: side condition | (Ideal.comap Polynomial.C P).IsMaximal :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	reaches RingHom.instRingHomClass
+REFEREE	R1k	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	no single top step
+REFEREE	R1i	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	0 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Polynomial.isMaximal_of_monic_mem_of_comap_isMaximal	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	166 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.sum_r_mul_ne	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	∀ (i : Fin (n + 1)), v i < 2 + f.totalDegree :: side condition | ∀ (i : Fin (n + 1)), w i < 2 + f.totalDegree :: side condition | v ≠ w :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.sum_r_mul_ne	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.sum_r_mul_ne	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	reaches Finsupp.ext
+REFEREE	R1k	PolynomialCatenary.Triangular.sum_r_mul_ne	CONTENT	reaches Finsupp.ext
+REFEREE	R7	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	no single top step
+REFEREE	R1i	PolynomialCatenary.Triangular.sum_r_mul_ne	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	0 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.sum_r_mul_ne	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.sum_r_mul_ne	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	860 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	P.IsPrime :: side condition | P.height = ↑p :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	reaches Fin.isEmpty'
+REFEREE	R1k	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	CONTENT	reaches Fin.isEmpty'
+REFEREE	R7	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	no single top step
+REFEREE	R1i	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.MvPolynomial.ringKrullDim_quotient_eq_fin_sub_of_height_eq	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	106 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	Nontrivial R :: side condition | Nontrivial S :: side condition | Algebra.IsIntegral R S :: side condition | Function.Injective ⇑(algebraMap R S) :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	reaches faithfulSMul_iff_algebraMap_injective
+REFEREE	R1k	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	CONTENT	reaches faithfulSMul_iff_algebraMap_injective
+REFEREE	R7	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	no single top step
+REFEREE	R1i	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.ringKrullDim_eq_of_isIntegral_of_injective	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	343 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.degreeOf_zero_t	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	a ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.degreeOf_zero_t	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.degreeOf_zero_t	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R1k	PolynomialCatenary.Triangular.degreeOf_zero_t	CONTENT	reaches instNeZeroNatHAdd_1
+REFEREE	R7	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.Triangular.degreeOf_zero_t	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.degreeOf_zero_t	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.degreeOf_zero_t	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	195 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	IsNoetherianRing R :: side condition | P.IsPrime :: side condition | g.Monic :: side condition | g ∈ P :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	reaches RingHom.instRingHomClass
+REFEREE	R1k	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	no single top step
+REFEREE	R1i	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	0 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Polynomial.height_eq_comap_height_add_one_of_monic_mem	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	803 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	P.IsPrime :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	reaches Fin.isEmpty'
+REFEREE	R1k	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	CONTENT	reaches Fin.isEmpty'
+REFEREE	R7	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.MvPolynomial.height_add_ringKrullDim_quotient_eq_fin	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	446 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	v ∈ f.support :: side condition | w ∈ f.support :: side condition | v ≠ w :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R1k	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	CONTENT	reaches instNeZeroNatHAdd_1
+REFEREE	R7	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.degreeOf_t_ne_of_ne	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	295 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	no hypotheses
+REFEREE	L3	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R1k	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	CONTENT	reaches instNeZeroNatHAdd_1
+REFEREE	R7	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.leadingCoeff_finSuccEquiv_t	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	523 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	f ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R1k	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	CONTENT	reaches instNeZeroNatHAdd_1
+REFEREE	R7	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	2 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.T_leadingCoeff_isUnit	REVIEW	computed class A?
+REFEREE	L0	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	146 constants reached, no stand-in
+REFEREE	L1u	PolynomialCatenary.Triangular.t1_comp_t1_neg	INFO	no opaque with a value reached
+REFEREE	L2	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	no hypotheses
+REFEREE	L3	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	no hypothesis refuted on file
+REFEREE	R2	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	not an equivalence with an open problem
+REFEREE	R3	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	PolynomialCatenary.Triangular.t1_comp_t1_neg	INFO	not a registered target statement
+REFEREE	IFF	PolynomialCatenary.Triangular.t1_comp_t1_neg	INFO	not an iff
+REFEREE	R1	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R1k	PolynomialCatenary.Triangular.t1_comp_t1_neg	CONTENT	reaches instNeZeroNatHAdd_1
+REFEREE	R7	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	top step is not a project theorem
+REFEREE	R1i	PolynomialCatenary.Triangular.t1_comp_t1_neg	INFO	no supplied input
+REFEREE	DUP	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	1 project definitions, no twins
+REFEREE	SHADOW	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	no copy of a library declaration
+REFEREE	R5	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	PolynomialCatenary.Triangular.t1_comp_t1_neg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	PolynomialCatenary.Triangular.t1_comp_t1_neg	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	FAIL	header names declared nowhere in the project: ['T_leadingcoeff_isUnit', 'Triangular', 'coeff_eq', 'equivT']
+REFEREE	MODULE	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	INFO	12 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	FAIL	1 citations of internal notes or quotations (lines [31])
+REFEREE	L6	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['lt_up', 't1_comp_t1_neg', 'sum_r_mul_ne', 'degreeOf_zero_t'])
+REFEREE	INST	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	REVIEW	instance changes at lines 94
+REFEREE	VEND	HodgeConjecture.Mathlib.Algebra.PolynomialCatenary	REVIEW	vendored library path HodgeConjecture/Mathlib/Algebra/PolynomialCatenary.lean
+exit 1

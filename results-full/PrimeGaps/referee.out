@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Problem344.large_gaps_and_ratio_density	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem344.large_gaps_and_ratio_density	PASS	6107 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem344.large_gaps_and_ratio_density	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem344.large_gaps_and_ratio_density	PASS	no hypotheses
+REFEREE	L3	OAI.Problem344.large_gaps_and_ratio_density	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem344.large_gaps_and_ratio_density	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem344.large_gaps_and_ratio_density	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem344.large_gaps_and_ratio_density	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem344.large_gaps_and_ratio_density	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem344.large_gaps_and_ratio_density	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem344.large_gaps_and_ratio_density	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem344.large_gaps_and_ratio_density	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem344.large_gaps_and_ratio_density	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	6106 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem344.positive_lower_density_prime_ratio_increases	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	no hypotheses
+REFEREE	L3	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem344.positive_lower_density_prime_ratio_increases	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	top step OAI.Problem344.positive_lower_density_prime_ratio_increases_of_large_gaps carries content
+REFEREE	R5	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem344.positive_lower_density_prime_ratio_increases	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem344.positive_lower_density_prime_ratio_increases	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PrimeGaps.RatioCorollary	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PrimeGaps.RatioCorollary	INFO	2 theorems checked
+REFEREE	L5	OAI.NumberTheory.PrimeGaps.RatioCorollary	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PrimeGaps.RatioCorollary	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['positive_lower_density_prime_ratio_increases', 'large_gaps_and_ratio_density'])

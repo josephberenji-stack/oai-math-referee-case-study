@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PerfectMatchingPSD.main_nat	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PerfectMatchingPSD.main_nat	PASS	3085 constants reached, no stand-in
+REFEREE	L1u	OAI.PerfectMatchingPSD.main_nat	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PerfectMatchingPSD.main_nat	PASS	no hypotheses
+REFEREE	L3	OAI.PerfectMatchingPSD.main_nat	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PerfectMatchingPSD.main_nat	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PerfectMatchingPSD.main_nat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PerfectMatchingPSD.main_nat	INFO	not a registered target statement
+REFEREE	R1	OAI.PerfectMatchingPSD.main_nat	PASS	reaches congrFun'
+REFEREE	R7	OAI.PerfectMatchingPSD.main_nat	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PerfectMatchingPSD.main_nat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PerfectMatchingPSD.main_nat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PerfectMatchingPSD.main_nat	REVIEW	computed class A?
+REFEREE	L0	OAI.PerfectMatchingPSD.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PerfectMatchingPSD.main	PASS	3090 constants reached, no stand-in
+REFEREE	L1u	OAI.PerfectMatchingPSD.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PerfectMatchingPSD.main	PASS	no hypotheses
+REFEREE	L3	OAI.PerfectMatchingPSD.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PerfectMatchingPSD.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PerfectMatchingPSD.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PerfectMatchingPSD.main	INFO	not a registered target statement
+REFEREE	R1	OAI.PerfectMatchingPSD.main	PASS	reaches congrFun'
+REFEREE	R7	OAI.PerfectMatchingPSD.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PerfectMatchingPSD.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PerfectMatchingPSD.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PerfectMatchingPSD.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.MatchingPSD.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.MatchingPSD.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.MatchingPSD.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.MatchingPSD.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['main_nat', 'main'])

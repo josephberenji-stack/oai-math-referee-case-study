@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SplitTangent.integrability_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SplitTangent.integrability_main	PASS	176 constants reached, no stand-in
+REFEREE	L1u	OAI.SplitTangent.integrability_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SplitTangent.integrability_main	PASS	no hypotheses
+REFEREE	L3	OAI.SplitTangent.integrability_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SplitTangent.integrability_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SplitTangent.integrability_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SplitTangent.integrability_main	INFO	not a registered target statement
+REFEREE	R1	OAI.SplitTangent.integrability_main	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.SplitTangent.integrability_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SplitTangent.integrability_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SplitTangent.integrability_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SplitTangent.integrability_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SplitTangentIntegrability	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SplitTangentIntegrability	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SplitTangentIntegrability	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SplitTangentIntegrability	FAIL	no module docstring /-! … -/; 21 public declarations without a docstring (['ComplexManifold', 'Model', 'ModelWithCorners', 'Tangent'])

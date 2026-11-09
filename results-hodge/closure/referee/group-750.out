@@ -1,0 +1,31 @@
+REFEREE	L0	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	350 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	18 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.ComplexPoint.Basic.ComplexSchemePoint.complexSupportInjectiveComplex_isStrictlyGE	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Cycle.TransportCohomologySection	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Cycle.TransportCohomologySheaf	PASS	not under a Mathlib folder
+exit 1

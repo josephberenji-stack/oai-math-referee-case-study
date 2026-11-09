@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.BinaryMatching.deterministic_approximate_counting	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.BinaryMatching.deterministic_approximate_counting	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.BinaryMatching.deterministic_approximate_counting	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BinaryMatching.deterministic_approximate_counting	PASS	no hypotheses
+REFEREE	L3	OAI.BinaryMatching.deterministic_approximate_counting	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BinaryMatching.deterministic_approximate_counting	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BinaryMatching.deterministic_approximate_counting	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BinaryMatching.deterministic_approximate_counting	INFO	not a registered target statement
+REFEREE	R1	OAI.BinaryMatching.deterministic_approximate_counting	PASS	reaches ne_of_lt
+REFEREE	R7	OAI.BinaryMatching.deterministic_approximate_counting	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BinaryMatching.deterministic_approximate_counting	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BinaryMatching.deterministic_approximate_counting	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BinaryMatching.deterministic_approximate_counting	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.BinaryMatching	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.BinaryMatching	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.BinaryMatching	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.BinaryMatching	FAIL	no module docstring /-! … -/; 14 public declarations without a docstring (['LooplessGraph', 'Incident', 'IsPerfectMatching', 'Matching'])

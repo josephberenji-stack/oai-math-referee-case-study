@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.FourierLLogL.paperMain	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.FourierLLogL.paperMain	PASS	119 constants reached, no stand-in
+REFEREE	L1u	OAI.FourierLLogL.paperMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourierLLogL.paperMain	PASS	MeasureTheory.AEStronglyMeasurable f AddCircle.haarAddCircle :: side condition (project data) | MeasureTheory.Integrable (fun x => ‖f x‖ * Real.log (2 + ‖f x‖)) AddCircle.haarAddCircle :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.FourierLLogL.paperMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourierLLogL.paperMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourierLLogL.paperMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourierLLogL.paperMain	INFO	not a registered target statement
+REFEREE	R1	OAI.FourierLLogL.paperMain	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourierLLogL.paperMain	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourierLLogL.paperMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourierLLogL.paperMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourierLLogL.paperMain	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.FourierLLogL.circlePeriod_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FourierLLogL.circlePeriod_pos	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.FourierLLogL.circlePeriod_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FourierLLogL.circlePeriod_pos	PASS	no hypotheses
+REFEREE	L3	OAI.FourierLLogL.circlePeriod_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FourierLLogL.circlePeriod_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FourierLLogL.circlePeriod_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FourierLLogL.circlePeriod_pos	INFO	not a registered target statement
+REFEREE	R1	OAI.FourierLLogL.circlePeriod_pos	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.FourierLLogL.circlePeriod_pos	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FourierLLogL.circlePeriod_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FourierLLogL.circlePeriod_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FourierLLogL.circlePeriod_pos	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.FourierLLogL	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.FourierLLogL	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.FourierLLogL	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.FourierLLogL	FAIL	no module docstring /-! … -/

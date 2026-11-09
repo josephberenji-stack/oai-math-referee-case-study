@@ -1,0 +1,73 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	530 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	IsDomain R :: side condition | Finite ι :: side condition | ∀ (i : ι), Algebra.FiniteType R (S i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	reaches Finset.prod_ne_zero_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial]
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree.exists_generic_free_finite_algebra_family	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	513 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	IsDomain R :: side condition | Algebra.FiniteType R S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	reaches Algebra.FiniteType.iff_quotient_mvPolynomial''
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.SaturatedMonomialIdeals.GradedHilbert.IsMonomial by OAI.AlgebraicGeometry.HilbertScheme.Presentations.InitialIdeal.GradedHilbert.initialIdeal_isMonomial]
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree.exists_generic_free_finiteType_algebra	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	I.toIdeal.FG :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	reaches Ideal.IsHomogeneous.iff_exists
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	CONTENT	reaches Submodule.addSubmonoidClass
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals.GradedHilbert.fg_homogeneous_generating_finset	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_generic_free_finite_algebra_family'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteAlgebraFamilyFree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_generic_free_finiteType_algebra'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FiniteTypeAlgebraFree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['fg_homogeneous_generating_finset'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.FinitelyGeneratedHomogeneousIdeals	PASS	not under a Mathlib folder
+exit 1

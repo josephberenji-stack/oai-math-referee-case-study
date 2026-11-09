@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.CoulombAtom.generalized_ionization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoulombAtom.generalized_ionization	PASS	12925 constants reached, no stand-in
+REFEREE	L1u	OAI.CoulombAtom.generalized_ionization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoulombAtom.generalized_ionization	PASS	no hypotheses
+REFEREE	L3	OAI.CoulombAtom.generalized_ionization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoulombAtom.generalized_ionization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoulombAtom.generalized_ionization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoulombAtom.generalized_ionization	INFO	not a registered target statement
+REFEREE	R1	OAI.CoulombAtom.generalized_ionization	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CoulombAtom.generalized_ionization	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoulombAtom.generalized_ionization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoulombAtom.generalized_ionization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoulombAtom.generalized_ionization	REVIEW	computed class A?
+REFEREE	L0	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	12816 constants reached, no stand-in
+REFEREE	L1u	OAI.CoulombAtom.actual_quantum_jointLimit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	no hypotheses
+REFEREE	L3	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoulombAtom.actual_quantum_jointLimit	INFO	not a registered target statement
+REFEREE	R1	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	reaches congrFun'
+REFEREE	R7	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	no single top step
+REFEREE	R5	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoulombAtom.actual_quantum_jointLimit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoulombAtom.actual_quantum_jointLimit	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.CoulombIonization.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.CoulombIonization.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.CoulombIonization.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.CoulombIonization.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['actual_quantum_jointLimit', 'generalized_ionization'])

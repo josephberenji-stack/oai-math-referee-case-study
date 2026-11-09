@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	2793 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem356.coulomb_counterexample_and_equal_infima	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	no hypotheses
+REFEREE	L3	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem356.coulomb_counterexample_and_equal_infima	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	top step OAI.Problem356.FiveComponentGeometry.exists_full_coulomb_conclusion carries content
+REFEREE	R5	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem356.coulomb_counterexample_and_equal_infima	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem356.coulomb_counterexample_and_equal_infima	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.CoulombTransport.Conclusion	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.CoulombTransport.Conclusion	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.CoulombTransport.Conclusion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.CoulombTransport.Conclusion	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['coulomb_counterexample_and_equal_infima'])

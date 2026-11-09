@@ -1,0 +1,160 @@
+REFEREE	L0	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	54 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.recoveryMomentBound_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	no hypotheses
+REFEREE	L3	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.recoveryMomentBound_pos	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.recoveryMomentBound_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.recoveryMomentBound_pos	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.bounded_recovery	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.bounded_recovery	PASS	3138 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.bounded_recovery	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.bounded_recovery	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.StandardModularData H :: carries a project proposition | S.ScalarCentralizer :: carries a project proposition | ↑omega ≤ Filter.atTop :: side condition | ∀ (n : ℕ), 0 < delta n :: side condition | Filter.Tendsto delta Filter.atTop (nhds 0) :: side condition | ∀ (n : ℕ), ‖h n‖ = 1 :: side condition | ∀ (n : ℕ), S.D.HasSpectralSupport (Set.Icc (s - delta n) (s + delta n)) (h n) :: carries a project proposition | 0 < Filter.limsup (fun n => OAI.BoundedRecovery.fixedMean omega fun t => ‖T ((S.D.unitary  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.bounded_recovery	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.bounded_recovery	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.bounded_recovery	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.bounded_recovery	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.bounded_recovery	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.bounded_recovery	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.bounded_recovery	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.bounded_recovery	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.bounded_recovery	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.phaseSum_vector_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.phaseSum_vector_support	PASS	212 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.phaseSum_vector_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.phaseSum_vector_support	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.RealSpectralCalculus H :: carries a project proposition | ∀ (i : Fin n), D.HasSpectralSupport I ((a i) xi) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.phaseSum_vector_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.phaseSum_vector_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.phaseSum_vector_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.phaseSum_vector_support	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.phaseSum_vector_support	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.phaseSum_vector_support	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.phaseSum_vector_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.phaseSum_vector_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.phaseSum_vector_support	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	551 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.StandardModularData H :: carries a project proposition | 2 * rho ≤ 1 :: side condition | y ∈ S.M :: side condition (project data) | ‖y S.xi‖ ≤ 2 :: side condition (project data) | S.D.HasSpectralSupport (Set.Icc (s - 2 * rho) (s + 2 * rho)) (y S.xi) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.StandardModularData.moment_bound_of_narrow_band	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	170 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.norm_sq_le_twice_sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	no hypotheses
+REFEREE	L3	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.norm_sq_le_twice_sum	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	reaches pow_le_pow_left₀
+REFEREE	R7	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.norm_sq_le_twice_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.norm_sq_le_twice_sum	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	289 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.exists_recovery_cutoff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	0 < gamma :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.exists_recovery_cutoff	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.exists_recovery_cutoff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.exists_recovery_cutoff	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	2806 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.StandardModularData H :: carries a project proposition | 0 < rho :: side condition | 0 < gamma :: side condition | ‖h‖ = 1 :: side condition | S.D.HasSpectralSupport (Set.Icc (s - rho) (s + rho)) h :: carries a project proposition | 4 * gamma ≤ OAI.BoundedRecovery.fixedMean omega ⇑(S.D.orbitDefect T h) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.StandardModularData.exists_band_representative_with_defect	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	176 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.RealSpectralCalculus H :: carries a project proposition | ∀ (i : ι), D.HasSpectralSupport I (h i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.sum	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	185 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.RealSpectralCalculus H :: carries a project proposition | D.HasSpectralSupport I h :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.RealSpectralCalculus.HasSpectralSupport.real_smul	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	3119 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.StandardModularData H :: carries a project proposition | S.ScalarCentralizer :: carries a project proposition | ↑omega ≤ Filter.atTop :: side condition | 0 < rho :: side condition | 2 * rho ≤ 1 :: side condition | 0 < gamma :: side condition | 0 < K :: side condition | ‖T‖ ^ 2 * (K ^ 2)⁻¹ * OAI.BoundedRecovery.recoveryMomentBound s ≤ gamma / 4 :: side condition (project data) | ‖h‖ = 1 :: side condition | S.D.HasSpectralSupport (Set.Icc (s - rho) (s + rho)) h :: carries a project proposition | 4 * gamma ≤ OAI.BoundedRecovery.fixedMean omega ⇑(S.D.orbitDefect T h) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	reaches instBoundedMul
+REFEREE	R7	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.StandardModularData.bounded_recovery_single	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.phaseSum_mem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.phaseSum_mem	PASS	101 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.phaseSum_mem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.phaseSum_mem	PASS	CompleteSpace H :: side condition | ∀ (i : Fin n), a i ∈ M :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.phaseSum_mem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.phaseSum_mem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.phaseSum_mem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.phaseSum_mem	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.phaseSum_mem	PASS	reaches sum_mem
+REFEREE	R7	OAI.BoundedRecovery.phaseSum_mem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoundedRecovery.phaseSum_mem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.phaseSum_mem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.phaseSum_mem	REVIEW	computed class A?
+REFEREE	L0	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	2876 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.StandardModularData H :: carries a project proposition | 0 < d :: side condition | 0 < gamma :: side condition | 0 < K :: side condition | ‖T‖ ^ 2 * (K ^ 2)⁻¹ * Q ≤ gamma / 4 :: side condition | y ∈ S.M :: side condition (project data) | S.D.HasSpectralSupport (Set.Icc (s - d) (s + d)) (y S.xi) :: carries a project proposition | ∀ (i : Fin n), 0 ≤ p i :: side condition | gamma ≤ ∑ i, p i * ‖T ((S.sigma (t i) y) S.xi)‖ ^ 2 :: side condition (project data) | (S.state (S.modularAverage p t (star y * y) ^ 2)).re +   ∑ i, p i * (S.state (star (S.sigm :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.StandardModularData.bounded_recovery_finite_step	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.ModularRecovery.Recovery	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.ModularRecovery.Recovery	INFO	12 theorems checked
+REFEREE	L5	OAI.Analysis.ModularRecovery.Recovery	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.ModularRecovery.Recovery	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 13 public declarations without a docstring (['RealSpectralCalculus.HasSpectralSupport.real_smul', 'RealSpectralCalculus.HasSpectralSupport.sum', 'phaseSum_mem', 'phaseSum_vector_support'])

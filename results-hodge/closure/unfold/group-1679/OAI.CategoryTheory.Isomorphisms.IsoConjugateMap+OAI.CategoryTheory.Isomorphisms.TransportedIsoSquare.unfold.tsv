@@ -1,0 +1,58 @@
+SCHEMA	1	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap
+DECL	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	theorem	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap	-	∀ {C : Type u} [inst : CategoryTheory.Category.{v, u} C] {X X' Y Y' : C} (e : X ≅ X') (d : Y ≅ Y') (p : X ⟶ Y), OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap e d p = CategoryTheory.CategoryStruct.comp e.inv (CategoryTheory.CategoryStruct.comp p d.hom)
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	Quiver.Hom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	Eq	type	inductive	core
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	type	def	project
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	rfl	value	def	core
+THM	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap_eq	UNFOLD	-	-	-	-	false	true	0	0	Eq	-
+DECL	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	def	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap	-	{C : Type u} → [inst : CategoryTheory.Category.{v, u} C] → {X X' Y Y' : C} → (X ≅ X') → (Y ≅ Y') → (X ⟶ Y) → (X' ⟶ Y')
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	Quiver.Hom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.Iso.hom	value	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap.isoConjugateMap	CategoryTheory.Iso.inv	value	abbrev	mathlib
+END	OAI.CategoryTheory.Isomorphisms.IsoConjugateMap	2
+SCHEMA	1	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare
+DECL	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	theorem	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare	-	∀ {C : Type u} [inst : CategoryTheory.Category.{v, u} C] {A A' B B' : C} (hA : A' = A) (hB : B' = B) (e : A ≅ B) (a : A ⟶ A) (a' : A' ⟶ A') (b : B ⟶ B) (b' : B' ⟶ B'), CategoryTheory.CategoryStruct.comp a' (CategoryTheory.eqToHom hA) = CategoryTheory.CategoryStruct.comp (CategoryTheory.eqToHom hA) a…
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Quiver.Hom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.eqToHom	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.eqToIso	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Iso.trans	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Iso.symm	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq	type	inductive	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.mpr	value	def	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	congrArg	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	HEq.refl	value	ctor	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.mp	value	def	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Iso.refl	value	def	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.casesOn	value	abbrev	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	id	value	def	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Category.comp_id	value	theorem	mathlib
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	congr	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	eq_of_heq	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.ndrec	value	abbrev	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.refl	value	ctor	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	HEq	value	inductive	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	congrFun'	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.symm	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	Eq.trans	value	theorem	core
+EDGE	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CategoryTheory.Category.id_comp	value	theorem	mathlib
+THM	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare.transportedIsoSquare	CONTENT	CategoryTheory.Category.comp_id	-	-	-	false	false	0	4	Eq	-
+END	OAI.CategoryTheory.Isomorphisms.TransportedIsoSquare	1

@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.DirectionalTransience.transition_markov	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalTransience.transition_markov	PASS	154 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalTransience.transition_markov	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalTransience.transition_markov	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalTransience.transition_markov	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalTransience.transition_markov	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalTransience.transition_markov	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalTransience.transition_markov	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalTransience.transition_markov	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.DirectionalTransience.transition_markov	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalTransience.transition_markov	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalTransience.transition_markov	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalTransience.transition_markov	REVIEW	computed class A?
+REFEREE	L0	OAI.DirectionalTransience.directional_transience_implies_ballisticity	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	235 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalTransience.directional_transience_implies_ballisticity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalTransience.directional_transience_implies_ballisticity	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalTransience.directional_transience_implies_ballisticity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalTransience.directional_transience_implies_ballisticity	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.DirectionalTransience.historyTransition_markov	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalTransience.historyTransition_markov	PASS	171 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalTransience.historyTransition_markov	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalTransience.historyTransition_markov	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalTransience.historyTransition_markov	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalTransience.historyTransition_markov	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalTransience.historyTransition_markov	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalTransience.historyTransition_markov	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalTransience.historyTransition_markov	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.DirectionalTransience.historyTransition_markov	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalTransience.historyTransition_markov	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalTransience.historyTransition_markov	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalTransience.historyTransition_markov	REVIEW	computed class A?
+REFEREE	L0	OAI.DirectionalTransience.measurable_current_row	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalTransience.measurable_current_row	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalTransience.measurable_current_row	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalTransience.measurable_current_row	PASS	no hypotheses
+REFEREE	L3	OAI.DirectionalTransience.measurable_current_row	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalTransience.measurable_current_row	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalTransience.measurable_current_row	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalTransience.measurable_current_row	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalTransience.measurable_current_row	PASS	reaches measurable_from_prod_countable_left
+REFEREE	R7	OAI.DirectionalTransience.measurable_current_row	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalTransience.measurable_current_row	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalTransience.measurable_current_row	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalTransience.measurable_current_row	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.DirectionalBallisticity	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.DirectionalBallisticity	INFO	4 theorems checked
+REFEREE	L5	ComparatorChallenges.DirectionalBallisticity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.DirectionalBallisticity	FAIL	no module docstring /-! … -/; 21 public declarations without a docstring (['Lattice', 'Direction', 'Vector', 'Row'])

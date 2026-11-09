@@ -1,0 +1,565 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	113 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	∀ (i : ℕ), r ≤ i → c i = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	reaches Finset.sum_subset
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	CONTENT	reaches Finset.sum_subset
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.choose_sum_truncate	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	237 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	∀ (i j k : ℕ), d < i + j + k → ((T - 1) ^ i) (((U - 1) ^ j) (((V - 1) ^ k) x)) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	reaches map_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	CONTENT	reaches map_zero
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	reaches shift_eq_sum_fwdDiff_iter
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	CONTENT	reaches shift_eq_sum_fwdDiff_iter
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_newton	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	140 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	reaches shift_eq_sum_fwdDiff_iter
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	CONTENT	reaches shift_eq_sum_fwdDiff_iter
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.triple_newton_full	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	reaches pow_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton.orbit_fwdDiff	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	432 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	∀ (i j k : ℕ), d < i + j + k → ((T - 1) ^ i) (((U - 1) ^ j) (((V - 1) ^ k) x)) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	reaches map_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	CONTENT	reaches map_zero
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials_with_top	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	reaches Nat.cast_choose_eq_descPochhammer_div
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	CONTENT	reaches Nat.cast_choose_eq_descPochhammer_div
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_eval	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	171 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	reaches Polynomial.finsetSum_coeff
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_coeff	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	435 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	∀ (i j k : ℕ), d < i + j + k → ((T - 1) ^ i) (((U - 1) ^ j) (((V - 1) ^ k) x)) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	reaches map_zero
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	CONTENT	reaches map_zero
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.orbit_polynomials	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	60 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	reaches LE.le.trans
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	CONTENT	reaches LE.le.trans
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_natDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	281 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	∀ (i j k : ℕ), d < i + j + k → c i j k = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	reaches Polynomial.finsetSum_coeff
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	CONTENT	reaches Polynomial.finsetSum_coeff
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.coefficient_topPolynomial	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	134 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	reaches Polynomial.eval_finsetSum
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_eval	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	136 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	reaches descPochhammer_natDegree
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.scaledChoose_coeff	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	67 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	reaches LE.le.trans
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	CONTENT	reaches LE.le.trans
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_natDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	186 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	reaches Polynomial.coeff_C_mul
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	CONTENT	reaches Polynomial.coeff_C_mul
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.term_coeff_top	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	∀ (i j k : ℕ), d < i + j + k → c i j k = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	reaches Polynomial.natDegree_sum_le_of_forall_le
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	CONTENT	reaches Polynomial.natDegree_sum_le_of_forall_le
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.polynomial_natDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	reaches Polynomial.natDegree_sum_le_of_forall_le
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	CONTENT	reaches Polynomial.natDegree_sum_le_of_forall_le
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial.topPolynomial_natDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	2136 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	X.IsSeparated :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  q ≠ c →   (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	86 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates.zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	3315 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	REVIEW	X.IsSeparated :: side condition | ∀ (j : ι), AlgebraicGeometry.IsAffineOpen (U j) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  q ≠ c →   (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal :: side condition (project data) | Module.Injective R R :: side condition | F.Additive :: side condition | iSup U = ⊤ :: side condition | ∀ (q : ℕ),  Function.Bijective (OAI.NumberTheory.PadicHodge.IntegralComparison.Trace.Duali :: side condition (project data) | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N (Ho :: carries a project proposition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  q ≠ c' →   (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTota :: side condition (project data) | ∀ (q : ℕ),  Function.Bijective (OAI.NumberTheory.PadicHodge.IntegralComparison.Trace.Duali :: side condition (project data) | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N (Ho :: carries a project proposition | d = i + c :: side condition | d = j + c' :: side condition | CategoryTheory.CategoryStruct.comp   (HomologicalComplex.homologyMap    (OAI.NumberTheory. :: side condition (project data) | (CategoryTheory.ConcreteCategory.hom b) v₁ = v₂ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	top step OAI.NumberTheory.PadicHodge.IntegralComparison.SerreUnitTrace.naturality carries content
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	7 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	205 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.trace_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	3306 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	REVIEW	X.IsSeparated :: side condition | ∀ (j : ι), AlgebraicGeometry.IsAffineOpen (U j) :: side condition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  q ≠ c →   (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal :: side condition (project data) | Module.Injective R R :: side condition | F.Additive :: side condition | iSup U = ⊤ :: side condition | ∀ (q : ℕ),  Function.Bijective (OAI.NumberTheory.PadicHodge.IntegralComparison.Trace.Duali :: side condition (project data) | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N (Ho :: carries a project proposition | ∀ (q : ℕ),  SheafOfModules.IsQuasicoherent   ((OAI.NumberTheory.PadicHodge.IntegralCompari :: side condition (project data) | ∀ (q : ℕ),  q ≠ c' →   (OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTota :: side condition (project data) | ∀ (q : ℕ),  Function.Bijective (OAI.NumberTheory.PadicHodge.IntegralComparison.Trace.Duali :: side condition (project data) | OAI.NumberTheory.PadicHodge.IntegralComparison.InternalHomCechTotal.TermsAcyclic π U N (Ho :: carries a project proposition | d = i + c :: side condition | d = j + c' :: side condition | CategoryTheory.CategoryStruct.comp   (HomologicalComplex.homologyMap    (OAI.NumberTheory. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	reaches congrArg₂
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	CONTENT	reaches CategoryTheory.instHasWeakSheafifyOfHasSheafify
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	7 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	203 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap.naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	187 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	reaches HomologicalComplex.d_comp_d
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.differential	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	183 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	reaches HomologicalComplex.from_single_hom_ext
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.augmentation	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	614 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	31 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.positive	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	312 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.zero	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	663 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	34 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology.homology	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	410 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift.cycles	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	581 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	579 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	555 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	CategoryTheory.HasExt C :: side condition | CategoryTheory.HasExt D :: side condition | F.Additive :: side condition | CategoryTheory.Limits.PreservesFiniteLimits F :: side condition | CategoryTheory.Limits.PreservesFiniteColimits F :: side condition | CategoryTheory.Functor.Linear R F :: side condition | CategoryTheory.CategoryStruct.comp g (κ.f 0) = CategoryTheory.CategoryStruct.comp (F.op.ma :: side condition | QuasiIso ι :: side condition | QuasiIso κ :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (K.X a)) Y (q + 1)) :: side condition | ∀ (a q : ℕ), Subsingleton (CategoryTheory.Abelian.Ext (Opposite.unop (L.X a)) (F.obj Y) (q :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	reaches ChainComplex.single₀._proof_1
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	22 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort.Comparison.short_zero	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	INFO	12 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	INFO	3 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['orbit_fwdDiff', 'orbit_newton', 'choose_sum_truncate', 'coefficient'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitNewton	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	FAIL	module docstring has no `## Main results`; 16 public declarations without a docstring (['scaledChoose', 'scaledChoose_eval', 'scaledChoose_natDegree', 'scaledChoose_coeff'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedOrbitPolynomial	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['zero'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureConcentrationCoordinates	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['concentration', 'pairing', 'map', 'naturality'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedPureSerreMap	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['map', 'differential', 'augmentation', 'zero'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	REVIEW	instance changes at lines 17
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionCohomology	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['cycleMap', 'cycles'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	REVIEW	instance changes at lines 16
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionDimensionShift	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['short_zero', 'short_succ', 'short'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	REVIEW	instance changes at lines 15
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.MixedResolutionShort	PASS	not under a Mathlib folder
+exit 1

@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.TorsionFreeBass.domain_idempotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TorsionFreeBass.domain_idempotent	PASS	6450 constants reached, no stand-in
+REFEREE	L1u	OAI.TorsionFreeBass.domain_idempotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TorsionFreeBass.domain_idempotent	REVIEW	OAI.TorsionFreeBass.TorsionFree G :: carries a project proposition | IsDomain R :: side condition | CharZero R :: side condition | e * e = e :: side condition || unbuilt=0
+REFEREE	L3	OAI.TorsionFreeBass.domain_idempotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TorsionFreeBass.domain_idempotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TorsionFreeBass.domain_idempotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TorsionFreeBass.domain_idempotent	INFO	not a registered target statement
+REFEREE	R1	OAI.TorsionFreeBass.domain_idempotent	PASS	reaches congrFun'
+REFEREE	R7	OAI.TorsionFreeBass.domain_idempotent	PASS	top step OAI.TorsionFreeBass.descend_idempotents carries content
+REFEREE	R5	OAI.TorsionFreeBass.domain_idempotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TorsionFreeBass.domain_idempotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TorsionFreeBass.domain_idempotent	REVIEW	computed class A?
+REFEREE	L0	OAI.TorsionFreeBass.complex_idempotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TorsionFreeBass.complex_idempotent	PASS	6316 constants reached, no stand-in
+REFEREE	L1u	OAI.TorsionFreeBass.complex_idempotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TorsionFreeBass.complex_idempotent	REVIEW	OAI.TorsionFreeBass.TorsionFree G :: carries a project proposition | e * e = e :: side condition || unbuilt=0
+REFEREE	L3	OAI.TorsionFreeBass.complex_idempotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TorsionFreeBass.complex_idempotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TorsionFreeBass.complex_idempotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TorsionFreeBass.complex_idempotent	INFO	not a registered target statement
+REFEREE	R1	OAI.TorsionFreeBass.complex_idempotent	PASS	reaches Matrix.ext
+REFEREE	R7	OAI.TorsionFreeBass.complex_idempotent	PASS	no single top step
+REFEREE	R5	OAI.TorsionFreeBass.complex_idempotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TorsionFreeBass.complex_idempotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TorsionFreeBass.complex_idempotent	REVIEW	computed class A?
+REFEREE	L0	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	6209 constants reached, no stand-in
+REFEREE	L1u	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	REVIEW	OAI.TorsionFreeBass.TorsionFree G :: carries a project proposition | e * e = e :: side condition || unbuilt=0
+REFEREE	L3	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	INFO	not a registered target statement
+REFEREE	R1	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	reaches Matrix.ext
+REFEREE	R7	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	no single top step
+REFEREE	R5	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TorsionFreeBass.scalar_trace_eq_augmentation	REVIEW	computed class A?
+REFEREE	L0	OAI.TorsionFreeBass.torsion_free_corollary	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TorsionFreeBass.torsion_free_corollary	PASS	6567 constants reached, no stand-in
+REFEREE	L1u	OAI.TorsionFreeBass.torsion_free_corollary	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TorsionFreeBass.torsion_free_corollary	REVIEW	OAI.TorsionFreeBass.TorsionFree G :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TorsionFreeBass.torsion_free_corollary	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TorsionFreeBass.torsion_free_corollary	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TorsionFreeBass.torsion_free_corollary	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TorsionFreeBass.torsion_free_corollary	INFO	not a registered target statement
+REFEREE	R1	OAI.TorsionFreeBass.torsion_free_corollary	PASS	reaches map_mul
+REFEREE	R7	OAI.TorsionFreeBass.torsion_free_corollary	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TorsionFreeBass.torsion_free_corollary	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TorsionFreeBass.torsion_free_corollary	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TorsionFreeBass.torsion_free_corollary	REVIEW	computed class A?
+REFEREE	L4	OAI.RingTheory.BassTrace.TorsionFree	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RingTheory.BassTrace.TorsionFree	INFO	4 theorems checked
+REFEREE	L5	OAI.RingTheory.BassTrace.TorsionFree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RingTheory.BassTrace.TorsionFree	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

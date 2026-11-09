@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	727 constants reached, no stand-in
+REFEREE	L1u	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	IsAlgClosed k :: side condition | IsLocalRing R :: side condition | IsLocalRing A :: side condition | IsNoetherianRing A :: side condition | IsDomain A :: side condition | IsFractionRing A K :: side condition | IsScalarTower k (MvPolynomial σ k) A :: side condition | IsScalarTower (MvPolynomial σ k) R A :: side condition | IsLocalization.AtPrime R (MvPolynomial.idealOfVars σ k) :: side condition (project data) | IsLocalHom (algebraMap R A) :: side condition | Algebra.FormallyUnramified R A :: side condition | Algebra.EssFiniteType R A :: side condition | Algebra.FormallyEtale (MvPolynomial σ k) A :: side condition | ∀ (i : σ), 0 < a i :: side condition || unbuilt=0
+REFEREE	L3	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	INFO	not a registered target statement
+REFEREE	R1	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	reaches Ideal.IsMaximal.isPrime'
+REFEREE	R7	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CartierSections.isCompact_closedChartFieldRetraction_cone	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	103 constants reached, no stand-in
+REFEREE	L1u	OAI.CartierSections.polynomialOrigin_isMaximal_topology	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	no hypotheses
+REFEREE	L3	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CartierSections.polynomialOrigin_isMaximal_topology	INFO	not a registered target statement
+REFEREE	R1	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	top step OAI.CartierSections.polynomialOrigin_isMaximal carries content
+REFEREE	R5	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CartierSections.polynomialOrigin_isMaximal_topology	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CartierSections.polynomialOrigin_isMaximal_topology	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.CartierChartCompactnessSupport	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CartierChartCompactnessSupport	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.CartierChartCompactnessSupport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CartierChartCompactnessSupport	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['isCompact_closedChartFieldRetraction_cone'])

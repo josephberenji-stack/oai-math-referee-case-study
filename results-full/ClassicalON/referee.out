@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ClassicalON.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ClassicalON.main	PASS	4630 constants reached, no stand-in
+REFEREE	L1u	OAI.ClassicalON.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ClassicalON.main	PASS	no hypotheses
+REFEREE	L3	OAI.ClassicalON.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ClassicalON.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ClassicalON.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ClassicalON.main	INFO	not a registered target statement
+REFEREE	R1	OAI.ClassicalON.main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.ClassicalON.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ClassicalON.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ClassicalON.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ClassicalON.main	REVIEW	computed class A?
+REFEREE	L0	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.ClassicalON.correlation_eq_freeSpinMean	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ClassicalON.correlation_eq_freeSpinMean	FAIL	OAI.ClassicalON.LatticeGraph :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ClassicalON.correlation_eq_freeSpinMean	INFO	not a registered target statement
+REFEREE	R1	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ClassicalON.correlation_eq_freeSpinMean	PASS	computed class C
+REFEREE	L4	OAI.Probability.ClassicalON.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.ClassicalON.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.ClassicalON.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.ClassicalON.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['correlation_eq_freeSpinMean', 'main'])

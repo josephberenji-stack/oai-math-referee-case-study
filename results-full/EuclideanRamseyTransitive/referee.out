@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	87 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	REVIEW	OAI.EuclideanRamsey.TransitiveConsequence.IsTransitive y :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.TransitiveConsequence.orbit_sum_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	648 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	REVIEW	0 < s :: side condition | affineSpan ℝ (Set.range a) = ⊤ :: side condition (project data) | OAI.EuclideanRamsey.TransitiveConsequence.IsTransitive y :: carries a project proposition | OAI.EuclideanRamsey.Congruent a fun i => y (e i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	no single top step
+REFEREE	R5	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.TransitiveConsequence.averaged_realCriterion	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	3840 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	0 < s :: side condition | Function.Injective a :: side condition (project data) | Function.Injective y :: side condition (project data) | ∀ (i j : Fin t), ∃ σ, (∀ (k l : Fin t), dist (y (σ k)) (y (σ l)) = dist (y k) (y l)) ∧ σ i :: side condition (project data) | Set.range a ⊆ Set.range y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	no single top step
+REFEREE	R5	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	3839 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	REVIEW	0 < s :: side condition | Function.Injective a :: side condition (project data) | OAI.EuclideanRamsey.TransitiveConsequence.IsTransitive y :: carries a project proposition | OAI.EuclideanRamsey.Congruent a fun i => y (e i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.TransitiveConsequence.isometric_subconfiguration_ramsey	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.EuclideanRamsey.Transitive	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.EuclideanRamsey.Transitive	INFO	4 theorems checked
+REFEREE	L5	OAI.Combinatorics.EuclideanRamsey.Transitive	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.EuclideanRamsey.Transitive	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 6 public declarations without a docstring (['distancePermutationGroup', 'IsTransitive', 'orbit_sum_eq', 'averaged_realCriterion'])

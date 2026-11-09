@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Thorp.Specht.tabloidFinite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Thorp.Specht.tabloidFinite	PASS	23 constants reached, no stand-in
+REFEREE	L1u	OAI.Thorp.Specht.tabloidFinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thorp.Specht.tabloidFinite	PASS	no hypotheses
+REFEREE	L3	OAI.Thorp.Specht.tabloidFinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thorp.Specht.tabloidFinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thorp.Specht.tabloidFinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thorp.Specht.tabloidFinite	INFO	not a registered target statement
+REFEREE	R1	OAI.Thorp.Specht.tabloidFinite	PASS	reaches Finite.of_surjective
+REFEREE	R7	OAI.Thorp.Specht.tabloidFinite	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thorp.Specht.tabloidFinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thorp.Specht.tabloidFinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thorp.Specht.tabloidFinite	REVIEW	computed class A?
+REFEREE	L0	OAI.Thorp.Current.first_reciprocal_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Thorp.Current.first_reciprocal_main	PASS	521 constants reached, no stand-in
+REFEREE	L1u	OAI.Thorp.Current.first_reciprocal_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Thorp.Current.first_reciprocal_main	PASS	no hypotheses
+REFEREE	L3	OAI.Thorp.Current.first_reciprocal_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Thorp.Current.first_reciprocal_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Thorp.Current.first_reciprocal_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Thorp.Current.first_reciprocal_main	INFO	not a registered target statement
+REFEREE	R1	OAI.Thorp.Current.first_reciprocal_main	PASS	reaches instIsTransGe
+REFEREE	R7	OAI.Thorp.Current.first_reciprocal_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Thorp.Current.first_reciprocal_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Thorp.Current.first_reciprocal_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Thorp.Current.first_reciprocal_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.ThorpFirstReciprocal	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ThorpFirstReciprocal	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.ThorpFirstReciprocal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ThorpFirstReciprocal	FAIL	no module docstring /-! … -/; 32 public declarations without a docstring (['Position', 'perm', 'hom', 'embedding'])

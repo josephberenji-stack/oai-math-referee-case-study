@@ -1,0 +1,511 @@
+REFEREE	L0	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	8420 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	CompleteSpace H :: side condition | TopologicalSpace.SeparableSpace H :: side condition | ¬FiniteDimensional ℂ H :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	no single top step
+REFEREE	R5	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.transitive_commutant_on_separable_hilbert	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_density_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_density_bound	PASS	668 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_density_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_density_bound	PASS	∀ (i : ℕ), MeasureTheory.IsProbabilityMeasure (μ i) :: side condition | ∀ (i : ℕ), MeasureTheory.MemLp (h i) 2 (μ i) :: side condition | ∀ (i : ℕ) (x : Ω i), 0 ≤ h i x :: side condition | ∀ (i : ℕ), ∫ (x : Ω i), h i x ∂μ i = 1 :: side condition | Summable fun i => (MeasureTheory.eLpNorm (fun x => h i x - 1) 2 (μ i)).toReal ^ 2 :: side condition | ∑' (i : ℕ), (MeasureTheory.eLpNorm (fun x => h i x - 1) 2 (μ i)).toReal ^ 2 ≤ C :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_density_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_density_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_density_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_density_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_density_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.product_density_bound	PASS	top step OAI.Invariant233.ProductDensity.exists_product_density_of_norm carries content
+REFEREE	R5	OAI.Invariant233.product_density_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_density_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_density_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.product_triangular_law_properties	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.product_triangular_law_properties	PASS	722 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.product_triangular_law_properties	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.product_triangular_law_properties	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.Results.product_triangular_law_properties	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.product_triangular_law_properties	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.product_triangular_law_properties	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.product_triangular_law_properties	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.product_triangular_law_properties	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.Results.product_triangular_law_properties	PASS	top step OAI.Invariant233.ProductModel.triangularLaw_properties carries content
+REFEREE	R5	OAI.Invariant233.Results.product_triangular_law_properties	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.product_triangular_law_properties	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.product_triangular_law_properties	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.conditional_convolution	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.conditional_convolution	PASS	1222 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.conditional_convolution	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.conditional_convolution	PASS	0 < a :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.conditional_convolution	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.conditional_convolution	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.conditional_convolution	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.conditional_convolution	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.conditional_convolution	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.conditional_convolution	PASS	top step OAI.InvariantProjection.ConditionalConvolution.conditional_convolution_obstruction carries content
+REFEREE	R5	OAI.Invariant233.conditional_convolution	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.conditional_convolution	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.conditional_convolution	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.tail_attenuation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.tail_attenuation	PASS	2722 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.tail_attenuation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.tail_attenuation	REVIEW	OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition | 1 ≤ j :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.tail_attenuation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.tail_attenuation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.tail_attenuation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.tail_attenuation	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.tail_attenuation	PASS	reaches Nat.mod_lt
+REFEREE	R7	OAI.Invariant233.tail_attenuation	PASS	top step OAI.Invariant233.CircleCoupling.exists_actual_tail_attenuation carries content
+REFEREE	R5	OAI.Invariant233.tail_attenuation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.tail_attenuation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.tail_attenuation	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_finite_coordinate_sampling	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_finite_coordinate_sampling	PASS	3906 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_finite_coordinate_sampling	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_finite_coordinate_sampling	REVIEW	OAI.Invariant233.ProductScaleLaws p :: carries a project proposition | ∀ (i : ℕ), 0 < S i :: side condition | ∀ (j i : ℕ), i ∈ OAI.Invariant233.ProductPhases.consecutiveBlock p.m j → S i = ↑(p.m j) *  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_finite_coordinate_sampling	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_finite_coordinate_sampling	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_finite_coordinate_sampling	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_finite_coordinate_sampling	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_finite_coordinate_sampling	PASS	reaches Real.instIsOrderedAddMonoid
+REFEREE	R7	OAI.Invariant233.product_finite_coordinate_sampling	PASS	top step OAI.Invariant233.ProductModel.SamplingWeights.ae_hasAllFiniteCoordinateSampling carries content
+REFEREE	R5	OAI.Invariant233.product_finite_coordinate_sampling	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_finite_coordinate_sampling	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_finite_coordinate_sampling	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	27 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.ProductModel.instFactOneLeTwoCounterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.affiliated_transport	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.affiliated_transport	PASS	1037 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.affiliated_transport	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.affiliated_transport	REVIEW	CompleteSpace E :: side condition | OAI.Invariant233.TracialState ↥M :: carries a project proposition | OAI.Invariant233.IsNormalFaithfulTracialState M τ :: carries a project proposition | IsSelfAdjoint H :: side condition | OAI.Invariant233.IsPositivePartial H :: carries a project proposition | Function.Injective ↑H :: side condition | OAI.Invariant233.IsAffiliated M H :: carries a project proposition | ∀ (x : ↥H.domain), ↑A ↑x ∈ H.domain :: side condition | ∀ (x : ↥H.domain), ↑H ⟨↑A ↑x, ⋯⟩ = ↑B (↑H x) :: side condition | IsStarProjection ↑p :: side condition | (1 - ↑p) * ↑A * ↑p = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.affiliated_transport	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.affiliated_transport	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.affiliated_transport	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.affiliated_transport	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.affiliated_transport	PASS	reaches VonNeumannAlgebra.instSubringClass
+REFEREE	R7	OAI.Invariant233.affiliated_transport	PASS	top step OAI.Invariant233.affiliated_transport_proof carries content
+REFEREE	R5	OAI.Invariant233.affiliated_transport	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.affiliated_transport	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.affiliated_transport	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.rational_graphs	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.rational_graphs	PASS	3004 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.rational_graphs	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.rational_graphs	REVIEW	OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition | P ∈ OAI.Invariant233.Rotation.algebra θ :: side condition (project data) | IsStarProjection P :: side condition (project data) | (1 - P) * p.measurableOperator θ hp * P = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.rational_graphs	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.rational_graphs	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.rational_graphs	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.rational_graphs	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.rational_graphs	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.rational_graphs	PASS	top step OAI.Invariant233.CircleParameterLaws.exists_rational_graph_field carries content
+REFEREE	R5	OAI.Invariant233.rational_graphs	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.rational_graphs	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.rational_graphs	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.rotation_factor_structure	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.rotation_factor_structure	PASS	2457 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.rotation_factor_structure	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.rotation_factor_structure	PASS	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.rotation_factor_structure	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.rotation_factor_structure	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.rotation_factor_structure	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.rotation_factor_structure	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.rotation_factor_structure	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.Invariant233.Results.rotation_factor_structure	PASS	top step OAI.Invariant233.Rotation.factor_structure carries content
+REFEREE	R5	OAI.Invariant233.Results.rotation_factor_structure	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.rotation_factor_structure	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.rotation_factor_structure	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	101 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.ProductModel.instCompleteSpaceHilbertCounterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.ordered_couplings	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.ordered_couplings	PASS	3991 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.ordered_couplings	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.ordered_couplings	REVIEW	OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition | P ∈ OAI.Invariant233.Rotation.algebra θ :: side condition (project data) | IsStarProjection P :: side condition (project data) | (1 - P) * p.measurableOperator θ hp * P = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.ordered_couplings	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.ordered_couplings	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.ordered_couplings	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.ordered_couplings	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.ordered_couplings	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.ordered_couplings	PASS	top step OAI.Invariant233.CircleCoupling.exists_ordered_coupling_field carries content
+REFEREE	R5	OAI.Invariant233.ordered_couplings	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.ordered_couplings	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.ordered_couplings	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.scalar_multiplier_fields	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.scalar_multiplier_fields	PASS	857 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.scalar_multiplier_fields	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.scalar_multiplier_fields	PASS	MeasureTheory.IsFiniteMeasure μ :: side condition | CompleteSpace E :: side condition | Countable ι :: side condition | ∀ (g : ↥(MeasureTheory.Lp ℂ ⊤ μ)), Commute A (OAI.Invariant233.L2Multiplication.multiplier :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.scalar_multiplier_fields	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.scalar_multiplier_fields	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.scalar_multiplier_fields	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.scalar_multiplier_fields	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.scalar_multiplier_fields	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.Invariant233.scalar_multiplier_fields	PASS	top step OAI.Invariant233.L2Multiplication.scalar_multiplier_fields_complete carries content
+REFEREE	R5	OAI.Invariant233.scalar_multiplier_fields	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.scalar_multiplier_fields	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.scalar_multiplier_fields	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.measurable_counterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.measurable_counterexample	PASS	5311 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.measurable_counterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.measurable_counterexample	REVIEW	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition | OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.measurable_counterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.measurable_counterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.measurable_counterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.measurable_counterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.measurable_counterexample	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.measurable_counterexample	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.measurable_counterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.measurable_counterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.measurable_counterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.product_realization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.product_realization	PASS	8625 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.product_realization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.product_realization	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.Results.product_realization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.product_realization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.product_realization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.product_realization	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.product_realization	PASS	reaches Real.instIsOrderedAddMonoid
+REFEREE	R7	OAI.Invariant233.Results.product_realization	PASS	top step OAI.Invariant233.ProductModel.product_realization_of_ae_sampling carries content
+REFEREE	R5	OAI.Invariant233.Results.product_realization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.product_realization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.product_realization	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_quasinilpotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_quasinilpotent	PASS	1953 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_quasinilpotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_quasinilpotent	PASS	∀ (j : ℕ), 0 < m j :: side condition | ∀ (j : ℕ), 1 ≤ K j :: side condition | ∀ (j : ℕ), K j ^ 2 ≤ C j :: side condition | ∀ (i : ℕ), θ i ∈ Set.Ico 0 1 :: side condition | Summable θ :: side condition | ∀ (i : ℕ), 1 / (↑(m (e i).fst) * K (e i).fst) ≤ θ i :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_quasinilpotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_quasinilpotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_quasinilpotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_quasinilpotent	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_quasinilpotent	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.product_quasinilpotent	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.product_quasinilpotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_quasinilpotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_quasinilpotent	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	1713 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	REVIEW	Irrational θ :: side condition | OAI.Invariant233.IsContinuousCircleWeight ⇑f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	top step OAI.Invariant233.Rotation.continuous_weight_spectral_bundle carries content
+REFEREE	R5	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.continuous_counterexample_quasinilpotent	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.compact_transfer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.compact_transfer	PASS	855 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.compact_transfer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.compact_transfer	REVIEW	PolishSpace X :: side condition | BorelSpace X :: side condition | MeasureTheory.IsFiniteMeasure μ :: side condition | ∀ (x : X), IsStarProjection (p x) :: side condition (project data) | ∀ (i : ℤ) (x : X), 0 < F i x :: side condition | ∀ (i : ℤ), Measurable (F i) :: side condition | ∀ (i : ℤ), Measurable fun x => (p x) (lp.single 2 i 1) :: side condition (project data) | L.NeBot :: side condition | Filter.Tendsto νs L (nhds ν) :: side condition | OAI.Invariant233.UniformlyAbsolutelyContinuous μ fun i => MeasureTheory.Measure.map Prod.f :: carries a project proposition | OAI.Invariant233.UniformlyAbsolutelyContinuous μ fun i => MeasureTheory.Measure.map Prod.s :: carries a project proposition | 0 < B :: side condition | ∀ (i : ι) (k : ℤ), ∀ᵐ (t : X × X) ∂↑(νs i), F k t.2 / F k t.1 ≤ B :: side condition | ∀ (k : ℤ), ∀ᵐ (t : X × X) ∂↑ν, F k t.2 / F k t.1 ≤ B :: side condition | ∀ (i : ι), ∀ᵐ (t : X × X) ∂↑(νs i), (1 - p t.2) ∘SL OAI.Invariant233.ratioDiagonal F t ∘SL :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.compact_transfer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.compact_transfer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.compact_transfer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.compact_transfer	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.compact_transfer	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.compact_transfer	PASS	top step OAI.Invariant233.CompactTransfer.compact_operator_transfer carries content
+REFEREE	R5	OAI.Invariant233.compact_transfer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.compact_transfer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.compact_transfer	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_coupling_marginals	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_coupling_marginals	PASS	1664 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_coupling_marginals	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_coupling_marginals	PASS	∀ (s : ℕ), 100 ≤ m s :: side condition | ∀ (s : ℕ), 1 / ↑(m s) ≤ a s :: side condition | ∀ (s : ℕ), a s ≤ 1 / 4 :: side condition | ∀ (s : ℕ), 1 / ↑(m s) ≤ b s :: side condition | ∀ (s : ℕ), b s ≤ 1 / 4 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_coupling_marginals	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_coupling_marginals	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_coupling_marginals	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_coupling_marginals	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_coupling_marginals	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.product_coupling_marginals	PASS	top step OAI.Invariant233.OrderedProductCoupling.source_coupling_marginals carries content
+REFEREE	R5	OAI.Invariant233.product_coupling_marginals	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_coupling_marginals	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_coupling_marginals	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.circle_parameters_exist	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.circle_parameters_exist	PASS	3830 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.circle_parameters_exist	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.circle_parameters_exist	PASS	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.circle_parameters_exist	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.circle_parameters_exist	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.circle_parameters_exist	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.circle_parameters_exist	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.circle_parameters_exist	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.Results.circle_parameters_exist	PASS	top step OAI.Invariant233.exists_circle_parameters carries content
+REFEREE	R5	OAI.Invariant233.Results.circle_parameters_exist	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.circle_parameters_exist	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.circle_parameters_exist	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.commutant_algebra	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.commutant_algebra	PASS	228 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.commutant_algebra	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.commutant_algebra	PASS	¬∃ c, T = c • 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.commutant_algebra	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.commutant_algebra	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.commutant_algebra	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.commutant_algebra	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.commutant_algebra	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.Invariant233.Results.commutant_algebra	PASS	top step OAI.Invariant233.commutant_algebra_properties carries content
+REFEREE	R5	OAI.Invariant233.Results.commutant_algebra	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.commutant_algebra	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.commutant_algebra	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.conditional_labels	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.conditional_labels	PASS	1776 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.conditional_labels	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.conditional_labels	REVIEW	OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.conditional_labels	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.conditional_labels	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.conditional_labels	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.conditional_labels	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.conditional_labels	PASS	reaches lt_of_lt_of_le
+REFEREE	R7	OAI.Invariant233.conditional_labels	PASS	top step OAI.Invariant233.CircleCoupling.exists_conditionalLabelLaws carries content
+REFEREE	R5	OAI.Invariant233.conditional_labels	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.conditional_labels	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.conditional_labels	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_polar_structure	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_polar_structure	PASS	2114 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_polar_structure	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_polar_structure	REVIEW	OAI.Invariant233.ProductModel.AdmissibleAnglesAndCosts θ c :: carries a project proposition | OAI.Invariant233.HasNegInfiniteLogIntegral OAI.Invariant233.ProductModel.baseMeasure  (OAI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_polar_structure	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_polar_structure	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_polar_structure	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_polar_structure	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_polar_structure	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.Invariant233.product_polar_structure	PASS	top step OAI.Invariant233.ProductModel.productPolarStructure_of_negInfiniteLogIntegral carries content
+REFEREE	R5	OAI.Invariant233.product_polar_structure	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_polar_structure	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_polar_structure	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	8540 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.cho_ko_lee_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	CompleteSpace H :: side condition | TopologicalSpace.SeparableSpace H :: side condition | ¬FiniteDimensional ℂ H :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.cho_ko_lee_comparison	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.cho_ko_lee_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.cho_ko_lee_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.commutant_affine_shift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.commutant_affine_shift	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.commutant_affine_shift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.commutant_affine_shift	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.Results.commutant_affine_shift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.commutant_affine_shift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.commutant_affine_shift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.commutant_affine_shift	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.commutant_affine_shift	PASS	reaches congrFun'
+REFEREE	R7	OAI.Invariant233.Results.commutant_affine_shift	PASS	top step OAI.Invariant233.centralizer_singleton_one_add carries content
+REFEREE	R5	OAI.Invariant233.Results.commutant_affine_shift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.commutant_affine_shift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.commutant_affine_shift	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_ordinary_tail_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_ordinary_tail_projection	PASS	1160 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_ordinary_tail_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_ordinary_tail_projection	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.product_ordinary_tail_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_ordinary_tail_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_ordinary_tail_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_ordinary_tail_projection	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_ordinary_tail_projection	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.product_ordinary_tail_projection	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.product_ordinary_tail_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_ordinary_tail_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_ordinary_tail_projection	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_biased_identity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_biased_identity	PASS	3305 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_biased_identity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_biased_identity	REVIEW	OAI.Invariant233.ProductModel.JointlyRationallyIndependent θ :: carries a project proposition | ∀ (i : ℕ), θ i ∈ Set.Ico 0 1 :: side condition | Summable θ :: side condition | ∀ (i : ℕ), 0 ≤ c i :: side condition | OAI.Invariant233.ProductModel.HasAllFiniteCoordinateSampling θ :: carries a project proposition | P ∈ OAI.Invariant233.ProductModel.factor θ :: side condition (project data) | IsStarProjection P :: side condition (project data) | (1 - P) * OAI.Invariant233.ProductModel.weightedOperator θ c * P = 0 :: side condition (project data) | ∀ (s : ℕ), 100 ≤ m s :: side condition | ∀ (s : ℕ), 1 / ↑(m s) ≤ a s :: side condition | ∀ (s : ℕ), a s ≤ 1 / 4 :: side condition | ∀ (s : ℕ), 1 / ↑(m s) ≤ b s :: side condition | ∀ (s : ℕ), b s ≤ 1 / 4 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_biased_identity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_biased_identity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_biased_identity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_biased_identity	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_biased_identity	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.Invariant233.product_biased_identity	PASS	top step OAI.Invariant233.OrderedProductCoupling.exists_source_covariantProjectionField_biased_pairIdentity carries content
+REFEREE	R5	OAI.Invariant233.product_biased_identity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_biased_identity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_biased_identity	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.commutant_properness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.commutant_properness	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.commutant_properness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.commutant_properness	PASS	¬∃ c, T = c • 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.commutant_properness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.commutant_properness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.commutant_properness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.commutant_properness	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.commutant_properness	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.Invariant233.Results.commutant_properness	PASS	top step OAI.Invariant233.centralizer_singleton_ne_top_of_nonscalar carries content
+REFEREE	R5	OAI.Invariant233.Results.commutant_properness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.commutant_properness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.commutant_properness	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.scalar_sampling_estimates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.scalar_sampling_estimates	PASS	2198 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.scalar_sampling_estimates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.scalar_sampling_estimates	PASS	no hypotheses
+REFEREE	L3	OAI.Invariant233.scalar_sampling_estimates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.scalar_sampling_estimates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.scalar_sampling_estimates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.scalar_sampling_estimates	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.scalar_sampling_estimates	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.scalar_sampling_estimates	PASS	top step OAI.Invariant233.ScalarRectangles.full_scalar_estimates carries content
+REFEREE	R5	OAI.Invariant233.scalar_sampling_estimates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.scalar_sampling_estimates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.scalar_sampling_estimates	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.rotation_hyperfinite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.rotation_hyperfinite	PASS	2988 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.rotation_hyperfinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.rotation_hyperfinite	PASS	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.rotation_hyperfinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.rotation_hyperfinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.rotation_hyperfinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.rotation_hyperfinite	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.rotation_hyperfinite	PASS	reaches AddSubgroup.normal_of_isAddCommutative
+REFEREE	R7	OAI.Invariant233.Results.rotation_hyperfinite	PASS	top step OAI.Invariant233.Rotation.isHyperfinite_algebra carries content
+REFEREE	R5	OAI.Invariant233.Results.rotation_hyperfinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.rotation_hyperfinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.rotation_hyperfinite	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	317 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	0 < δ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	top step OAI.InvariantProjection.FiniteConvolution.uniform_lower_bound carries content
+REFEREE	R5	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.finite_convolution_uniform_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	94 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.hyperinvariant_projection_mem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	CompleteSpace H :: side condition | T ∈ M :: side condition | IsStarProjection p :: side condition | ∀ (A : H →L[ℂ] H), Commute A T → (↑p).range ∈ Module.End.invtSubmodule ↑A :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.hyperinvariant_projection_mem	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	top step OAI.Invariant233.hyperinvariant_projection_mem carries content
+REFEREE	R5	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.hyperinvariant_projection_mem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.hyperinvariant_projection_mem	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_pair_identity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_pair_identity	PASS	2397 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_pair_identity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_pair_identity	REVIEW	OAI.Invariant233.ProductModel.JointlyRationallyIndependent θ :: carries a project proposition | ∀ (i : ℕ), θ i ∈ Set.Ico 0 1 :: side condition | Summable θ :: side condition | ∀ (i : ℕ), 0 ≤ c i :: side condition | OAI.Invariant233.ProductModel.HasAllFiniteCoordinateSampling θ :: carries a project proposition | p ∈ OAI.Invariant233.ProductModel.factor θ :: side condition (project data) | IsStarProjection p :: side condition (project data) | (1 - p) * OAI.Invariant233.ProductModel.weightedOperator θ c * p = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_pair_identity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_pair_identity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_pair_identity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_pair_identity	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_pair_identity	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.Invariant233.product_pair_identity	PASS	top step OAI.Invariant233.ProductModel.exists_covariantProjectionField_pairIdentity carries content
+REFEREE	R5	OAI.Invariant233.product_pair_identity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_pair_identity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_pair_identity	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.truncation_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.truncation_bound	PASS	4379 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.truncation_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.truncation_bound	REVIEW	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition | OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition | P ∈ OAI.Invariant233.Rotation.algebra θ :: side condition (project data) | IsStarProjection P :: side condition (project data) | 0 < (OAI.Invariant233.Rotation.vacuumFunctional P).re :: side condition (project data) | (OAI.Invariant233.Rotation.vacuumFunctional P).re < 1 :: side condition (project data) | (1 - P) * p.measurableOperator θ hp * P = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.truncation_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.truncation_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.truncation_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.truncation_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.truncation_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.truncation_bound	PASS	top step OAI.Invariant233.CircleParameterLaws.exists_rational_graph_field_with_truncation_bounds carries content
+REFEREE	R5	OAI.Invariant233.truncation_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.truncation_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.truncation_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_factor	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_factor	PASS	2957 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_factor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_factor	REVIEW	OAI.Invariant233.ProductModel.JointlyRationallyIndependent θ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_factor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_factor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_factor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_factor	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_factor	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.Invariant233.product_factor	PASS	top step OAI.Invariant233.ProductModel.factor_complete carries content
+REFEREE	R5	OAI.Invariant233.product_factor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_factor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_factor	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.positive_diagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.positive_diagonal	PASS	1030 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.positive_diagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.positive_diagonal	REVIEW	MeasureTheory.IsProbabilityMeasure μ :: side condition | Ergodic (⇑σ) μ :: side condition | OAI.Invariant233.IsFaithfulTracialVector M ((MeasureTheory.Lp.const 2 μ) OAI.Invariant233. :: carries a project proposition | ∀ A ∈ M,  ∃ a,   (∀ (y : Y), ‖a y‖ ≤ ‖A‖) ∧    (∀ (v : ↥OAI.Invariant233.PositiveDiagonalM :: side condition (project data) | ∀ᵐ (y : Y) ∂μ, 0 < ↑↑f y :: side condition | P ∈ M :: side condition (project data) | IsStarProjection P :: side condition (project data) | (1 - P) * OAI.Invariant233.PositiveDiagonalModel.lpOrbitWeightedShift σ f * P = 0 :: side condition (project data) | 0 < OAI.Invariant233.PositiveDiagonalModel.diagonalState P :: side condition (project data) | OAI.Invariant233.PositiveDiagonalModel.diagonalState P < 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Invariant233.positive_diagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.positive_diagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.positive_diagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.positive_diagonal	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.positive_diagonal	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.positive_diagonal	PASS	top step OAI.Invariant233.PositiveDiagonalModel.positive_diagonal_in_algebra carries content
+REFEREE	R5	OAI.Invariant233.positive_diagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.positive_diagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.positive_diagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	725 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.uniform_irrational_rotation_average	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.uniform_irrational_rotation_average	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	reaches Continuous.comp
+REFEREE	R7	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	top step OAI.InvariantProjection.UniformRotationAverage.tendstoUniformly_real carries content
+REFEREE	R5	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.uniform_irrational_rotation_average	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.uniform_irrational_rotation_average	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.product_phase_ranges	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.product_phase_ranges	PASS	1085 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.product_phase_ranges	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.product_phase_ranges	PASS	Countable ι :: side condition | ∀ (i : ι), 0 < S i :: side condition | ∀ (j : ℕ), 0 < K j :: side condition | ∀ (j : ℕ), 0 < G j :: side condition | ∀ (j : ℕ), 2 ^ j ≤ (J j).card :: side condition | ∀ (j : ℕ), ∀ i ∈ J j, S i = ↑(J j).card * K j :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.product_phase_ranges	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.product_phase_ranges	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.product_phase_ranges	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.product_phase_ranges	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.product_phase_ranges	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.product_phase_ranges	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.product_phase_ranges	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.product_phase_ranges	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.product_phase_ranges	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.digit_marginals	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.digit_marginals	PASS	1900 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.digit_marginals	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.digit_marginals	REVIEW	OAI.Invariant233.CircleParameterLaws θ p :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.digit_marginals	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.digit_marginals	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.digit_marginals	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.digit_marginals	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.digit_marginals	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Invariant233.digit_marginals	PASS	top step OAI.Invariant233.CircleCoupling.exists_digitMarginalLaws carries content
+REFEREE	R5	OAI.Invariant233.digit_marginals	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.digit_marginals	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.digit_marginals	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.IrrationalRotation.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.IrrationalRotation.Main	INFO	39 theorems checked
+REFEREE	L5	OAI.Analysis.IrrationalRotation.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.IrrationalRotation.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 44 public declarations without a docstring (['rotation_hyperfinite', 'circle_parameters_exist', 'commutant_properness', 'commutant_affine_shift'])

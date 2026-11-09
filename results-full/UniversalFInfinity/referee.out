@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	6225 constants reached, no stand-in
+REFEREE	L1u	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no hypotheses
+REFEREE	L3	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	INFO	not a registered target statement
+REFEREE	R1	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	reaches Subgroup.normalClosure_normal
+REFEREE	R7	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	REVIEW	computed class A?
+REFEREE	L4	OAI.GroupTheory.UniversalGroup.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GroupTheory.UniversalGroup.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.GroupTheory.UniversalGroup.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GroupTheory.UniversalGroup.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['universal_group_of_type_FInfinity'])

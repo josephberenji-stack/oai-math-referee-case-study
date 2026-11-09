@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.Problem315.switch_chain_tv_bound	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Problem315.switch_chain_tv_bound	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem315.switch_chain_tv_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem315.switch_chain_tv_bound	REVIEW	4 ≤ n :: side condition | ∀ (v : Fin n), d v ≤ n - 1 :: side condition | OAI.Problem315.Graphical n d :: carries a project proposition | 1 < OAI.Problem315.stateCount n d :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Problem315.switch_chain_tv_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem315.switch_chain_tv_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem315.switch_chain_tv_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem315.switch_chain_tv_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem315.switch_chain_tv_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem315.switch_chain_tv_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem315.switch_chain_tv_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem315.switch_chain_tv_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem315.switch_chain_tv_bound	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.Problem315.switch_chain_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Problem315.switch_chain_main	PASS	141 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem315.switch_chain_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem315.switch_chain_main	REVIEW	4 ≤ n :: side condition | ∀ (v : Fin n), d v ≤ n - 1 :: side condition | OAI.Problem315.Graphical n d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Problem315.switch_chain_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem315.switch_chain_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem315.switch_chain_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem315.switch_chain_main	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem315.switch_chain_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem315.switch_chain_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem315.switch_chain_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem315.switch_chain_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem315.switch_chain_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.Problem315.switch_connectivity	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Problem315.switch_connectivity	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem315.switch_connectivity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem315.switch_connectivity	REVIEW	4 ≤ n :: side condition | ∀ (v : Fin n), d v ≤ n - 1 :: side condition | OAI.Problem315.Graphical n d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Problem315.switch_connectivity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem315.switch_connectivity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem315.switch_connectivity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem315.switch_connectivity	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem315.switch_connectivity	PASS	reaches Std.Symm.symm
+REFEREE	R7	OAI.Problem315.switch_connectivity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem315.switch_connectivity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem315.switch_connectivity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem315.switch_connectivity	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SwitchChain	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SwitchChain	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.SwitchChain	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SwitchChain	FAIL	no module docstring /-! … -/; 31 public declarations without a docstring (['graphDegree', 'Realizes', 'GraphState', 'Graphical'])

@@ -1,0 +1,41 @@
+SCHEMA	1	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange
+DECL	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	theorem	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	-	∀ {X X' U U' Z Z' : AlgebraicGeometry.Scheme} (f : X' ⟶ X) (i : U ⟶ X) (j : Z ⟶ X) (i' : U' ⟶ X') (j' : Z' ⟶ X') (u : U' ⟶ U) (z : Z' ⟶ Z), CategoryTheory.IsPullback i' u f i → CategoryTheory.IsPullback j' z f j → Set.range ⇑j = (Set.range ⇑i)ᶜ → Set.range ⇑j' = (Set.range ⇑i')ᶜ
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.Scheme	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.PresheafedSpace.carrier	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CategoryTheory.ConcreteCategory.hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CommRingCat	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	TopCat.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Compl.compl	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	ContinuousMap	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CategoryTheory.IsPullback	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CommRingCat.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.LocallyRingedSpace.Hom.toHom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.Scheme.Hom.toLRSHom'	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Set.instCompl	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.LocallyRingedSpace.toSheafedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	TopCat.str	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	TopCat.carrier	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.PresheafedSpace.Hom.base	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	TopCat.instConcreteCategoryContinuousMapCarrier	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.SheafedSpace.toPresheafedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.Scheme.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	TopCat	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Set.range	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	ContinuousMap.instFunLike	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	DFunLike.coe	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	AlgebraicGeometry.Scheme.toLocallyRingedSpace	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Set	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	OAI.AlgebraicGeometry.Divisors.LineBundles.AffineBundle.Localization.Cycles.schemePullback_range	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Set.preimage	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CategoryTheory.IsPullback.flip	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Eq.refl	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	Set.preimage_compl	value	theorem	mathlib
+THM	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange.BundleCycles.cartesianComplement_range	CONTENT	Set.image_congr	-	-	-	false	false	1	5	Eq	-
+END	OAI.AlgebraicGeometry.Divisors.LineBundles.CartesianComplementRange	1

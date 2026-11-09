@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeTorus.instIsProbabilityMeasureTorusμ	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeTorus.simple_lebesgue_spectrum	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	314 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeTorus.simple_lebesgue_spectrum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeTorus.simple_lebesgue_spectrum	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeTorus.simple_lebesgue_spectrum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeTorus.simple_lebesgue_spectrum	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.ThreeTorus	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ThreeTorus	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.ThreeTorus	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ThreeTorus	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 10 public declarations without a docstring (['Torus', 'Cover', 'project', 'Smooth'])

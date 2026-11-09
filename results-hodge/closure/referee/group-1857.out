@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	2864 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	X.IsSeparated :: side condition | SheafOfModules.IsQuasicoherent M :: side condition | iSup U = O :: side condition | iSup V = O :: side condition | ∀ (i : ι), AlgebraicGeometry.IsAffineOpen (U i) :: side condition | ∀ (i : κ), AlgebraicGeometry.IsAffineOpen (V i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	reaches CategoryTheory.Limits.terminal.comp_from
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	CONTENT	reaches CategoryTheory.sheafToPresheaf_isRightAdjoint
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	6 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	150 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement.Base.quasiIso	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['quasiIso'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.CechOpenCoverRefinement	PASS	not under a Mathlib folder
+exit 1

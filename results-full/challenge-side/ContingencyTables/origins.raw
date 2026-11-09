@@ -1,0 +1,109 @@
+warning: PrimeNumberTheoremAnd: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/PrimeNumberTheoremAnd' has local changes
+warning: belyi: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/belyi' has local changes
+warning: formal-schemes: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/formal-schemes' has local changes
+warning: elliptic-curves: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/elliptic-curves' has local changes
+warning: tempered-fundamental-groups: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/tempered-fundamental-groups' has local changes
+warning: oka: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/oka' has local changes
+warning: orbicurve-cores: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/orbicurve-cores' has local changes
+warning: pi1: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/pi1' has local changes
+warning: heights: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/heights' has local changes
+warning: genl: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/genl' has local changes
+warning: tate-curves-theta: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/tate-curves-theta' has local changes
+warning: iut: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/iut' has local changes
+warning: gromov: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/gromov' has local changes
+warning: SphereEversion: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/SphereEversion' has local changes
+warning: schoenflies-lean: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/schoenflies-lean' has local changes
+warning: ClassFieldTheory: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/ClassFieldTheory' has local changes
+warning: AINTLIB: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/AINTLIB' has local changes
+warning: AbsorptionCutoff: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/AbsorptionCutoff' has local changes
+warning: StrongPNT: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/StrongPNT' has local changes
+warning: carleson: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/carleson' has local changes
+warning: rellich-kondrachov: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/rellich-kondrachov' has local changes
+warning: Zeta3Irrational: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/Zeta3Irrational' has local changes
+warning: fixed-point-theorems: repository '/srv/oai/casestudy/sources/openai-math/lean/.lake/packages/fixed-point-theorems' has local changes
+ORIGIN	OAI.ContingencyTables.boundedSampling	solution-side constants 0 (definitions/types 0)	library constants 166	first: []
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.encodeSamplingInput
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.table_fintype
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.Configuration.state
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.encodeMatrix
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.tick.match_1
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.encodeNat
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.Configuration.tape
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.initial
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.encodeMargins
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.HasMargins
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Table
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.samplingSize
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.OutputsTable
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.RandomMachine
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.tableMass
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.Configuration
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.Machine
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.tick.match_3
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.tick.match_5
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.RandomMachine.transition
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.Symbol
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.run
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.Symbol
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.tick
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.MatchingFPRAS.RandomMachine.states
+CDEF	OAI.ContingencyTables.boundedSampling	OAI.ContingencyTables.Algorithms.BoundedSamplingStatement
+ORIGIN	OAI.ContingencyTables.exactSampling	solution-side constants 0 (definitions/types 0)	library constants 180	first: []
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.table_fintype
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.Configuration.state
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.haltMass
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.encodeMatrix
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.tick.match_1
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.encodeNat
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.Configuration.tape
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.initial
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.encodeMargins
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.HasMargins
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Table
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.samplingSize
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.OutputsTable
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.RandomMachine
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.tableMass
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.Configuration
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.Machine
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.tick.match_3
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.tick.match_5
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.RandomMachine.transition
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.ExactSamplingStatement
+CDEF	OAI.ContingencyTables.exactSampling	OAI.ContingencyTables.Algorithms.Symbol
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.run
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.Symbol
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.tick
+CDEF	OAI.ContingencyTables.exactSampling	OAI.MatchingFPRAS.RandomMachine.states
+ORIGIN	OAI.ContingencyTables.counting	solution-side constants 0 (definitions/types 0)	library constants 197	first: []
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.table_fintype
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.Configuration.state
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.boundedTable_fintype
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.BoundedTable
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.encodeMatrix
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.tick.match_1
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.encodeNat
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.encodeInt
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.Configuration.tape
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.initial
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.encodeMargins
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.encodeRat
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.HasMargins
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.Outputs
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Table
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.goodCountingTapes
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.encodeCountingInput
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.RandomMachine
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.CountingStatement
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.Configuration
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.Machine
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.tick.match_3
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.tick.match_5
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.count
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.RandomMachine.transition
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.Symbol
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.run
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.Symbol
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.tick
+CDEF	OAI.ContingencyTables.counting	OAI.ContingencyTables.Algorithms.countingTime
+CDEF	OAI.ContingencyTables.counting	OAI.MatchingFPRAS.RandomMachine.states

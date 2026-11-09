@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	[]
+REFEREE	L1	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	13 constants reached, no stand-in
+REFEREE	L1u	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	no hypotheses
+REFEREE	L3	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	INFO	not a registered target statement
+REFEREE	R1	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	top step is not a project theorem
+REFEREE	R5	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniformKServer.HeadMove.ofNat_ctorIdx	PASS	computed class DEF
+REFEREE	L0	OAI.UniformKServer.Reachable.brecOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.UniformKServer.Reachable.brecOn	PASS	111 constants reached, no stand-in
+REFEREE	L1u	OAI.UniformKServer.Reachable.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniformKServer.Reachable.brecOn	REVIEW	OAI.UniformKServer.RationalMetric n :: carries a project proposition | OAI.UniformKServer.Reachable M c e d s a✝¹ a✝ :: carries a project proposition | ∀ (a : ℕ) (a_1 : OAI.UniformKServer.MachineState M) (t : OAI.UniformKServer.Reachable M c  :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.UniformKServer.Reachable.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniformKServer.Reachable.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniformKServer.Reachable.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniformKServer.Reachable.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.UniformKServer.Reachable.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.UniformKServer.Reachable.brecOn	PASS	no single top step
+REFEREE	R5	OAI.UniformKServer.Reachable.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.UniformKServer.Reachable.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniformKServer.Reachable.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.UniformKServer.uniform_squared_logarithmic_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	213 constants reached, no stand-in
+REFEREE	L1u	OAI.UniformKServer.uniform_squared_logarithmic_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	no hypotheses
+REFEREE	L3	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniformKServer.uniform_squared_logarithmic_main	INFO	not a registered target statement
+REFEREE	R1	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	reaches Nat.mod_lt
+REFEREE	R7	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.UniformKServer.uniform_squared_logarithmic_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniformKServer.uniform_squared_logarithmic_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.UniformKServer	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.UniformKServer	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.UniformKServer	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.UniformKServer	FAIL	no module docstring /-! … -/; 24 public declarations without a docstring (['RationalMetric', 'Configuration', 'History', 'serve'])

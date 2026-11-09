@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.Heisenberg.cubeAverage_order	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Heisenberg.cubeAverage_order	PASS	858 constants reached, no stand-in
+REFEREE	L1u	OAI.Heisenberg.cubeAverage_order	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Heisenberg.cubeAverage_order	REVIEW	Λ.Nonempty :: side condition (project data) | OAI.Heisenberg.State d ℓ :: carries a project proposition | ↑Λ.card * ↑ℓ / 8 ≤ (ω.functional (OAI.Heisenberg.totalZ Λ)).re :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Heisenberg.cubeAverage_order	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Heisenberg.cubeAverage_order	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Heisenberg.cubeAverage_order	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Heisenberg.cubeAverage_order	INFO	not a registered target statement
+REFEREE	R1	OAI.Heisenberg.cubeAverage_order	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Heisenberg.cubeAverage_order	PASS	no single top step
+REFEREE	R5	OAI.Heisenberg.cubeAverage_order	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Heisenberg.cubeAverage_order	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Heisenberg.cubeAverage_order	REVIEW	computed class A?
+REFEREE	L0	OAI.Heisenberg.spontaneous_magnetization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Heisenberg.spontaneous_magnetization	PASS	6799 constants reached, no stand-in
+REFEREE	L1u	OAI.Heisenberg.spontaneous_magnetization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Heisenberg.spontaneous_magnetization	PASS	3 ≤ d :: side condition | 1 ≤ ℓ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Heisenberg.spontaneous_magnetization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Heisenberg.spontaneous_magnetization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Heisenberg.spontaneous_magnetization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Heisenberg.spontaneous_magnetization	INFO	not a registered target statement
+REFEREE	R1	OAI.Heisenberg.spontaneous_magnetization	PASS	reaches Lean.Omega.Constraint.not_sat'_of_isImpossible
+REFEREE	R7	OAI.Heisenberg.spontaneous_magnetization	PASS	no single top step
+REFEREE	R5	OAI.Heisenberg.spontaneous_magnetization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Heisenberg.spontaneous_magnetization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Heisenberg.spontaneous_magnetization	REVIEW	computed class A?
+REFEREE	L0	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	114 constants reached, no stand-in
+REFEREE	L1u	OAI.Heisenberg.complex_nat_inv_mul_re	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	no hypotheses
+REFEREE	L3	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Heisenberg.complex_nat_inv_mul_re	INFO	not a registered target statement
+REFEREE	R1	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	reaches Complex.ofReal_inv
+REFEREE	R7	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	no single top step
+REFEREE	R5	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Heisenberg.complex_nat_inv_mul_re	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Heisenberg.complex_nat_inv_mul_re	REVIEW	computed class A?
+REFEREE	L0	OAI.Heisenberg.ordered_state_exists	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Heisenberg.ordered_state_exists	PASS	6795 constants reached, no stand-in
+REFEREE	L1u	OAI.Heisenberg.ordered_state_exists	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Heisenberg.ordered_state_exists	PASS	2 ≤ d :: side condition | NeZero ℓ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Heisenberg.ordered_state_exists	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Heisenberg.ordered_state_exists	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Heisenberg.ordered_state_exists	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Heisenberg.ordered_state_exists	INFO	not a registered target statement
+REFEREE	R1	OAI.Heisenberg.ordered_state_exists	PASS	reaches instNeZeroNatHAdd_1
+REFEREE	R7	OAI.Heisenberg.ordered_state_exists	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Heisenberg.ordered_state_exists	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Heisenberg.ordered_state_exists	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Heisenberg.ordered_state_exists	REVIEW	computed class A?
+REFEREE	L4	OAI.MathematicalPhysics.Heisenberg.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MathematicalPhysics.Heisenberg.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.MathematicalPhysics.Heisenberg.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MathematicalPhysics.Heisenberg.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['complex_nat_inv_mul_re', 'cubeAverage_order', 'ordered_state_exists', 'spontaneous_magnetization'])

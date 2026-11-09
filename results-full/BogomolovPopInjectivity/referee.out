@@ -1,0 +1,134 @@
+REFEREE	L0	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.purely_inseparable_ringHom_ext	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	IsPurelyInseparable F E :: side condition | ExpChar F q :: side condition | ExpChar T q :: side condition | ∀ (x : F), f ((algebraMap F E) x) = g ((algebraMap F E) x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.purely_inseparable_ringHom_ext	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	reaches RingHom.ext
+REFEREE	R7	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.purely_inseparable_ringHom_ext	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.purely_inseparable_ringHom_ext	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.frobeniusPerfectIsom_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	IsAlgClosed l :: side condition | ExpChar L q :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.frobeniusPerfectIsom_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	reaches SubringClass.toSubsemiringClass
+REFEREE	R7	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.frobeniusPerfectIsom_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.frobeniusPerfectIsom_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	1630 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.pullback_scalar_frobenius	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.pullback_scalar_frobenius	REVIEW	Fact (Nat.Prime ell) :: side condition | IsAlgClosed k :: side condition | IsAlgClosed l :: side condition | Algebra.EssFiniteType k K :: side condition | ↑ell ≠ 0 :: side condition | ∃ x, Transcendental k x :: side condition | OAI.BogomolovPop.PullbackGraph α φ :: carries a project proposition | OAI.BogomolovPop.PullbackGraph β χ :: carries a project proposition | OAI.BogomolovPop.ScalarStep φ χ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.pullback_scalar_frobenius	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	reaches SubringClass.toSubsemiringClass
+REFEREE	R7	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.pullback_scalar_frobenius	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.pullback_scalar_frobenius	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.main_canonical_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.main_canonical_injective	PASS	2096 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.main_canonical_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.main_canonical_injective	PASS	Fact (Nat.Prime ell) :: side condition | IsAlgClosed k :: side condition | IsAlgClosed l :: side condition | Algebra.EssFiniteType k K :: side condition | Algebra.EssFiniteType l L :: side condition | ↑ell ≠ 0 :: side condition | ↑ell ≠ 0 :: side condition | 2 ≤ Algebra.trdeg k K :: side condition | 2 ≤ Algebra.trdeg l L :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.main_canonical_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.main_canonical_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.main_canonical_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.main_canonical_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.main_canonical_injective	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BogomolovPop.main_canonical_injective	PASS	no single top step
+REFEREE	R5	OAI.BogomolovPop.main_canonical_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.main_canonical_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.main_canonical_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	x ^ q ^ n ∈ (algebraMap F E).range :: side condition | n ≤ m :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	reaches map_pow
+REFEREE	R7	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.purely_inseparable_pow_mem_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	194 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.frobenius_orbit_of_iterates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	IsAlgClosed l :: side condition | ExpChar L q :: side condition | ∀ (x : ↥(OAI.BogomolovPop.PerfectFieldClosure K)), ↑α x ^ q ^ n = ↑β x ^ q ^ m :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.frobenius_orbit_of_iterates	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	reaches SubringClass.toSubsemiringClass
+REFEREE	R7	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	no single top step
+REFEREE	R5	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.frobenius_orbit_of_iterates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.frobenius_orbit_of_iterates	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	191 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	IsAlgClosed l :: side condition | ExpChar L q :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	reaches SubringClass.toSubsemiringClass
+REFEREE	R7	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.frobeniusPerfectIsom_eqvGen	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.perfect_scalar_iterates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.perfect_scalar_iterates	PASS	1537 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.perfect_scalar_iterates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.perfect_scalar_iterates	PASS	Fact (Nat.Prime ell) :: side condition | IsAlgClosed k :: side condition | Algebra.EssFiniteType k F :: side condition | ↑ell ≠ 0 :: side condition | ExpChar F q :: side condition | ∀ (x : ↥(OAI.BogomolovPop.PerfectFieldClosure F)), β ↑x = ↑(↑δ x) :: side condition (project data) | ∀ (σ : Gal(AlgebraicClosure F/F)),  ∃ τ,   (∀ (x : AlgebraicClosure F), β (τ x) = σ (β x)) :: side condition (project data) | ∃ x, Transcendental k x :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.perfect_scalar_iterates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.perfect_scalar_iterates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.perfect_scalar_iterates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.perfect_scalar_iterates	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.perfect_scalar_iterates	PASS	reaches SubringClass.toSubsemiringClass
+REFEREE	R7	OAI.BogomolovPop.perfect_scalar_iterates	PASS	no single top step
+REFEREE	R5	OAI.BogomolovPop.perfect_scalar_iterates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.perfect_scalar_iterates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.perfect_scalar_iterates	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.main_graph_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.main_graph_injective	PASS	2100 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.main_graph_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.main_graph_injective	REVIEW	Fact (Nat.Prime ell) :: side condition | IsAlgClosed k :: side condition | IsAlgClosed l :: side condition | Algebra.EssFiniteType k K :: side condition | Algebra.EssFiniteType l L :: side condition | ↑ell ≠ 0 :: side condition | ↑ell ≠ 0 :: side condition | 2 ≤ Algebra.trdeg k K :: side condition | 2 ≤ Algebra.trdeg l L :: side condition | OAI.BogomolovPop.PhiGraph a b :: carries a project proposition | OAI.BogomolovPop.PhiGraph a' b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.main_graph_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.main_graph_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.main_graph_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.main_graph_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.main_graph_injective	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BogomolovPop.main_graph_injective	PASS	top step OAI.BogomolovPop.main_canonical_injective carries content
+REFEREE	R5	OAI.BogomolovPop.main_graph_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.main_graph_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.main_graph_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	147 constants reached, no stand-in
+REFEREE	L1u	OAI.BogomolovPop.uniform_frobenius_clearing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	IsScalarTower k F E :: side condition | Algebra.EssFiniteType k F :: side condition | IsPurelyInseparable F E :: side condition | ExpChar F q :: side condition | ∀ (c : k), ∃ d, σ ((algebraMap k F) c) = (algebraMap k E) d :: side condition || unbuilt=0
+REFEREE	L3	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BogomolovPop.uniform_frobenius_clearing	INFO	not a registered target statement
+REFEREE	R1	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	reaches expChar_of_injective_algebraMap
+REFEREE	R7	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	no single top step
+REFEREE	R5	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BogomolovPop.uniform_frobenius_clearing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BogomolovPop.uniform_frobenius_clearing	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.BogomolovPop.Injectivity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.BogomolovPop.Injectivity	INFO	10 theorems checked
+REFEREE	L5	OAI.Algebra.BogomolovPop.Injectivity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.BogomolovPop.Injectivity	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 10 public declarations without a docstring (['purely_inseparable_pow_mem_mono', 'uniform_frobenius_clearing', 'purely_inseparable_ringHom_ext', 'frobeniusPerfectIsom'])

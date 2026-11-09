@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	3524 constants reached, no stand-in
+REFEREE	L1u	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	REVIEW	Nonempty ι :: side condition | OAI.EntropyRateDimension.System ι :: carries a project proposition | ∀ (i : ι), S.ratio i = lam :: side condition (project data) | MeasureTheory.IsProbabilityMeasure μ :: side condition | S.SelfSimilar μ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	INFO	not a registered target statement
+REFEREE	R1	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EntropyRateDimension.Extensions.homogeneous_exponent_lower_direct	REVIEW	computed class A?
+REFEREE	L0	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	3625 constants reached, no stand-in
+REFEREE	L1u	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	REVIEW	Nonempty ι :: side condition | OAI.EntropyRateDimension.System ι :: carries a project proposition | 0 < lam :: side condition | ∀ (i : ι), S.ratio i = lam :: side condition (project data) | MeasureTheory.IsProbabilityMeasure μ :: side condition | S.SelfSimilar μ :: carries a project proposition | OAI.EntropyRateDimension.Extensions.NoExactOverlaps S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	INFO	not a registered target statement
+REFEREE	R1	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct	REVIEW	computed class A?
+REFEREE	L4	OAI.MeasureTheory.SelfSimilar.HomogeneousDimension	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MeasureTheory.SelfSimilar.HomogeneousDimension	INFO	2 theorems checked
+REFEREE	L5	OAI.MeasureTheory.SelfSimilar.HomogeneousDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MeasureTheory.SelfSimilar.HomogeneousDimension	FAIL	no module docstring /-! … -/

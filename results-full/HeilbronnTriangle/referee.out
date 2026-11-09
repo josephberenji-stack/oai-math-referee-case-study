@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Problem355.almost_n_minus_two_refuted	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem355.almost_n_minus_two_refuted	PASS	5144 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem355.almost_n_minus_two_refuted	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem355.almost_n_minus_two_refuted	PASS	no hypotheses
+REFEREE	L3	OAI.Problem355.almost_n_minus_two_refuted	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem355.almost_n_minus_two_refuted	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem355.almost_n_minus_two_refuted	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem355.almost_n_minus_two_refuted	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem355.almost_n_minus_two_refuted	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem355.almost_n_minus_two_refuted	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem355.almost_n_minus_two_refuted	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem355.almost_n_minus_two_refuted	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem355.almost_n_minus_two_refuted	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem355.heilbronn_power_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem355.heilbronn_power_lower_bound	PASS	5130 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem355.heilbronn_power_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem355.heilbronn_power_lower_bound	PASS	no hypotheses
+REFEREE	L3	OAI.Problem355.heilbronn_power_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem355.heilbronn_power_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem355.heilbronn_power_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem355.heilbronn_power_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem355.heilbronn_power_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem355.heilbronn_power_lower_bound	PASS	no single top step
+REFEREE	R5	OAI.Problem355.heilbronn_power_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem355.heilbronn_power_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem355.heilbronn_power_lower_bound	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.HeilbronnTriangle.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.HeilbronnTriangle.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Geometry.HeilbronnTriangle.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.HeilbronnTriangle.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['heilbronn_power_lower_bound', 'almost_n_minus_two_refuted'])

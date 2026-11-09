@@ -1,0 +1,97 @@
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	70 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	f s = t :: side condition (project data) | Submonoid.powers s ≤ Submonoid.comap f (Submonoid.powers t) :: side condition (project data) | RingHom.IsStandardSmoothOfRelativeDimension r (HomogeneousLocalization.map f hp) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	CONTENT	reaches MonoidWithZeroHomClass.toMonoidHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	635 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	Function.Injective j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	CONTENT	reaches MonoidWithZeroHomClass.toMonoidHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	REVIEW	packaged: the top step is the structural lemma OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away_of_eq; the content is in its arguments
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.away	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	773 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	Function.Injective j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	CONTENT	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	30 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.smooth	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	680 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	Function.Injective j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	CONTENT	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.chart	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	668 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	Function.Injective j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	CONTENT	reaches MvPolynomial.IsHomogeneous.rename_isHomogeneous
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	25 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth.Projection.affine	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	INFO	5 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['away_of_eq', 'away', 'affine', 'chart'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.StandardSmooth	PASS	not under a Mathlib folder
+exit 1

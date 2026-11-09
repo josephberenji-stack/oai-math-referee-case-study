@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Release075.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Release075.main	PASS	3999 constants reached, no stand-in
+REFEREE	L1u	OAI.Release075.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Release075.main	PASS	no hypotheses
+REFEREE	L3	OAI.Release075.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Release075.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Release075.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Release075.main	INFO	not a registered target statement
+REFEREE	R1	OAI.Release075.main	PASS	reaches Nat.exists_infinite_primes
+REFEREE	R7	OAI.Release075.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Release075.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Release075.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Release075.main	REVIEW	computed class A?
+REFEREE	L4	OAI.GroupTheory.Hyperbolic.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GroupTheory.Hyperbolic.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.GroupTheory.Hyperbolic.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GroupTheory.Hyperbolic.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['main'])

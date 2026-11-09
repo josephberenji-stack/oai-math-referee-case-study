@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.CriticalZ3.critical_no_infinite	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CriticalZ3.critical_no_infinite	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.CriticalZ3.critical_no_infinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CriticalZ3.critical_no_infinite	PASS	no hypotheses
+REFEREE	L3	OAI.CriticalZ3.critical_no_infinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CriticalZ3.critical_no_infinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CriticalZ3.critical_no_infinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CriticalZ3.critical_no_infinite	INFO	not a registered target statement
+REFEREE	R1	OAI.CriticalZ3.critical_no_infinite	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.CriticalZ3.critical_no_infinite	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CriticalZ3.critical_no_infinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CriticalZ3.critical_no_infinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CriticalZ3.critical_no_infinite	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CriticalZ3	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CriticalZ3	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CriticalZ3	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CriticalZ3	FAIL	no module docstring /-! … -/; 20 public declarations without a docstring (['Vertex', 'Bond', 'BondConfig', 'SiteConfig'])

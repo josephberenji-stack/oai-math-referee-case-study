@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	13720 constants reached, no stand-in
+REFEREE	L1u	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	REVIEW	OAI.ElementaryPositivity.NaturalUnitIntervalGraph n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	INFO	not a registered target statement
+REFEREE	R1	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	reaches congrFun'
+REFEREE	R7	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	top step OAI.ElementaryPositivity.FiniteSearch.exists_test carries content
+REFEREE	R5	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ElementaryPositivity.FiniteSearch.exists_successful_table	REVIEW	computed class A?
+REFEREE	L0	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	13729 constants reached, no stand-in
+REFEREE	L1u	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	REVIEW	OAI.ElementaryPositivity.NaturalUnitIntervalGraph n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	INFO	not a registered target statement
+REFEREE	R1	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	reaches Encodable.choose_spec
+REFEREE	R7	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ElementaryPositivity.FiniteSearch.selectedTable_test	REVIEW	computed class A?
+REFEREE	L0	OAI.elementaryPositivityExpansion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.elementaryPositivityExpansion	PASS	13762 constants reached, no stand-in
+REFEREE	L1u	OAI.elementaryPositivityExpansion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.elementaryPositivityExpansion	REVIEW	OAI.ElementaryPositivity.NaturalUnitIntervalGraph n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.elementaryPositivityExpansion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.elementaryPositivityExpansion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.elementaryPositivityExpansion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.elementaryPositivityExpansion	INFO	not a registered target statement
+REFEREE	R1	OAI.elementaryPositivityExpansion	PASS	reaches Subtype.property
+REFEREE	R7	OAI.elementaryPositivityExpansion	REVIEW	packaged: the top step is the structural lemma OAI.ElementaryPositivity.NaturalUnitIntervalGraph.PermutationWitness.expansion; the content is in its arguments
+REFEREE	R5	OAI.elementaryPositivityExpansion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.elementaryPositivityExpansion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.elementaryPositivityExpansion	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.Chromatic.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.Chromatic.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Combinatorics.Chromatic.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.Chromatic.Main	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['exists_successful_table', 'selectedTable', 'selectedTable_test', 'elementaryPositivityWitness'])

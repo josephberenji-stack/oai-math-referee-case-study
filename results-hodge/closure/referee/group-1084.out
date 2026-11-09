@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	CategoryTheory.IsIso e :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	reaches CategoryTheory.isIso_comp_left_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport.isIso_pullback_fst_comp_right_iff	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['isIso_pullback_fst_comp_right_iff'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.PullbackIsomorphismTransport	PASS	not under a Mathlib folder
+exit 1

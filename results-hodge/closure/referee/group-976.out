@@ -1,0 +1,865 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	5720 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	FiniteDimensional ℂ E :: side condition | IsManifold (modelWithCornersSelf ℂ E) ⊤ M :: side condition | FiniteDimensional ℂ E' :: side condition | IsManifold (modelWithCornersSelf ℂ E') ⊤ M' :: side condition | FiniteDimensional ℂ F :: side condition | IsManifold (modelWithCornersSelf ℂ F) ⊤ N :: side condition | TopologicalSpace.MetrizableSpace N :: side condition | FiniteDimensional ℂ H :: side condition | IsManifold (modelWithCornersSelf ℂ H) ⊤ N' :: side condition | TopologicalSpace.MetrizableSpace N' :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ F) ⊤ u :: side condition | ∀ (x : M), Function.Injective ⇑(mfderiv% u x) :: side condition | Topology.IsClosedEmbedding u :: side condition | Topology.IsOpenEmbedding g :: side condition | ContMDiff (modelWithCornersSelf ℂ H) (modelWithCornersSelf ℂ F) ⊤ g :: side condition | ∀ (x : N'), Function.Bijective ⇑(mfderiv% g x) :: side condition | ContMDiff (modelWithCornersSelf ℂ E') (modelWithCornersSelf ℂ H) ⊤ v :: side condition | ∀ (x : M'), Function.Injective ⇑(mfderiv% v x) :: side condition | Topology.IsClosedEmbedding v :: side condition | Set.range v = g ⁻¹' Set.range u :: side condition | ∀ (z : E), ‖l z‖ = ‖z‖ :: side condition | OAI.AlgebraicGeometry.CycleClass.Geometric.ComplexNormalAtlas.Cycles.complexImmersionCodim :: side condition (project data) | OAI.AlgebraicGeometry.CycleClass.Geometric.ComplexNormalAtlas.Cycles.complexImmersionCodim :: side condition (project data) | OAI.AlgebraicGeometry.CycleClass.Geometric.ComplexNormalAtlas.Cycles.complexImmersionCodim :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	reaches IsOpen.preimage
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	REVIEW	twins without a proved equivalence: [OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.complexThomClassInDegree_openPullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	Topology.IsOpenEmbedding g :: side condition | Set.range v = g ⁻¹' Set.range u :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	reaches Topology.IsOpenEmbedding.continuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	CONTENT	reaches Topology.IsOpenEmbedding.continuous
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback.BundleCycles.openPullbackThom_mapsTo	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	5630 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	FiniteDimensional ℂ E :: side condition | FiniteDimensional ℂ F :: side condition | FiniteDimensional ℂ G :: side condition | IsManifold (modelWithCornersSelf ℂ E) ⊤ M :: side condition | IsManifold (modelWithCornersSelf ℂ F) ⊤ B :: side condition | TopologicalSpace.MetrizableSpace B :: side condition | IsManifold (modelWithCornersSelf ℂ G) ⊤ N :: side condition | TopologicalSpace.MetrizableSpace N :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ G) ⊤ u :: side condition | ∀ (x : M), Function.Injective ⇑(mfderiv% u x) :: side condition | Topology.IsClosedEmbedding u :: side condition | OAI.AlgebraicGeometry.CycleClass.Geometric.ComplexNormalAtlas.Cycles.complexImmersionCodim :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	reaches continuous_subtype_val
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.CycleClass.Geometric.NormalProductPair.Cycles.normalProductProjection = OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.NormalRestriction.BundleCycles.normalProductProjection, OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_absolute	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	5622 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	FiniteDimensional ℂ E :: side condition | FiniteDimensional ℂ F :: side condition | FiniteDimensional ℂ G :: side condition | IsManifold (modelWithCornersSelf ℂ E) ⊤ M :: side condition | IsManifold (modelWithCornersSelf ℂ F) ⊤ B :: side condition | TopologicalSpace.MetrizableSpace B :: side condition | IsManifold (modelWithCornersSelf ℂ G) ⊤ N :: side condition | TopologicalSpace.MetrizableSpace N :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ G) ⊤ u :: side condition | ∀ (x : M), Function.Injective ⇑(mfderiv% u x) :: side condition | Topology.IsClosedEmbedding u :: side condition | OAI.AlgebraicGeometry.CycleClass.Geometric.ComplexNormalAtlas.Cycles.complexImmersionCodim :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	reaches continuous_subtype_val
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.CycleClass.Geometric.NormalProductPair.Cycles.normalProductProjection = OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.NormalRestriction.BundleCycles.normalProductProjection, OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClassInDegree_projection_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	37 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	IsManifold (modelWithCornersSelf ℂ E) ⊤ M :: side condition | IsManifold (modelWithCornersSelf ℂ F) ⊤ B :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	reaches modelWithCornersSelf_prod
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	CONTENT	reaches modelWithCornersSelf_prod
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	top step OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.productModel_isManifold carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	37 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	IsManifold (modelWithCornersSelf ℂ F) ⊤ B :: side condition | IsManifold (modelWithCornersSelf ℂ G) ⊤ N :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	reaches modelWithCornersSelf_prod
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	CONTENT	reaches modelWithCornersSelf_prod
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	top step OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.productModel_isManifold carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instIsManifoldComplexProdModelWithCornersSelfTopWithTopENat_oAI_1	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	5621 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	FiniteDimensional ℂ E :: side condition | FiniteDimensional ℂ F :: side condition | FiniteDimensional ℂ G :: side condition | IsManifold (modelWithCornersSelf ℂ E) ⊤ M :: side condition | IsManifold (modelWithCornersSelf ℂ F) ⊤ B :: side condition | TopologicalSpace.MetrizableSpace B :: side condition | IsManifold (modelWithCornersSelf ℂ G) ⊤ N :: side condition | TopologicalSpace.MetrizableSpace N :: side condition | ContMDiff (modelWithCornersSelf ℂ E) (modelWithCornersSelf ℂ G) ⊤ u :: side condition | ∀ (x : M), Function.Injective ⇑(mfderiv% u x) :: side condition | Topology.IsClosedEmbedding u :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	reaches Topology.IsInducing.isOpen_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	CONTENT	reaches Topology.IsInducing.isOpen_iff
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.Immersion.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicGeometry.CycleClass.Geometric.NormalProductPair.Cycles.normalProductProjection = OAI.AlgebraicGeometry.Divisors.LineBundles.Projection.NormalRestriction.BundleCycles.normalProductProjection, OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.instChartedSpaceProd_oAI_1 = OAI.AlgebraicGeometry.CycleClass.Thom.Product.Immersion.Constructions.instChartedSpaceProd_oAI_1, OAI.AlgebraicTopology.Cohomology.Singular.OpenSheafComparison.sheafSectionsFunctor = OAI.AlgebraicGeometry.CycleClass.Geometric.SheafClosedSupport.Cohomology.moduleSheafSections, OAI.AlgebraicTopology.Cohomology.Singular.Basic.singularSimplices = OAI.AlgebraicGeometry.CycleClass.Geometric.SubdivisionOperator.Cycles.SingularSimplex]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection.BundleCycles.complexThomClass_projection_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	1286 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | AlgebraicGeometry.IsIntegral U :: side condition | AlgebraicGeometry.IsNoetherian U :: side condition | AlgebraicGeometry.IsOpenImmersion i :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	reaches AlgEquiv.trdeg_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	48 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.openChowRestriction_top_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	552 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	19 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.integralSupport_dimension_le	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	757 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionCycleToChowQ_top_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	735 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	reaches le_antisymm
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow.BundleCycles.dimensionRationalEquivalenceQ_top_eq_bot	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	REVIEW	[opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.3661937727._hygCtx._hyg.2, opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	proof-only: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.3661937727._hygCtx._hyg.2, OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.LocallyOfFiniteType p :: side condition | Finite ι :: side condition | CategoryTheory.CategoryStruct.comp e.hom p = AlgebraicGeometry.AffineSpace ι X ↘ X :: side condition | d < Nat.card ι :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpace_chow_eq_zero_below_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	REVIEW	[opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.3661937727._hygCtx._hyg.2, opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	REVIEW	statement-level: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineLine.IsoChow.3661937727._hygCtx._hyg.2, OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]; proof-only: 0
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.LocallyOfFiniteType p :: side condition | Finite ι :: side condition | CategoryTheory.CategoryStruct.comp e.hom p = AlgebraicGeometry.AffineSpace ι X ↘ X :: side condition | AlgebraicGeometry.GeometricallyIntegral p :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.trivializedAffineSpaceChowEquiv_pointClass	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	CategoryTheory.CategoryStruct.comp e.hom p = AlgebraicGeometry.AffineSpace ι X ↘ X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow.BundleCycles.affineSpaceTrivialization_over_complex	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	[propext]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	29 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	Module.IsTorsionBy R M b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	CONTENT	reaches Subtype.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.equationAnnihilator_submodule	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	316 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	IsNoetherianRing R :: side condition | Module.Finite R M :: side condition | IsFiniteLength R (R ⧸ Ideal.span {a, b}) :: side condition | Module.IsTorsionBy R M b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	reaches ne_top_of_le_ne_top
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.EquationEulerLength.BundleCycles.equationEulerLength_additive carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_additive	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	185 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	IsNoetherianRing R :: side condition | Module.Finite R M :: side condition | IsFiniteLength R (R ⧸ Ideal.span {a, b}) :: side condition | Module.Finite R N :: side condition | Module.IsTorsionBy R M b :: side condition | Module.IsTorsionBy R N b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	reaches LinearEquiv.length_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.EquationEulerEquiv.BundleCycles.equationEulerLength_equiv carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_equiv	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	244 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	IsNoetherianRing R :: side condition | Module.Finite R M :: side condition | IsFiniteLength R (R ⧸ Ideal.span {a, b}) :: side condition | Module.IsTorsionBy R M b :: side condition | Module.length R M ≠ ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	reaches ne_top_of_le_ne_top
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.EquationEulerLength.BundleCycles.equationEulerLength_zero_of_finite carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial.BundleCycles.twoEquationEulerLength_zero_of_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	[propext]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	51 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	IsDomain R :: side condition | a ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	reaches mul_left_cancel₀
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEndomorphism_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	192 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	Function.Injective  ⇑(OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bu :: side condition (project data) | Function.Injective  ⇑(OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bu :: side condition (project data) | Module.length R   ↥(OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bund :: side condition (project data) | Module.length R   (OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bundl :: side condition (project data) | Module.length R   ↥(OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bund :: side condition (project data) | Module.length R   (OAI.AlgebraicGeometry.Divisors.LineBundles.MultiplicationSequence.Bundl :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	reaches LinearEquiv.length_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationEulerLength_comm	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	reaches Submodule.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	CONTENT	reaches Submodule.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry.BundleCycles.equationQuotient_range	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	111 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	p.IsPrime :: side condition | IsLocalization.AtPrime A p :: side condition | IsDomain A :: side condition | IsDiscreteValuationRing A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	reaches Ideal.map_le_iff_le_comap
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.prime_not_le_local_maximal_square	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	152 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	p.IsPrime :: side condition | IsLocalization.AtPrime A p :: side condition | IsDomain A :: side condition | IsDiscreteValuationRing A :: side condition | Finite ι :: side condition | ∀ (i : ι), (P i).IsPrime :: side condition | ∀ (i : ι), ¬p ≤ P i :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	reaches Ideal.subset_union_prime
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance.BundleCycles.exists_uniformizer_avoiding_primes	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	IsDomain R :: side condition | ValuationRing R :: side condition | IsDomain A :: side condition | IsScalarTower R A K :: side condition | IsFractionRing R K :: side condition | IsFractionRing A K :: side condition | IsLocalHom (algebraMap R A) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	reaches IsFractionRing.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	CONTENT	reaches IsFractionRing.injective
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal.BundleCycles.ValuationBirational.algebraMap_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	AlgebraicGeometry.IsIntegral X :: side condition | x ∈ p.domain :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	reaches AlgebraicGeometry.Scheme.PartialMap.fromFunctionField._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.partialMap_generic_from_stalk	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	69 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	AlgebraicGeometry.IsIntegral X :: side condition | Y.IsSeparated :: side condition | r.domain = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	reaches dense_univ
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	CONTENT	reaches AlgebraicGeometry.isReduced_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.rationalMap_exists_hom_of_domain_top	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	223 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	AlgebraicGeometry.IsIntegral X :: side condition | Y.IsSeparated :: side condition | S.IsSeparated :: side condition | AlgebraicGeometry.IsProper sY :: side condition | CategoryTheory.CategoryStruct.comp φ sY =  CategoryTheory.CategoryStruct.comp   (OAI.Algeb :: side condition (project data) | ∀ (x : ↥X), ValuationRing ↑(X.presheaf.stalk x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	reaches AlgebraicGeometry.IsProper.eq_valuativeCriterion
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf.BundleCycles.ValuationExtension.exists_extension	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	536 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain A :: side condition | IsFractionRing A ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) | ∀ (a : ↥(AlgebraicGeometry.Spec ↧A)), ValuationRing ↑(X.presheaf.stalk (i a)) :: side condition | IsNoetherianRing A :: side condition | AlgebraicGeometry.IsLocallyNoetherian X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.ord	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	471 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain A :: side condition | IsFractionRing A ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) | ∀ (a : ↥(AlgebraicGeometry.Spec ↧A)), ValuationRing ↑(X.presheaf.stalk (i a)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	438 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain A :: side condition | IsFractionRing A ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) | ∀ (a : ↥(AlgebraicGeometry.Spec ↧A)), ValuationRing ↑(X.presheaf.stalk (i a)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd.BundleCycles.ValuationModel.residueDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	292 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain R :: side condition | IsFractionRing R ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	420 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain R :: side condition | IsFractionRing R ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) | ValuationRing ↑(X.presheaf.stalk (i r)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.lift_stalkMap_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	291 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain R :: side condition | IsFractionRing R ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_square	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	296 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain R :: side condition | IsFractionRing R ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs.BundleCycles.ValuativeCenterFields.liftFieldMap_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsProper f :: side condition | IsDomain R :: side condition | ValuationRing R :: side condition | IsFractionRing R ↑X.functionField :: side condition | (algebraMap R ↑X.functionField).comp (algebraMap k R) =  OAI.AlgebraicGeometry.Foundations :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	reaches AlgebraicGeometry.IsProper.eq_valuativeCriterion
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.exists_generic_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	AlgebraicGeometry.IsIntegral X :: side condition | IsDomain R :: side condition | IsFractionRing R ↑X.functionField :: side condition | CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Spec.map (CommRingCat.ofHom (algebra :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	reaches AlgebraicGeometry.genericPoint_eq_bot_of_affine
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.lift_genericPoint	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	129 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	AlgebraicGeometry.IsIntegral X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	reaches AlgebraicGeometry.exists_isAffineOpen_mem_and_subset
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint.BundleCycles.ValuativeCenter.genericMap_scalar	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	382 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	Module.IsTorsionBy R M b :: side condition | P.IsPrime :: side condition | P ∈ (Ideal.span {b}).minimalPrimes :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	reaches eq_of_heq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	406 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	IsNoetherianRing R :: side condition | Module.Finite R M :: side condition | IsFiniteLength R (R ⧸ Ideal.span {a, b}) :: side condition | Module.IsTorsionBy R M b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	reaches eq_of_heq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	16 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	312 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	reaches AddMonoidAlgebra.coeff_mul_apply_left
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	CONTENT	reaches Subtype.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.GenericFiber.BundleCycles.polynomialToDeformation_X carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformationEquiv_X	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	224 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	n < 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	reaches AddMonoidAlgebra.coeff_mul_apply_left
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.zeroDeformation_coefficient_negative	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	294 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	reaches AddMonoidAlgebra.coeff_mul_apply_left
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation.BundleCycles.polynomialToZeroDeformation_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	861 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	Nat.card ι = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	reaches Fintype.card_eq_zero_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	CONTENT	reaches Fintype.card_eq_zero_iff
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective.BundleCycles.symmetricAugmentedProjective_isIso_of_basis_card_zero	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['openPullbackThom_mapsTo', 'complexThomClassInDegree_openPullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomOpenPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['complexThomClass_projection_pullback', 'complexThomClassInDegree_projection_pullback', 'complexThomClassInDegree_projection_absolute'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	REVIEW	instance changes at lines 28, 30, 31, 32, 33, 34
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ThomProjection	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['integralSupport_dimension_le', 'dimensionRationalEquivalenceQ_top_eq_bot', 'dimensionCycleToChowQ_top_injective', 'openChowRestriction_top_injective'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.TopDimensionChow	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['affineSpaceTrivialization_over_complex', 'trivializedAffineSpaceChowEquiv', 'trivializedAffineSpaceChowEquiv_pointClass', 'trivializedAffineSpace_chow_eq_zero_below_rank'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.TrivializedAffineSpaceChow	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['equationAnnihilator_submodule', 'twoEquationEulerLength_additive', 'twoEquationEulerLength_equiv', 'twoEquationEulerLength_zero_of_finite'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationEulerFunctorial	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['equationQuotient_range', 'twoEquationCokernelEquiv', 'equationEndomorphism_injective'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.TwoEquationSymmetry	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['prime_not_le_local_maximal_square', 'exists_uniformizer_avoiding_primes'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.UniformizerPrimeAvoidance	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['algebraMap_bijective', 'birationalLocalEquiv'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationBirationalLocal	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['partialMap_generic_from_stalk', 'rationalMap_exists_hom_of_domain_top', 'exists_extension'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationExtensionOf	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['residueDegree', 'injective', 'ord'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuationModelOrd	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['liftFieldMap_square', 'liftFieldMap_isIso', 'liftFieldMap_apply', 'lift_stalkMap_isIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterIs	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['genericMap_scalar', 'exists_generic_lift', 'lift_genericPoint'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ValuativeCenterPoint	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['WholeFiltration.BundleCycles.quotientBottomEquiv', 'PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_localized_length_eq_count', 'PrimeFiltration.BundleCycles.PrimeFiltrationAbove.whole_eulerSum_eq'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.WholeFiltration	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['zeroDeformation_coefficient_negative', 'polynomialToZeroDeformation_bijective', 'zeroDeformationEquiv', 'zeroDeformationEquiv_X'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroIdealDeformation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['symmetricAugmentedProjective_isIso_of_basis_card_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.ZeroModuleProjective	PASS	not under a Mathlib folder
+exit 1

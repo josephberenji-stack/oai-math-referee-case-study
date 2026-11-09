@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.MetricKMedian.exists_binary_program	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.exists_binary_program	PASS	11100 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.exists_binary_program	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.exists_binary_program	PASS	0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricKMedian.exists_binary_program	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.exists_binary_program	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.exists_binary_program	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.exists_binary_program	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.exists_binary_program	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedian.exists_binary_program	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.exists_binary_program	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.exists_binary_program	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.exists_binary_program	REVIEW	computed class A?
+REFEREE	L0	OAI.MetricKMedian.main_finite_work	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.main_finite_work	PASS	11115 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.main_finite_work	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.main_finite_work	PASS	0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricKMedian.main_finite_work	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.main_finite_work	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.main_finite_work	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.main_finite_work	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.main_finite_work	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedian.main_finite_work	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.main_finite_work	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.main_finite_work	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.main_finite_work	REVIEW	computed class A?
+REFEREE	L0	OAI.MetricKMedian.exists_internal_program	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.exists_internal_program	PASS	11004 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.exists_internal_program	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.exists_internal_program	PASS	0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricKMedian.exists_internal_program	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.exists_internal_program	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.exists_internal_program	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.exists_internal_program	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.exists_internal_program	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.MetricKMedian.exists_internal_program	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.exists_internal_program	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.exists_internal_program	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.exists_internal_program	REVIEW	computed class A?
+REFEREE	L0	OAI.MetricKMedian.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.main	PASS	11116 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.main	PASS	0 < epsilon :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricKMedian.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.main	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.main	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedian.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.KMedian.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.KMedian.Main	INFO	4 theorems checked
+REFEREE	L5	OAI.Combinatorics.KMedian.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.KMedian.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['exists_internal_program', 'exists_binary_program', 'main_finite_work', 'main'])

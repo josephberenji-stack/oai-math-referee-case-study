@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SubpolynomialLp.source_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SubpolynomialLp.source_main	PASS	3310 constants reached, no stand-in
+REFEREE	L1u	OAI.SubpolynomialLp.source_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SubpolynomialLp.source_main	PASS	1 < p :: side condition | p ≠ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.SubpolynomialLp.source_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SubpolynomialLp.source_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SubpolynomialLp.source_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SubpolynomialLp.source_main	INFO	not a registered target statement
+REFEREE	R1	OAI.SubpolynomialLp.source_main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SubpolynomialLp.source_main	PASS	no single top step
+REFEREE	R5	OAI.SubpolynomialLp.source_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SubpolynomialLp.source_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SubpolynomialLp.source_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.LpDimension.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.LpDimension.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.LpDimension.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.LpDimension.Main	FAIL	no module docstring /-! … -/

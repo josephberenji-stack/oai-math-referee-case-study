@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	17 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.RAM.Ty.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.RAM.Ty.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.RAM.Ty.brecOn.eq	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.RAM.Ty.brecOn.eq	PASS	computed class DEF
+REFEREE	L0	OAI.PowerSaving.convolution_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PowerSaving.convolution_main	PASS	240 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.convolution_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.convolution_main	PASS	no hypotheses
+REFEREE	L3	OAI.PowerSaving.convolution_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.convolution_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.convolution_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.convolution_main	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.convolution_main	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PowerSaving.convolution_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.convolution_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.convolution_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.convolution_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.RAM.Code.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.RAM.Code.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.RAM.Code.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.RAM.Code.brecOn.eq	REVIEW	computed class A?
+REFEREE	L0	OAI.PowerSaving.transform_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PowerSaving.transform_main	PASS	242 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.transform_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.transform_main	PASS	no hypotheses
+REFEREE	L3	OAI.PowerSaving.transform_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.transform_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.transform_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.transform_main	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.transform_main	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.PowerSaving.transform_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.transform_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.transform_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.transform_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PowerSaving.Tape.look_of_le	PASS	[propext]
+REFEREE	L1	OAI.PowerSaving.Tape.look_of_le	PASS	25 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.Tape.look_of_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.Tape.look_of_le	PASS	v.len ≤ i :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PowerSaving.Tape.look_of_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.Tape.look_of_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.Tape.look_of_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.Tape.look_of_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.Tape.look_of_le	PASS	reaches congrFun'
+REFEREE	R7	OAI.PowerSaving.Tape.look_of_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.Tape.look_of_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.Tape.look_of_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.Tape.look_of_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PowerSaving.Tape.look_of_lt	PASS	[propext]
+REFEREE	L1	OAI.PowerSaving.Tape.look_of_lt	PASS	21 constants reached, no stand-in
+REFEREE	L1u	OAI.PowerSaving.Tape.look_of_lt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PowerSaving.Tape.look_of_lt	PASS	i < v.len :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PowerSaving.Tape.look_of_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PowerSaving.Tape.look_of_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PowerSaving.Tape.look_of_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PowerSaving.Tape.look_of_lt	INFO	not a registered target statement
+REFEREE	R1	OAI.PowerSaving.Tape.look_of_lt	PASS	reaches congrFun'
+REFEREE	R7	OAI.PowerSaving.Tape.look_of_lt	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PowerSaving.Tape.look_of_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PowerSaving.Tape.look_of_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PowerSaving.Tape.look_of_lt	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.UniformFourier	PASS	all 1 header names resolve
+REFEREE	MODULE	ComparatorChallenges.UniformFourier	INFO	6 theorems checked
+REFEREE	L5	ComparatorChallenges.UniformFourier	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.UniformFourier	FAIL	module docstring has no `## Main results`; 45 public declarations without a docstring (['zeta', 'empty', 'look_of_lt', 'look_of_le'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LargeIndependentSets.mainTheoremReal	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LargeIndependentSets.mainTheoremReal	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.LargeIndependentSets.mainTheoremReal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LargeIndependentSets.mainTheoremReal	PASS	0 < δ :: side condition | δ < 1 / 3 :: side condition || unbuilt=0
+REFEREE	L3	OAI.LargeIndependentSets.mainTheoremReal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.mainTheoremReal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.mainTheoremReal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.mainTheoremReal	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.mainTheoremReal	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LargeIndependentSets.mainTheoremReal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LargeIndependentSets.mainTheoremReal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.mainTheoremReal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.mainTheoremReal	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.IndependentSets	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.IndependentSets	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.IndependentSets	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.IndependentSets	FAIL	no module docstring /-! … -/; 10 public declarations without a docstring (['Literal', 'Formula', 'Formula.Satisfiable', 'nameBits'])

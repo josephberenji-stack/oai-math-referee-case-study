@@ -1,0 +1,781 @@
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	113 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	Submodule.span ℝ {x | x ∈ Λ ∧ ‖x‖ ≤ R} = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	reaches LinearMap.range_eq_top
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	CONTENT	reaches Submodule.instHasOrthogonalProjectionOrthogonal
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.projection_short_vectors_span	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	521 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	↑v ≠ 0 :: side condition | ∀ x ∈ Λ, x ≠ 0 → ‖↑v‖ ≤ ‖x‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	reaches ContinuousLinearMap.map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.exists_reduced_basis_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	reaches ContinuousLinearMap.map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.latticeProjection_coe	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	710 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	FiniteDimensional ℝ E :: side condition | DiscreteTopology ↥Λ :: side condition | Module.finrank ℝ E = n :: side condition | 0 ≤ R :: side condition | Submodule.span ℝ {x | x ∈ Λ ∧ ‖x‖ ≤ R} = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	reaches Module.finrank_zero_iff
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	CONTENT	reaches Module.finrank_zero_iff
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.bounded_spanning_lattice_basis	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	356 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	↑v ≠ 0 :: side condition | ∀ x ∈ Λ, x ≠ 0 → ‖↑v‖ ≤ ‖x‖ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	reaches Submodule.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	CONTENT	reaches Submodule.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis.Construction.shortest_projection_kernel	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	52 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	reaches Submodule.subset_span
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	CONTENT	reaches Submodule.subset_span
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	top step OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.self_mem_cyclicWordSpan	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	57 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	reaches Submodule.span_mono
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	CONTENT	reaches Submodule.span_mono
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	219 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	FiniteDimensional k V :: side condition | y ∈ OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordS :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	reaches Submodule.span_induction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	CONTENT	reaches Submodule.span_induction
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_invariant	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	123 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	y ∈ OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordS :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	reaches Submodule.span_induction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	CONTENT	reaches Submodule.span_induction
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operator_mem_cyclicWordSpan_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	218 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	FiniteDimensional k V :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	reaches le_antisymm
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	CONTENT	reaches le_antisymm
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan_finrank_eq_span_words	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	127 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.cyclicWordSpan  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	reaches Submodule.subset_span
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	CONTENT	reaches Submodule.subset_span
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_of_cyclicWordSpan_stable	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	210 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	FiniteDimensional k V :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	CONTENT	reaches Decidable.byContradiction
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan_finrank	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	50 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	w.length ≤ r :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	reaches Submodule.subset_span
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	CONTENT	reaches Submodule.subset_span
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.operatorWord_mem_cyclicWordSpan	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	FiniteDimensional k V :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	CONTENT	reaches Decidable.byContradiction
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords.Construction.exists_cyclicWordSpan_stable	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	150 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	reaches Finset.induction_on
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_monomial	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	98 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	reaches Finset.induction_on
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	reaches Finset.induction_on
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.scalarWeightDerivation_X	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	reaches MvPolynomial.derivation_ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	CONTENT	reaches MvPolynomial.derivation_ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.rightInfinitesimal_diagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	383 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	reaches Polynomial.separable_prod_X_sub_C_iff'
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	CONTENT	reaches Polynomial.separable_prod_X_sub_C_iff'
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	top step OAI.NumberTheory.ArithmeticGroups.Lattices.EigenbasisSemisimple.Construction.isSemisimple_of_finite_eigenbasis carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction.Construction.boundedInfinitesimal_diagonal_isSemisimple	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	405 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	reaches LinearMap.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	CONTENT	reaches LinearMap.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_unit_intertwining	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	276 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	reaches MvPolynomial.derivation_ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	CONTENT	reaches MvPolynomial.derivation_ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightInfinitesimal_unit_conjugation	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	154 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	reaches MvPolynomial.algHom_ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	CONTENT	reaches MvPolynomial.algHom_ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.rightTranslate_unit_inverse_left	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	550 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	reaches MvPolynomial.as_sum
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction.Construction.boundedInfinitesimal_conjugated_diagonal_isSemisimple	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	260 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	reaches LinearMap.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	CONTENT	reaches LinearMap.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_add	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	318 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	Commute A B :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	reaches LinearMap.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	CONTENT	reaches LinearMap.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_commute	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	367 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	REVIEW	OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup k n :: carries a project proposition | A ∈ OAI.NumberTheory.ArithmeticGroups.Lattices.Infinitesimal.Action.Construction.infinites :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	reaches MvPolynomial.derivation_ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	CONTENT	reaches AddMonoidAlgebra.smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations.Construction.boundedInfinitesimal_preserves_ideal	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	215 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	reaches Module.Finite.finite_basis
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	CONTENT	reaches Module.Finite.finite_basis
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_repr_coefficient_map	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	142 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	reaches Module.Finite.finite_basis
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	CONTENT	reaches Module.Finite.finite_basis
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_coefficient_map	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	43 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	reaches Module.Finite.finite_basis
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	CONTENT	reaches Module.Finite.finite_basis
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialsFinite	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	74 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	reaches Finsupp.supportedEquivFinsupp_symm_single
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasisRaw_val	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	100 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	reaches Module.Finite.finite_basis
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	CONTENT	reaches Module.Finite.finite_basis
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis.Construction.boundedMonomialBasis_val	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	199 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	reaches MvPolynomial.as_sum
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_pow_coe	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	Module.Finite k V :: side condition | ∀ (x : V), ∃ r, (f ^ r) x = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	reaches Module.Basis.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	CONTENT	reaches Module.free_of_finite_type_torsion_free'
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	427 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	IsNilpotent A :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	reaches Module.Basis.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	CONTENT	reaches Module.free_of_finite_type_torsion_free'
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	top step OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.finiteDimensional_nilpotent_of_locally_nilpotent carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction.Construction.boundedInfinitesimal_isNilpotent	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	436 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	REVIEW	OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup k n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.exists_finite_dimensional_stabilizer	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	REVIEW	OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup k n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.mem_boundedIdealSubspace	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	353 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	REVIEW	OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup k n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	reaches MvPolynomial.mem_restrictTotalDegree
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	CONTENT	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_stabilizer_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	151 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	REVIEW	OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup k n :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation.Construction.boundedIdealSubspace_map_subtype	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	748 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	REVIEW	FiniteDimensional ℝ L :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightDat :: carries a project proposition | Antitone fun i => (d.weight i) d.regularElement :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	reaches ContinuousLinearEquiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	CONTENT	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	247 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	reaches Matrix.BlockTriangular.mul
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	CONTENT	reaches Matrix.BlockTriangular.mul
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet.Construction.boundedUpperUnipotentSet_isCompact	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	INFO	9 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['latticeProjection', 'latticeProjection_coe', 'shortest_projection_kernel', 'exists_reduced_basis_lift'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedBasis	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	FAIL	module docstring has no `## Main results`; 11 public declarations without a docstring (['operatorWord', 'cyclicWordSpan', 'operatorWord_mem_cyclicWordSpan', 'self_mem_cyclicWordSpan'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedCyclicWords	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['scalarWeightDerivation', 'scalarWeightDerivation_apply', 'scalarWeightDerivation_X', 'rightInfinitesimal_diagonal'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedDiagonalAction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['rightTranslate_unit_inverse_left', 'rightTranslateUnitEquiv', 'boundedPolynomialUnitEquiv', 'rightInfinitesimal_unit_conjugation'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedGeneralLinearAction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['boundedInfinitesimal_add', 'boundedInfinitesimal_commute', 'boundedInfinitesimal_preserves_ideal'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedInfinitesimalRelations	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['BoundedMonomials', 'boundedMonomialCount', 'boundedMonomialBasisRaw', 'boundedMonomialBasisRaw_val'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedMonomialBasis	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['finiteDimensional_nilpotent_of_locally_nilpotent', 'boundedInfinitesimal_pow_coe', 'boundedInfinitesimal_isNilpotent'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedNilpotentAction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['BoundedPolynomials', 'boundedPolynomialEquiv', 'boundedPolynomialRepresentation', 'boundedIdealSubspace'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedRepresentation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet', 'KillingSplit.Construction.KillingSplitWeightData.boundedUnipotentSet_isCompact'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUnipotentCoordinates	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['boundedUpperUnipotentSet', 'boundedUpperUnipotentSet_isCompact'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.BoundedUpperUnipotentSet	PASS	not under a Mathlib folder
+exit 1

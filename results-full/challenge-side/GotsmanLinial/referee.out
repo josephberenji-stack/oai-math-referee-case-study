@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	96 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no hypotheses
+REFEREE	L3	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.GotsmanLinial	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.GotsmanLinial	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.GotsmanLinial	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.GotsmanLinial	FAIL	no module docstring /-! … -/; 11 public declarations without a docstring (['Cube', 'cubeCoord', 'flip', 'thresholdSign'])

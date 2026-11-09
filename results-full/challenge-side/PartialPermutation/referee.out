@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PartialPermutation.complementaryCosets_finite	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PartialPermutation.complementaryCosets_finite	PASS	369 constants reached, no stand-in
+REFEREE	L1u	OAI.PartialPermutation.complementaryCosets_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PartialPermutation.complementaryCosets_finite	PASS	no hypotheses
+REFEREE	L3	OAI.PartialPermutation.complementaryCosets_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PartialPermutation.complementaryCosets_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PartialPermutation.complementaryCosets_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PartialPermutation.complementaryCosets_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.PartialPermutation.complementaryCosets_finite	PASS	reaches congrFun'
+REFEREE	R7	OAI.PartialPermutation.complementaryCosets_finite	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PartialPermutation.complementaryCosets_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PartialPermutation.complementaryCosets_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PartialPermutation.complementaryCosets_finite	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PartialPermutation.components_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PartialPermutation.components_finite	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.PartialPermutation.components_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PartialPermutation.components_finite	PASS	FiniteDimensional ℂ V :: side condition || unbuilt=0
+REFEREE	L3	OAI.PartialPermutation.components_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PartialPermutation.components_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PartialPermutation.components_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PartialPermutation.components_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.PartialPermutation.components_finite	PASS	reaches isNoetherian_of_tower
+REFEREE	R7	OAI.PartialPermutation.components_finite	PASS	no single top step
+REFEREE	R5	OAI.PartialPermutation.components_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PartialPermutation.components_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PartialPermutation.components_finite	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.PartialPermutation	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PartialPermutation	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.PartialPermutation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PartialPermutation	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['IsUnitary', 'hsNormSq', 'complexFourier', 'componentSimple'])

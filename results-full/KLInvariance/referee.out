@@ -1,0 +1,264 @@
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	3082 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.actual_target_freeness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.actual_target_freeness	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | ∀ (y : OAI.KLInvariance.Interval cs a b),  ↑y ≠ a → OAI.KLInvariance.BruhatGraph.FreeSuffi :: carries a project proposition | e :: q <:+ OAI.KLInvariance.BruhatGraph.chronologicalSchedule φ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.actual_target_freeness	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	top step OAI.KLInvariance.BruhatGraph.target_free_of_upper_suffixes carries content
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.actual_target_freeness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.actual_target_freeness	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	1182 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.FiniteIntervalModel.bruhat	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.FiniteIntervalModel.bruhat	REVIEW	OAI.KLInvariance.FiniteIntervalModel cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.FiniteIntervalModel.bruhat	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	reaches Matrix.IsSymm.submatrix
+REFEREE	R7	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.FiniteIntervalModel.bruhat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.FiniteIntervalModel.bruhat	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	8731 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	t ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.scaledKL_eq_transported	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	5460 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.comparison_of_source02	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.comparison_of_source02	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatGraph.SectionDuality cs 1 b basis ⋯ (OAI.KLInvariance.BruhatGraph.b :: carries a project proposition | ∀ (i j : ℤ) (m n : ↑((OAI.KLInvariance.BruhatGraph.boundarySheaf cs 1 b basis ⋯).sheaf.sec :: carries a project proposition | OAI.KLInvariance.BruhatGraph.StalkCharacterObligation cs 1 b basis ⋯ :: carries a project proposition | ∀ (e : OAI.KLInvariance.BruhatGraph.Edge cs u b) (q : List (OAI.KLInvariance.BruhatGraph.E :: carries a project proposition | 0 < t :: side condition | t < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.comparison_of_source02	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.comparison_of_source02	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.comparison_of_source02	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	REVIEW	OAI.KLInvariance.BruhatLE cs x b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	reaches Relation.ReflTransGen.head_induction_on
+REFEREE	R7	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.scaledKL_eq_scaledPolynomial	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	8720 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' a' b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.rTilde_invariance_and_freeness	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	1729 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.FiniteIntervalModel.kl_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.FiniteIntervalModel.kl_eq	REVIEW	OAI.KLInvariance.FiniteIntervalModel cs u b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.FiniteIntervalModel.kl_eq	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	reaches instNonemptyProd
+REFEREE	R7	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.FiniteIntervalModel.kl_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.FiniteIntervalModel.kl_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	8721 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	no hypotheses
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.rTilde_invariance_all_entries	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.exists_finiteIntervalModel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.exists_finiteIntervalModel	PASS	494 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.exists_finiteIntervalModel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.exists_finiteIntervalModel	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.exists_finiteIntervalModel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.exists_finiteIntervalModel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.exists_finiteIntervalModel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.exists_finiteIntervalModel	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.exists_finiteIntervalModel	PASS	reaches CoxeterSystem.exists_isReduced
+REFEREE	R7	OAI.KLInvariance.exists_finiteIntervalModel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.exists_finiteIntervalModel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.exists_finiteIntervalModel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.exists_finiteIntervalModel	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	134 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.rankDifference_subinterval_lt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.rankDifference_subinterval_lt	REVIEW	x ≤ z :: side condition (project data) | ↑x ≠ a ∨ ↑z ≠ b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.rankDifference_subinterval_lt	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.rankDifference_subinterval_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.rankDifference_subinterval_lt	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	8762 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' a' b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.klPolynomial_invariance_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	3495 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.comparison_difference_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.comparison_difference_le	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition | ∀ (y : OAI.KLInvariance.Interval cs u b),  y ≠ x → OAI.KLInvariance.klPolynomial cs (↑y) b :: carries a project proposition | t ≠ 0 :: side condition | OAI.KLInvariance.scaledKL cs t (↑x) b ≤  OAI.KLInvariance.SchedulePaths.dispatch (OAI.KLIn :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.comparison_difference_le	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.comparison_difference_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.comparison_difference_le	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.rTilde_transport_all	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.rTilde_transport_all	PASS	766 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.rTilde_transport_all	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.rTilde_transport_all	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' a' b' :: carries a project proposition | OAI.KLInvariance.Hecke.rTilde cs a b = OAI.KLInvariance.Hecke.rTilde cs' a' b' :: side condition (project data) | ∀ (x z : OAI.KLInvariance.Interval cs a b),  x ≤ z →   OAI.KLInvariance.rankDifference cs  :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.rTilde_transport_all	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.rTilde_transport_all	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.rTilde_transport_all	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.rTilde_transport_all	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.rTilde_transport_all	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.rTilde_transport_all	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.rTilde_transport_all	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.rTilde_transport_all	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.rTilde_transport_all	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	8719 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' a' b' :: carries a project proposition | OAI.KLInvariance.rankDifference cs a b = n :: side condition (project data) | ∀ (c d : W) (c' d' : W') (hcd : OAI.KLInvariance.BruhatLE cs c d) (hcd' : OAI.KLInvariance :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.rTilde_freeness_of_below	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	3529 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition | u ≠ b :: side condition | ∀ (y : OAI.KLInvariance.Interval cs u b),  ↑y ≠ u → OAI.KLInvariance.klPolynomial cs (↑y)  :: carries a project proposition | ∀ (t : ℝ),  0 < t →   t < 1 →    OAI.KLInvariance.scaledKL cs t u b ≤     OAI.KLInvariance :: carries a project proposition | ∀ (t : ℝ),  0 < t →   t < 1 →    OAI.KLInvariance.scaledKL cs' t u' b' ≤     OAI.KLInvaria :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.bottom_eq_of_comparisons	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	8625 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	REVIEW	OAI.KLInvariance.BruhatLE cs a b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' a' b' :: carries a project proposition | ∀ (z : OAI.KLInvariance.Interval cs a b),  ↑z ≠ b → OAI.KLInvariance.Hecke.rTilde cs a ↑z  :: carries a project proposition | ∀ (z : OAI.KLInvariance.Interval cs' a' b'),  ↑z ≠ b' → OAI.KLInvariance.Hecke.rTilde cs'  :: carries a project proposition | ∀ (y : OAI.KLInvariance.Interval cs a b),  ↑y ≠ a → OAI.KLInvariance.BruhatGraph.FreeSuffi :: carries a project proposition | ∀ (y : OAI.KLInvariance.Interval cs' a' b'),  ↑y ≠ a' → OAI.KLInvariance.BruhatGraph.FreeS :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	top step OAI.KLInvariance.Comparison.polynomial_eq_of_transfer_eval_eq carries content
+REFEREE	R5	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.BruhatGraph.rTilde_eq_of_smaller_data	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	1139 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.FiniteIntervalModel.rank_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.FiniteIntervalModel.rank_eq	REVIEW	OAI.KLInvariance.FiniteIntervalModel cs u b :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.FiniteIntervalModel.rank_eq	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	reaches Matrix.IsSymm.submatrix
+REFEREE	R7	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.FiniteIntervalModel.rank_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.FiniteIntervalModel.rank_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.combinatorial_invariance	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.combinatorial_invariance	PASS	8782 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.combinatorial_invariance	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.combinatorial_invariance	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.combinatorial_invariance	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.combinatorial_invariance	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.combinatorial_invariance	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.combinatorial_invariance	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.combinatorial_invariance	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.combinatorial_invariance	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.combinatorial_invariance	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.combinatorial_invariance	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.combinatorial_invariance	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	567 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.intervalIso_upper_rankDifference	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.intervalIso_upper_rankDifference	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.intervalIso_upper_rankDifference	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	no single top step
+REFEREE	R5	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.intervalIso_upper_rankDifference	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.intervalIso_upper_rankDifference	REVIEW	computed class A?
+REFEREE	L0	OAI.KLInvariance.scaledKL_transport	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KLInvariance.scaledKL_transport	PASS	605 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.scaledKL_transport	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.scaledKL_transport	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition | OAI.KLInvariance.klPolynomial cs (↑x) b = OAI.KLInvariance.klPolynomial cs' (↑(φ x)) b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.scaledKL_transport	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.scaledKL_transport	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.scaledKL_transport	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.scaledKL_transport	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.scaledKL_transport	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.scaledKL_transport	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.scaledKL_transport	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.scaledKL_transport	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.scaledKL_transport	REVIEW	computed class A?
+REFEREE	L4	OAI.RepresentationTheory.KazhdanLusztig.Invariance	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RepresentationTheory.KazhdanLusztig.Invariance	INFO	20 theorems checked
+REFEREE	L5	OAI.RepresentationTheory.KazhdanLusztig.Invariance	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.KazhdanLusztig.Invariance	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['FiniteIntervalModel', 'intervalEndpointCongr'])

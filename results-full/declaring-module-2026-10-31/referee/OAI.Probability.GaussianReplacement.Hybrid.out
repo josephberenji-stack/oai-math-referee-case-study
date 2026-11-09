@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.CurrentProjection.hybridBlockMain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.hybridBlockMain	PASS	3665 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.hybridBlockMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.hybridBlockMain	PASS	no hypotheses
+REFEREE	L3	OAI.CurrentProjection.hybridBlockMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.hybridBlockMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.hybridBlockMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.hybridBlockMain	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.hybridBlockMain	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CurrentProjection.hybridBlockMain	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.hybridBlockMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.hybridBlockMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.hybridBlockMain	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.hybrid_block_numeric	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.hybrid_block_numeric	PASS	372 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.hybrid_block_numeric	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.hybrid_block_numeric	PASS	256 ≤ d :: side condition | m ≤ d / 8 :: side condition | 0 ≤ B :: side condition | B ≤ ↑d ^ 2 :: side condition | 0 ≤ C :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.hybrid_block_numeric	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.hybrid_block_numeric	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.hybrid_block_numeric	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.hybrid_block_numeric	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.hybrid_block_numeric	PASS	reaches congrFun'
+REFEREE	R7	OAI.CurrentProjection.hybrid_block_numeric	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.hybrid_block_numeric	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.hybrid_block_numeric	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.hybrid_block_numeric	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.shannonEntropy_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.shannonEntropy_finite	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.shannonEntropy_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.shannonEntropy_finite	PASS	MeasurableSingletonClass W :: side condition | MeasureTheory.IsProbabilityMeasure π :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.shannonEntropy_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.shannonEntropy_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.shannonEntropy_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.shannonEntropy_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.shannonEntropy_finite	PASS	reaches MeasureTheory.lintegral_fintype
+REFEREE	R7	OAI.CurrentProjection.shannonEntropy_finite	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.shannonEntropy_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.shannonEntropy_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.shannonEntropy_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.freshInformation_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.freshInformation_finite	PASS	671 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.freshInformation_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.freshInformation_finite	PASS	MeasurableSingletonClass W :: side condition | Nonempty W :: side condition | Nonempty ↑(OAI.CurrentProjection.Sphere d) :: side condition (project data) | MeasureTheory.IsProbabilityMeasure P :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.freshInformation_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.freshInformation_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.freshInformation_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.freshInformation_finite	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.freshInformation_finite	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.freshInformation_finite	PASS	top step OAI.CurrentProjection.exposedInformation_finite carries content
+REFEREE	R5	OAI.CurrentProjection.freshInformation_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.freshInformation_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.freshInformation_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.hybrid_block_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.hybrid_block_bound	PASS	3650 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.hybrid_block_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.hybrid_block_bound	PASS	256 ≤ d :: side condition | m ≤ d / 8 :: side condition | MeasurableSingletonClass U :: side condition | MeasurableSingletonClass V :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition (project data) | P.fst = OAI.CurrentProjection.uniformSphere d :: side condition (project data) | ProbabilityTheory.IsMarkovKernel κ :: side condition (project data) | 0 ≤ B :: side condition | OAI.CurrentProjection.shannonEntropy (OAI.CurrentProjection.endingSignalLaw P κ).snd ≤ ENN :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.hybrid_block_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.hybrid_block_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.hybrid_block_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.hybrid_block_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.hybrid_block_bound	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.hybrid_block_bound	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.hybrid_block_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.hybrid_block_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.hybrid_block_bound	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.GaussianReplacement.Hybrid	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.GaussianReplacement.Hybrid	INFO	5 theorems checked
+REFEREE	L5	OAI.Probability.GaussianReplacement.Hybrid	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.GaussianReplacement.Hybrid	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['shannonEntropy_finite', 'freshInformation_finite', 'hybrid_block_bound', 'hybrid_block_numeric'])

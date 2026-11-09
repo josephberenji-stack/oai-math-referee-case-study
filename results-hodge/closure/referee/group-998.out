@@ -1,0 +1,559 @@
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	142 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	0 < P.leadingCoeff :: side condition | ∀ (n : ℕ), b ≤ n → Polynomial.eval (↑n) P ≤ Polynomial.eval (↑n) Q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	CONTENT	reaches Decidable.byContradiction
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_natDegree_le_of_eventual_nat_eval_le	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	176 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	0 < P.leadingCoeff :: side condition | 0 < Q.leadingCoeff :: side condition | ∀ (n : ℕ), b ≤ n → Polynomial.eval (↑n) P ≤ Polynomial.eval (↑n + ↑c) Q :: side condition | ∀ (n : ℕ), b ≤ n → Polynomial.eval (↑n) Q ≤ Polynomial.eval (↑n + ↑c) P :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	reaches Polynomial.natDegree_taylor
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	CONTENT	reaches Polynomial.natDegree_taylor
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	P.natDegree ≤ d :: side condition | Q.natDegree ≤ d :: side condition | ∀ (n : ℕ), b ≤ n → Polynomial.eval (↑n) P ≤ Polynomial.eval (↑n) Q :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	reaches LE.le.trans
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	CONTENT	reaches LE.le.trans
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison.Construction.polynomial_coeff_le_of_eventual_nat_eval_le	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	291 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	0 < P.natDegree :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	reaches Nat.sub_add_cancel
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	CONTENT	reaches Nat.sub_add_cancel
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_factorial_leadingCoeff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	158 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	reaches map_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	CONTENT	reaches map_zero
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree_le	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	43 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	reaches Polynomial.eval_sub
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	CONTENT	reaches Polynomial.eval_sub
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_eval	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	283 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	0 < P.natDegree :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	reaches Polynomial.leadingCoeff.eq_1
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	CONTENT	reaches Polynomial.leadingCoeff.eq_1
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_leadingCoeff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	297 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	P.natDegree ≤ d :: side condition | ∀ (n : ℕ), b ≤ n → ∃ z, Polynomial.eval (↑n) P = ↑z :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	reaches le_rfl
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	CONTENT	reaches le_rfl
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomial_factorial_coeff_integral_of_eventual_integer_values	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	279 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	0 < P.natDegree :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	reaches Nat.sub_add_cancel
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	CONTENT	reaches Nat.sub_add_cancel
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_natDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	208 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	P.natDegree ≤ d + 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	reaches LE.le.trans
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	CONTENT	reaches LE.le.trans
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference.Construction.polynomialDifference_coeff_top	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	704 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	REVIEW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (x : G), (q.value x).natDegree ≤ d :: side condition (project data) | AddGroup.FG ↥(q.coefficientQuadratic d hd).zeroKernel :: side condition (project data) | 2 ≤ n :: side condition | ∀ (r : ℕ), Finite (G ⧸ (nsmulAddMonoidHom (n ^ r)).range) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	CONTENT	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	751 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	REVIEW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (x : G), (q.value x).natDegree ≤ d :: side condition (project data) | 2 ≤ n :: side condition | ∀ (r : ℕ), Finite (G ⧸ (nsmulAddMonoidHom (n ^ r)).range) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	CONTENT	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	1014 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	REVIEW	Module.Finite ℤ G :: side condition | OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (g : G), (q.value g).natDegree ≤ d :: side condition (project data) | ∀ (g : G), (q.value (f g)).natDegree ≤ (q.value g).natDegree :: side condition (project data) | ∀ (g : G) (j : ℕ), (q.value g).natDegree ≤ j → (q.value (f g)).coeff j = c * (q.value g).c :: side condition (project data) | Module.End.HasEigenvalue (LinearMap.baseChange ℂ f.toIntLinearMap) z :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	reaches Polynomial.coeff_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	16 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	∀ (n : ℕ), b ≤ n → 0 ≤ Polynomial.eval (↑n) P :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	reaches Polynomial.eq_C_of_degree_le_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	CONTENT	reaches Polynomial.eq_C_of_degree_le_zero
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	113 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	P ≠ 0 :: side condition | ∀ (n : ℕ), b ≤ n → 0 ≤ Polynomial.eval (↑n) P :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	reaches eq_or_lt_of_le
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	CONTENT	reaches eq_or_lt_of_le
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_leadingCoeff_pos_of_eventual_nat_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	96 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	0 < P.leadingCoeff :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	reaches Polynomial.natDegree_eq_zero_iff_degree_le_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	CONTENT	reaches Polynomial.natDegree_eq_zero_iff_degree_le_zero
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity.Construction.polynomial_eventually_nat_pos_of_leadingCoeff_pos	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	222 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	REVIEW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (x : G), (q.value x).natDegree ≤ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	CONTENT	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.zero_degree_kernel_subsingleton	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	333 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	REVIEW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (x : G), (q.value x).natDegree ≤ d :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	reaches Polynomial.coeff_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	CONTENT	reaches Polynomial.coeff_zero
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.coefficient_integral	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	269 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	REVIEW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.Polynomia :: carries a project proposition | ∀ (x : G), (q.value x).natDegree ≤ d + 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	CONTENT	reaches Mathlib.Tactic.Linarith.eq_of_not_lt_of_not_gt
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic.Construction.PolynomialQuadraticHeight.kernel_degree_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	32 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	P.natDegree = Q.natDegree :: side condition | P.leadingCoeff = Q.leadingCoeff :: side condition | P.natDegree ≤ d :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	reaches Polynomial.coeff_natDegree
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	CONTENT	reaches Polynomial.coeff_natDegree
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient.Construction.polynomial_coeff_eq_of_same_leading_data	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	12214 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	IsAlgClosed K :: side condition | CategoryTheory.IsCommMonObj A :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.Smooth A.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral A.hom :: side condition | 0 < n :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	reaches CategoryTheory.Functor.final_fromPUnit_of_isTerminal
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	CONTENT	reaches instIsContinuousOpensCarrierMapGrothendieckTopology
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	top step OAI.AlgebraicGeometry.Quotients.FiniteDescent.CubicalMultiplicationIs.Construction.CubicalMultiplication.isFinite carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryConstant.Construction.OrdinaryConstantDetector.source = OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryCechOne.Construction.OrdinaryCechPullbackValues.target, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorId.Construction.BinaryTensorMap.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorApp.Construction.BinaryTensorUnit.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorPrecomp.Construction.BinaryTensorUniversal.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.multiplication_positive_isFinite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	12273 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	IsAlgClosed K :: side condition | CategoryTheory.IsCommMonObj A :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.Smooth A.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral A.hom :: side condition | 0 < n :: side condition | n • f = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	reaches CategoryTheory.Grp.Hom.hom_pow
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	CONTENT	reaches CategoryTheory.Grp.instIsCommMonObj
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryConstant.Construction.OrdinaryConstantDetector.source = OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryCechOne.Construction.OrdinaryCechPullbackValues.target, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorId.Construction.BinaryTensorMap.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorApp.Construction.BinaryTensorUnit.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorPrecomp.Construction.BinaryTensorUniversal.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_positive_nsmul_eq_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	12249 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	IsAlgClosed K :: side condition | CategoryTheory.IsCommMonObj A :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.Smooth A.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral A.hom :: side condition | AlgebraicGeometry.IsProper B.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral B.hom :: side condition | CategoryTheory.IsMonHom f :: side condition | 0 < n :: side condition | f ^ n = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	reaches AlgebraicGeometry.GeometricallyIntegral.isIntegral_of_subsingleton
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	CONTENT	reaches AlgebraicGeometry.GeometricallyIntegral.isIntegral_of_subsingleton
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryConstant.Construction.OrdinaryConstantDetector.source = OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryCechOne.Construction.OrdinaryCechPullbackValues.target, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorId.Construction.BinaryTensorMap.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorApp.Construction.BinaryTensorUnit.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorPrecomp.Construction.BinaryTensorUniversal.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.groupHom_eq_one_of_positive_pow	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	12357 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	CategoryTheory.IsCommMonObj A :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.Smooth A.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral A.hom :: side condition | 0 < n :: side condition | n • f = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	reaches CategoryTheory.MonObj.comp_one
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	CONTENT	reaches CategoryTheory.Grp.instIsCommMonObj
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryConstant.Construction.OrdinaryConstantDetector.source = OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryCechOne.Construction.OrdinaryCechPullbackValues.target, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorId.Construction.BinaryTensorMap.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorApp.Construction.BinaryTensorUnit.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorPrecomp.Construction.BinaryTensorUniversal.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.algebraicEnd_nsmul_eq_zero_of_positive	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	12240 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	IsAlgClosed K :: side condition | CategoryTheory.IsCommMonObj A :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.Smooth A.hom :: side condition | AlgebraicGeometry.GeometricallyIntegral A.hom :: side condition | 0 < n :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	reaches CategoryTheory.MorphismProperty.of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	CONTENT	reaches CategoryTheory.MorphismProperty.of_isPullback
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible by OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.IsInvertible.of_iso]
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryConstant.Construction.OrdinaryConstantDetector.source = OAI.AlgebraicGeometry.Quotients.FiniteDescent.OrdinaryCechOne.Construction.OrdinaryCechPullbackValues.target, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorId.Construction.BinaryTensorMap.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorApp.Construction.BinaryTensorUnit.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Quotients.FiniteDescent.BinaryTensorPrecomp.Construction.BinaryTensorUniversal.instMonoidalCategoryPresheafOfModules_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI, OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechFirstLaurent.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication.Construction.torsionScheme_positive_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	1313 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	Fact (Nat.Prime ℓ) :: side condition | CategoryTheory.IsCommMonObj A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	reaches Commute.map
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	CONTENT	reaches CategoryTheory.Grp.instIsCommMonObj
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	51 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius_commutes	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	1184 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	Fact (Nat.Prime ℓ) :: side condition | CategoryTheory.IsCommMonObj A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	reaches AlgebraicGeometry.Scheme.ellAdicSheaf._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	43 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_tmul	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	1303 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	Fact (Nat.Prime ℓ) :: side condition | CategoryTheory.IsCommMonObj A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	reaches AlgebraicGeometry.Scheme.ellAdicSheaf._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	53 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction.Construction.rationalAlgebraicEndOppPrimitiveH1Action_frobenius	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	INFO	7 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	INFO	3 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['polynomial_natDegree_le_of_eventual_nat_eval_le', 'polynomial_coeff_le_of_eventual_nat_eval_le', 'polynomial_degree_leadingCoeff_eq_of_mutual_shift_bounds'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['polynomialDifference', 'polynomialDifference_eval', 'polynomialDifference_natDegree_le', 'polynomialDifference_coeff_top'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialDifference	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_kernel', 'PolynomialQuadratic.Construction.PolynomialQuadraticHeight.finiteGenerated_of_degree_bound'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['PolynomialQuadratic.Construction.PolynomialQuadraticHeight.complexEigenvalue_norm_of_degree_bound'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialHeightSpectrum	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['polynomial_leadingCoeff_nonneg_of_eventual_nat_nonneg', 'polynomial_leadingCoeff_pos_of_eventual_nat_nonneg', 'polynomial_eventually_nat_pos_of_leadingCoeff_pos'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialPositivity	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['PolynomialQuadraticHeight', 'restrict', 'coefficientQuadratic', 'coefficient_integral'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialQuadratic	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['polynomial_coeff_eq_of_same_leading_data'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PolynomialTopCoefficient	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['multiplication_positive_isFinite', 'torsionScheme_positive_finite', 'groupHom_eq_one_of_positive_pow', 'algebraicEnd_positive_nsmul_eq_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PositiveMultiplication	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['algebraicEndOppPrimitiveH1IntAlgHom', 'rationalAlgebraicEndOppPrimitiveH1Action_tmul'])
+REFEREE	INST	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	REVIEW	instance changes at lines 41
+REFEREE	VEND	OAI.AlgebraicGeometry.FormalGeometry.Completion.PrimitiveAction	PASS	not under a Mathlib folder
+exit 1

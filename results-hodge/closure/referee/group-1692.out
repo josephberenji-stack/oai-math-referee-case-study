@@ -1,0 +1,259 @@
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	75 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	reaches Algebra.isMulCommutative_adjoin
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	no single top step
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_polynomial_evaluation	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	320 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	reaches Nat.strong_induction_on
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	81 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	∀ (j : Fin n), B j.castSucc = ↑(b j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	reaches Module.Basis.ext
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	CONTENT	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	no single top step
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_last	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	263 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition | ∀ (i : ι), ev (MvPolynomial.X i) = T i :: side condition | OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.jointGenEigenspace T χ ≠ ⊥ :: side condition (project data) | ev p = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	reaches Submodule.nontrivial_iff_ne_bot
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_relation_on_joint_eigenvalues	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	37 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	reaches Module.End.independent_iInf_maxGenEigenspace_of_forall_mapsTo
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	CONTENT	reaches Module.End.independent_iInf_maxGenEigenspace_of_forall_mapsTo
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_independent	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	308 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	reaches Nat.strong_induction_on
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	CONTENT	reaches Nat.strong_induction_on
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_triangular_basis_aux	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	153 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition | OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.jointGenEigenspace T χ ≠ ⊥ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	reaches Submodule.nontrivial_iff_ne_bot
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	CONTENT	reaches Submodule.nontrivial_iff_ne_bot
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	no single top step
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_joint_eigenvector	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	84 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	∀ (j : Fin n), B j.castSucc = ↑(b j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	reaches Module.Basis.ext
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	CONTENT	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	no single top step
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.extending_basis_repr_castSucc	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	108 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | Nontrivial V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	reaches Nat.strong_induction_on
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	CONTENT	reaches Nat.strong_induction_on
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.exists_common_eigenvector	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	46 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	reaches Submodule.mem_iInf
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	CONTENT	reaches Submodule.mem_iInf
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_invariant	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	461 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	reaches Algebra.isMulCommutative_adjoin
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.commuting_family_structure	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	128 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	∀ (i : ι), (ev (MvPolynomial.X i)) v = χ i • v :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	reaches MvPolynomial.induction_on
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.polynomial_on_eigenvector	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	IsAlgClosed K :: side condition | FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	reaches Module.End.iSup_iInf_maxGenEigenspace_eq_top_of_iSup_maxGenEigenspace_eq_top_of_commute
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	CONTENT	reaches Module.End.iSup_iInf_maxGenEigenspace_eq_top_of_iSup_maxGenEigenspace_eq_top_of_commute
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_spans	REVIEW	computed class A?
+REFEREE	L0	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	51 constants reached, no stand-in
+REFEREE	L1u	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	FiniteDimensional K V :: side condition | ∀ (i j : ι), Commute (T i) (T j) :: side condition || unbuilt=0
+REFEREE	L3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	INFO	not an iff
+REFEREE	R1	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	reaches Submodule.finite_ne_bot_of_iSupIndep
+REFEREE	R1k	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	CONTENT	reaches Submodule.finite_ne_bot_of_iSupIndep
+REFEREE	R7	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	INFO	no supplied input
+REFEREE	DUP	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LinearAlgebra.Endomorphisms.Commuting.Construction.joint_finite	REVIEW	computed class A?
+REFEREE	L4	OAI.LinearAlgebra.Endomorphisms.Commuting	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.LinearAlgebra.Endomorphisms.Commuting	INFO	14 theorems checked
+REFEREE	L5	OAI.LinearAlgebra.Endomorphisms.Commuting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.LinearAlgebra.Endomorphisms.Commuting	FAIL	module docstring has no `## Main results`; 14 public declarations without a docstring (['jointGenEigenspace', 'joint_independent', 'joint_spans', 'joint_finite'])
+REFEREE	INST	OAI.LinearAlgebra.Endomorphisms.Commuting	PASS	no instance changes
+REFEREE	VEND	OAI.LinearAlgebra.Endomorphisms.Commuting	PASS	not under a Mathlib folder
+exit 1

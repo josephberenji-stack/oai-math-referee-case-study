@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	72690 constants reached, no stand-in
+REFEREE	L1u	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no hypotheses
+REFEREE	L3	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant	REVIEW	computed class A?
+REFEREE	L4	OAI.LinearAlgebra.MatrixFields.Conclusions.AllFieldsBound	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.LinearAlgebra.MatrixFields.Conclusions.AllFieldsBound	INFO	1 theorems checked
+REFEREE	L5	OAI.LinearAlgebra.MatrixFields.Conclusions.AllFieldsBound	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.LinearAlgebra.MatrixFields.Conclusions.AllFieldsBound	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['omega_lt_source_constant'])

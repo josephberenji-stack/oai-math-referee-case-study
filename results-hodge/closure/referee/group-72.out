@@ -1,0 +1,13 @@
+REFEREE	L4	HodgeConjecture.Statement	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Variants	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Statement	INFO	0 theorems checked
+REFEREE	MODULE	HodgeConjecture.Variants	INFO	0 theorems checked
+REFEREE	L5	HodgeConjecture.Statement	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Statement	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Statement	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Statement	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Variants	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Variants	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Variants	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Variants	PASS	not under a Mathlib folder
+exit 1

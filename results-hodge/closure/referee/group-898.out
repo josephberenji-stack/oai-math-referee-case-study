@@ -1,0 +1,823 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	REVIEW	[opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	proof-only: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	REVIEW	AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | E.IsSeparated :: side condition | X.IsSeparated :: side condition | AlgebraicGeometry.IsProper p :: side condition | AlgebraicGeometry.Smooth p :: side condition | AlgebraicGeometry.GeometricallyIntegral p :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceRank.BundleCycles.HasAffineSp :: carries a project proposition | AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp s p) :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceBase.BundleCycles.HasAffineSpaceSourceCharts by OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceRank.BundleCycles.HasAffineSpaceSourceChartsOfRank.forget]
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree.BundleCycles.cartierCurveChow_pullback_degree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	REVIEW	[opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	proof-only: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	REVIEW	AlgebraicGeometry.IsNoetherian Y :: side condition | Y.IsSeparated :: side condition | AlgebraicGeometry.IsProper p :: side condition | AlgebraicGeometry.Smooth p :: side condition | AlgebraicGeometry.GeometricallyIntegral p :: side condition | AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp s p) :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceRank.BundleCycles.HasAffineSp :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceBase.BundleCycles.HasAffineSpaceSourceCharts by OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceRank.BundleCycles.HasAffineSpaceSourceChartsOfRank.forget]
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange.BundleCycles.cartierCurveChow_baseChange_degree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	REVIEW	[opaque with a value OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	proof-only: [OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.BundleCycles.wrapped._@.OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.CoordinateEquiv.3769865918._hygCtx._hyg.2]
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	REVIEW	AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | E.IsSeparated :: side condition | X.IsSeparated :: side condition | AlgebraicGeometry.IsProper p :: side condition | AlgebraicGeometry.Smooth p :: side condition | AlgebraicGeometry.GeometricallyIntegral p :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.AffineSpace.SourceRank.BundleCycles.HasAffineSp :: carries a project proposition | AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp s p) :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.SupportDimension.supportTranscendenceDimension    :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	6 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport.BundleCycles.cartierIsomorphicDivisor_degree_on_support	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	466 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	TopologicalSpace.Opens.IsBasis B :: side condition | ∀ (U : ↑B), IsRegular (t U) :: side condition | ∀ (U : ↑B), IsRegular (u U) :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app i ↑U)) = Id :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app j ↑U)) = Id :: side condition | ∀ (U V : ↑B) (h : ↑U ≤ ↑V),  t U * (CategoryTheory.ConcreteCategory.hom (X.presheaf.map (C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	reaches AlgebraicGeometry.Scheme.Modules.isSheaf
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.Scheme.ModuleHomOfBasis.BundleCycles.schemeModuleHomOfBasis_isIso carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	16 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonHom_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	349 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	∀ (U : ↑B), IsRegular (t U) :: side condition | ∀ (U : ↑B), IsRegular (u U) :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app i ↑U)) = Id :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app j ↑U)) = Id :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_image	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	392 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	∀ (U : ↑B), IsRegular (t U) :: side condition | ∀ (U : ↑B), IsRegular (u U) :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app i ↑U)) = Id :: side condition | ∀ (U : ↑B), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.app j ↑U)) = Id :: side condition | ∀ (U V : ↑B) (h : ↑U ≤ ↑V),  t U * (CategoryTheory.ConcreteCategory.hom (X.presheaf.map (C :: side condition | ↑U ≤ ↑V :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.Scheme.IdealModule.BundleCycles.schemeIdealModuleSectionLinear_injective carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison.BundleCycles.cartierEquationComparisonFrame_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	923 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.IsClosedImmersion j :: side condition | AlgebraicGeometry.IsNoetherian Z :: side condition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	42 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberClassMap_eq_pointClass	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	583 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.IsClosedImmersion j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	reaches Finsupp.lhom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	CONTENT	reaches Finsupp.lhom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass.BundleCycles.principalCartierFiberCycleMap_eq_lift	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	166 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	AlgebraicGeometry.QuasiCompact f :: side condition | ∀ (i : C.I₀), AlgebraicGeometry.IsAffine (C.X i) :: side condition | ∀ (i : C.I₀), CategoryTheory.IsPullback (b i) (a i) (C.f i) f :: side condition | ∀ (i : C.I₀), IsRegular (t i) :: side condition | ∀ (i : C.I₀), RingHom.ker (CommRingCat.Hom.hom (AlgebraicGeometry.Scheme.Hom.appTop (b i)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	reaches AlgebraicGeometry.Scheme.Cover.exists_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_affineCover	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	154 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	REVIEW	AlgebraicGeometry.QuasiCompact f :: side condition | ∀ (i : C.I₀), CategoryTheory.IsPullback (b i) (a i) (C.f i) f :: side condition | ∀ (i : C.I₀), OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasReg :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	reaches AlgebraicGeometry.Scheme.Cover.exists_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover.BundleCycles.regularPrincipalImageIdeals_of_openCover	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	827 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	reaches AddMonoidHom.map_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.LineBundle.MorphismRationalCoordinate.Cycles.lineBundleMorphismInverseCoefficient_divisor carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	40 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	1113 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.Scheme.SchemeIdealModule.BundleCycles.SchemeLineBundle.rationalSectionChowClass_coefficient_independent carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	74 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInversePointCycle_class	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	851 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | Order.coheight x = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	reaches AlgebraicGeometry.Scheme.ord_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	40 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_length	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	858 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	reaches AlgebraicGeometry.Scheme.ord_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	40 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor.BundleCycles.cartierIdealInverseCoefficient_divisor_nonpositive	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	881 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	reaches Int.cast_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	43 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInversePointCycle_support	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	561 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | W ≤  (OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.cartierIdealLi :: side condition (project data) | ∀ (z : ↥Z), i z ∉ W :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealMorphismCoordinate_unit_away	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	862 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | x ∉ Set.range ⇑i :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	41 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport.BundleCycles.cartierIdealInverseCoefficient_divisor_off_image	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	540 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	REVIEW	AlgebraicGeometry.QuasiCompact f :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.IsIntegral X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	552 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	REVIEW	AlgebraicGeometry.QuasiCompact f :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.IsIntegral X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealMorphismFieldCoordinate_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	534 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	REVIEW	AlgebraicGeometry.QuasiCompact f :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_kernel	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	522 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	REVIEW	AlgebraicGeometry.QuasiCompact f :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation.BundleCycles.cartierIdealEquation_image	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	715 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | AlgebraicGeometry.IsClosedImmersion j :: side condition | CategoryTheory.IsPullback j g f i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	reaches AlgebraicGeometry.Scheme.Hom.resLE_comp_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_hom	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	711 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | AlgebraicGeometry.IsClosedImmersion j :: side condition | CategoryTheory.IsPullback j g f i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	reaches TopologicalSpace.Opens.isBasis_iff_nbhd
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	31 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackMap_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	715 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	REVIEW	AlgebraicGeometry.IsClosedImmersion i :: side condition | AlgebraicGeometry.IsClosedImmersion j :: side condition | CategoryTheory.IsPullback j g f i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.Scheme.IdealPullbackMap.BundleCycles.schemeIdealPullbackMap_inclusion carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	32 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso.BundleCycles.cartierIdealPullbackIso_inclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	567 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	REVIEW	AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.IsIntegral X :: side condition | Nonempty ↥↑W :: side condition | W ≤  (OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.cartierIdealLi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	28 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_ne_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	526 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	REVIEW	AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | W ≤  (OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.cartierIdealLi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_regular	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	530 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	REVIEW	AlgebraicGeometry.QuasiCompact i :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | W ≤  (OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.cartierIdealLi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	reaches map_one
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation.BundleCycles.cartierIdealSubopenEquation_kernel	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	19 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp s p) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	reaches CategoryTheory.IsPullback.isIso_fst_of_isIso
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	CONTENT	reaches CategoryTheory.IsPullback.isIso_fst_of_isIso
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_over_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	14 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	AlgebraicGeometry.IsClosedImmersion s :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	CONTENT	reaches AlgebraicGeometry.instIsClosedImmersionFstScheme
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	REVIEW	packaged: the top step is the structural lemma OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion._proof_1; the content is in its arguments
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChangeInclusion_isClosedImmersion	REVIEW	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	707 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	REVIEW	AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp s p) :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	reaches AlgebraicGeometry.exists_isAffineOpen_mem_and_subset
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	top step OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.CartierBaseChange.BundleCycles.relativeCartier_regularPrincipalImageIdeals_baseChange carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange.BundleCycles.cartierIsomorphicDivisorBaseChange_regular	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	5863 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	REVIEW	AlgebraicGeometry.IsIntegral E :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | E.IsSeparated :: side condition | X.IsSeparated :: side condition | AlgebraicGeometry.IsProper p :: side condition | AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.CategoryStruct.comp s p = CategoryTheory.CategoryStruct.id X :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierSection_chowIntersection_pushforward	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	142 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	AlgebraicGeometry.IsClosedImmersion i :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp i p) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	CONTENT	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedIsomorphicDivisor_residueDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	5863 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	REVIEW	AlgebraicGeometry.IsIntegral E :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Z :: side condition | AlgebraicGeometry.IsNoetherian E :: side condition | AlgebraicGeometry.IsNoetherian X :: side condition | E.IsSeparated :: side condition | X.IsSeparated :: side condition | AlgebraicGeometry.IsProper p :: side condition | AlgebraicGeometry.IsClosedImmersion i :: side condition | CategoryTheory.IsIso (CategoryTheory.CategoryStruct.comp i p) :: side condition | OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle.Cycles.HasRegularPrincipalI :: carries a project proposition | AlgebraicGeometry.LocallyOfFiniteType f :: side condition (project data) | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.BranchFactorization.BundleCycles.affineBranchFactorization_stalkAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Affine.ProperReciprocity.BundleCycles.affineProperReciprocity_stalkAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationFields.BundleCycles.RelativeNormalizationFields.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.Normalization.BundleCycles.RelativeNormalization.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI, OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationStalks.BundleCycles.RelativeNormalizationStalks.sectionAlgebra = OAI.AlgebraicGeometry.Divisors.LineBundles.Relative.NormalizationCharts.BundleCycles.RelativeNormalizationCharts.instAlgebraCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensOfNonemptyToScheme_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.cartierIsomorphicDivisor_chowIntersection_pushforward	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	142 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	AlgebraicGeometry.IsClosedImmersion s :: side condition | CategoryTheory.CategoryStruct.comp s p = CategoryTheory.CategoryStruct.id X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	CONTENT	reaches IsScalarTower.of_algebraMap_eq'
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree.BundleCycles.closedSection_residueDegree	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	406 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | IsUnit a :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	reaches Finsupp.lhom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	CONTENT	reaches Finsupp.lhom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointMap_globalUnit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	725 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | ∀ (x : ↥X), IsIntegrallyClosed ↑(X.presheaf.stalk x) :: side condition | IsUnit a :: side condition | ↑g = OAI.AlgebraicGeometry.Divisors.LineBundles.RegularDivisor.BundleCycles.globalFunction :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	reaches AlgebraicGeometry.Scheme.ord_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	23 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.normalResidueBoundaryCycle_globalUnit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	372 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | IsUnit a :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	CONTENT	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalCartierPointCycle_globalUnit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	256 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	AlgebraicGeometry.IsNoetherian X :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | IsUnit a :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	reaches Finsupp.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	CONTENT	reaches Finsupp.ext
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit.BundleCycles.principalDivisor_globalUnit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	332 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	AlgebraicGeometry.IsNoetherian X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	CONTENT	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointCycle_zero_equation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	376 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	AlgebraicGeometry.IsNoetherian X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	reaches Finsupp.induction_linear
+REFEREE	R1k	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	CONTENT	reaches Finsupp.induction_linear
+REFEREE	R7	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation.BundleCycles.principalCartierPointMap_zero_equation	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	INFO	2 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cartierCurveChow_pullback_degree'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveChowDegree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cartierCurveChow_baseChange_degree'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.CurveDegreeBaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cartierIsomorphicDivisor_degree_on_support'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.DegreeOnSupport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['cartierEquationComparisonFrame', 'cartierEquationComparisonFrame_image', 'cartierEquationComparisonFrame_restrict', 'cartierEquationComparisonHom'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.EquationComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['principalCartierFiberCycleMap_eq_lift', 'principalCartierFiberClassMap_eq_pointClass'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.FiberPointClass	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['regularPrincipalImageIdeals_of_affineCover', 'regularPrincipalImageIdeals_of_openCover'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealAffineCover	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['HasRegularPrincipalImageIdeals', 'cartierIdealLineBundle'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealBundle	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['cartierIdealInverseCoefficient', 'cartierIdealInverseCoefficient_divisor', 'cartierIdealInverseCoefficient_divisor_length', 'cartierIdealInverseCoefficient_divisor_nonpositive'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisor	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['cartierIdealMorphismCoordinate_unit_away', 'cartierIdealInverseCoefficient_divisor_off_image', 'cartierIdealInversePointCycle_support'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealDivisorSupport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['cartierIdealEquation', 'cartierIdealEquation_image', 'cartierIdealEquation_kernel', 'cartierIdealEquation_ne_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealEquation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['cartierIdealPullbackMap_isIso', 'cartierIdealPullbackIso', 'cartierIdealPullbackIso_hom', 'cartierIdealPullbackIso_inclusion'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealPullbackIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['cartierIdealRestrictionBaseChangeIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealRestrictionBaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['cartierIdealSubopenEquation_kernel', 'cartierIdealSubopenEquation_ne_zero', 'cartierIdealSubopenEquation_regular'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IdealSubopenEquation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['cartierIsomorphicDivisorBaseChangeInclusion', 'cartierIsomorphicDivisorBaseChange_regular', 'cartierIsomorphicDivisorBaseChange_idealIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorBaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['closedSection_residueDegree', 'cartierSection_chowIntersection_pushforward', 'closedIsomorphicDivisor_residueDegree', 'cartierIsomorphicDivisor_chowIntersection_pushforward'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.IsomorphicDivisorDegree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['principalDivisor_globalUnit', 'principalCartierPointCycle_globalUnit', 'principalCartierPointMap_globalUnit', 'normalResidueBoundaryCycle_globalUnit'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.Unit	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['principalCartierPointCycle_zero_equation', 'principalCartierPointMap_zero_equation'])
+REFEREE	INST	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Divisors.LineBundles.Cartier.ZeroEquation	PASS	not under a Mathlib folder
+exit 1

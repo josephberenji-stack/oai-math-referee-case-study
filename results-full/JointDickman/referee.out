@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.JointDickmanPaper.joint_law	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.JointDickmanPaper.joint_law	PASS	18025 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.joint_law	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.joint_law	PASS	0 < a :: side condition | a < 1 :: side condition | 0 < b :: side condition | b < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.JointDickmanPaper.joint_law	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.joint_law	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.joint_law	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.joint_law	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.joint_law	PASS	reaches DenseRange.exists_seq_strictMono_tendsto_of_lt
+REFEREE	R7	OAI.JointDickmanPaper.joint_law	PASS	top step OAI.JointDickman.jointDickmanLaw_unconditional carries content
+REFEREE	R5	OAI.JointDickmanPaper.joint_law	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.joint_law	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.joint_law	REVIEW	computed class A?
+REFEREE	L0	OAI.JointDickmanPaper.decreasing_order	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.JointDickmanPaper.decreasing_order	PASS	18094 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.decreasing_order	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.decreasing_order	PASS	no hypotheses
+REFEREE	L3	OAI.JointDickmanPaper.decreasing_order	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.decreasing_order	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.decreasing_order	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.decreasing_order	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.decreasing_order	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.JointDickmanPaper.decreasing_order	PASS	top step OAI.JointDickman.decreasingOrderLaw_unconditional carries content
+REFEREE	R5	OAI.JointDickmanPaper.decreasing_order	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.decreasing_order	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.decreasing_order	REVIEW	computed class A?
+REFEREE	L0	OAI.JointDickmanPaper.increasing_order	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.JointDickmanPaper.increasing_order	PASS	18091 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.increasing_order	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.increasing_order	PASS	no hypotheses
+REFEREE	L3	OAI.JointDickmanPaper.increasing_order	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.increasing_order	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.increasing_order	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.increasing_order	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.increasing_order	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.JointDickmanPaper.increasing_order	PASS	top step OAI.JointDickman.increasingOrderLaw_unconditional carries content
+REFEREE	R5	OAI.JointDickmanPaper.increasing_order	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.increasing_order	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.increasing_order	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.JointDickman.PaperMain	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.JointDickman.PaperMain	INFO	3 theorems checked
+REFEREE	L5	OAI.NumberTheory.JointDickman.PaperMain	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.JointDickman.PaperMain	FAIL	module docstring has no `## Main results`

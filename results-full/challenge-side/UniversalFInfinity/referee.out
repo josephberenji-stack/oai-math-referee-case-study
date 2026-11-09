@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	42 constants reached, no stand-in
+REFEREE	L1u	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no hypotheses
+REFEREE	L3	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	INFO	not a registered target statement
+REFEREE	R1	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.UniversalFInfinity.universal_group_of_type_FInfinity	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.UniversalFInfinity	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.UniversalFInfinity	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.UniversalFInfinity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.UniversalFInfinity	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['HasTypeFInfinity', 'universal_group_of_type_FInfinity'])

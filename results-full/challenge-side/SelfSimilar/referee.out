@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.EntropyRateDimension.entropy_rate_dimension	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.EntropyRateDimension.entropy_rate_dimension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EntropyRateDimension.entropy_rate_dimension	REVIEW	Nonempty ι :: side condition | OAI.EntropyRateDimension.System ι :: carries a project proposition | MeasureTheory.IsProbabilityMeasure μ :: side condition | S.SelfSimilar μ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EntropyRateDimension.entropy_rate_dimension	INFO	not a registered target statement
+REFEREE	R1	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EntropyRateDimension.entropy_rate_dimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EntropyRateDimension.entropy_rate_dimension	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SelfSimilar	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SelfSimilar	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SelfSimilar	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SelfSimilar	FAIL	no module docstring /-! … -/; 13 public declarations without a docstring (['System', 'affine', 'wordAffine', 'completeMap'])

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ExactQuantumFactoring.exact_quantum_factoring	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	195 constants reached, no stand-in
+REFEREE	L1u	OAI.ExactQuantumFactoring.exact_quantum_factoring	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	no hypotheses
+REFEREE	L3	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ExactQuantumFactoring.exact_quantum_factoring	INFO	not a registered target statement
+REFEREE	R1	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ExactQuantumFactoring.exact_quantum_factoring	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ExactQuantumFactoring.exact_quantum_factoring	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	[]
+REFEREE	L1	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	15 constants reached, no stand-in
+REFEREE	L1u	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	no hypotheses
+REFEREE	L3	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	INFO	not a registered target statement
+REFEREE	R1	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ExactQuantumFactoring.Primitive.ofNat_ctorIdx	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.ExactQuantumFactoring	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ExactQuantumFactoring	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.ExactQuantumFactoring	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ExactQuantumFactoring	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['Primitive.arity', 'Primitive.code', 'Gate.arity', 'Gate.baseMatrix'])

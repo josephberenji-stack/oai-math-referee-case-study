@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	5395 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	REVIEW	OAI.PlanarL1.Columns.Model (k + 1) :: carries a project proposition | OAI.PlanarL1.Parameters.GoodSpacing ↑q :: carries a project proposition | M.Ambient :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarL1.Columns.Model.Ambient.exists_L1_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	6802 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarL1.planar_graph_metrics_embed_L1	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarL1.planar_graph_metrics_embed_L1	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarL1.planar_graph_metrics_embed_L1	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarL1.planar_graph_metrics_embed_L1	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	5369 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	REVIEW	OAI.PlanarL1.Columns.Model (k + 1) :: carries a project proposition | OAI.PlanarL1.Parameters.GoodSpacing ↑q :: carries a project proposition | M.Ambient :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarL1.Columns.Model.Ambient.exists_uniform_cuts	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.PlanarL1.Embedding	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.PlanarL1.Embedding	INFO	3 theorems checked
+REFEREE	L5	OAI.Combinatorics.PlanarL1.Embedding	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.PlanarL1.Embedding	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['ambient'])

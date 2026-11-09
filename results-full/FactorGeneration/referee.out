@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Generator.mainTarget	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Generator.mainTarget	PASS	8154 constants reached, no stand-in
+REFEREE	L1u	OAI.Generator.mainTarget	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Generator.mainTarget	PASS	CompleteSpace H :: side condition || unbuilt=0
+REFEREE	L3	OAI.Generator.mainTarget	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Generator.mainTarget	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Generator.mainTarget	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Generator.mainTarget	INFO	not a registered target statement
+REFEREE	R1	OAI.Generator.mainTarget	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.Generator.mainTarget	PASS	top step OAI.Generator.single_generation_of_II1_separable_predual carries content
+REFEREE	R5	OAI.Generator.mainTarget	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Generator.mainTarget	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Generator.mainTarget	REVIEW	computed class A?
+REFEREE	L0	OAI.Generator.single_generation_of_II1_separable_predual	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Generator.single_generation_of_II1_separable_predual	PASS	8152 constants reached, no stand-in
+REFEREE	L1u	OAI.Generator.single_generation_of_II1_separable_predual	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Generator.single_generation_of_II1_separable_predual	REVIEW	CompleteSpace H :: side condition | OAI.Generator.IsII1Factor S :: carries a project proposition | OAI.Generator.HasSeparablePredual S :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Generator.single_generation_of_II1_separable_predual	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Generator.single_generation_of_II1_separable_predual	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Generator.single_generation_of_II1_separable_predual	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Generator.single_generation_of_II1_separable_predual	INFO	not a registered target statement
+REFEREE	R1	OAI.Generator.single_generation_of_II1_separable_predual	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.Generator.single_generation_of_II1_separable_predual	PASS	no single top step
+REFEREE	R5	OAI.Generator.single_generation_of_II1_separable_predual	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Generator.single_generation_of_II1_separable_predual	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Generator.single_generation_of_II1_separable_predual	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.FactorGeneration.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.FactorGeneration.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.FactorGeneration.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.FactorGeneration.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['single_generation_of_II1_separable_predual', 'mainTarget'])

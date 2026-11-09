@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Problem336.fusf_is_factor_iid	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem336.fusf_is_factor_iid	PASS	4721 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem336.fusf_is_factor_iid	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem336.fusf_is_factor_iid	PASS	no hypotheses
+REFEREE	L3	OAI.Problem336.fusf_is_factor_iid	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem336.fusf_is_factor_iid	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem336.fusf_is_factor_iid	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem336.fusf_is_factor_iid	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem336.fusf_is_factor_iid	PASS	reaches Subtype.property
+REFEREE	R7	OAI.Problem336.fusf_is_factor_iid	PASS	top step OAI.Problem336.FinalFactor.exists_factor carries content
+REFEREE	R5	OAI.Problem336.fusf_is_factor_iid	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem336.fusf_is_factor_iid	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem336.fusf_is_factor_iid	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	4726 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem336.fusf_factor_for_every_unimodular_law	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	no hypotheses
+REFEREE	L3	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem336.fusf_factor_for_every_unimodular_law	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	reaches Subtype.property
+REFEREE	R7	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem336.fusf_factor_for_every_unimodular_law	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem336.fusf_factor_for_every_unimodular_law	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.SpanningForest.Factor	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SpanningForest.Factor	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.SpanningForest.Factor	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SpanningForest.Factor	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['fusf_is_factor_iid', 'fusf_factor_for_every_unimodular_law'])

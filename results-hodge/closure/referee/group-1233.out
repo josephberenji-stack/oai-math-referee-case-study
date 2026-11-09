@@ -1,0 +1,85 @@
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	157 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	IsLocalRing A :: side condition | ∀ (a : ι), r * g (t a) = s a :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	reaches map_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	CONTENT	reaches map_mul
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.centered_mem_image	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	359 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	IsLocalRing A :: side condition | IsLocalRing R :: side condition | IsNoetherianRing R :: side condition | ε r ≠ 0 :: side condition | Submodule.span K   (Set.range fun a => (OAI.AlgebraicGeometry.IntersectionTheory.Projectio :: side condition (project data) | ∀ (a : ι), r * g (t a) = s a :: side condition | IsLocalHom g.toRingHom :: side condition | Algebra.EssFiniteType A R :: side condition | Algebra.IsSeparable (IsLocalRing.ResidueField A) (IsLocalRing.ResidueField R) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	reaches Submodule.module._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.formallyUnramified	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	349 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	IsLocalRing A :: side condition | IsLocalRing R :: side condition | IsNoetherianRing R :: side condition | ε r ≠ 0 :: side condition | Submodule.span K   (Set.range fun a => (OAI.AlgebraicGeometry.IntersectionTheory.Projectio :: side condition (project data) | ∀ (a : ι), r * g (t a) = s a :: side condition | IsLocalHom g.toRingHom :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	reaches Submodule.module._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	CONTENT	reaches RingHom.instRingHomClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified.map_maximalIdeal_eq	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	1087 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	IsNoetherianRing R :: side condition | Module.Finite R ↑M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	reaches IsNoetherianRing.exists_relSeries_isQuotientEquivQuotientPrime
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	19 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration.exists_data	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['centered_mem_image', 'map_maximalIdeal_eq', 'formallyUnramified'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FirstOrderUnramified	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_data'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.FixedPrimeFiltration	PASS	not under a Mathlib folder
+exit 1

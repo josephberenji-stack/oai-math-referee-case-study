@@ -1,0 +1,47 @@
+SCHEMA	1	OAI.NumberTheory.Approximation.Weak
+DECL	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	theorem	OAI.NumberTheory.Approximation.Weak	-	∀ (K : Type u_1) [inst : Field K] [NumberField K] {ι : Type u_2} [Finite ι] (v : ι → AbsoluteValue K ℝ), (∀ (i : ι), (v i).IsNontrivial) → (Pairwise fun i j => ¬(v i).IsEquiv (v j)) → DenseRange fun x i => ↑(WithAbs.toAbs (v i) x)
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	NormedCommRing.toSeminormedCommRing	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.Completion.coe'	type	def	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Real.partialOrder	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Real	type	structure	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	WithAbs	type	structure	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Pi.topologicalSpace	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	CommSemiring.toSemiring	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Finite	type	class	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	PseudoMetricSpace.toUniformSpace	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Real.semiring	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	AbsoluteValue.IsNontrivial	type	propdef	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Field.toSemifield	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.Completion.uniformSpace	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	WithAbs.normedField	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Pairwise	type	propdef	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	WithAbs.toAbs	type	ctor	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	SeminormedCommRing.toSeminormedRing	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	DenseRange	type	propdef	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Semifield.toCommSemiring	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	SeminormedRing.toPseudoMetricSpace	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	NormedField.toNormedCommRing	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.toTopologicalSpace	type	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Field	type	class	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	NumberField	type	class	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Not	type	propdef	core
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	AbsoluteValue.IsEquiv	type	propdef	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.Completion	type	def	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	AbsoluteValue	type	structure	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Continuous	value	structure	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Continuous.comp	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	Function.comp	value	def	core
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	continuous_pi	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	CauchyFilter.pureCauchy	value	def	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.Completion.denseRange_coe	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	AbsoluteValue.Completion	value	abbrev	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	DenseRange.piMap	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	CauchyFilter.instUniformSpace	value	instance	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	AbsoluteValue.denseRange_algebraMap_pi	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	UniformSpace.Completion.continuous_coe	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	SeparationQuotient.mk	value	def	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	continuous_apply	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	DenseRange.comp	value	theorem	mathlib
+EDGE	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	CauchyFilter	value	def	mathlib
+THM	OAI.NumberTheory.Approximation.Weak.HodgeWeakApproximation.weak_approximation	CONTENT	DenseRange.piMap	-	-	-	false	false	0	8	DenseRange	-
+END	OAI.NumberTheory.Approximation.Weak	1

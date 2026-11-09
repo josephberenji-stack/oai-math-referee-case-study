@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.WeakPinned.mainStatement	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.WeakPinned.mainStatement	PASS	4410 constants reached, no stand-in
+REFEREE	L1u	OAI.WeakPinned.mainStatement	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WeakPinned.mainStatement	PASS	no hypotheses
+REFEREE	L3	OAI.WeakPinned.mainStatement	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WeakPinned.mainStatement	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WeakPinned.mainStatement	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WeakPinned.mainStatement	INFO	not a registered target statement
+REFEREE	R1	OAI.WeakPinned.mainStatement	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.WeakPinned.mainStatement	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WeakPinned.mainStatement	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WeakPinned.mainStatement	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WeakPinned.mainStatement	REVIEW	computed class A?
+REFEREE	L0	OAI.WeakPinned.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.WeakPinned.main	PASS	4411 constants reached, no stand-in
+REFEREE	L1u	OAI.WeakPinned.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WeakPinned.main	PASS	0 < s :: side condition || unbuilt=0
+REFEREE	L3	OAI.WeakPinned.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WeakPinned.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WeakPinned.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WeakPinned.main	INFO	not a registered target statement
+REFEREE	R1	OAI.WeakPinned.main	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.WeakPinned.main	PASS	top step OAI.WeakPinned.mainStatement carries content
+REFEREE	R5	OAI.WeakPinned.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WeakPinned.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WeakPinned.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.PinnedDistances.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.PinnedDistances.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Geometry.PinnedDistances.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.PinnedDistances.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['main'])

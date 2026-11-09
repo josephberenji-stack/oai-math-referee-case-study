@@ -1,0 +1,205 @@
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	208 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	IsScalarTower k A B :: side condition | Algebra.FormallySmooth A B :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	reaches TrivSqZeroExt.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	CONTENT	reaches TrivSqZeroExt.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension.Construction.exists_derivation_extension_of_formallySmooth	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	389 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	CharZero k :: side condition | IsAlgClosed k :: side condition | LieAlgebra.IsSolvable L :: side condition | FiniteDimensional k V :: side condition | LieModule k L V :: side condition | Function.Injective ⇑ρ :: side condition | ∀ (W : LieSubmodule k L V) (g : H), ∀ x ∈ W, (ρ g) x ∈ W :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	reaches Nat.strong_induction_on
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers.Construction.group_solvable_of_preserves_lie_submodules	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	150 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	IsGalois k K :: side condition | ∀ (i : Fin n), (Matrix.toLin' (S.map ⇑(algebraMap k K))) (b i) = w i • b i :: side condition | ∀ (i : Fin n), (Matrix.toLin' T) (b i) = ψ (w i) • b i :: side condition | ∀ (σ : Gal(K/k)) (x : K), σ (ψ x) = ψ (σ x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	reaches LinearEquiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_descends	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	74 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	(Matrix.toLin' A) x = a • x :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	reaches Matrix.toLin'_apply
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_eigenvector_coefficient_map	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	134 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	∀ (i : Fin n), (Matrix.toLin' S) (b i) = w i • b i :: side condition | ∀ (i : Fin n), (Matrix.toLin' T) (b i) = ψ (w i) • b i :: side condition | S.map ⇑σ = S :: side condition | ∀ (x : K), σ (ψ x) = ψ (σ x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	reaches LinearEquiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent.Construction.matrix_spectral_function_automorphism	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	534 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	FiniteDimensional ℝ L :: side condition | (↑A).IsSymmetric :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	reaches LinearMap.IsSymmetric.apply_eigenvectorBasis
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	CONTENT	reaches LinearMap.IsSymmetric.apply_eigenvectorBasis
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.symmetric_norm_le_exponentials	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	196 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	∀ (i : ι), A (b i) = w i • b i :: side condition | 0 ≤ C :: side condition | ∀ (i : ι), |w i| ≤ C :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	reaches ContinuousLinearMap.opNorm_le_bound
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	CONTENT	reaches ContinuousLinearMap.opNorm_le_bound
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.norm_le_card_mul_eigenvalue_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	341 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	FiniteDimensional ℝ L :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	reaches FiniteDimensional.complete
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	CONTENT	reaches FiniteDimensional.complete
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_exp	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	124 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	reaches Matrix.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	CONTENT	reaches Matrix.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.basisSpectralEnd_toMatrix	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	348 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	FiniteDimensional ℝ L :: side condition | ∀ (i : Fin m), A (b i) = w i • b i :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	reaches Module.Basis.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential.Construction.exp_apply_eigenbasis	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	INFO	5 theorems checked
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['derivationDualHom', 'exists_derivation_extension_of_formallySmooth'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.SmoothDerivationExtension	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['group_solvable_of_preserves_lie_submodules'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.SolvableLiePreservers	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['matrix_eigenvector_coefficient_map', 'matrix_spectral_function_automorphism', 'matrix_spectral_function_descends'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralGaloisDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['basisSpectralEnd_toMatrix', 'basisSpectralEnd_exp', 'exp_apply_eigenbasis', 'norm_le_card_mul_eigenvalue_bound'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattices.SpectralOperatorExponential	PASS	not under a Mathlib folder
+exit 1

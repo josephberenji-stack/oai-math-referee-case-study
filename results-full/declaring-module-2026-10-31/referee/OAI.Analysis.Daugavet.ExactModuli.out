@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ExactModuli.no_equivalent_auc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ExactModuli.no_equivalent_auc	PASS	914 constants reached, no stand-in
+REFEREE	L1u	OAI.ExactModuli.no_equivalent_auc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ExactModuli.no_equivalent_auc	REVIEW	¬FiniteDimensional ℝ X :: side condition | OAI.ExactModuli.UnitSliceProperty X :: carries a project proposition | OAI.ExactModuli.EquivalentNorm N :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ExactModuli.no_equivalent_auc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ExactModuli.no_equivalent_auc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ExactModuli.no_equivalent_auc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ExactModuli.no_equivalent_auc	INFO	not a registered target statement
+REFEREE	R1	OAI.ExactModuli.no_equivalent_auc	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ExactModuli.no_equivalent_auc	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ExactModuli.no_equivalent_auc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ExactModuli.no_equivalent_auc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ExactModuli.no_equivalent_auc	REVIEW	computed class A?
+REFEREE	L0	OAI.ExactModuli.exact_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ExactModuli.exact_main	PASS	1306 constants reached, no stand-in
+REFEREE	L1u	OAI.ExactModuli.exact_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ExactModuli.exact_main	REVIEW	MeasureTheory.IsProbabilityMeasure μ :: side condition | IsClosed ↑E :: side condition | ¬FiniteDimensional ℝ ↥E :: side condition | OAI.ExactModuli.MeasurePrecompactBall μ E :: carries a project proposition | OAI.ExactModuli.Daugavet ↥E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ExactModuli.exact_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ExactModuli.exact_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ExactModuli.exact_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ExactModuli.exact_main	INFO	not a registered target statement
+REFEREE	R1	OAI.ExactModuli.exact_main	PASS	reaches SeminormedAddCommGroup.toIsTopologicalAddGroup
+REFEREE	R7	OAI.ExactModuli.exact_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ExactModuli.exact_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ExactModuli.exact_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ExactModuli.exact_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Daugavet.ExactModuli	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.Daugavet.ExactModuli	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.Daugavet.ExactModuli	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Daugavet.ExactModuli	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['exact_main'])

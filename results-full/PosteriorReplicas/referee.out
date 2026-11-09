@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PosteriorReplicas.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PosteriorReplicas.main	PASS	4690 constants reached, no stand-in
+REFEREE	L1u	OAI.PosteriorReplicas.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PosteriorReplicas.main	PASS	no hypotheses
+REFEREE	L3	OAI.PosteriorReplicas.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PosteriorReplicas.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PosteriorReplicas.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PosteriorReplicas.main	INFO	not a registered target statement
+REFEREE	R1	OAI.PosteriorReplicas.main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PosteriorReplicas.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PosteriorReplicas.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PosteriorReplicas.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PosteriorReplicas.main	REVIEW	computed class A?
+REFEREE	L0	OAI.PosteriorReplicas.source_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PosteriorReplicas.source_main	PASS	4849 constants reached, no stand-in
+REFEREE	L1u	OAI.PosteriorReplicas.source_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PosteriorReplicas.source_main	PASS	no hypotheses
+REFEREE	L3	OAI.PosteriorReplicas.source_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PosteriorReplicas.source_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PosteriorReplicas.source_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PosteriorReplicas.source_main	INFO	not a registered target statement
+REFEREE	R1	OAI.PosteriorReplicas.source_main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PosteriorReplicas.source_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PosteriorReplicas.source_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PosteriorReplicas.source_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PosteriorReplicas.source_main	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.PosteriorReplicas.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.PosteriorReplicas.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.PosteriorReplicas.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.PosteriorReplicas.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['main', 'source_main'])

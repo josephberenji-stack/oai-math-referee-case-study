@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.C0Absorption.concrete_metricUniversal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.C0Absorption.concrete_metricUniversal	PASS	2502 constants reached, no stand-in
+REFEREE	L1u	OAI.C0Absorption.concrete_metricUniversal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.C0Absorption.concrete_metricUniversal	PASS	no hypotheses
+REFEREE	L3	OAI.C0Absorption.concrete_metricUniversal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.C0Absorption.concrete_metricUniversal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.C0Absorption.concrete_metricUniversal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.C0Absorption.concrete_metricUniversal	INFO	not a registered target statement
+REFEREE	R1	OAI.C0Absorption.concrete_metricUniversal	PASS	reaches Finsupp.isScalarTower
+REFEREE	R7	OAI.C0Absorption.concrete_metricUniversal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.C0Absorption.concrete_metricUniversal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.C0Absorption.concrete_metricUniversal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.C0Absorption.concrete_metricUniversal	REVIEW	computed class A?
+REFEREE	L0	OAI.C0Absorption.main_result	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.C0Absorption.main_result	PASS	3575 constants reached, no stand-in
+REFEREE	L1u	OAI.C0Absorption.main_result	INFO	no opaque with a value reached
+REFEREE	L2	OAI.C0Absorption.main_result	PASS	no hypotheses
+REFEREE	L3	OAI.C0Absorption.main_result	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.C0Absorption.main_result	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.C0Absorption.main_result	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.C0Absorption.main_result	INFO	not a registered target statement
+REFEREE	R1	OAI.C0Absorption.main_result	PASS	reaches IsSemitopologicalSemiring.toContinuousAdd
+REFEREE	R7	OAI.C0Absorption.main_result	PASS	top step is not a project theorem
+REFEREE	R5	OAI.C0Absorption.main_result	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.C0Absorption.main_result	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.C0Absorption.main_result	REVIEW	computed class A?
+REFEREE	L0	OAI.C0Absorption.BiLip.comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.C0Absorption.BiLip.comp	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.C0Absorption.BiLip.comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.C0Absorption.BiLip.comp	REVIEW	OAI.C0Absorption.BiLip g :: carries a project proposition | OAI.C0Absorption.BiLip f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.C0Absorption.BiLip.comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.C0Absorption.BiLip.comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.C0Absorption.BiLip.comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.C0Absorption.BiLip.comp	INFO	not a registered target statement
+REFEREE	R1	OAI.C0Absorption.BiLip.comp	PASS	reaches LE.le.trans
+REFEREE	R7	OAI.C0Absorption.BiLip.comp	PASS	top step is not a project theorem
+REFEREE	R5	OAI.C0Absorption.BiLip.comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.C0Absorption.BiLip.comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.C0Absorption.BiLip.comp	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.C0Absorption.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.C0Absorption.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.C0Absorption.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.C0Absorption.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['BiLip.comp', 'concrete_metricUniversal', 'main_result'])

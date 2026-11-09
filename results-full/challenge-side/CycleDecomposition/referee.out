@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.ErdosGallai.erdos_gallai	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ErdosGallai.erdos_gallai	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.ErdosGallai.erdos_gallai	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ErdosGallai.erdos_gallai	PASS	no hypotheses
+REFEREE	L3	OAI.ErdosGallai.erdos_gallai	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ErdosGallai.erdos_gallai	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ErdosGallai.erdos_gallai	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ErdosGallai.erdos_gallai	INFO	not a registered target statement
+REFEREE	R1	OAI.ErdosGallai.erdos_gallai	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.ErdosGallai.erdos_gallai	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ErdosGallai.erdos_gallai	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ErdosGallai.erdos_gallai	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ErdosGallai.erdos_gallai	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CycleDecomposition	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CycleDecomposition	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CycleDecomposition	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CycleDecomposition	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['CycleOrSingleEdge', 'EdgeDecomposition', 'MainStatement', 'erdos_gallai'])

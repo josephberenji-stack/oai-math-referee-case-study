@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.Elasticity.source_global_uniqueness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Elasticity.source_global_uniqueness	PASS	7708 constants reached, no stand-in
+REFEREE	L1u	OAI.Elasticity.source_global_uniqueness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Elasticity.source_global_uniqueness	REVIEW	OAI.Elasticity.SourceDomain Ω :: carries a project proposition | OAI.Elasticity.Admissible Ω lam₁ mu₁ :: carries a project proposition | OAI.Elasticity.Admissible Ω lam₂ mu₂ :: carries a project proposition | OAI.Elasticity.DN Ω lam₁ mu₁ = OAI.Elasticity.DN Ω lam₂ mu₂ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Elasticity.source_global_uniqueness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Elasticity.source_global_uniqueness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Elasticity.source_global_uniqueness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Elasticity.source_global_uniqueness	INFO	not a registered target statement
+REFEREE	R1	OAI.Elasticity.source_global_uniqueness	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Elasticity.source_global_uniqueness	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Elasticity.source_global_uniqueness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Elasticity.source_global_uniqueness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Elasticity.source_global_uniqueness	REVIEW	computed class A?
+REFEREE	L0	OAI.Elasticity.global_uniqueness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Elasticity.global_uniqueness	PASS	7713 constants reached, no stand-in
+REFEREE	L1u	OAI.Elasticity.global_uniqueness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Elasticity.global_uniqueness	PASS	no hypotheses
+REFEREE	L3	OAI.Elasticity.global_uniqueness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Elasticity.global_uniqueness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Elasticity.global_uniqueness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Elasticity.global_uniqueness	INFO	not a registered target statement
+REFEREE	R1	OAI.Elasticity.global_uniqueness	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Elasticity.global_uniqueness	PASS	top step OAI.Elasticity.source_global_uniqueness carries content
+REFEREE	R5	OAI.Elasticity.global_uniqueness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Elasticity.global_uniqueness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Elasticity.global_uniqueness	REVIEW	computed class A?
+REFEREE	L0	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	3651 constants reached, no stand-in
+REFEREE	L1u	OAI.ElasticityBoundaryPacket.admissible_common_exterior	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ElasticityBoundaryPacket.admissible_common_exterior	REVIEW	OAI.Elasticity.SourceDomain Ω :: carries a project proposition | OAI.Elasticity.Admissible Ω l₁ m₁ :: carries a project proposition | OAI.Elasticity.Admissible Ω l₂ m₂ :: carries a project proposition | OAI.Elasticity.DN Ω l₁ m₁ = OAI.Elasticity.DN Ω l₂ m₂ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ElasticityBoundaryPacket.admissible_common_exterior	INFO	not a registered target statement
+REFEREE	R1	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ElasticityBoundaryPacket.admissible_common_exterior	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ElasticityBoundaryPacket.admissible_common_exterior	REVIEW	computed class A?
+REFEREE	L0	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	151 constants reached, no stand-in
+REFEREE	L1u	OAI.Elasticity.exteriorConstant_of_eq_const	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	ContDiff ℝ (↑⊤) f :: side condition (project data) | IsCompact K :: side condition (project data) | ∀ x ∉ K, f x = c :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Elasticity.exteriorConstant_of_eq_const	INFO	not a registered target statement
+REFEREE	R1	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Elasticity.exteriorConstant_of_eq_const	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Elasticity.exteriorConstant_of_eq_const	REVIEW	computed class A?
+REFEREE	L4	OAI.MathematicalPhysics.Elasticity.Uniqueness	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MathematicalPhysics.Elasticity.Uniqueness	INFO	4 theorems checked
+REFEREE	L5	OAI.MathematicalPhysics.Elasticity.Uniqueness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MathematicalPhysics.Elasticity.Uniqueness	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['exteriorConstant_of_eq_const', 'Elasticity.global_uniqueness'])

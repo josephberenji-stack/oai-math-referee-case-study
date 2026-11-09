@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SK.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SK.main	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.SK.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SK.main	PASS	1 < β :: side condition || unbuilt=0
+REFEREE	L3	OAI.SK.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SK.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SK.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SK.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SK.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SK.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SK.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SK.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SK.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SKBarriers	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SKBarriers	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SKBarriers	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SKBarriers	FAIL	no module docstring /-! … -/; 20 public declarations without a docstring (['Config', 'Edge', 'Disorder', 'spin'])

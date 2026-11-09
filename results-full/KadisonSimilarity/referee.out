@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.KadisonSimilarity.similarityTheorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KadisonSimilarity.similarityTheorem	REVIEW	[opaque with a value OAI.KadisonSimilarity.cyclicCommonEmbeddingData]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.KadisonSimilarity.similarityTheorem	PASS	proof-only: [OAI.KadisonSimilarity.cyclicCommonEmbeddingData]
+REFEREE	L2	OAI.KadisonSimilarity.similarityTheorem	PASS	no hypotheses
+REFEREE	L3	OAI.KadisonSimilarity.similarityTheorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KadisonSimilarity.similarityTheorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KadisonSimilarity.similarityTheorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KadisonSimilarity.similarityTheorem	INFO	not a registered target statement
+REFEREE	R1	OAI.KadisonSimilarity.similarityTheorem	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.KadisonSimilarity.similarityTheorem	PASS	no single top step
+REFEREE	R5	OAI.KadisonSimilarity.similarityTheorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KadisonSimilarity.similarityTheorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KadisonSimilarity.similarityTheorem	REVIEW	computed class A?
+REFEREE	L0	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	REVIEW	[opaque with a value OAI.KadisonSimilarity.cyclicCommonEmbeddingData]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	proof-only: [OAI.KadisonSimilarity.cyclicCommonEmbeddingData]
+REFEREE	L2	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	no hypotheses
+REFEREE	L3	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	reaches IsTopologicalAddGroup.toContinuousAdd
+REFEREE	R7	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	top step OAI.KadisonSimilarity.similarityTheorem carries content
+REFEREE	R5	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KadisonSimilarity.kirchbergDerivationCriterion_proved	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.KadisonSimilarity.UnconditionalSimilarity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.KadisonSimilarity.UnconditionalSimilarity	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.KadisonSimilarity.UnconditionalSimilarity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.KadisonSimilarity.UnconditionalSimilarity	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

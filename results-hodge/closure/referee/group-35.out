@@ -1,0 +1,583 @@
+REFEREE	L0	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	92 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition | RingHom.IsStandardSmoothOfRelativeDimension n (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	CONTENT	reaches le_top._simp_2
+REFEREE	R7	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.smoothOfRelativeDimension_affineOpen_of_isStandardSmooth	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	70 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition | AlgebraicGeometry.IsAffineOpen V :: side condition | V ≤ (TopologicalSpace.Opens.map f.base).obj U :: side condition | RingHom.IsStandardSmoothOfRelativeDimension n (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	reaches AlgebraicGeometry.HasRingHomProperty.iff_of_isAffine
+REFEREE	R1k	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	CONTENT	reaches AlgebraicGeometry.HasRingHomProperty.iff_of_isAffine
+REFEREE	R7	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.smoothOfRelativeDimension_resLE_of_isStandardSmooth	REVIEW	computed class A?
+REFEREE	L0	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	915 constants reached, no stand-in
+REFEREE	L1u	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	RingHom.IsStandardSmoothOfRelativeDimension d f :: side condition | P.IsPrime :: side condition || unbuilt=0
+REFEREE	L3	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	INFO	not a registered target statement
+REFEREE	IFF	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	INFO	not an iff
+REFEREE	R1	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R1k	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	CONTENT	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R7	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	top step is not a project theorem
+REFEREE	R1i	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	INFO	no supplied input
+REFEREE	DUP	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	2 project definitions, no twins
+REFEREE	SHADOW	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.IsStandardSmoothOfRelativeDimension.height_add_ringKrullDim_quotient_eq_complex	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	57 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R1k	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	CONTENT	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R7	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.orderKrullDim_affineOpen_eq_ringKrullDim	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	310 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	reaches isEmpty_or_nonempty
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	CONTENT	reaches isEmpty_or_nonempty
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	top step AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le carries content
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_le_complex	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	317 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	reaches Order.krullDim_eq_iSup_height_add_coheight_of_nonempty
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	CONTENT	reaches Order.krullDim_eq_iSup_height_add_coheight_of_nonempty
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_le_complex	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	326 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition | Order.coheight x = ↑p :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	reaches ENat.le_sub_of_add_le_right
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	CONTENT	reaches ENat.le_sub_of_add_le_right
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.height_le_sub_of_coheight_eq	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	134 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	∀ (x : ↥X), ∃ U, x ∈ U ∧ Order.krullDim ↥↑U ≤ ↑d :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	reaches isEmpty_or_nonempty
+REFEREE	R1k	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	CONTENT	reaches isEmpty_or_nonempty
+REFEREE	R7	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.Scheme.orderKrullDim_le_of_exists_open_orderKrullDim_le	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	322 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	reaches le_add_left
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	CONTENT	reaches le_add_left
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.coheight_le_complex	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	412 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsAffineOpen U :: side condition | AlgebraicGeometry.IsAffineOpen V :: side condition | Nonempty ↥↑U :: side condition | Nonempty ↥↑V :: side condition | RingHom.IsStandardSmoothOfRelativeDimension n (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition (project data) | RingHom.IsStandardSmoothOfRelativeDimension m (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	CONTENT	reaches le_top._simp_2
+REFEREE	R7	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_eq	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	441 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.Smooth f :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	2 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.dim_eq	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	515 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.Smooth f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	2 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.of_isIntegral	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	85 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition | RingHom.IsStandardSmoothOfRelativeDimension n (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	CONTENT	reaches le_top._simp_2
+REFEREE	R7	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.isStandardSmoothOfRelativeDimension_appLE_basicOpen	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	343 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition | Nonempty ↥↑U :: side condition | RingHom.IsStandardSmoothOfRelativeDimension n (CommRingCat.Hom.hom (AlgebraicGeometry.Sche :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	CONTENT	reaches le_top._simp_2
+REFEREE	R7	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.orderKrullDim_eq_of_isStandardSmoothOfRelativeDimension	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.orderKrullDim_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.orderKrullDim_mono	PASS	46 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.orderKrullDim_mono	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.orderKrullDim_mono	PASS	U ≤ V :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.orderKrullDim_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.orderKrullDim_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.orderKrullDim_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.orderKrullDim_mono	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.orderKrullDim_mono	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.orderKrullDim_mono	PASS	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R1k	AlgebraicGeometry.orderKrullDim_mono	CONTENT	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R7	AlgebraicGeometry.orderKrullDim_mono	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.orderKrullDim_mono	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.orderKrullDim_mono	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.orderKrullDim_mono	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.orderKrullDim_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.orderKrullDim_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.orderKrullDim_mono	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	25 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	φ.IsStandardSmooth :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	reaches Algebra.SubmersivePresentation.isStandardSmoothOfRelativeDimension
+REFEREE	R1k	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	CONTENT	reaches Algebra.SubmersivePresentation.isStandardSmoothOfRelativeDimension
+REFEREE	R7	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.RingHom.IsStandardSmooth.exists_isStandardSmoothOfRelativeDimension	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	442 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.Smooth f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	CONTENT	reaches AlgebraicGeometry.IsIntegral.nonempty
+REFEREE	R7	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.Smooth.exists_smoothOfRelativeDimension	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	56 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	reaches AlgebraicGeometry.Scheme.Hom.smoothLocus_eq_top_iff
+REFEREE	R1k	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	CONTENT	reaches AlgebraicGeometry.locallyOfFinitePresentation_comp
+REFEREE	R7	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.Scheme.Hom.smooth_restrict_smoothLocus	REVIEW	computed class A?
+REFEREE	L0	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	239 constants reached, no stand-in
+REFEREE	L1u	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	RingHom.IsStandardSmoothOfRelativeDimension d f :: side condition | P.IsMaximal :: side condition || unbuilt=0
+REFEREE	L3	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	INFO	not a registered target statement
+REFEREE	IFF	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	INFO	not an iff
+REFEREE	R1	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R1k	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	CONTENT	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R7	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	top step is not a project theorem
+REFEREE	R1i	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	INFO	no supplied input
+REFEREE	DUP	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	0 project definitions, no twins
+REFEREE	SHADOW	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.IsStandardSmoothOfRelativeDimension.height_eq_of_isMaximal	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	427 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	reaches le_antisymm
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	CONTENT	reaches le_antisymm
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.orderKrullDim_eq_complex	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	351 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d f :: side condition | IsClosed {x} :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	reaches specializes_iff_mem_closure
+REFEREE	R1k	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	CONTENT	reaches specializes_iff_mem_closure
+REFEREE	R7	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.SmoothOfRelativeDimension.height_add_coheight_eq_of_isClosed	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	52 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	AlgebraicGeometry.IsAffineOpen U :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	reaches AlgebraicGeometry.idealHeight_eq_coheight
+REFEREE	R1k	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	CONTENT	reaches AlgebraicGeometry.idealHeight_eq_coheight
+REFEREE	R7	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	0 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.IsAffineOpen.primeIdealOf_height_eq_coheight	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	49 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	CONTENT	reaches AlgebraicGeometry.IsClosedImmersion.instSubschemeι
+REFEREE	R7	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	REVIEW	packaged: the top step is the structural lemma _private.HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension.0.AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion._proof_1; the content is in its arguments
+REFEREE	R1i	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSingularLocusι_isClosedImmersion	REVIEW	computed class DEF
+REFEREE	L0	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	109 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSingularLocus_isReduced	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSingularLocus_isReduced	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSingularLocus_isReduced	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	reaches AlgebraicGeometry.IsReduced.iff_of_openCover
+REFEREE	R1k	AlgebraicGeometry.reducedSingularLocus_isReduced	CONTENT	reaches AlgebraicGeometry.IsReduced.iff_of_openCover
+REFEREE	R7	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	top step _private.HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension.0.AlgebraicGeometry.reducedSingularLocus_isReduced._proof_1 carries content
+REFEREE	R1i	AlgebraicGeometry.reducedSingularLocus_isReduced	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	3 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSingularLocus_isReduced	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSingularLocus_isReduced	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	221 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition | PerfectField K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | topologicalKrullDim ↥X ≤ ↑n :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	reaches Order.krullDim_lt_coe_iff
+REFEREE	R1k	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	CONTENT	reaches Order.krullDim_lt_coe_iff
+REFEREE	R7	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	top step topologicalKrullDim_lt_of_isClosed_of_ne_univ carries content
+REFEREE	R1i	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	3 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	74 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.singularLocusClosed_ne_top	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition | PerfectField K :: side condition | AlgebraicGeometry.IsReduced X :: side condition | Nonempty ↥X :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.singularLocusClosed_ne_top	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.singularLocusClosed_ne_top	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	reaches Dense.nonempty
+REFEREE	R1k	AlgebraicGeometry.singularLocusClosed_ne_top	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.singularLocusClosed_ne_top	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.singularLocusClosed_ne_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.singularLocusClosed_ne_top	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	97 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition | T ≤ S :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	reaches Topology.IsInducing.topologicalKrullDim_le
+REFEREE	R1k	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	4 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.topologicalKrullDim_reducedClosedSmoothPiece_le	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	398 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	AlgebraicGeometry.Smooth g :: side condition | topologicalKrullDim ↥Z < ↑m :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	reaches le_top._simp_2
+REFEREE	R1k	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	CONTENT	reaches le_top._simp_2
+REFEREE	R7	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	1 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.Smooth.exists_affine_relativeDimension_lt_of_topologicalKrullDim_lt	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	668 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	REVIEW	AlgebraicGeometry.IsIntegral Y.left :: side condition | AlgebraicGeometry.Smooth Y.hom :: side condition | AlgebraicGeometry.IsProjective Y.hom :: carries a project proposition | AlgebraicGeometry.SmoothOfRelativeDimension d Y.hom :: side condition | Order.coheight x = ↑p :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	reaches Order.krullDim_lt_coe_iff
+REFEREE	R1k	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	CONTENT	reaches Order.krullDim_lt_coe_iff
+REFEREE	R7	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	top step AlgebraicGeometry.topologicalKrullDim_reducedSingularLocus_lt carries content
+REFEREE	R1i	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	10 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.topologicalKrullDim_cycleComponent_singularLocus_lt	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.range_reducedSingularLocusι	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.range_reducedSingularLocusι	PASS	65 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.range_reducedSingularLocusι	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.range_reducedSingularLocusι	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.range_reducedSingularLocusι	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.range_reducedSingularLocusι	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.range_reducedSingularLocusι	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.range_reducedSingularLocusι	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.range_reducedSingularLocusι	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.range_reducedSingularLocusι	PASS	reaches AlgebraicGeometry.Scheme.IdealSheafData.range_subschemeι
+REFEREE	R1k	AlgebraicGeometry.range_reducedSingularLocusι	CONTENT	reaches AlgebraicGeometry.Scheme.IdealSheafData.range_subschemeι
+REFEREE	R7	AlgebraicGeometry.range_reducedSingularLocusι	PASS	top step AlgebraicGeometry.range_reducedClosedSubschemeι carries content
+REFEREE	R1i	AlgebraicGeometry.range_reducedSingularLocusι	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.range_reducedSingularLocusι	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.range_reducedSingularLocusι	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.range_reducedSingularLocusι	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.range_reducedSingularLocusι	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.range_reducedSingularLocusι	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	PASS	all 2 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	INFO	1 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	INFO	6 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	INFO	8 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	INFO	1 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	INFO	4 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	INFO	8 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.AffineRelativeDimension	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.CatenaryDimension	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.DimensionFormula	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Equidimensional	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.Locus	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.PointwiseDimension	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['range_reducedSingularLocusι'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Smooth.SingularLocusDimension	PASS	not under a Mathlib folder
+exit 1

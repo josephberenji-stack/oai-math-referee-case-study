@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	REVIEW	[opaque with a value OAI.UniqueGamesTheorem.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	REVIEW	statement-level: [OAI.UniqueGamesTheorem.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	REVIEW	0 < δ :: side condition | OAI.PerfectCompleteness.FixedParameters.Parameters δ hδ :: carries a project proposition | ¬OAI.PerfectCompleteness.BinaryLanguage.language input :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	top step OAI.PerfectCompleteness.FixedPreliminaryValue.value_le_of_no_large_strategy carries content
+REFEREE	R5	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PerfectCompleteness.Theorem11.preliminary_value_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PerfectCompleteness.Theorem11.exists_reduction	REVIEW	[opaque with a value OAI.UniqueGamesTheorem.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	proof-only: [OAI.UniqueGamesTheorem.Foundations.PCP.RoundTables.fixedWalkParameter]
+REFEREE	L2	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	0 < δ :: side condition | δ < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PerfectCompleteness.Theorem11.exists_reduction	INFO	not a registered target statement
+REFEREE	R1	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PerfectCompleteness.Theorem11.exists_reduction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PerfectCompleteness.Theorem11.exists_reduction	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.PerfectCompleteness.Theorem11	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.PerfectCompleteness.Theorem11	INFO	2 theorems checked
+REFEREE	L5	OAI.Computability.PerfectCompleteness.Theorem11	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.PerfectCompleteness.Theorem11	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['preliminary_value_le', 'exists_reduction'])

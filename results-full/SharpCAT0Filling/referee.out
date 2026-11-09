@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.CAT0Fillings.sharp_integral_filling	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CAT0Fillings.sharp_integral_filling	PASS	7947 constants reached, no stand-in
+REFEREE	L1u	OAI.CAT0Fillings.sharp_integral_filling	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CAT0Fillings.sharp_integral_filling	REVIEW	BorelSpace X :: side condition | ProperSpace X :: side condition | OAI.CAT0Fillings.IsCAT0 X :: carries a project proposition | 2 ≤ n :: side condition | OAI.CAT0Fillings.CompactlySupported ↑T :: carries a project proposition | OAI.CAT0Fillings.IsCycle ↑T :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CAT0Fillings.sharp_integral_filling	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CAT0Fillings.sharp_integral_filling	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CAT0Fillings.sharp_integral_filling	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CAT0Fillings.sharp_integral_filling	INFO	not a registered target statement
+REFEREE	R1	OAI.CAT0Fillings.sharp_integral_filling	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CAT0Fillings.sharp_integral_filling	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CAT0Fillings.sharp_integral_filling	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CAT0Fillings.sharp_integral_filling	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CAT0Fillings.sharp_integral_filling	REVIEW	computed class A?
+REFEREE	L0	OAI.CAT0Fillings.proper_filling_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CAT0Fillings.proper_filling_bound	PASS	7940 constants reached, no stand-in
+REFEREE	L1u	OAI.CAT0Fillings.proper_filling_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CAT0Fillings.proper_filling_bound	REVIEW	BorelSpace X :: side condition | ProperSpace X :: side condition | Nonempty X :: side condition | OAI.CAT0Fillings.IsCAT0 X :: carries a project proposition | OAI.CAT0Fillings.IsIntegral (k + 2) T :: carries a project proposition | OAI.CAT0Fillings.CompactlySupported T :: carries a project proposition | OAI.CAT0Fillings.boundarySucc T = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CAT0Fillings.proper_filling_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CAT0Fillings.proper_filling_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CAT0Fillings.proper_filling_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CAT0Fillings.proper_filling_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.CAT0Fillings.proper_filling_bound	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CAT0Fillings.proper_filling_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CAT0Fillings.proper_filling_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CAT0Fillings.proper_filling_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CAT0Fillings.proper_filling_bound	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.CAT0Fillings.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.CAT0Fillings.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Geometry.CAT0Fillings.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.CAT0Fillings.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['proper_filling_bound', 'sharp_integral_filling'])

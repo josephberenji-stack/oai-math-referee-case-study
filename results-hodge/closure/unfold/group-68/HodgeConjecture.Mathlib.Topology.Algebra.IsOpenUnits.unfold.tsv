@@ -1,0 +1,109 @@
+SCHEMA	1	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits
+DECL	continuousOn_ringInverse	theorem	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	-	∀ {M : Type u_2} [inst : MonoidWithZero M] [inst_1 : TopologicalSpace M] [IsOpenUnits M], ContinuousOn Ring.inverse {x | IsUnit x}
+EDGE	continuousOn_ringInverse	Set.ofPred	type	def	mathlib
+EDGE	continuousOn_ringInverse	IsUnit	type	propdef	mathlib
+EDGE	continuousOn_ringInverse	Ring.inverse	type	def	mathlib
+EDGE	continuousOn_ringInverse	TopologicalSpace	type	class	mathlib
+EDGE	continuousOn_ringInverse	MonoidWithZero	type	class	mathlib
+EDGE	continuousOn_ringInverse	IsOpenUnits	type	class	mathlib
+EDGE	continuousOn_ringInverse	ContinuousOn	type	propdef	mathlib
+EDGE	continuousOn_ringInverse	MonoidWithZero.toMonoid	type	instance	mathlib
+EDGE	continuousOn_ringInverse	Units.val	value	abbrev	mathlib
+EDGE	continuousOn_ringInverse	Eq.mpr	value	def	core
+EDGE	continuousOn_ringInverse	Continuous	value	structure	mathlib
+EDGE	continuousOn_ringInverse	Units.instTopologicalSpaceUnits	value	instance	mathlib
+EDGE	continuousOn_ringInverse	congrArg	value	theorem	core
+EDGE	continuousOn_ringInverse	Continuous.comp	value	theorem	mathlib
+EDGE	continuousOn_ringInverse	continuousOn_iff_continuous_domRestrict	value	theorem	mathlib
+EDGE	continuousOn_ringInverse	continuous_isUnit_unit	value	theorem	project
+EDGE	continuousOn_ringInverse	Function.comp	value	def	core
+EDGE	continuousOn_ringInverse	Membership.mem	value	propdef	core
+EDGE	continuousOn_ringInverse	Units	value	structure	mathlib
+EDGE	continuousOn_ringInverse	Set.Elem	value	abbrev	mathlib
+EDGE	continuousOn_ringInverse	Set.domRestrict	value	def	mathlib
+EDGE	continuousOn_ringInverse	id	value	def	core
+EDGE	continuousOn_ringInverse	Continuous.congr	value	theorem	mathlib
+EDGE	continuousOn_ringInverse	Ring.inverse_unit	value	theorem	mathlib
+EDGE	continuousOn_ringInverse	Inv.inv	value	def	core
+EDGE	continuousOn_ringInverse	True	value	inductive	core
+EDGE	continuousOn_ringInverse	eq_self	value	theorem	core
+EDGE	continuousOn_ringInverse	Units.continuous_coe_inv	value	theorem	mathlib
+EDGE	continuousOn_ringInverse	propext	value	axiom	core
+EDGE	continuousOn_ringInverse	of_eq_true	value	theorem	core
+EDGE	continuousOn_ringInverse	IsUnit.unit	value	def	mathlib
+EDGE	continuousOn_ringInverse	congrFun'	value	theorem	core
+EDGE	continuousOn_ringInverse	instTopologicalSpaceSubtype	value	instance	mathlib
+EDGE	continuousOn_ringInverse	Eq.symm	value	theorem	core
+EDGE	continuousOn_ringInverse	Subtype.val	value	abbrev	core
+EDGE	continuousOn_ringInverse	Eq	value	inductive	core
+EDGE	continuousOn_ringInverse	Set.instMembership	value	instance	mathlib
+EDGE	continuousOn_ringInverse	Units.instInv	value	instance	mathlib
+EDGE	continuousOn_ringInverse	Eq.trans	value	theorem	core
+EDGE	continuousOn_ringInverse	Subtype.property	value	theorem	core
+EDGE	continuousOn_ringInverse	Set	value	def	mathlib
+THM	continuousOn_ringInverse	CONTENT	continuousOn_iff_continuous_domRestrict	-	-	-	false	false	1	11	ContinuousOn	-
+DECL	Set.range_units_val	theorem	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	-	∀ {M : Type u_1} [inst : Monoid M], Set.range Units.val = {x | IsUnit x}
+EDGE	Set.range_units_val	Monoid	type	class	mathlib
+EDGE	Set.range_units_val	Units.val	type	abbrev	mathlib
+EDGE	Set.range_units_val	Set.ofPred	type	def	mathlib
+EDGE	Set.range_units_val	IsUnit	type	propdef	mathlib
+EDGE	Set.range_units_val	Units	type	structure	mathlib
+EDGE	Set.range_units_val	Set.range	type	def	mathlib
+EDGE	Set.range_units_val	Eq	type	inductive	core
+EDGE	Set.range_units_val	Set	type	def	mathlib
+EDGE	Set.range_units_val	Set.ext	value	theorem	mathlib
+EDGE	Set.range_units_val	Membership.mem	value	propdef	core
+EDGE	Set.range_units_val	Eq.rec	value	rec	core
+EDGE	Set.range_units_val	Exists.casesOn	value	abbrev	core
+EDGE	Set.range_units_val	Iff.intro	value	ctor	core
+EDGE	Set.range_units_val	Exists.intro	value	ctor	core
+EDGE	Set.range_units_val	IsUnit.unit	value	def	mathlib
+EDGE	Set.range_units_val	Units.isUnit	value	theorem	mathlib
+EDGE	Set.range_units_val	IsUnit.unit_spec	value	theorem	mathlib
+EDGE	Set.range_units_val	Set.instMembership	value	instance	mathlib
+THM	Set.range_units_val	CONTENT	Set.ext	-	-	-	false	false	0	3	Eq	-
+DECL	isOpen_setOf_isUnit	theorem	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	-	∀ (M : Type u_1) [inst : Monoid M] [inst_1 : TopologicalSpace M] [IsOpenUnits M], IsOpen {x | IsUnit x}
+EDGE	isOpen_setOf_isUnit	Monoid	type	class	mathlib
+EDGE	isOpen_setOf_isUnit	Set.ofPred	type	def	mathlib
+EDGE	isOpen_setOf_isUnit	IsUnit	type	propdef	mathlib
+EDGE	isOpen_setOf_isUnit	TopologicalSpace	type	class	mathlib
+EDGE	isOpen_setOf_isUnit	IsOpenUnits	type	class	mathlib
+EDGE	isOpen_setOf_isUnit	IsOpen	type	propdef	mathlib
+EDGE	isOpen_setOf_isUnit	Units.val	value	abbrev	mathlib
+EDGE	isOpen_setOf_isUnit	Units.instTopologicalSpaceUnits	value	instance	mathlib
+EDGE	isOpen_setOf_isUnit	Units	value	structure	mathlib
+EDGE	isOpen_setOf_isUnit	Eq.rec	value	rec	core
+EDGE	isOpen_setOf_isUnit	IsOpenUnits.isOpenEmbedding_unitsVal	value	theorem	mathlib
+EDGE	isOpen_setOf_isUnit	Set.range_units_val	value	theorem	project
+EDGE	isOpen_setOf_isUnit	Topology.IsOpenEmbedding.isOpen_range	value	theorem	mathlib
+EDGE	isOpen_setOf_isUnit	Set.range	value	def	mathlib
+EDGE	isOpen_setOf_isUnit	Eq	value	inductive	core
+EDGE	isOpen_setOf_isUnit	Set	value	def	mathlib
+THM	isOpen_setOf_isUnit	CONTENT	Topology.IsOpenEmbedding.isOpen_range	-	-	-	false	false	1	5	IsOpen	-
+DECL	continuous_isUnit_unit	theorem	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	-	∀ {M : Type u_1} [inst : Monoid M] [inst_1 : TopologicalSpace M] [IsOpenUnits M], Continuous fun x => IsUnit.unit ⋯
+EDGE	continuous_isUnit_unit	Monoid	type	class	mathlib
+EDGE	continuous_isUnit_unit	Continuous	type	structure	mathlib
+EDGE	continuous_isUnit_unit	Units.instTopologicalSpaceUnits	type	instance	mathlib
+EDGE	continuous_isUnit_unit	Set.ofPred	type	def	mathlib
+EDGE	continuous_isUnit_unit	IsUnit	type	propdef	mathlib
+EDGE	continuous_isUnit_unit	Membership.mem	type	propdef	core
+EDGE	continuous_isUnit_unit	Units	type	structure	mathlib
+EDGE	continuous_isUnit_unit	Set.Elem	type	abbrev	mathlib
+EDGE	continuous_isUnit_unit	TopologicalSpace	type	class	mathlib
+EDGE	continuous_isUnit_unit	IsOpenUnits	type	class	mathlib
+EDGE	continuous_isUnit_unit	IsUnit.unit	type	def	mathlib
+EDGE	continuous_isUnit_unit	instTopologicalSpaceSubtype	type	instance	mathlib
+EDGE	continuous_isUnit_unit	Subtype.val	type	abbrev	core
+EDGE	continuous_isUnit_unit	Set.instMembership	type	instance	mathlib
+EDGE	continuous_isUnit_unit	Subtype.property	type	theorem	core
+EDGE	continuous_isUnit_unit	Set	type	def	mathlib
+EDGE	continuous_isUnit_unit	Iff.mpr	value	theorem	core
+EDGE	continuous_isUnit_unit	Units.val	value	abbrev	mathlib
+EDGE	continuous_isUnit_unit	continuous_subtype_val	value	theorem	mathlib
+EDGE	continuous_isUnit_unit	Topology.IsInducing.continuous_iff	value	theorem	mathlib
+EDGE	continuous_isUnit_unit	Function.comp	value	def	core
+EDGE	continuous_isUnit_unit	IsOpenUnits.isOpenEmbedding_unitsVal	value	theorem	mathlib
+EDGE	continuous_isUnit_unit	id	value	def	core
+EDGE	continuous_isUnit_unit	Topology.IsOpenEmbedding.isInducing	value	theorem	mathlib
+THM	continuous_isUnit_unit	CONTENT	Subtype.property	-	-	-	false	false	0	5	Continuous	-
+END	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	4

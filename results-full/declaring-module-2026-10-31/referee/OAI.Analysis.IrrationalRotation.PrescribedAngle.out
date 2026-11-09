@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	8291 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.prescribed_irrational_counterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	0 < θ :: side condition | θ < 1 :: side condition | Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.prescribed_irrational_counterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	top step OAI.Invariant233.Results.prescribed_irrational_counterexample_of_published_spectral_input carries content
+REFEREE	R5	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.prescribed_irrational_counterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.prescribed_irrational_counterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	1434 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.publishedRotationSpectralInput_of_irrational	REVIEW	computed class A?
+REFEREE	L0	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	8291 constants reached, no stand-in
+REFEREE	L1u	OAI.Invariant233.Results.prescribed_irrational_weight	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	Irrational θ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Invariant233.Results.prescribed_irrational_weight	INFO	not a registered target statement
+REFEREE	R1	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Invariant233.Results.prescribed_irrational_weight	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Invariant233.Results.prescribed_irrational_weight	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.IrrationalRotation.PrescribedAngle	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.IrrationalRotation.PrescribedAngle	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.IrrationalRotation.PrescribedAngle	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.IrrationalRotation.PrescribedAngle	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['publishedRotationSpectralInput_of_irrational', 'prescribed_irrational_counterexample', 'prescribed_irrational_weight'])

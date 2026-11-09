@@ -1,0 +1,32 @@
+{
+ "challenge": "TraceIdealTransportSupport",
+ "solution_module": "ComparatorChallenges.TraceIdealTransportSupport",
+ "theorems": [
+  "OAI.TraceConeClassification.TraceConeEquiv.idealOrderIso_finIdeal",
+  "OAI.TraceConeClassification.TraceConeEquiv.idealOrderIso_zeroIdeal",
+  "OAI.TraceConeClassification.closed_ideal_weight_exists",
+  "OAI.TraceConeClassification.ExtendedTrace.zero_mem_finiteSquareSet",
+  "OAI.TraceConeClassification.ExtendedTrace.star_mem_finiteSquareSet",
+  "OAI.TraceConeClassification.ExtendedTrace.smul_mem_finiteSquareSet",
+  "OAI.TraceConeClassification.ExtendedTrace.add_mem_finiteSquareSet",
+  "OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteSquareSet_left",
+  "OAI.TraceConeClassification.ExtendedTrace.isClosed_finiteIdeal",
+  "OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_left",
+  "OAI.TraceConeClassification.ExtendedTrace.mul_mem_finiteIdeal_right",
+  "OAI.TraceConeClassification.ExtendedTrace.lowerSemicontinuous_supportWeight",
+  "OAI.TraceConeClassification.ClosedIdeal.weight_idempotent",
+  "OAI.TraceConeClassification.ClosedIdeal.finiteIdeal_weight",
+  "OAI.TraceConeClassification.ClosedIdeal.le_iff_add_weight",
+  "OAI.TraceConeClassification.ExtendedTrace.idempotent_eq_weight",
+  "OAI.TraceConeClassification.closedIdealEquivOfAdditive_weight"
+ ],
+ "imports_oai": false,
+ "definition_holes": [],
+ "local_definitions": 45,
+ "exit": {
+  "referee": 1,
+  "census": 0,
+  "origins": 0
+ },
+ "seconds": 52
+}

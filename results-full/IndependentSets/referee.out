@@ -1,0 +1,108 @@
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	no hypotheses
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	no single top step
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.clauses_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	FAIL	OAI.LargeIndependentSets.SamplerParameters :: UNBUILT | 0 < q :: side condition || unbuilt=1
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	reaches instFintypeSum._proof_1
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	top step OAI.IndependentSetsGames.Foundations.Complexity.MachineFiniteAlphabet.composeBits carries content
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.finiteAlphabet	REVIEW	computed class C
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.complete	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.complete	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.complete	FAIL	OAI.LargeIndependentSets.SamplerParameters :: UNBUILT | 0 < q :: side condition | OAI.LargeIndependentSets.Formula :: UNBUILT | F.Satisfiable :: carries a project proposition || unbuilt=2
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.complete	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	no single top step
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.complete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.complete	REVIEW	computed class C
+REFEREE	L0	OAI.LargeIndependentSets.mainTheoremReal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.mainTheoremReal	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.mainTheoremReal	PASS	proof-only: [OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]
+REFEREE	L2	OAI.LargeIndependentSets.mainTheoremReal	PASS	0 < δ :: side condition | δ < 1 / 3 :: side condition || unbuilt=0
+REFEREE	L3	OAI.LargeIndependentSets.mainTheoremReal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.mainTheoremReal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.mainTheoremReal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.mainTheoremReal	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.mainTheoremReal	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LargeIndependentSets.mainTheoremReal	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LargeIndependentSets.mainTheoremReal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.mainTheoremReal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.mainTheoremReal	REVIEW	computed class A?
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.output_bound	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.output_bound	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.output_bound	FAIL	OAI.LargeIndependentSets.SamplerParameters :: UNBUILT | 0 < q :: side condition || unbuilt=1
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.output_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	reaches LE.le.trans
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.output_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.output_bound	REVIEW	computed class C
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	464 constants reached, no stand-in
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	no hypotheses
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	no single top step
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.normalize_bits	REVIEW	computed class A?
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	no hypotheses
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	reaches instFintypeSum._proof_1
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	top step OAI.IndependentSetsGames.Foundations.Complexity.MachineFiniteAlphabet.composeBits carries content
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.lcComputer_finiteAlphabet	REVIEW	computed class A?
+REFEREE	L0	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	REVIEW	[opaque with a value OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, opaque with a value OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	REVIEW	statement-level: [OAI.IndependentSetsGames.Foundations.PCP.TableIteration.degreeData, OAI.IndependentSetsGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	FAIL	OAI.LargeIndependentSets.SamplerParameters :: UNBUILT | 0 < q :: side condition || unbuilt=1
+REFEREE	L3	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	reaches AddSubgroup.normal_of_isAddCommutative
+REFEREE	R7	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	no single top step
+REFEREE	R5	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LargeIndependentSets.CompleteReduction.vertices_bound	REVIEW	computed class C
+REFEREE	L4	OAI.Combinatorics.IndependentSets.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.IndependentSets.Main	INFO	8 theorems checked
+REFEREE	L5	OAI.Combinatorics.IndependentSets.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.IndependentSets.Main	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['gapInput', 'gapView', 'lcComputer', 'lcComputer_finiteAlphabet'])

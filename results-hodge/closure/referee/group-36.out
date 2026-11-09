@@ -1,0 +1,421 @@
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	321 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	no hypotheses
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	reaches continuous_def
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	10 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.continuous_underlying_to_zariski	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	114 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	AlgebraicGeometry.IsImmersion (CategoryTheory.Over.Hom.left i) :: side condition | AlgebraicGeometry.LocallyOfFiniteType X.hom :: side condition | AlgebraicGeometry.LocallyOfFiniteType Y.hom :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	reaches CategoryTheory.Over.Hom.w
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	CONTENT	reaches Set.ext
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.range_map_of_isImmersion	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	73 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	AlgebraicGeometry.LocallyOfFiniteType X.hom :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	6 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.reducedClosedSmoothPieceMap_isImmersion	PASS	computed class DEF
+REFEREE	L0	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	121 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSmoothPiece_range	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSmoothPiece_range	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSmoothPiece_range	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSmoothPiece_range	CONTENT	reaches Set.ext
+REFEREE	R7	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSmoothPiece_range	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	6 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSmoothPiece_range	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSmoothPiece_range	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	174 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSingularRemainder_lt	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition | PerfectField K :: side condition | S ≠ ⊥ :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSingularRemainder_lt	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSingularRemainder_lt	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	reaches lt_of_le_of_ne
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSingularRemainder_lt	CONTENT	reaches lt_of_le_of_ne
+REFEREE	R7	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSingularRemainder_lt	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	4 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSingularRemainder_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSingularRemainder_lt	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	58 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSmoothPieceι_isImmersion	PASS	computed class DEF
+REFEREE	L0	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	36 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.range_reducedClosedSubschemeι	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	no hypotheses
+REFEREE	L3	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.range_reducedClosedSubschemeι	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.range_reducedClosedSubschemeι	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	reaches AlgebraicGeometry.Scheme.IdealSheafData.range_subschemeι
+REFEREE	R1k	AlgebraicGeometry.range_reducedClosedSubschemeι	CONTENT	reaches AlgebraicGeometry.Scheme.IdealSheafData.range_subschemeι
+REFEREE	R7	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.range_reducedClosedSubschemeι	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	2 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.range_reducedClosedSubschemeι	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.range_reducedClosedSubschemeι	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	101 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSingularRemainder_le	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSingularRemainder_le	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSingularRemainder_le	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSingularRemainder_le	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSingularRemainder_le	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	4 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSingularRemainder_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSingularRemainder_le	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	92 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	reaches AlgebraicGeometry.Scheme.Hom.smoothLocus_eq_top_iff
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSmoothPiece_smooth	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	134 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_bot	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	118 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	top step AlgebraicGeometry.reducedClosedSingularRemainder_le carries content
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_le	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	122 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	reaches antitone_nat_of_succ_le
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	CONTENT	reaches antitone_nat_of_succ_le
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_antitone	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	228 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_length	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition | PerfectField K :: side condition | TopologicalSpace.NoetherianSpace ↥X :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_length	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_length	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	reaches WellFounded.induction
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_length	CONTENT	reaches WellFounded.induction
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_length	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	7 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_length	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_length	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	112 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedClosedSingularRemainder_bot	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedClosedSingularRemainder_bot	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedClosedSingularRemainder_bot	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedClosedSingularRemainder_bot	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedClosedSingularRemainder_bot	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	4 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedClosedSingularRemainder_bot	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedClosedSingularRemainder_bot	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	92 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_zero	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	100 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_succ_start	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	95 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	CONTENT	reaches AlgebraicGeometry.instLocallyOfFinitePresentationOfIsLocallyNoetherianOfLocallyOfFiniteType
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_succ	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	124 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_le	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_le	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_le	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	reaches antitone_nat_of_succ_le
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_le	CONTENT	reaches antitone_nat_of_succ_le
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	top step AlgebraicGeometry.reducedSmoothClosedFiltration_antitone carries content
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_le	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	5 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_le	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	138 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	AlgebraicGeometry.LocallyOfFiniteType f :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	reaches Topology.IsClosedEmbedding.isClosedMap
+REFEREE	R1k	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	CONTENT	reaches Set.ext
+REFEREE	R7	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	top step AlgebraicGeometry.reducedClosedSmoothPiece_range carries content
+REFEREE	R1i	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	7 project definitions, no twins
+REFEREE	SHADOW	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.reducedSmoothClosedFiltration_layer	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	4948 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition | Order.coheight x = ↑p :: side condition | y ∈ AlgebraicGeometry.ComplexPoint.cycleComponentSingularAnalyticClosedFiltration X x k :: side condition (project data) | y ∉ AlgebraicGeometry.ComplexPoint.cycleComponentSingularAnalyticClosedFiltration X x (k + :: side condition (project data) | y ∈ V :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	reaches isClosed_closure
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_relativeCohomology_vanishing	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	6920 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition | Order.coheight x = ↑p :: side condition | n < 2 * (↑p + 1) :: side condition | y ∉ AlgebraicGeometry.ComplexPoint.cycleComponentSingularAnalyticClosedFiltration X x (k + :: side condition (project data) | y ∈ V :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	reaches isClosed_closure
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	top step is not a project theorem
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayer_exists_supportedInjectiveSection_vanishing	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	7118 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	REVIEW	AlgebraicGeometry.IsIntegral X.left :: side condition | AlgebraicGeometry.Smooth X.hom :: side condition | AlgebraicGeometry.IsProjective X.hom :: carries a project proposition | Order.coheight x = ↑p :: side condition | n < 2 * (↑p + 1) :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	reaches TopologicalSpace.Opens.isOpenEmbedding
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	CONTENT	reaches CategoryTheory.instHasSheafifyOfPreservesLimitsForgetOfHasFiniteLimitsOfSmallOppositeCover
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	top step TopCat.Sheaf.sectionCohomology_isZero_of_cofinal_lower_vanishing carries content
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.cycleComponentSingularLayerSectionCohomology_isZero_of_lt	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	INFO	3 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	INFO	6 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	INFO	10 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	INFO	3 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Analytification	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['range_reducedClosedSubschemeι', 'reducedClosedSingularRemainder_le', 'reducedClosedSingularRemainder_lt', 'reducedClosedSmoothPiece_range'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	REVIEW	instance changes at lines 89
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.Basic	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['reducedSmoothClosedFiltration_zero', 'reducedSmoothClosedFiltration_succ', 'reducedSmoothClosedFiltration_succ_start', 'reducedClosedSingularRemainder_bot'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.ClosedFiltration	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Stratification.LocalSupportVanishing	PASS	not under a Mathlib folder
+exit 1

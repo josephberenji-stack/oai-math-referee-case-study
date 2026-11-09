@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	76 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SnakyTwentyOne	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SnakyTwentyOne	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SnakyTwentyOne	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SnakyTwentyOne	FAIL	no module docstring /-! … -/; 10 public declarations without a docstring (['Cell', 'snaky', 'orient', 'placement'])

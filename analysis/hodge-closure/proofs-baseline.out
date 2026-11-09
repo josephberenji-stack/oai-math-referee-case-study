@@ -1,0 +1,12 @@
+MATHLIB
+theorems 187302 proof lines median 2 p75 4 p90 8 p99 28 max 214
+proof-line buckets (1,2,3-5,6-10,11-30,31-100,>100): [88019, 32453, 38111, 16878, 10375, 1423, 43]
+proof shape: {'single term (application of other lemmas)': 73129, 'tactic block': 92777, 'rfl': 21396}
+theorems using at least one automation tactic (simp/omega/linarith/ring/norm_num/decide/aesop/...) 52993 28.3%
+share of theorems mentioning each tactic: [('rw', '25.4%'), ('simp', '24.9%'), ('rfl', '20.8%'), ('exact', '17.4%'), ('have', '9.2%'), ('refine', '8.5%'), ('ext', '7.3%'), ('obtain', '5.8%'), ('apply', '5.7%'), ('intro', '5.2%'), ('rcases', '3.0%'), ('rwa', '2.2%'), ('congr', '2.1%'), ('induction', '2.1%'), ('grind', '1.9%'), ('constructor', '1.6%'), ('cases', '1.5%'), ('calc', '1.3%'), ('use', '1.0%'), ('show', '0.9%'), ('simp_all', '0.8%'), ('gcongr', '0.7%'), ('change', '0.7%'), ('fun_prop', '0.7%'), ('aesop', '0.7%')]
+CLOSURE-same-script
+theorems 107747 proof lines median 6 p75 11 p90 18 p99 44 max 210
+proof-line buckets (1,2,3-5,6-10,11-30,31-100,>100): [15581, 6939, 30875, 26795, 24318, 3195, 44]
+proof shape: {'tactic block': 83346, 'rfl': 4909, 'single term (application of other lemmas)': 19492}
+theorems using at least one automation tactic (simp/omega/linarith/ring/norm_num/decide/aesop/...) 21033 19.5%
+share of theorems mentioning each tactic: [('exact', '53.0%'), ('rw', '43.4%'), ('have', '37.2%'), ('apply', '26.8%'), ('change', '23.8%'), ('intro', '22.3%'), ('rfl', '21.2%'), ('simp', '15.8%'), ('obtain', '13.9%'), ('ext', '13.4%'), ('refine', '9.5%'), ('funext', '4.8%'), ('constructor', '3.5%'), ('unfold', '2.8%'), ('show', '2.6%'), ('calc', '2.4%'), ('subst', '2.3%'), ('induction', '2.2%'), ('infer_instance', '2.1%'), ('ring', '2.0%'), ('congr', '1.9%'), ('omega', '1.7%'), ('cases', '1.7%'), ('erw', '1.1%'), ('trivial', '1.0%')]

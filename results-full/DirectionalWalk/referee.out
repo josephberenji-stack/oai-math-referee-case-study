@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	642 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	∀ (j : ℕ), 0 ≤ p j :: side condition | ∀ (j : ℕ), 0 ≤ a j :: side condition | Summable a :: side condition | 0 < P :: side condition | 0 ≤ W :: side condition | 0 ≤ R :: side condition | 0 ≤ E :: side condition | 0 ≤ A :: side condition | 0 ≤ B :: side condition | ∀ (J G c l m : ℕ),  0 < G →   G + c ≤ l →    l < J →     (1 / 2) ^ G * a l ≤ (1 / 2) ^ m → :: side condition | ∀ (J L : ℕ), ↑L * Real.log 2 * ∑ j ∈ Finset.range J, p j ≤ A * ↑J + ↑L * Real.log 2 * 2 ^  :: side condition || unbuilt=0
+REFEREE	L3	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	no single top step
+REFEREE	R5	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.dyadic_entropy_contradiction	REVIEW	computed class A?
+REFEREE	L0	OAI.DirectionalZeroOne.directional_zero_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalZeroOne.directional_zero_one	PASS	4681 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.directional_zero_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.directional_zero_one	REVIEW	3 ≤ d :: side condition | MeasureTheory.IsProbabilityMeasure μ :: side condition (project data) | OAI.DirectionalZeroOne.StrictEllipticity μ :: carries a project proposition | ℓ ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.DirectionalZeroOne.directional_zero_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.directional_zero_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.directional_zero_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.directional_zero_one	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.directional_zero_one	PASS	reaches MeasurableSpace.comap._proof_1
+REFEREE	R7	OAI.DirectionalZeroOne.directional_zero_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalZeroOne.directional_zero_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.directional_zero_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.directional_zero_one	REVIEW	computed class A?
+REFEREE	L0	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	4544 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	REVIEW	MeasureTheory.IsProbabilityMeasure μ :: side condition (project data) | OAI.DirectionalZeroOne.StrictEllipticity μ :: carries a project proposition | ∀ (b : Bool),  0 <   (OAI.DirectionalZeroOne.annealed μ 0)    (OAI.DirectionalZeroOne.nonB :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	reaches MeasurableSpace.comap._proof_1
+REFEREE	R7	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	no single top step
+REFEREE	R5	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalZeroOne.not_both_axis_nonBacktracking	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.DirectionalWalk.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.DirectionalWalk.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Probability.DirectionalWalk.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.DirectionalWalk.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['dyadic_entropy_contradiction', 'not_both_axis_nonBacktracking', 'directional_zero_one'])

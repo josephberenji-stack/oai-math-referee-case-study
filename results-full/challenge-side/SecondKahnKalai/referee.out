@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	108 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	2 ≤ n :: side condition | Fintype.card V ≤ n :: side condition | 1 ≤ OAI.LeanBlast.SecondKahnKalai.edgeCount H :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SecondKahnKalai	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SecondKahnKalai	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SecondKahnKalai	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SecondKahnKalai	FAIL	no module docstring /-! … -/; 8 public declarations without a docstring (['bernoulliWeight', 'bernoulliExpectation', 'bernoulliProbability', 'criticalThreshold'])

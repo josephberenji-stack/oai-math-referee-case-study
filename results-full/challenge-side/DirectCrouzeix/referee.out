@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.DirectCrouzeix.complete_crouzeix	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DirectCrouzeix.complete_crouzeix	PASS	209 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectCrouzeix.complete_crouzeix	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectCrouzeix.complete_crouzeix	PASS	no hypotheses
+REFEREE	L3	OAI.DirectCrouzeix.complete_crouzeix	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectCrouzeix.complete_crouzeix	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectCrouzeix.complete_crouzeix	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectCrouzeix.complete_crouzeix	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectCrouzeix.complete_crouzeix	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.DirectCrouzeix.complete_crouzeix	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectCrouzeix.complete_crouzeix	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectCrouzeix.complete_crouzeix	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectCrouzeix.complete_crouzeix	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.DirectCrouzeix.uniform_sharpness	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.DirectCrouzeix.uniform_sharpness	PASS	209 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectCrouzeix.uniform_sharpness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectCrouzeix.uniform_sharpness	REVIEW	OAI.DirectCrouzeix.UniversalBound c :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.DirectCrouzeix.uniform_sharpness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectCrouzeix.uniform_sharpness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectCrouzeix.uniform_sharpness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectCrouzeix.uniform_sharpness	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectCrouzeix.uniform_sharpness	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.DirectCrouzeix.uniform_sharpness	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectCrouzeix.uniform_sharpness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectCrouzeix.uniform_sharpness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectCrouzeix.uniform_sharpness	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.DirectCrouzeix	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.DirectCrouzeix	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.DirectCrouzeix	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.DirectCrouzeix	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['numericalRange', 'polynomialValue', 'tensorEvaluation', 'rangeMaximum'])

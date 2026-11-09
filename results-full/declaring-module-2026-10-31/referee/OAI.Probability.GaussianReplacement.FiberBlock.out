@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	390 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.shannonEntropy_le_log_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	MeasurableSingletonClass W :: side condition | MeasureTheory.IsProbabilityMeasure π :: side condition || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.shannonEntropy_le_log_card	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	reaches MeasureTheory.nonempty_of_isProbabilityMeasure
+REFEREE	R7	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.shannonEntropy_le_log_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.shannonEntropy_le_log_card	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.fiber_comparison	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.fiber_comparison	PASS	2984 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.fiber_comparison	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.fiber_comparison	PASS	100 ≤ d :: side condition | MeasurableSingletonClass W :: side condition | MeasureTheory.IsProbabilityMeasure P :: side condition (project data) | (MeasureTheory.Measure.map (⇑OAI.CurrentProjection.swapLast) P).fst =  (OAI.CurrentProject :: side condition (project data) | OAI.CurrentProjection.shannonEntropy P.fst.snd ≤ ENNReal.ofReal (↑d ^ 2) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CurrentProjection.fiber_comparison	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.fiber_comparison	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.fiber_comparison	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.fiber_comparison	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.fiber_comparison	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.fiber_comparison	PASS	no single top step
+REFEREE	R5	OAI.CurrentProjection.fiber_comparison	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.fiber_comparison	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.fiber_comparison	REVIEW	computed class A?
+REFEREE	L0	OAI.CurrentProjection.fiberBlockMain	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CurrentProjection.fiberBlockMain	PASS	3062 constants reached, no stand-in
+REFEREE	L1u	OAI.CurrentProjection.fiberBlockMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CurrentProjection.fiberBlockMain	PASS	no hypotheses
+REFEREE	L3	OAI.CurrentProjection.fiberBlockMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CurrentProjection.fiberBlockMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CurrentProjection.fiberBlockMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CurrentProjection.fiberBlockMain	INFO	not a registered target statement
+REFEREE	R1	OAI.CurrentProjection.fiberBlockMain	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.CurrentProjection.fiberBlockMain	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CurrentProjection.fiberBlockMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CurrentProjection.fiberBlockMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CurrentProjection.fiberBlockMain	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.GaussianReplacement.FiberBlock	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.GaussianReplacement.FiberBlock	INFO	3 theorems checked
+REFEREE	L5	OAI.Probability.GaussianReplacement.FiberBlock	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.GaussianReplacement.FiberBlock	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['shannonEntropy_le_log_card', 'fiber_comparison', 'fiberBlockMain'])

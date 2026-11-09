@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	2084 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	2 ≤ n :: side condition | Fintype.card V ≤ n :: side condition | 1 ≤ OAI.LeanBlast.SecondKahnKalai.edgeCount H :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	no single top step
+REFEREE	R5	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds	REVIEW	computed class A?
+REFEREE	L0	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	2087 constants reached, no stand-in
+REFEREE	L1u	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	no hypotheses
+REFEREE	L3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	INFO	not a registered target statement
+REFEREE	R1	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	top step OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds carries content
+REFEREE	R5	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LeanBlast.SecondKahnKalai.secondKahnKalai	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.GraphThreshold.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.GraphThreshold.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.GraphThreshold.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.GraphThreshold.Main	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['FullStatement', 'secondKahnKalaiBounds', 'secondKahnKalai'])

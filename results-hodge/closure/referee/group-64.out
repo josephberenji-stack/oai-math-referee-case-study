@@ -1,0 +1,169 @@
+REFEREE	L0	Convexity.StdSimplex.ofCoordinates_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.ofCoordinates_weights	PASS	52 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.ofCoordinates_weights	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.ofCoordinates_weights	PASS	∀ (i : ι), 0 ≤ x i :: side condition | ∑ i, x i = 1 :: side condition || unbuilt=0
+REFEREE	L3	Convexity.StdSimplex.ofCoordinates_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.ofCoordinates_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.ofCoordinates_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.ofCoordinates_weights	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.ofCoordinates_weights	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.ofCoordinates_weights	PASS	reaches Finite.of_fintype
+REFEREE	R1k	Convexity.StdSimplex.ofCoordinates_weights	CONTENT	reaches Finite.of_fintype
+REFEREE	R7	Convexity.StdSimplex.ofCoordinates_weights	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.ofCoordinates_weights	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.ofCoordinates_weights	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.ofCoordinates_weights	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.ofCoordinates_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.ofCoordinates_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.ofCoordinates_weights	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.ofMemRange_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.ofMemRange_weights	PASS	21 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.ofMemRange_weights	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.ofMemRange_weights	PASS	x ∈ Set.range fun y => ⇑y.weights :: side condition || unbuilt=0
+REFEREE	L3	Convexity.StdSimplex.ofMemRange_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.ofMemRange_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.ofMemRange_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.ofMemRange_weights	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.ofMemRange_weights	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.ofMemRange_weights	PASS	reaches Classical.choose_spec
+REFEREE	R1k	Convexity.StdSimplex.ofMemRange_weights	CONTENT	reaches Classical.choose_spec
+REFEREE	R7	Convexity.StdSimplex.ofMemRange_weights	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.ofMemRange_weights	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.ofMemRange_weights	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.ofMemRange_weights	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.ofMemRange_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.ofMemRange_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.ofMemRange_weights	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.isometry_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.isometry_weights	PASS	52 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.isometry_weights	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.isometry_weights	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.isometry_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.isometry_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.isometry_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.isometry_weights	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.isometry_weights	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.isometry_weights	PASS	reaches Isometry.of_dist_eq
+REFEREE	R1k	Convexity.StdSimplex.isometry_weights	CONTENT	reaches Isometry.of_dist_eq
+REFEREE	R7	Convexity.StdSimplex.isometry_weights	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.isometry_weights	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.isometry_weights	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.isometry_weights	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.isometry_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.isometry_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.isometry_weights	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.contractibleSpace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.contractibleSpace	PASS	164 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.contractibleSpace	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.contractibleSpace	PASS	Nonempty ι :: side condition || unbuilt=0
+REFEREE	L3	Convexity.StdSimplex.contractibleSpace	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.contractibleSpace	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.contractibleSpace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.contractibleSpace	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.contractibleSpace	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.contractibleSpace	PASS	reaches Real.instIsStrictOrderedRing
+REFEREE	R1k	Convexity.StdSimplex.contractibleSpace	CONTENT	reaches Real.instIsStrictOrderedRing
+REFEREE	R7	Convexity.StdSimplex.contractibleSpace	PASS	no single top step
+REFEREE	R1i	Convexity.StdSimplex.contractibleSpace	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.contractibleSpace	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.contractibleSpace	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.contractibleSpace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.contractibleSpace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.contractibleSpace	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.map_coordinates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.map_coordinates	PASS	50 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.map_coordinates	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.map_coordinates	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.map_coordinates	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.map_coordinates	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.map_coordinates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.map_coordinates	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.map_coordinates	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.map_coordinates	PASS	reaches Real.instIsStrictOrderedRing
+REFEREE	R1k	Convexity.StdSimplex.map_coordinates	CONTENT	reaches Real.instIsStrictOrderedRing
+REFEREE	R7	Convexity.StdSimplex.map_coordinates	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.map_coordinates	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.map_coordinates	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.map_coordinates	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.map_coordinates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.map_coordinates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.map_coordinates	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.weights_map_sum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.weights_map_sum	PASS	51 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.weights_map_sum	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.weights_map_sum	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.weights_map_sum	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.weights_map_sum	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.weights_map_sum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.weights_map_sum	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.weights_map_sum	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.weights_map_sum	PASS	reaches Real.instIsStrictOrderedRing
+REFEREE	R1k	Convexity.StdSimplex.weights_map_sum	CONTENT	reaches Real.instIsStrictOrderedRing
+REFEREE	R7	Convexity.StdSimplex.weights_map_sum	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.weights_map_sum	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.weights_map_sum	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.weights_map_sum	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.weights_map_sum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.weights_map_sum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.weights_map_sum	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.dist_eq_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.dist_eq_weights	PASS	45 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.dist_eq_weights	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.dist_eq_weights	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.dist_eq_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.dist_eq_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.dist_eq_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.dist_eq_weights	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.dist_eq_weights	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.dist_eq_weights	PASS	reaches Real.instIsStrictOrderedRing
+REFEREE	R1k	Convexity.StdSimplex.dist_eq_weights	CONTENT	reaches Real.instIsStrictOrderedRing
+REFEREE	R7	Convexity.StdSimplex.dist_eq_weights	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.dist_eq_weights	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.dist_eq_weights	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.dist_eq_weights	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.dist_eq_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.dist_eq_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.dist_eq_weights	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	161 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.locallyPathConnectedSpace	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.locallyPathConnectedSpace	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.locallyPathConnectedSpace	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	reaches Convex.locallyPathConnectedSpace
+REFEREE	R1k	Convexity.StdSimplex.locallyPathConnectedSpace	CONTENT	reaches Convex.locallyPathConnectedSpace
+REFEREE	R7	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	no single top step
+REFEREE	R1i	Convexity.StdSimplex.locallyPathConnectedSpace	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.locallyPathConnectedSpace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.locallyPathConnectedSpace	REVIEW	computed class A?
+REFEREE	L0	Convexity.StdSimplex.convex_range_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Convexity.StdSimplex.convex_range_weights	PASS	119 constants reached, no stand-in
+REFEREE	L1u	Convexity.StdSimplex.convex_range_weights	INFO	no opaque with a value reached
+REFEREE	L2	Convexity.StdSimplex.convex_range_weights	PASS	no hypotheses
+REFEREE	L3	Convexity.StdSimplex.convex_range_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	Convexity.StdSimplex.convex_range_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	Convexity.StdSimplex.convex_range_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Convexity.StdSimplex.convex_range_weights	INFO	not a registered target statement
+REFEREE	IFF	Convexity.StdSimplex.convex_range_weights	INFO	not an iff
+REFEREE	R1	Convexity.StdSimplex.convex_range_weights	PASS	reaches Finite.of_fintype
+REFEREE	R1k	Convexity.StdSimplex.convex_range_weights	CONTENT	reaches Finite.of_fintype
+REFEREE	R7	Convexity.StdSimplex.convex_range_weights	PASS	top step is not a project theorem
+REFEREE	R1i	Convexity.StdSimplex.convex_range_weights	INFO	no supplied input
+REFEREE	DUP	Convexity.StdSimplex.convex_range_weights	PASS	1 project definitions, no twins
+REFEREE	SHADOW	Convexity.StdSimplex.convex_range_weights	PASS	no copy of a library declaration
+REFEREE	R5	Convexity.StdSimplex.convex_range_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Convexity.StdSimplex.convex_range_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Convexity.StdSimplex.convex_range_weights	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	INFO	9 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['ofCoordinates_weights', 'ofMemRange_weights'])
+REFEREE	INST	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Mathlib.Geometry.Convex.StdSimplexMetric	REVIEW	vendored library path HodgeConjecture/Mathlib/Geometry/Convex/StdSimplexMetric.lean
+exit 1

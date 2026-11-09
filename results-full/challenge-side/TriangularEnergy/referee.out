@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.AtomicTriangular.universal_energy_minimum	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.AtomicTriangular.universal_energy_minimum	PASS	175 constants reached, no stand-in
+REFEREE	L1u	OAI.AtomicTriangular.universal_energy_minimum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AtomicTriangular.universal_energy_minimum	REVIEW	OAI.AtomicTriangular.AdmissiblePotential g :: carries a project proposition | OAI.AtomicTriangular.LocallyFinite C :: carries a project proposition | OAI.AtomicTriangular.DensityOne C :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AtomicTriangular.universal_energy_minimum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AtomicTriangular.universal_energy_minimum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AtomicTriangular.universal_energy_minimum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AtomicTriangular.universal_energy_minimum	INFO	not a registered target statement
+REFEREE	R1	OAI.AtomicTriangular.universal_energy_minimum	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.AtomicTriangular.universal_energy_minimum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.AtomicTriangular.universal_energy_minimum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AtomicTriangular.universal_energy_minimum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AtomicTriangular.universal_energy_minimum	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.TriangularEnergy	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TriangularEnergy	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.TriangularEnergy	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TriangularEnergy	FAIL	no module docstring /-! … -/; 19 public declarations without a docstring (['Plane', 'LocallyFinite', 'diskPoints', 'diskCount'])

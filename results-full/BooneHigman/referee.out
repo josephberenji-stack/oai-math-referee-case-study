@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	9950 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteAlgebraicEnvelopes.main_forward	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteAlgebraicEnvelopes.main_forward	REVIEW	Group.FG G :: side condition | OAI.FiniteAlgebraicEnvelopes.HasDecidableWordProblem G :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteAlgebraicEnvelopes.main_forward	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	reaches congrFun'
+REFEREE	R7	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteAlgebraicEnvelopes.main_forward	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteAlgebraicEnvelopes.main_forward	REVIEW	computed class A?
+REFEREE	L0	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	8605 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	REVIEW	Group.FG G :: side condition | OAI.FiniteAlgebraicEnvelopes.HasDecidableWordProblem G :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	reaches congrFun'
+REFEREE	R7	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteAlgebraicEnvelopes.input_countable_simple_extension	REVIEW	computed class A?
+REFEREE	L0	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	8833 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	REVIEW	Group.FG G :: side condition | OAI.FiniteAlgebraicEnvelopes.HasDecidableWordProblem G :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	reaches congrFun'
+REFEREE	R7	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteAlgebraicEnvelopes.input_finitely_generated_simple_extension	REVIEW	computed class A?
+REFEREE	L0	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	2320 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	Group.IsFinitelyPresented Γ :: side condition | Infinite X :: side condition | FaithfulSMul Γ X :: side condition | ∀ (x₁ x₂ y₁ y₂ : X), x₁ ≠ x₂ → y₁ ≠ y₂ → ∃ g, g • x₁ = y₁ ∧ g • x₂ = y₂ :: side condition | ∀ (x : X), Group.FG ↥(MulAction.stabilizer Γ x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	reaches exists_ne
+REFEREE	R7	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	no single top step
+REFEREE	R5	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteAlgebraicEnvelopes.TwistedBrinThompson.finitelyPresented	REVIEW	computed class A?
+REFEREE	L0	OAI.FiniteAlgebraicEnvelopes.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteAlgebraicEnvelopes.main	PASS	10028 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteAlgebraicEnvelopes.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteAlgebraicEnvelopes.main	PASS	Group.FG G :: side condition || unbuilt=0
+REFEREE	L3	OAI.FiniteAlgebraicEnvelopes.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteAlgebraicEnvelopes.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteAlgebraicEnvelopes.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteAlgebraicEnvelopes.main	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteAlgebraicEnvelopes.main	PASS	reaches congrFun'
+REFEREE	R7	OAI.FiniteAlgebraicEnvelopes.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FiniteAlgebraicEnvelopes.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteAlgebraicEnvelopes.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteAlgebraicEnvelopes.main	REVIEW	computed class A?
+REFEREE	L4	OAI.GroupTheory.BooneHigman.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GroupTheory.BooneHigman.Main	INFO	5 theorems checked
+REFEREE	L5	OAI.GroupTheory.BooneHigman.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GroupTheory.BooneHigman.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	14167 constants reached, no stand-in
+REFEREE	L1u	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	REVIEW	3 ≤ d :: side condition | MeasureTheory.IsProbabilityMeasure ν :: side condition (project data) | OAI.DirectionalTransience.UniformElliptic ν :: carries a project proposition | ℓ ≠ 0 :: side condition (project data) | 0 < (OAI.DirectionalTransience.annealedLaw ν) (OAI.DirectionalTransience.TransientPaths ℓ) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	INFO	not a registered target statement
+REFEREE	R1	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.Ballisticity.VelocityHemisphere	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.Ballisticity.VelocityHemisphere	INFO	1 theorems checked
+REFEREE	L5	OAI.Probability.Ballisticity.VelocityHemisphere	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.Ballisticity.VelocityHemisphere	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['positive_probability_transience_velocity_hemisphere'])

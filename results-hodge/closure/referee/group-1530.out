@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	1357 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	REVIEW	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsLocallyNoetherian X :: side condition | AlgebraicGeometry.Smooth f :: side condition (project data) | H ≠ ⊥ :: side condition | AlgebraicGeometry.Smooth (CategoryTheory.CategoryStruct.comp H.subschemeι f) :: side condition (project data) | OAI.AlgebraicGeometry.Resolution.Blowups.Locally.PrincipalIdealSheaf.Construction.LocallyP :: carries a project proposition | x ∈ H.support :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	reaches AlgebraicGeometry.Scheme.basicOpen_le
+REFEREE	R1k	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	36 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['GlobalCoefficient.FamilyCharts.Construction.GlobalCoefficientFamilyChart.ofNativeNormal', 'GlobalCoefficientFamilyCharts.Construction.exists_initial_global_coefficient_family_charts'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.GlobalCoefficientFamilyCharts	PASS	not under a Mathlib folder
+exit 1

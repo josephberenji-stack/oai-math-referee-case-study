@@ -1,0 +1,233 @@
+SELFTEST	ctrl_definitional	R1	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_restatement	R2	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_conditional	R3	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_conditional	L2	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_vacuous	L3	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_reduction	L3	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_vacuous_unused	L3	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_class_carries	L2	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_opaque	L1	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_implemented_by	L1	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_axiom	L0	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_sorry	L0	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_native	L0	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_target_fake	L0	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_target_fake	R4	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_encoded_iff	R2	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_encoded_iff	R6	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_proof_of_target	R5	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_main_top	R7	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_main_top	R5	expected REVIEW	got REVIEW	ok
+SELFTEST	good_gap	L0	expected PASS	got PASS	ok
+SELFTEST	good_gap	L1	expected PASS	got PASS	ok
+SELFTEST	good_gap	L2	expected PASS	got PASS	ok
+SELFTEST	good_gap	R1	expected PASS	got PASS	ok
+SELFTEST	good_gap	R2	expected PASS	got PASS	ok
+SELFTEST	good_gap	R3	expected PASS	got PASS	ok
+SELFTEST	good_gap	R5	expected PASS	got PASS	ok
+SELFTEST	good_gap	R6	expected PASS	got PASS	ok
+SELFTEST	good_discharged	L2	expected PASS	got PASS	ok
+SELFTEST	RefereeControls	L4	expected FAIL	got FAIL	ok
+SELFTEST	RefereeControls	L5	expected FAIL	got FAIL	ok
+SELFTEST	RefereeGoodDoc	L5	expected PASS	got PASS	ok
+SELFTEST	RefereeQuote	L5	expected FAIL	got FAIL	ok
+SELFTEST	RefereeControls	L6	expected FAIL	got FAIL	ok
+SELFTEST	RefereeGoodDoc	L6	expected PASS	got PASS	ok
+SELFTEST	RefereeImportGood	L4	expected PASS	got PASS	ok
+SELFTEST	RefereeImportBad	L4	expected FAIL	got FAIL	ok
+SELFTEST	good_univ_discharged	L2	expected PASS	got PASS	ok
+SELFTEST	ctrl_univ_unbuilt	L2	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_long_unbuilt	CLASS	expected C	got C	ok
+SELFTEST	ctrl_opaque_valued	L1	expected REVIEW	got REVIEW	ok
+SELFTEST	eq_of_x	L0	expected PASS	got PASS	ok
+SELFTEST	eq_of_x	LS	expected PASS	got PASS	ok
+SELFTEST	controlled_x	L0	expected PASS	got PASS	ok
+SELFTEST	controlled_x	LS	expected PASS	got PASS	ok
+SELFTEST	eq_1	LS	expected INFO	got INFO	ok
+SELFTEST	eq_def	LS	expected INFO	got INFO	ok
+SELFTEST	match_1	LS	expected INFO	got INFO	ok
+SELFTEST	match_1_1	LS	expected INFO	got INFO	ok
+SELFTEST	brecOn	LS	expected INFO	got INFO	ok
+SELFTEST	match_up	LS	expected PASS	got PASS	ok
+SELFTEST	ctrl_opaque_valued	L1u	expected REVIEW	got REVIEW	ok
+SELFTEST	good_opaque_proofonly	L1u	expected PASS	got PASS	ok
+SELFTEST	good_gap	L1u	expected INFO	got INFO	ok
+SELFTEST	ctrl_staged_easy	R1i	expected REVIEW	got REVIEW	ok
+SELFTEST	good_staged_hard	R1i	expected PASS	got PASS	ok
+SELFTEST	good_gap	R1i	expected INFO	got INFO	ok
+SELFTEST	ctrl_twin_crossed	DUP	expected REVIEW	got REVIEW	ok
+SELFTEST	good_twin_crossed	DUP	expected PASS	got PASS	ok
+SELFTEST	good_match_twins	DUP	expected PASS	got PASS	ok
+SELFTEST	good_gap	DUP	expected PASS	got PASS	ok
+SELFTEST	ctrl_shadow_use	SHADOW	expected REVIEW	got REVIEW	ok
+SELFTEST	good_gap	SHADOW	expected PASS	got PASS	ok
+SELFTEST	RefereeInstBad	INST	expected REVIEW	got REVIEW	ok
+SELFTEST	RefereeInstGood	INST	expected PASS	got PASS	ok
+SELFTEST	RefereeVendored	VEND	expected REVIEW	got REVIEW	ok
+SELFTEST	RefereeNotVendored	VEND	expected PASS	got PASS	ok
+SELFTEST	ctrl_r1_field	R1k	expected FIELD	got FIELD	ok
+SELFTEST	ctrl_r1_hyp	R1k	expected HYP	got HYP	ok
+SELFTEST	ctrl_r1_ind	R1k	expected IND	got IND	ok
+SELFTEST	ctrl_definitional	R1k	expected UNFOLD	got UNFOLD	ok
+SELFTEST	good_gap	R1k	expected CONTENT	got CONTENT	ok
+SELFTEST	ctrl_bridged_law	BRIDGED	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_definitional	BRIDGED	expected PASS	got PASS	ok
+SELFTEST	CtrlCarried	CARRIER	expected REVIEW	got REVIEW	ok
+SELFTEST	GoodCrit	CARRIER	expected PASS	got PASS	ok
+SELFTEST	RefereeControls	UNFOLD	expected PASS	got PASS	ok
+SELFTEST	behave_mul	BEHAVE	expected PASS	got PASS	ok
+SELFTEST	behave_add	BEHAVE	expected PASS	got PASS	ok
+SELFTEST	ctrl_iff_reword	IFF	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_iff_boundary	IFF	expected PASS	got PASS	ok
+SELFTEST	ctrl_iff_plain	IFF	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_iff_nested	IFF	expected REVIEW	got REVIEW	ok
+SELFTEST	ctrl_ext_rfl	R1	expected FAIL	got FAIL	ok
+SELFTEST	ctrl_funext_rfl	R1	expected FAIL	got FAIL	ok
+SELFTEST	85 of 85 expectations met (checks off: ['L7'])
+MUTATION	switching off L0
+SELFTEST	ctrl_axiom	L0	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_sorry	L0	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_native	L0	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_target_fake	L0	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	L0	expected PASS	got None	NOT CAUGHT
+SELFTEST	eq_of_x	L0	expected PASS	got None	NOT CAUGHT
+SELFTEST	controlled_x	L0	expected PASS	got None	NOT CAUGHT
+SELFTEST	78 of 85 expectations met (checks off: ['L0', 'L7'])
+MUTATION	switching off L1
+SELFTEST	ctrl_opaque	L1	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_implemented_by	L1	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	L1	expected PASS	got None	NOT CAUGHT
+SELFTEST	ctrl_opaque_valued	L1	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	81 of 85 expectations met (checks off: ['L1', 'L7'])
+MUTATION	switching off L1u
+SELFTEST	ctrl_opaque_valued	L1u	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	good_opaque_proofonly	L1u	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_gap	L1u	expected INFO	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['L1u', 'L7'])
+MUTATION	switching off L2
+SELFTEST	ctrl_conditional	L2	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_class_carries	L2	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	L2	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_discharged	L2	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_univ_discharged	L2	expected PASS	got None	NOT CAUGHT
+SELFTEST	ctrl_univ_unbuilt	L2	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_long_unbuilt	CLASS	expected C	got DEF	NOT CAUGHT
+SELFTEST	78 of 85 expectations met (checks off: ['L2', 'L7'])
+MUTATION	switching off L3
+SELFTEST	ctrl_vacuous	L3	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_reduction	L3	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	ctrl_vacuous_unused	L3	expected FAIL	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['L3', 'L7'])
+MUTATION	switching off L4
+SELFTEST	RefereeControls	L4	expected FAIL	got None	NOT CAUGHT
+SELFTEST	RefereeImportGood	L4	expected PASS	got None	NOT CAUGHT
+SELFTEST	RefereeImportBad	L4	expected FAIL	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['L4', 'L7'])
+MUTATION	switching off L5
+SELFTEST	RefereeControls	L5	expected FAIL	got None	NOT CAUGHT
+SELFTEST	RefereeGoodDoc	L5	expected PASS	got None	NOT CAUGHT
+SELFTEST	RefereeQuote	L5	expected FAIL	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['L5', 'L7'])
+MUTATION	switching off L6
+SELFTEST	RefereeControls	L6	expected FAIL	got None	NOT CAUGHT
+SELFTEST	RefereeGoodDoc	L6	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['L6', 'L7'])
+MUTATION	switching off LS
+SELFTEST	eq_of_x	LS	expected PASS	got None	NOT CAUGHT
+SELFTEST	controlled_x	LS	expected PASS	got None	NOT CAUGHT
+SELFTEST	eq_1	LS	expected INFO	got None	NOT CAUGHT
+SELFTEST	eq_def	LS	expected INFO	got None	NOT CAUGHT
+SELFTEST	match_1	LS	expected INFO	got None	NOT CAUGHT
+SELFTEST	match_1_1	LS	expected INFO	got None	NOT CAUGHT
+SELFTEST	brecOn	LS	expected INFO	got None	NOT CAUGHT
+SELFTEST	match_up	LS	expected PASS	got None	NOT CAUGHT
+SELFTEST	77 of 85 expectations met (checks off: ['LS', 'L7'])
+MUTATION	switching off R1
+SELFTEST	ctrl_definitional	R1	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	R1	expected PASS	got None	NOT CAUGHT
+SELFTEST	ctrl_ext_rfl	R1	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_funext_rfl	R1	expected FAIL	got None	NOT CAUGHT
+SELFTEST	81 of 85 expectations met (checks off: ['R1', 'L7'])
+MUTATION	switching off R2
+SELFTEST	ctrl_restatement	R2	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_encoded_iff	R2	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	R2	expected PASS	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['R2', 'L7'])
+MUTATION	switching off R3
+SELFTEST	ctrl_conditional	R3	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	R3	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['R3', 'L7'])
+MUTATION	switching off R4
+SELFTEST	ctrl_target_fake	R4	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	84 of 85 expectations met (checks off: ['R4', 'L7'])
+MUTATION	switching off R5
+SELFTEST	ctrl_proof_of_target	R5	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_main_top	R5	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	good_gap	R5	expected PASS	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['R5', 'L7'])
+MUTATION	switching off R6
+SELFTEST	ctrl_encoded_iff	R6	expected FAIL	got None	NOT CAUGHT
+SELFTEST	good_gap	R6	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['R6', 'L7'])
+MUTATION	switching off R7
+SELFTEST	ctrl_main_top	R7	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	ctrl_main_top	R5	expected REVIEW	got PASS	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['R7', 'L7'])
+MUTATION	switching off R1i
+SELFTEST	ctrl_staged_easy	R1i	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	good_staged_hard	R1i	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_gap	R1i	expected INFO	got None	NOT CAUGHT
+SELFTEST	82 of 85 expectations met (checks off: ['R1i', 'L7'])
+MUTATION	switching off DUP
+SELFTEST	ctrl_twin_crossed	DUP	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	good_twin_crossed	DUP	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_match_twins	DUP	expected PASS	got None	NOT CAUGHT
+SELFTEST	good_gap	DUP	expected PASS	got None	NOT CAUGHT
+SELFTEST	81 of 85 expectations met (checks off: ['DUP', 'L7'])
+MUTATION	switching off SHADOW
+SELFTEST	ctrl_shadow_use	SHADOW	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	good_gap	SHADOW	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['SHADOW', 'L7'])
+MUTATION	switching off INST
+SELFTEST	RefereeInstBad	INST	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	RefereeInstGood	INST	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['INST', 'L7'])
+MUTATION	switching off VEND
+SELFTEST	RefereeVendored	VEND	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	RefereeNotVendored	VEND	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['VEND', 'L7'])
+MUTATION	switching off R1k
+SELFTEST	ctrl_r1_field	R1k	expected FIELD	got None	NOT CAUGHT
+SELFTEST	ctrl_r1_hyp	R1k	expected HYP	got None	NOT CAUGHT
+SELFTEST	ctrl_r1_ind	R1k	expected IND	got None	NOT CAUGHT
+SELFTEST	ctrl_definitional	R1k	expected UNFOLD	got None	NOT CAUGHT
+SELFTEST	good_gap	R1k	expected CONTENT	got None	NOT CAUGHT
+SELFTEST	80 of 85 expectations met (checks off: ['R1k', 'L7'])
+MUTATION	switching off UNFOLD
+SELFTEST	ctrl_bridged_law	BRIDGED	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	ctrl_definitional	BRIDGED	expected PASS	got None	NOT CAUGHT
+SELFTEST	CtrlCarried	CARRIER	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	GoodCrit	CARRIER	expected PASS	got None	NOT CAUGHT
+SELFTEST	RefereeControls	UNFOLD	expected PASS	got None	NOT CAUGHT
+SELFTEST	80 of 85 expectations met (checks off: ['UNFOLD', 'L7'])
+MUTATION	switching off BRIDGED
+SELFTEST	ctrl_bridged_law	BRIDGED	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	ctrl_definitional	BRIDGED	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['BRIDGED', 'L7'])
+MUTATION	switching off CARRIER
+SELFTEST	CtrlCarried	CARRIER	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	GoodCrit	CARRIER	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['CARRIER', 'L7'])
+MUTATION	switching off BEHAVE
+SELFTEST	behave_mul	BEHAVE	expected PASS	got None	NOT CAUGHT
+SELFTEST	behave_add	BEHAVE	expected PASS	got None	NOT CAUGHT
+SELFTEST	83 of 85 expectations met (checks off: ['BEHAVE', 'L7'])
+MUTATION	switching off IFF
+SELFTEST	ctrl_iff_reword	IFF	expected FAIL	got None	NOT CAUGHT
+SELFTEST	ctrl_iff_boundary	IFF	expected PASS	got None	NOT CAUGHT
+SELFTEST	ctrl_iff_plain	IFF	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	ctrl_iff_nested	IFF	expected REVIEW	got None	NOT CAUGHT
+SELFTEST	81 of 85 expectations met (checks off: ['IFF', 'L7'])
+MUTATION	every check is needed: the self-test fails with any one of ['L0', 'L1', 'L1u', 'L2', 'L3', 'L4', 'L5', 'L6', 'LS', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R1i', 'DUP', 'SHADOW', 'INST', 'VEND', 'R1k', 'UNFOLD', 'BRIDGED', 'CARRIER', 'BEHAVE', 'IFF'] off
+python3 $D/referee_lean.py --project=. --selftest --mutations  1513.22s user 235.11s system 100% cpu 28:58.01 total
+exit 0

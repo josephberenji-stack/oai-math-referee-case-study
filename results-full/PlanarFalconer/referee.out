@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PlanarFalconer.manuscript_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarFalconer.manuscript_main	PASS	8618 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarFalconer.manuscript_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarFalconer.manuscript_main	PASS	IsCompact E :: side condition (project data) | 1 < dimH E :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarFalconer.manuscript_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarFalconer.manuscript_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarFalconer.manuscript_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarFalconer.manuscript_main	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarFalconer.manuscript_main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PlanarFalconer.manuscript_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarFalconer.manuscript_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarFalconer.manuscript_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarFalconer.manuscript_main	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarFalconer.mainTarget_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarFalconer.mainTarget_proved	PASS	8620 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarFalconer.mainTarget_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarFalconer.mainTarget_proved	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarFalconer.mainTarget_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarFalconer.mainTarget_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarFalconer.mainTarget_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarFalconer.mainTarget_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarFalconer.mainTarget_proved	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PlanarFalconer.mainTarget_proved	PASS	top step OAI.PlanarFalconer.manuscript_main carries content
+REFEREE	R5	OAI.PlanarFalconer.mainTarget_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarFalconer.mainTarget_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarFalconer.mainTarget_proved	REVIEW	computed class A?
+REFEREE	L4	OAI.MeasureTheory.Falconer.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MeasureTheory.Falconer.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.MeasureTheory.Falconer.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MeasureTheory.Falconer.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['manuscript_main', 'mainTarget_proved'])

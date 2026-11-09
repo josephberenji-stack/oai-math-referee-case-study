@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	934 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	REVIEW	CategoryTheory.IsMonHom f :: side condition | OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.LineBundle  (CategoryTheory.Monoi :: carries a project proposition | OAI.AlgebraicGeometry.Picard.PoincareBundle.FiberwiseMultiplication.Multiplication  (Categ :: carries a project proposition | OAI.AlgebraicGeometry.Picard.PoincareBundle.FiberwiseMultiplication.KernelFrames  (Categor :: carries a project proposition | OAI.AlgebraicGeometry.Picard.PoincareBundle.FiberwiseMultiplication.Multiplication  (Categ :: carries a project proposition | OAI.AlgebraicGeometry.Picard.PoincareBundle.Symmetric.MultiplicativeFrames.secondMultiplic :: side condition (project data) | CategoryTheory.CategoryStruct.comp k (OAI.AlgebraicGeometry.Picard.PoincareBundle.Kernel.S :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	reaches AddMonoidHom.map_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Picard.PoincareBundle.FiberwiseMultiplication.ProductRel by OAI.AlgebraicGeometry.Picard.PoincareBundle.FiberwiseMultiplicationPullback.imageRel, OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine by OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.LineBundle.isLine]
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.unitLine = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue.Second.frame_value	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Picard.PoincareBundle.KernelFrameSymmetryValue	PASS	not under a Mathlib folder
+exit 1

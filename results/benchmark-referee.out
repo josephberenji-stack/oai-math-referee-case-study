@@ -1,0 +1,69 @@
+REFEREE	L0	BenchS.fc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	BenchS.fc	PASS	8 constants reached, no stand-in
+REFEREE	L1u	BenchS.fc	INFO	no opaque with a value reached
+REFEREE	L2	BenchS.fc	PASS	no hypotheses
+REFEREE	L3	BenchS.fc	PASS	no hypothesis refuted on file
+REFEREE	R2	BenchS.fc	FAIL	restatement: ↔ with [RiemannHypothesis]
+REFEREE	R3	BenchS.fc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	BenchS.fc	INFO	not a registered target statement
+REFEREE	R1	BenchS.fc	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	BenchS.fc	PASS	top step is not a project theorem
+REFEREE	R5	BenchS.fc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	BenchS.fc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	BenchS.fc	PASS	computed class B
+REFEREE	L0	BenchS.fe	PASS	[]
+REFEREE	L1	BenchS.fe	PASS	7 constants reached, no stand-in
+REFEREE	L1u	BenchS.fe	INFO	no opaque with a value reached
+REFEREE	L2	BenchS.fe	PASS	0 < n :: side condition || unbuilt=0
+REFEREE	L3	BenchS.fe	PASS	no hypothesis refuted on file
+REFEREE	R2	BenchS.fe	PASS	not an equivalence with an open problem
+REFEREE	R3	BenchS.fe	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	BenchS.fe	INFO	not a registered target statement
+REFEREE	R1	BenchS.fe	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	BenchS.fe	PASS	no single top step
+REFEREE	R5	BenchS.fe	PASS	the name claims nothing beyond the statement
+REFEREE	R6	BenchS.fe	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	BenchS.fe	PASS	computed class DEF
+REFEREE	L0	BenchS.fd	PASS	[]
+REFEREE	L1	BenchS.fd	PASS	5 constants reached, no stand-in
+REFEREE	L1u	BenchS.fd	INFO	no opaque with a value reached
+REFEREE	L2	BenchS.fd	PASS	no hypotheses
+REFEREE	L3	BenchS.fd	PASS	no hypothesis refuted on file
+REFEREE	R2	BenchS.fd	PASS	not an equivalence with an open problem
+REFEREE	R3	BenchS.fd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	BenchS.fd	INFO	not a registered target statement
+REFEREE	R1	BenchS.fd	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	BenchS.fd	PASS	top step is not a project theorem
+REFEREE	R5	BenchS.fd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	BenchS.fd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	BenchS.fd	PASS	computed class DEF
+REFEREE	L0	BenchS.fb	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	BenchS.fb	PASS	3 constants reached, no stand-in
+REFEREE	L1u	BenchS.fb	INFO	no opaque with a value reached
+REFEREE	L2	BenchS.fb	FAIL	Bench.Oracle :: UNBUILT || unbuilt=1
+REFEREE	L3	BenchS.fb	PASS	no hypothesis refuted on file
+REFEREE	R2	BenchS.fb	PASS	not an equivalence with an open problem
+REFEREE	R3	BenchS.fb	FAIL	conditional: RiemannHypothesis under 1 binders
+REFEREE	R4	BenchS.fb	INFO	not a registered target statement
+REFEREE	R1	BenchS.fb	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	BenchS.fb	REVIEW	packaged: the top step is the structural lemma Bench.Oracle.carries; the content is in its arguments
+REFEREE	R5	BenchS.fb	PASS	the name claims nothing beyond the statement
+REFEREE	R6	BenchS.fb	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	BenchS.fb	REVIEW	computed class C
+REFEREE	L0	BenchS.fa	PASS	[]
+REFEREE	L1	BenchS.fa	REVIEW	[opaque with a value Bench.hiddenK]: the value is checked but hidden; unpack it
+REFEREE	L1u	BenchS.fa	REVIEW	statement-level: [Bench.hiddenK]; proof-only: 0
+REFEREE	L2	BenchS.fa	PASS	no hypotheses
+REFEREE	L3	BenchS.fa	PASS	no hypothesis refuted on file
+REFEREE	R2	BenchS.fa	PASS	not an equivalence with an open problem
+REFEREE	R3	BenchS.fa	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	BenchS.fa	INFO	not a registered target statement
+REFEREE	R1	BenchS.fa	PASS	reaches le_refl
+REFEREE	R7	BenchS.fa	PASS	top step is not a project theorem
+REFEREE	R5	BenchS.fa	PASS	the name claims nothing beyond the statement
+REFEREE	R6	BenchS.fa	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	BenchS.fa	REVIEW	computed class A?
+REFEREE	L4	Bench.Solution	PASS	all 1 header names resolve
+REFEREE	MODULE	Bench.Solution	INFO	5 theorems checked
+REFEREE	L5	Bench.Solution	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	Bench.Solution	PASS	Mathlib layout; every public declaration documented

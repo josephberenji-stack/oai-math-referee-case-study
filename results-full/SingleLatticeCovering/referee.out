@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SingleLatticeCovering.single_lattice_covering	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SingleLatticeCovering.single_lattice_covering	PASS	6879 constants reached, no stand-in
+REFEREE	L1u	OAI.SingleLatticeCovering.single_lattice_covering	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SingleLatticeCovering.single_lattice_covering	PASS	no hypotheses
+REFEREE	L3	OAI.SingleLatticeCovering.single_lattice_covering	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SingleLatticeCovering.single_lattice_covering	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SingleLatticeCovering.single_lattice_covering	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SingleLatticeCovering.single_lattice_covering	INFO	not a registered target statement
+REFEREE	R1	OAI.SingleLatticeCovering.single_lattice_covering	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.SingleLatticeCovering.single_lattice_covering	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SingleLatticeCovering.single_lattice_covering	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SingleLatticeCovering.single_lattice_covering	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SingleLatticeCovering.single_lattice_covering	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.LatticeCovering.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.LatticeCovering.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Geometry.LatticeCovering.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.LatticeCovering.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 1 public declarations without a docstring (['single_lattice_covering'])

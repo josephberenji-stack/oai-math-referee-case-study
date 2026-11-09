@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.InternalCatalan.catalan_irrational	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.InternalCatalan.catalan_irrational	PASS	25042 constants reached, no stand-in
+REFEREE	L1u	OAI.InternalCatalan.catalan_irrational	INFO	no opaque with a value reached
+REFEREE	L2	OAI.InternalCatalan.catalan_irrational	PASS	no hypotheses
+REFEREE	L3	OAI.InternalCatalan.catalan_irrational	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.InternalCatalan.catalan_irrational	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.InternalCatalan.catalan_irrational	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.InternalCatalan.catalan_irrational	INFO	not a registered target statement
+REFEREE	R1	OAI.InternalCatalan.catalan_irrational	PASS	reaches Nat.exists_infinite_primes
+REFEREE	R7	OAI.InternalCatalan.catalan_irrational	PASS	top step is not a project theorem
+REFEREE	R5	OAI.InternalCatalan.catalan_irrational	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.InternalCatalan.catalan_irrational	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.InternalCatalan.catalan_irrational	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.Catalan.Results.Conclusions	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.Catalan.Results.Conclusions	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.Catalan.Results.Conclusions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Catalan.Results.Conclusions	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['catalan_irrational'])

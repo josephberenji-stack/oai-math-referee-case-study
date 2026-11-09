@@ -1,0 +1,225 @@
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	106 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_reindex	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_reindex	REVIEW	OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition | Function.Injective e :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_reindex	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	reaches Function.Injective.ne
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_reindex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_reindex	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	c ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_symm_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	5796 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.two_ball_obstruction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.two_ball_obstruction	REVIEW	3 ≤ n :: side condition | 0 < R :: side condition | 0 < a :: side condition | 0 < b :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n 2 R ![a, b] :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.two_ball_obstruction	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	reaches Real.sq_sqrt
+REFEREE	R7	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.two_ball_obstruction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.two_ball_obstruction	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	5808 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	REVIEW	3 ≤ n :: side condition | 1 ≤ k :: side condition | ∀ (i : Fin k), 0 < r i :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition | i ≠ j :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	reaches isCompact_iUnion
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_pair_obstruction	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	520 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	0 < r :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	reaches Complex.instFiniteDimensionalReal
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.volume_closedBall_capacity	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	605 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	REVIEW	1 ≤ k :: side condition | ∀ (i : Fin k), 0 < r i :: side condition | ∀ (i : Fin k),  OAI.HigherDimensionalBallPacking.closedBall n (r i) ⊆ U i ∧   OAI.HigherDi :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	reaches isCompact_iUnion
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.packing_exists_smaller_capacity	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	164 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	no hypotheses
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	reaches Complex.coe_smul
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.standardForm_smul_real_same	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	171 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_two_of_pair	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_two_of_pair	REVIEW	OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition | i ≠ j :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_two_of_pair	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	reaches Fintype.complete
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_two_of_pair	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_two_of_pair	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	497 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	∀ (u v : OAI.HigherDimensionalBallPacking.Phase n),  OAI.HigherDimensionalBallPacking.stan :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	reaches Module.Free.function
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.abs_det_of_standardForm	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	5770 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	REVIEW	3 ≤ n :: side condition | 0 < a :: side condition | 0 < b :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n 2 1 ![a, b] :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	reaches RingHomIsometric.ids
+REFEREE	R7	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	465 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_dilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_dilation	REVIEW	OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition | c ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_dilation	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_dilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_dilation	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	626 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	REVIEW	OAI.HigherDimensionalBallPacking.SymplecticOn U f :: carries a project proposition | OAI.HigherDimensionalBallPacking.closedBall n r ⊆ U :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	reaches HasFDerivAt.hasFDerivWithinAt
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_volume_closedBall	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	5901 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_necessity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_necessity	REVIEW	3 ≤ n :: side condition | 1 ≤ k :: side condition | 0 < R :: side condition | ∀ (i : Fin k), 0 < r i :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_necessity	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	reaches isCompact_iUnion
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_necessity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_necessity	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	c ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.packingDilation_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	136 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	no hypotheses
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	reaches Complex.coe_smul
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.capacity_smul_real	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	940 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	REVIEW	3 ≤ n :: side condition | 1 ≤ k :: side condition | 0 < R :: side condition | ∀ (i : Fin k), 0 < r i :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	reaches isCompact_iUnion
+REFEREE	R7	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.packing_volume_obstruction	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	387 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	REVIEW	OAI.HigherDimensionalBallPacking.SymplecticOn U f :: carries a project proposition | c ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	no single top step
+REFEREE	R5	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.Rigidity.symplecticOn_dilation	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.BallPacking.Necessity.PackingNecessity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.BallPacking.Necessity.PackingNecessity	INFO	17 theorems checked
+REFEREE	L5	OAI.Geometry.BallPacking.Necessity.PackingNecessity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.BallPacking.Necessity.PackingNecessity	FAIL	no module docstring /-! … -/; 18 public declarations without a docstring (['normalized_two_ball_obstruction', 'abs_det_of_standardForm', 'symplecticOn_volume_closedBall', 'volume_closedBall_capacity'])

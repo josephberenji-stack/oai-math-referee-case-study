@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PlanarHalving.halving_power	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarHalving.halving_power	PASS	5425 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarHalving.halving_power	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarHalving.halving_power	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarHalving.halving_power	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarHalving.halving_power	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarHalving.halving_power	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarHalving.halving_power	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarHalving.halving_power	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarHalving.halving_power	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarHalving.halving_power	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarHalving.halving_power	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarHalving.halving_power	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarHalving.power_bounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarHalving.power_bounds	PASS	5426 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarHalving.power_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarHalving.power_bounds	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarHalving.power_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarHalving.power_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarHalving.power_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarHalving.power_bounds	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarHalving.power_bounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarHalving.power_bounds	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarHalving.power_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarHalving.power_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarHalving.power_bounds	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.HalvingLines.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.HalvingLines.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.HalvingLines.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.HalvingLines.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['halving_power', 'power_bounds'])

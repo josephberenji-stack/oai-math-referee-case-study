@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 969, in <module>
+    sys.exit(main(sys.argv[1:]))
+             ^^^^^^^^^^^^^^^^^^
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 941, in main
+    return report_modules(project, modules, off)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/oai/da2/discipline/lean/referee_lean.py", line 658, in report_modules
+    with open(os.path.join(UNFOLD_OUT, "+".join(mods) + ".unfold.tsv"), "w") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 36] File name too long: '/srv/oai/casestudy/results-hodge/closure/unfold/group-44/HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.Affine+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineIteration+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineMesh+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffinePrism+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineRelativeMesh+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineSmall+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineSmallPrism+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.AffineSupport+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.BarycentricAllDegrees+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.BarycentricChains+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.BarycentricHomotopy+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.BarycentricOuterFaces+HodgeConjecture.Lemmas.AlgebraicTopology.Singular.Subdivision.Basic.unfold.tsv'
+exit 1

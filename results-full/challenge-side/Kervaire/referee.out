@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	23 constants reached, no stand-in
+REFEREE	L1u	OAI.Kervaire.instNormalWordGroupRelatorClosure	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	no hypotheses
+REFEREE	L3	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Kervaire.instNormalWordGroupRelatorClosure	INFO	not a registered target statement
+REFEREE	R1	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	reaches Subgroup.normalClosure_normal
+REFEREE	R7	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	top step OAI.Kervaire.instNormalWordGroupRelatorClosure._proof_1 carries content
+REFEREE	R5	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Kervaire.instNormalWordGroupRelatorClosure	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Kervaire.instNormalWordGroupRelatorClosure	REVIEW	computed class A?
+REFEREE	L0	OAI.Kervaire.coefficient_injective	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Kervaire.coefficient_injective	PASS	60 constants reached, no stand-in
+REFEREE	L1u	OAI.Kervaire.coefficient_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Kervaire.coefficient_injective	REVIEW	OAI.Kervaire.Unimodular w :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Kervaire.coefficient_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Kervaire.coefficient_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Kervaire.coefficient_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Kervaire.coefficient_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.Kervaire.coefficient_injective	PASS	reaches Subgroup.normalClosure_normal
+REFEREE	R7	OAI.Kervaire.coefficient_injective	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Kervaire.coefficient_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Kervaire.coefficient_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Kervaire.coefficient_injective	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.Kervaire	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.Kervaire	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.Kervaire	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.Kervaire	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['WordGroup', 'exponentSum', 'Unimodular', 'relatorClosure'])

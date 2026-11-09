@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	4017 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem335.characteristic_zero_depth_five_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	no hypotheses
+REFEREE	L3	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem335.characteristic_zero_depth_five_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	top step OAI.Problem335.characteristic_zero_depth_five_lower_bound_of_complex carries content
+REFEREE	R5	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem335.characteristic_zero_depth_five_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem335.characteristic_zero_depth_five_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem335.complex_depth_five_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem335.complex_depth_five_lower_bound	PASS	3848 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem335.complex_depth_five_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem335.complex_depth_five_lower_bound	PASS	no hypotheses
+REFEREE	L3	OAI.Problem335.complex_depth_five_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem335.complex_depth_five_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem335.complex_depth_five_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem335.complex_depth_five_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem335.complex_depth_five_lower_bound	PASS	reaches List.count_true_add_count_false
+REFEREE	R7	OAI.Problem335.complex_depth_five_lower_bound	PASS	top step OAI.Problem335.complex_depth_five_lower_bound_of_eventual_second_trace carries content
+REFEREE	R5	OAI.Problem335.complex_depth_five_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem335.complex_depth_five_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem335.complex_depth_five_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem335.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem335.main	PASS	4213 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem335.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem335.main	PASS	no hypotheses
+REFEREE	L3	OAI.Problem335.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem335.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem335.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem335.main	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem335.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem335.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem335.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem335.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem335.main	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem335.all_field_depth_five_upper_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem335.all_field_depth_five_upper_bound	PASS	805 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem335.all_field_depth_five_upper_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem335.all_field_depth_five_upper_bound	PASS	2 ≤ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.Problem335.all_field_depth_five_upper_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem335.all_field_depth_five_upper_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem335.all_field_depth_five_upper_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem335.all_field_depth_five_upper_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem335.all_field_depth_five_upper_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem335.all_field_depth_five_upper_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem335.all_field_depth_five_upper_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem335.all_field_depth_five_upper_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem335.all_field_depth_five_upper_bound	REVIEW	computed class A?
+REFEREE	L4	OAI.Algebra.DepthFive.Bounds	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Algebra.DepthFive.Bounds	INFO	4 theorems checked
+REFEREE	L5	OAI.Algebra.DepthFive.Bounds	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Algebra.DepthFive.Bounds	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['complex_depth_five_lower_bound', 'characteristic_zero_depth_five_lower_bound', 'all_field_depth_five_upper_bound', 'main'])

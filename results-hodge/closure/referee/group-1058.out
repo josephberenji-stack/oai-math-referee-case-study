@@ -1,0 +1,79 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	CategoryTheory.Mono a :: side condition | CategoryTheory.Mono (CategoryTheory.CategoryStruct.comp q g) :: side condition | CategoryTheory.CategoryStruct.comp a (CategoryTheory.CategoryStruct.comp p f) =  CategoryT :: side condition | CategoryTheory.IsPullback r s f g :: side condition | CategoryTheory.IsPullback a l p r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	reaches CategoryTheory.IsPullback.mk'
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	CONTENT	reaches CategoryTheory.IsPullback.mk'
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient.Construction.locusPullbackFromAmbient	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	73 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	AlgebraicGeometry.IsLocallyNoetherian X :: side condition | ∀ (x : ↥X),  CategoryTheory.CategoryStruct.comp (X.fromSpecStalk x) f = CategoryTheory.Cat :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	reaches AlgebraicGeometry.Scheme.presieve₀_mem_precoverage_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection.schemeHom_eq_of_fromSpecStalk	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	453 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	iSup U = ⊤ :: side condition | ∀ (i j : ι), W i j ≤ U i :: side condition | ∀ (i j : ι), W i j ≤ U j :: side condition | ∀ (i j : ι), U i ⊓ U j ≤ W i j :: side condition | ∀ (i j : ι),  OAI.AlgebraicGeometry.HilbertScheme.Presentations.FrameTransitionCocycles.fr :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	reaches AlgebraicGeometry.Scheme.Modules.Hom.app_smul
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	CONTENT	reaches AlgebraicGeometry.Scheme.Opens.instIsOpenImmersionι
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.unitObj = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems.exists_moduleIso_of_matching_frame_transitions	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.Loci	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['locusPullbackFromAmbient'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.LocusPullbackFromAmbient	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['schemeHom_eq_of_fromSpecStalk'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MapStalkDetection	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_moduleIso_of_matching_frame_transitions'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MatchingFrameSystems	PASS	not under a Mathlib folder
+exit 1

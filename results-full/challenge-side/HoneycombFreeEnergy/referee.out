@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.HoneycombForce.logPartition_tendsto	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.HoneycombForce.logPartition_tendsto	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.HoneycombForce.logPartition_tendsto	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HoneycombForce.logPartition_tendsto	PASS	no hypotheses
+REFEREE	L3	OAI.HoneycombForce.logPartition_tendsto	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HoneycombForce.logPartition_tendsto	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HoneycombForce.logPartition_tendsto	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HoneycombForce.logPartition_tendsto	INFO	not a registered target statement
+REFEREE	R1	OAI.HoneycombForce.logPartition_tendsto	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HoneycombForce.logPartition_tendsto	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HoneycombForce.logPartition_tendsto	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HoneycombForce.logPartition_tendsto	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HoneycombForce.logPartition_tendsto	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.HoneycombFreeEnergy	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HoneycombFreeEnergy	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.HoneycombFreeEnergy	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HoneycombFreeEnergy	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 16 public declarations without a docstring (['Vertex', 'up', 'down', 'rowSpacing'])

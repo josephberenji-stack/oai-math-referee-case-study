@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Laughlin.mainTarget_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.mainTarget_proved	PASS	20686 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.mainTarget_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.mainTarget_proved	PASS	no hypotheses
+REFEREE	L3	OAI.Laughlin.mainTarget_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.mainTarget_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.mainTarget_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.mainTarget_proved	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.mainTarget_proved	PASS	reaches CliffordAlgebra.instSMulCommClass
+REFEREE	R7	OAI.Laughlin.mainTarget_proved	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Laughlin.mainTarget_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.mainTarget_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.mainTarget_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.Laughlin.distanceToLaughlinSq_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Laughlin.distanceToLaughlinSq_le	PASS	149 constants reached, no stand-in
+REFEREE	L1u	OAI.Laughlin.distanceToLaughlinSq_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Laughlin.distanceToLaughlinSq_le	PASS	no hypotheses
+REFEREE	L3	OAI.Laughlin.distanceToLaughlinSq_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Laughlin.distanceToLaughlinSq_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Laughlin.distanceToLaughlinSq_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Laughlin.distanceToLaughlinSq_le	INFO	not a registered target statement
+REFEREE	R1	OAI.Laughlin.distanceToLaughlinSq_le	PASS	reaches csInf_le
+REFEREE	R7	OAI.Laughlin.distanceToLaughlinSq_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Laughlin.distanceToLaughlinSq_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Laughlin.distanceToLaughlinSq_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Laughlin.distanceToLaughlinSq_le	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Laughlin.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.Laughlin.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.Laughlin.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Laughlin.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['distanceToLaughlinSq_le', 'mainTarget_proved'])

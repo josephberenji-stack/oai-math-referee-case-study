@@ -1,0 +1,394 @@
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	5536 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream | OAI.HarmonicCounterexample.Cartesian.squareRadius x < 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	top step OAI.HarmonicCounterexample.Angular.regularHarmonic_core carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_core	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	206 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	Continuous u :: side condition | ∀ (x : E), 0 ≤ r x :: side condition | ∀ (R : ℝ), IsCompact {x | r x ≤ R} :: side condition | ∀ (x : E), R ≤ r x → |u x| ≤ D * (1 + r x) ^ k :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	reaches IsCompact.exists_bound_of_continuousOn
+REFEREE	R7	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.GlobalGrowth.absorb_compact	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	1524 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	REVIEW	ContDiff ℝ ↑⊤ fun t => OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q :: side condition (project data) | ContDiff ℝ (↑⊤) d :: side condition | 0 ≤ MA :: side condition | 0 ≤ Md :: side condition | ∀ (t : ℝ), ‖OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q t)‖ ≤ MA :: side condition (project data) | ∀ (t : ℝ), |d t| ≤ Md :: side condition | ∀ t ≤ 0, c t = 1 :: side condition | ∀ t ≤ 0, q t = 1 :: side condition | ∀ t ≤ 0, d t = ↑n - 2 :: side condition | OAI.HarmonicCounterexample.SmoothMetric n :: carries a project proposition | ∀ᶠ (x : OAI.HarmonicCounterexample.Space n) in nhds 0, g.coeff x = 1 :: side condition (project data) | ∀ (t : ℝ), c t ≠ 0 :: side condition | ∀ (t : ℝ), q t ≠ 0 :: side condition | ∀ (t : ℝ), d t = ↑n - 2 + (↑n - 1) * u t + v t :: side condition | ∀ (x : OAI.HarmonicCounterexample.Space n),  x ≠ 0 →   (g.coeff x)⁻¹ =    OAI.HarmonicCoun :: side condition (project data) | ∀ (x : OAI.HarmonicCounterexample.Space n),  x ≠ 0 →   ∀ (k i j : Fin n),    OAI.HarmonicC :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	5097 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.metric_locally_one	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	284 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.normalized_point_norm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.normalized_point_norm	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	reaches norm_smul
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.normalized_point_norm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.normalized_point_norm	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	3532 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.selectedFamily_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	no hypotheses
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.selectedFamily_card	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.selectedFamily_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.selectedFamily_card	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	6819 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_member	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.main	PASS	9806 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.main	PASS	no hypotheses
+REFEREE	L3	OAI.HarmonicCounterexample.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.main	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.main	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.main	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.main	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	5923 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	top step OAI.HarmonicCounterexample.Angular.regularHarmonic_harmonic carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_laplace	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	346 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	no hypotheses
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	reaches congrFun'
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	top step OAI.HarmonicCounterexample.Angular.evaluate_eq_of_core carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.coreEvaluation_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	365 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.independent_of_core	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	LinearIndependent ℝ P :: side condition (project data) | ∀ (i : ι) (x : OAI.HarmonicCounterexample.Cartesian.Coord n),  OAI.HarmonicCounterexample. :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.independent_of_core	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	reaches congrFun'
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.independent_of_core	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.independent_of_core	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	5253 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream | x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	top step OAI.HarmonicCounterexample.Cartesian.christoffel_logProfiles carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.metric_connection	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	434 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.independent_across_degrees	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	Function.Injective degree :: side condition | ∀ (d : δ), LinearIndependent ℝ (P d) :: side condition (project data) | ∀ (i : Sigma ι) (x : OAI.HarmonicCounterexample.Cartesian.Coord n),  OAI.HarmonicCounterex :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.independent_across_degrees	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	top step OAI.HarmonicCounterexample.Angular.independent_of_core carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.independent_across_degrees	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.independent_across_degrees	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	5116 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream | x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.metric_inverse	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	1115 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.regularValue_core	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	ContDiff ℝ ↑⊤ fun t => OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q :: side condition (project data) | ContDiff ℝ (↑⊤) d :: side condition | 0 ≤ MA :: side condition | 0 ≤ Md :: side condition | ∀ (t : ℝ), ‖OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q t)‖ ≤ MA :: side condition (project data) | ∀ (t : ℝ), |d t| ≤ Md :: side condition | ∀ t ≤ 0, c t = 1 :: side condition | ∀ t ≤ 0, q t = 1 :: side condition | ∀ t ≤ 0, d t = ↑n - 2 :: side condition | t ≤ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.regularValue_core	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	top step OAI.HarmonicCounterexample.LinearODE.value_euclidean_tail carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.regularValue_core	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.regularValue_core	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	1220 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	ContDiff ℝ ↑⊤ fun t => OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q :: side condition (project data) | ContDiff ℝ (↑⊤) d :: side condition | 0 ≤ MA :: side condition | 0 ≤ Md :: side condition | ∀ (t : ℝ), ‖OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q t)‖ ≤ MA :: side condition (project data) | ∀ (t : ℝ), |d t| ≤ Md :: side condition | ∀ t ≤ 0, c t = 1 :: side condition | ∀ t ≤ 0, q t = 1 :: side condition | ∀ t ≤ 0, d t = ↑n - 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.regularHarmonic_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	31 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	LinearIndependent ℝ fun i => u i ∘ f :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	reaches LinearIndependent.of_comp
+REFEREE	R7	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.GlobalGrowth.independent_of_restriction	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	292 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.synthesized_normalized	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.synthesized_normalized	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.synthesized_normalized	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.synthesized_normalized	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	Function.Injective degree :: side condition | ∀ (d : δ) (j : ι d), P d j ∈ MvPolynomial.homogeneousSubmodule (Fin n) ℝ (degree d) :: side condition (project data) | ∀ (d : δ), LinearIndependent ℝ (P d) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	reaches Fintype.linearIndependent_iff
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.independent_homogeneous_family	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	108 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	IsCompact K :: side condition | ∀ (i : ι), ContinuousOn (φ i) K :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	reaches Finset.sum_nonneg
+REFEREE	R7	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.GlobalGrowth.angular_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	515 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	no hypotheses
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.synthesized_angular_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	24 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	d < Fintype.card A :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	reaches Function.Embedding.nonempty_of_card_le
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.embedding_of_strict_card	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	5497 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.trajectory_regularValue	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	1182 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	ContDiff ℝ ↑⊤ fun t => OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q :: side condition (project data) | ContDiff ℝ (↑⊤) d :: side condition | 0 ≤ MA :: side condition | 0 ≤ Md :: side condition | ∀ (t : ℝ), ‖OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q t)‖ ≤ MA :: side condition (project data) | ∀ (t : ℝ), |d t| ≤ Md :: side condition | ∀ t ≤ 0, c t = 1 :: side condition | ∀ t ≤ 0, q t = 1 :: side condition | ∀ t ≤ 0, d t = ↑n - 2 :: side condition | OAI.HarmonicCounterexample.Cartesian.squareRadius x < 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	no single top step
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.regularHarmonic_core	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	5847 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	top step OAI.HarmonicCounterexample.Angular.independent_across_degrees carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_independent	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	1261 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	ContDiff ℝ ↑⊤ fun t => OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q :: side condition (project data) | ContDiff ℝ (↑⊤) d :: side condition | 0 ≤ MA :: side condition | 0 ≤ Md :: side condition | ∀ (t : ℝ), ‖OAI.HarmonicCounterexample.Angular.angularOperator (J t) l (c t) (q t)‖ ≤ MA :: side condition (project data) | ∀ (t : ℝ), |d t| ≤ Md :: side condition | ∀ t ≤ 0, c t = 1 :: side condition | ∀ t ≤ 0, q t = 1 :: side condition | ∀ t ≤ 0, d t = ↑n - 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	top step OAI.HarmonicCounterexample.Cartesian.synthesized_smooth carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	5574 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	top step OAI.HarmonicCounterexample.Angular.regularHarmonic_smooth carries content
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_smooth	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	6230 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	OAI.HarmonicCounterexample.Construction.Stream OAI.HarmonicCounterexample.Construction.L   :: discharged by OAI.HarmonicCounterexample.Construction.constructedStream || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.harmonic_growth	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	567 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Angular.synthesized_growth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	Continuous  (OAI.HarmonicCounterexample.Cartesian.synthesized (↑l) (fun i => OAI.HarmonicC :: side condition (project data) | 0 ≤ D :: side condition | ∀ (t : ℝ), T ≤ t → ‖Y t‖ ≤ D * Real.exp (↑k * t) :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Angular.synthesized_growth	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Angular.synthesized_growth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Angular.synthesized_growth	REVIEW	computed class A?
+REFEREE	L0	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	622 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicCounterexample.Construction.Stream.drift_core	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	t ≤ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicCounterexample.Construction.Stream.drift_core	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicCounterexample.Construction.Stream.drift_core	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicCounterexample.Construction.Stream.drift_core	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.HarmonicGrowth.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.HarmonicGrowth.Main	INFO	30 theorems checked
+REFEREE	L5	OAI.Geometry.HarmonicGrowth.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.HarmonicGrowth.Main	FAIL	no module docstring /-! … -/; 24 public declarations without a docstring (['regularValue_core', 'regularHarmonic_core', 'regularHarmonic_smooth', 'regularHarmonic_injective'])

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.DefocusingNLS.gaussian_blowup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DefocusingNLS.gaussian_blowup	PASS	19296 constants reached, no stand-in
+REFEREE	L1u	OAI.DefocusingNLS.gaussian_blowup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DefocusingNLS.gaussian_blowup	PASS	no hypotheses
+REFEREE	L3	OAI.DefocusingNLS.gaussian_blowup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DefocusingNLS.gaussian_blowup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DefocusingNLS.gaussian_blowup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DefocusingNLS.gaussian_blowup	INFO	not a registered target statement
+REFEREE	R1	OAI.DefocusingNLS.gaussian_blowup	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DefocusingNLS.gaussian_blowup	PASS	top step OAI.DefocusingNLS.gaussian_blowup_conditional carries content
+REFEREE	R5	OAI.DefocusingNLS.gaussian_blowup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DefocusingNLS.gaussian_blowup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DefocusingNLS.gaussian_blowup	REVIEW	computed class A?
+REFEREE	L0	OAI.DefocusingNLS.stable_blowup	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DefocusingNLS.stable_blowup	PASS	19131 constants reached, no stand-in
+REFEREE	L1u	OAI.DefocusingNLS.stable_blowup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DefocusingNLS.stable_blowup	PASS	no hypotheses
+REFEREE	L3	OAI.DefocusingNLS.stable_blowup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DefocusingNLS.stable_blowup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DefocusingNLS.stable_blowup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DefocusingNLS.stable_blowup	INFO	not a registered target statement
+REFEREE	R1	OAI.DefocusingNLS.stable_blowup	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DefocusingNLS.stable_blowup	PASS	top step OAI.DefocusingNLS.stable_blowup_conditional carries content
+REFEREE	R5	OAI.DefocusingNLS.stable_blowup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DefocusingNLS.stable_blowup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DefocusingNLS.stable_blowup	REVIEW	computed class A?
+REFEREE	L0	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	19299 constants reached, no stand-in
+REFEREE	L1u	OAI.DefocusingNLS.gaussian_not_almost_sure_global	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	no hypotheses
+REFEREE	L3	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DefocusingNLS.gaussian_not_almost_sure_global	INFO	not a registered target statement
+REFEREE	R1	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	top step OAI.DefocusingNLS.gaussian_not_almost_sure_global_conditional carries content
+REFEREE	R5	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DefocusingNLS.gaussian_not_almost_sure_global	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DefocusingNLS.gaussian_not_almost_sure_global	REVIEW	computed class A?
+REFEREE	L4	OAI.MathematicalPhysics.DefocusingNLS.MainTheorems	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MathematicalPhysics.DefocusingNLS.MainTheorems	INFO	3 theorems checked
+REFEREE	L5	OAI.MathematicalPhysics.DefocusingNLS.MainTheorems	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MathematicalPhysics.DefocusingNLS.MainTheorems	FAIL	module docstring has no `## Main results`

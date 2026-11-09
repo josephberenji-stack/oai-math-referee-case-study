@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	59 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	1 ≤ a :: side condition | 1 ≤ b :: side condition || unbuilt=0
+REFEREE	L3	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.MetricEntropyDuality	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.MetricEntropyDuality	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.MetricEntropyDuality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.MetricEntropyDuality	FAIL	no module docstring /-! … -/; 9 public declarations without a docstring (['RealSpace', 'pairing', 'cube', 'polar'])

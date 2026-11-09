@@ -1,0 +1,13 @@
+SCHEMA	1	HodgeConjecture.Definitions.Topology.Dimension.Basic
+DECL	TopologicalSpace.dim	def	HodgeConjecture.Definitions.Topology.Dimension.Basic	noncomputable	(X : Type u_1) → [inst : TopologicalSpace X] → [IrreducibleSpace X] → ℕ
+EDGE	TopologicalSpace.dim	TopologicalSpace	type	class	mathlib
+EDGE	TopologicalSpace.dim	Nat	type	inductive	core
+EDGE	TopologicalSpace.dim	IrreducibleSpace	type	class	mathlib
+EDGE	TopologicalSpace.dim	instZeroENat	value	instance	mathlib
+EDGE	TopologicalSpace.dim	topologicalKrullDim	value	def	mathlib
+EDGE	TopologicalSpace.dim	ENat	value	def	mathlib
+EDGE	TopologicalSpace.dim	ENat.toNat	value	def	mathlib
+EDGE	TopologicalSpace.dim	Zero.toOfNat0	value	instance	core
+EDGE	TopologicalSpace.dim	OfNat.ofNat	value	def	core
+EDGE	TopologicalSpace.dim	WithBot.unbotD	value	def	mathlib
+END	HodgeConjecture.Definitions.Topology.Dimension.Basic	1

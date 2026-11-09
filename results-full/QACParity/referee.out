@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.QAC.parity_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.QAC.parity_lower_bound	PASS	2141 constants reached, no stand-in
+REFEREE	L1u	OAI.QAC.parity_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.QAC.parity_lower_bound	PASS	no hypotheses
+REFEREE	L3	OAI.QAC.parity_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.QAC.parity_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.QAC.parity_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.QAC.parity_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.QAC.parity_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.QAC.parity_lower_bound	PASS	no single top step
+REFEREE	R5	OAI.QAC.parity_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.QAC.parity_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.QAC.parity_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.QAC.hadamard_high_entry_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.QAC.hadamard_high_entry_bound	PASS	676 constants reached, no stand-in
+REFEREE	L1u	OAI.QAC.hadamard_high_entry_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.QAC.hadamard_high_entry_bound	PASS	n ≤ N :: side condition | r ≤ ↑n :: side condition || unbuilt=0
+REFEREE	L3	OAI.QAC.hadamard_high_entry_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.QAC.hadamard_high_entry_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.QAC.hadamard_high_entry_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.QAC.hadamard_high_entry_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.QAC.hadamard_high_entry_bound	PASS	reaches Fin.card_filter_val_lt
+REFEREE	R7	OAI.QAC.hadamard_high_entry_bound	PASS	no single top step
+REFEREE	R5	OAI.QAC.hadamard_high_entry_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.QAC.hadamard_high_entry_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.QAC.hadamard_high_entry_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.QAC.eventually_exp_neg_power_lt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.QAC.eventually_exp_neg_power_lt	PASS	232 constants reached, no stand-in
+REFEREE	L1u	OAI.QAC.eventually_exp_neg_power_lt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.QAC.eventually_exp_neg_power_lt	PASS	0 < s :: side condition | 0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.QAC.eventually_exp_neg_power_lt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.QAC.eventually_exp_neg_power_lt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.QAC.eventually_exp_neg_power_lt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.QAC.eventually_exp_neg_power_lt	INFO	not a registered target statement
+REFEREE	R1	OAI.QAC.eventually_exp_neg_power_lt	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.QAC.eventually_exp_neg_power_lt	PASS	top step is not a project theorem
+REFEREE	R5	OAI.QAC.eventually_exp_neg_power_lt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.QAC.eventually_exp_neg_power_lt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.QAC.eventually_exp_neg_power_lt	REVIEW	computed class A?
+REFEREE	L0	OAI.QAC.polynomial_qubit_threshold	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.QAC.polynomial_qubit_threshold	PASS	57 constants reached, no stand-in
+REFEREE	L1u	OAI.QAC.polynomial_qubit_threshold	INFO	no opaque with a value reached
+REFEREE	L2	OAI.QAC.polynomial_qubit_threshold	PASS	1 ≤ n :: side condition | 0 ≤ t :: side condition | c * t ≤ 1 :: side condition | ↑N ≤ ↑n ^ c :: side condition || unbuilt=0
+REFEREE	L3	OAI.QAC.polynomial_qubit_threshold	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.QAC.polynomial_qubit_threshold	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.QAC.polynomial_qubit_threshold	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.QAC.polynomial_qubit_threshold	INFO	not a registered target statement
+REFEREE	R1	OAI.QAC.polynomial_qubit_threshold	PASS	reaches congrFun'
+REFEREE	R7	OAI.QAC.polynomial_qubit_threshold	PASS	no single top step
+REFEREE	R5	OAI.QAC.polynomial_qubit_threshold	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.QAC.polynomial_qubit_threshold	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.QAC.polynomial_qubit_threshold	REVIEW	computed class A?
+REFEREE	L4	OAI.InformationTheory.QuantumCircuit.Parity	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.InformationTheory.QuantumCircuit.Parity	INFO	4 theorems checked
+REFEREE	L5	OAI.InformationTheory.QuantumCircuit.Parity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.InformationTheory.QuantumCircuit.Parity	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['eventually_exp_neg_power_lt', 'polynomial_qubit_threshold', 'hadamard_high_entry_bound'])

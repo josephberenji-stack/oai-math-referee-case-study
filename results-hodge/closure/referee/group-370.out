@@ -1,0 +1,103 @@
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	341 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	0 < n :: side condition | ∀ (i : Fin n), 0 < w i :: side condition | 0 < L :: side condition | ∀ (i : Fin n), w i ∣ L :: side condition | 0 < k :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weighte :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	reaches Nat.div_mul_cancel
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	CONTENT	reaches Nat.div_mul_cancel
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weightedVeronese_exists_subexponent	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	35 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	reaches Finset.sum_congr
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_add	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	395 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	0 < n :: side condition | ∀ (i : Fin n), 0 < w i :: side condition | 0 < L :: side condition | ∀ (i : Fin n), w i ∣ L :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction.weighte :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	reaches Finset.sum_eq_zero_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	CONTENT	reaches Finset.sum_eq_zero_iff
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_monomial_mem_degree_adjoin	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	52 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	∀ (i : Fin n), 0 < w i :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	boundary: the right side states it in numbers
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	reaches Finset.sum_eq_zero_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	CONTENT	reaches Finset.sum_eq_zero_iff
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedExponentDegree_eq_zero_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	403 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	0 < n :: side condition | ∀ (i : Fin n), 0 < w i :: side condition | 0 < L :: side condition | ∀ (i : Fin n), w i ∣ L :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	reaches le_antisymm
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	CONTENT	reaches le_antisymm
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration.weightedVeronese_adjoin_eq_degree_adjoin	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	INFO	4 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['weightedExponentDegree', 'weightedVeronese_exists_subexponent'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseExtraction	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['weightedExponentDegree_add', 'weightedExponentDegree_eq_zero_iff', 'weightedVeronese_monomial_mem_degree_adjoin', 'weightedVeronese_adjoin_eq_degree_adjoin'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.WeightedVeroneseGeneration	PASS	not under a Mathlib folder
+exit 1

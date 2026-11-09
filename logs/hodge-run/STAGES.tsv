@@ -1,0 +1,30 @@
+stage	start	end	status
+system	2026-11-01T06:10:29Z	2026-11-01T06:10:55Z	done
+repos	2026-11-01T06:10:55Z	2026-11-01T06:10:55Z	FAILED (exit 1;  logs/full-run/stage-repos.log)
+tools	2026-11-01T06:10:55Z	2026-11-01T06:11:56Z	done
+deps	2026-11-01T06:11:56Z	2026-11-01T06:11:56Z	not run:  needs stage repos
+hodgebuild	2026-11-01T06:11:56Z	2026-11-01T06:11:56Z	not run:  needs stage deps
+hodgeside	2026-11-01T06:11:56Z	2026-11-01T06:11:56Z	not run:  needs stage hodgebuild
+hodgecmp	2026-11-01T06:11:56Z	2026-11-01T06:11:56Z	not run:  needs stage deps
+closure	2026-11-01T06:11:56Z	2026-11-01T06:11:56Z	not run:  needs stage hodgebuild
+repos	2026-11-01T06:19:02Z	2026-11-01T06:19:02Z	FAILED (exit 1;  logs/full-run/stage-repos.log)
+deps	2026-11-01T06:19:02Z	2026-11-01T06:19:02Z	not run:  needs stage repos
+hodgebuild	2026-11-01T06:19:03Z	2026-11-01T06:19:03Z	not run:  needs stage deps
+hodgeside	2026-11-01T06:19:04Z	2026-11-01T06:19:04Z	not run:  needs stage hodgebuild
+hodgecmp	2026-11-01T06:19:05Z	2026-11-01T06:19:05Z	not run:  needs stage deps
+closure	2026-11-01T06:19:05Z	2026-11-01T06:19:05Z	not run:  needs stage hodgebuild
+repos	2026-11-01T06:21:22Z	2026-11-01T06:21:22Z	FAILED (exit 1;  logs/full-run/stage-repos.log)
+deps	2026-11-01T06:21:22Z	2026-11-01T06:21:22Z	not run:  needs stage repos
+hodgebuild	2026-11-01T06:21:23Z	2026-11-01T06:21:23Z	not run:  needs stage deps
+hodgeside	2026-11-01T06:21:24Z	2026-11-01T06:21:24Z	not run:  needs stage hodgebuild
+hodgecmp	2026-11-01T06:21:25Z	2026-11-01T06:21:25Z	not run:  needs stage deps
+closure	2026-11-01T06:21:25Z	2026-11-01T06:21:25Z	not run:  needs stage hodgebuild
+repos	2026-11-01T06:22:50Z	2026-11-01T06:23:41Z	done
+tools	2026-11-01T06:23:43Z	2026-11-01T06:26:20Z	done
+deps	2026-11-01T06:26:21Z	2026-11-01T06:29:19Z	done
+hodgebuild	2026-11-01T06:29:20Z	2026-11-01T10:07:30Z	done
+hodgeside	2026-11-01T10:07:31Z	2026-11-01T10:57:51Z	done
+hodgecmp	2026-11-01T10:57:52Z	2026-11-01T11:09:25Z	done
+closure	2026-11-01T11:09:26Z	2026-11-01T11:09:26Z	skipped (skip-stages)
+closure	2026-11-01T14:42:14Z	2026-11-01T14:43:10Z	done
+closure	2026-11-02T01:37:36Z	2026-11-03T20:54:31Z	done

@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.Problem367.IsingSpin.enumList_nodup	PASS	[]
+REFEREE	L1	OAI.Problem367.IsingSpin.enumList_nodup	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem367.IsingSpin.enumList_nodup	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem367.IsingSpin.enumList_nodup	PASS	no hypotheses
+REFEREE	L3	OAI.Problem367.IsingSpin.enumList_nodup	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem367.IsingSpin.enumList_nodup	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem367.IsingSpin.enumList_nodup	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem367.IsingSpin.enumList_nodup	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem367.IsingSpin.enumList_nodup	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.Problem367.IsingSpin.enumList_nodup	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem367.IsingSpin.enumList_nodup	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem367.IsingSpin.enumList_nodup	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem367.IsingSpin.enumList_nodup	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem367.uniform01Probability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Problem367.uniform01Probability	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem367.uniform01Probability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem367.uniform01Probability	PASS	no hypotheses
+REFEREE	L3	OAI.Problem367.uniform01Probability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem367.uniform01Probability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem367.uniform01Probability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem367.uniform01Probability	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem367.uniform01Probability	PASS	reaches congrFun'
+REFEREE	R7	OAI.Problem367.uniform01Probability	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem367.uniform01Probability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem367.uniform01Probability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem367.uniform01Probability	REVIEW	computed class A?
+REFEREE	L0	OAI.Problem367.free_ising_factor_iff_threshold	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Problem367.free_ising_factor_iff_threshold	PASS	155 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem367.free_ising_factor_iff_threshold	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem367.free_ising_factor_iff_threshold	PASS	3 ≤ d :: side condition | 0 ≤ beta :: side condition || unbuilt=0
+REFEREE	L3	OAI.Problem367.free_ising_factor_iff_threshold	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem367.free_ising_factor_iff_threshold	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem367.free_ising_factor_iff_threshold	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem367.free_ising_factor_iff_threshold	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem367.free_ising_factor_iff_threshold	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Problem367.free_ising_factor_iff_threshold	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem367.free_ising_factor_iff_threshold	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem367.free_ising_factor_iff_threshold	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem367.free_ising_factor_iff_threshold	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	[]
+REFEREE	L1	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	12 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem367.IsingSpin.ofNat_ctorIdx	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	no hypotheses
+REFEREE	L3	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem367.IsingSpin.ofNat_ctorIdx	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem367.IsingSpin.ofNat_ctorIdx	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem367.IsingSpin.ofNat_ctorIdx	PASS	computed class DEF
+REFEREE	L0	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	[propext]
+REFEREE	L1	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	no hypotheses
+REFEREE	L3	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	INFO	not a registered target statement
+REFEREE	R1	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Problem367.IsingSpin.enumList_getElem?_ctorIdx_eq	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.FreeIsing	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.FreeIsing	INFO	5 theorems checked
+REFEREE	L5	ComparatorChallenges.FreeIsing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.FreeIsing	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['TreeVertex', 'treeAdj', 'TreeAut', 'relabel'])

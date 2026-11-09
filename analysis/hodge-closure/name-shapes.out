@@ -1,0 +1,13 @@
+groups: 2181 (the ten reruns read from rerun-2026-11-03-hb)
+accepted theorems by name shape (Lean 4.34.1):
+  other	238927
+  eq_<n>	7050
+  congr_simp	3661
+  inj / injEq	1394
+  sizeOf_spec	718
+  eq_ (a person's name)	135
+  eq_def	84
+The referee's skip list at 6e33e0d (pinned to Lean 4.33.1, DA-2 README section 25): eq_<n>, eq_def, match_<n>, sizeOf_spec, congr_simp, inj / injEq, projections.
+Unclassed accepted theorems over the closure (census .out lines): congr_simp 3,647, inj / injEq 1,380, sizeOf_spec 711, eq_def 83; none of shape 'other'.
+Reading: on Lean 4.34.1 every theorem the census found unclassed has a shape on the 4.33.1 skip list, and no theorem of shape 'other' (a person's name) went unclassed. The list held on this toolchain for this library.
+The 135 accepted theorems a person named with an eq_ prefix (the case the LS check guards) do not appear among the unclassed: each was read by the referee.

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	7244 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	REVIEW	3 ≤ n :: side condition | 0 < R :: side condition | ∀ (i : Fin k), 0 < r i :: side condition | OAI.HigherDimensionalBallPacking.HasPacking n k R r :: carries a project proposition | i ≠ j :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.HasPacking.strict_pair_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.HigherDimensionalBallPacking.main_theorem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HigherDimensionalBallPacking.main_theorem	PASS	14890 constants reached, no stand-in
+REFEREE	L1u	OAI.HigherDimensionalBallPacking.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HigherDimensionalBallPacking.main_theorem	PASS	3 ≤ n :: side condition | 1 ≤ k :: side condition | 0 < R :: side condition | ∀ (i : Fin k), 0 < r i :: side condition || unbuilt=0
+REFEREE	L3	OAI.HigherDimensionalBallPacking.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HigherDimensionalBallPacking.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HigherDimensionalBallPacking.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HigherDimensionalBallPacking.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.HigherDimensionalBallPacking.main_theorem	PASS	reaches IsCompact.insert
+REFEREE	R7	OAI.HigherDimensionalBallPacking.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HigherDimensionalBallPacking.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HigherDimensionalBallPacking.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HigherDimensionalBallPacking.main_theorem	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.BallPacking.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.BallPacking.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Geometry.BallPacking.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.BallPacking.Main	FAIL	no module docstring /-! … -/

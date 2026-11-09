@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.MatchingEntropyBounds.Refined.collapse_reattach	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	no hypotheses
+REFEREE	L3	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MatchingEntropyBounds.Refined.collapse_reattach	INFO	not a registered target statement
+REFEREE	R1	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MatchingEntropyBounds.Refined.collapse_reattach	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MatchingEntropyBounds.Refined.collapse_reattach	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangleFace198.triangle_expansion_face	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TriangleFace198.triangle_expansion_face	PASS	226 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangleFace198.triangle_expansion_face	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangleFace198.triangle_expansion_face	REVIEW	OAI.MatchingEntropyBounds.LooplessGraph V E :: carries a project proposition | Fintype.card { e // G.Incident v e } = 3 :: carries a project proposition | Nonempty G.Matching :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TriangleFace198.triangle_expansion_face	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangleFace198.triangle_expansion_face	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangleFace198.triangle_expansion_face	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangleFace198.triangle_expansion_face	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangleFace198.triangle_expansion_face	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangleFace198.triangle_expansion_face	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangleFace198.triangle_expansion_face	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangleFace198.triangle_expansion_face	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangleFace198.triangle_expansion_face	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.TriangleFace	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TriangleFace	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.TriangleFace	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TriangleFace	FAIL	no module docstring /-! … -/; 23 public declarations without a docstring (['LooplessGraph', 'Incident', 'IsPerfectMatching', 'Matching'])

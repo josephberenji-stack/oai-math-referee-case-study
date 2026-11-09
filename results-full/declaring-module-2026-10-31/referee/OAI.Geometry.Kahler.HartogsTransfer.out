@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.PinchedHartogs.metric_transfer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PinchedHartogs.metric_transfer	PASS	3186 constants reached, no stand-in
+REFEREE	L1u	OAI.PinchedHartogs.metric_transfer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PinchedHartogs.metric_transfer	PASS	no hypotheses
+REFEREE	L3	OAI.PinchedHartogs.metric_transfer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PinchedHartogs.metric_transfer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PinchedHartogs.metric_transfer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PinchedHartogs.metric_transfer	INFO	not a registered target statement
+REFEREE	R1	OAI.PinchedHartogs.metric_transfer	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PinchedHartogs.metric_transfer	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PinchedHartogs.metric_transfer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PinchedHartogs.metric_transfer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PinchedHartogs.metric_transfer	REVIEW	computed class A?
+REFEREE	L0	OAI.PinchedHartogs.main_of_controlledPotential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PinchedHartogs.main_of_controlledPotential	PASS	3321 constants reached, no stand-in
+REFEREE	L1u	OAI.PinchedHartogs.main_of_controlledPotential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PinchedHartogs.main_of_controlledPotential	FAIL	OAI.PinchedHartogs.ControlledPotential :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.PinchedHartogs.main_of_controlledPotential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PinchedHartogs.main_of_controlledPotential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PinchedHartogs.main_of_controlledPotential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PinchedHartogs.main_of_controlledPotential	INFO	not a registered target statement
+REFEREE	R1	OAI.PinchedHartogs.main_of_controlledPotential	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.PinchedHartogs.main_of_controlledPotential	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PinchedHartogs.main_of_controlledPotential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PinchedHartogs.main_of_controlledPotential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PinchedHartogs.main_of_controlledPotential	PASS	computed class C
+REFEREE	L4	OAI.Geometry.Kahler.HartogsTransfer	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.Kahler.HartogsTransfer	INFO	2 theorems checked
+REFEREE	L5	OAI.Geometry.Kahler.HartogsTransfer	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.Kahler.HartogsTransfer	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['metric_transfer', 'main_of_controlledPotential'])

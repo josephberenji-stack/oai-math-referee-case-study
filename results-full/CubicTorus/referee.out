@@ -1,0 +1,576 @@
+REFEREE	L0	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	430 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinder_contact_support_deriv	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinder_contact_support_deriv	REVIEW	0 < V :: side condition | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | OAI.CubicTorus.Reduction.UpperSupport OAI.CubicTorus.isoperimetricProfile C V :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinder_contact_support_deriv	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinder_contact_support_deriv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinder_contact_support_deriv	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_162	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_162	PASS	277 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_162	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_162	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_162	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_162	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_162	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_162	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_162	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_162	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_162	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_162	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_162	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	20586 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_cylinder_interval	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	1038 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.secondCorner_endpoint_contradiction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	0 < A :: side condition | A ≤ 1 :: side condition | 0 ≤ h :: side condition | 0 ≤ b :: side condition | b < 1 :: side condition | 0 ≤ r :: side condition | r ≤ 1 / Real.pi :: side condition | s ≤ 1 :: side condition | √(Real.pi * r) ≤ A * b - h * (1 / Real.pi - r) :: side condition | √(Real.pi * (1 - s)) ≤ A * b + h * (s - 1 / Real.pi) :: side condition | s - r ≤ A * √(1 - b) :: side condition | 2 / 3 ≤ b :: side condition | h * A ≤ 7 / 4 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.secondCorner_endpoint_contradiction	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.secondCorner_endpoint_contradiction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.secondCorner_endpoint_contradiction	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.critical_baseline_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.critical_baseline_positive	PASS	1782 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.critical_baseline_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.critical_baseline_positive	PASS	h ∈ Set.Icc (81 / 50) (19 / 10) :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.critical_baseline_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.critical_baseline_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.critical_baseline_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.critical_baseline_positive	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.critical_baseline_positive	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.critical_baseline_positive	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.critical_baseline_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.critical_baseline_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.critical_baseline_positive	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.cylinder_interval_interior	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinder_interval_interior	PASS	217 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinder_interval_interior	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinder_interval_interior	PASS	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.cylinder_interval_interior	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinder_interval_interior	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinder_interval_interior	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinder_interval_interior	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinder_interval_interior	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinder_interval_interior	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.cylinder_interval_interior	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinder_interval_interior	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinder_interval_interior	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	20541 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_second_transition	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_second_transition	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_second_transition	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_second_transition	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	20609 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	REVIEW	V ∈ Set.Ioo 0 OAI.CubicTorus.TwoVolume.V₁ :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_sphere_open_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	20623 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	REVIEW	V ∈ Set.Ioo 0 1 :: side condition | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.perimeter_eq_candidate_of_minimizer	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.cylinderRatio_second	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinderRatio_second	PASS	20547 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinderRatio_second	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinderRatio_second	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.cylinderRatio_second	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinderRatio_second	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinderRatio_second	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinderRatio_second	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinderRatio_second	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinderRatio_second	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.cylinderRatio_second	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinderRatio_second	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinderRatio_second	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.critical_area_correction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.critical_area_correction	PASS	217 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.critical_area_correction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.critical_area_correction	PASS	0 < h :: side condition | h * V = A / 2 :: side condition | h * A ≤ Real.pi / 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.critical_area_correction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.critical_area_correction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.critical_area_correction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.critical_area_correction	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.critical_area_correction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.critical_area_correction	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.critical_area_correction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.critical_area_correction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.critical_area_correction	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_190	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_190	PASS	271 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_190	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_190	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_190	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_190	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_190	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_190	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_190	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_190	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_190	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_190	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_190	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.cylinderRatio_first	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinderRatio_first	PASS	11187 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinderRatio_first	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinderRatio_first	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.cylinderRatio_first	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinderRatio_first	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinderRatio_first	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinderRatio_first	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinderRatio_first	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinderRatio_first	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.cylinderRatio_first	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinderRatio_first	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinderRatio_first	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.profile_ge_second_chord	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.profile_ge_second_chord	PASS	20542 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.profile_ge_second_chord	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.profile_ge_second_chord	PASS	V ∈ Set.Icc 0 (1 / Real.pi) :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.profile_ge_second_chord	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.profile_ge_second_chord	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.profile_ge_second_chord	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.profile_ge_second_chord	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.profile_ge_second_chord	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.profile_ge_second_chord	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.profile_ge_second_chord	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.profile_ge_second_chord	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.profile_ge_second_chord	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	20625 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.unit_cubic_isoperimetric	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	V ∈ Set.Ioo 0 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.unit_cubic_isoperimetric	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.unit_cubic_isoperimetric	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.unit_cubic_isoperimetric	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	20540 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_second_transition_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_second_transition_standard	REVIEW	OAI.CubicTorus.IsMinimizerAt (1 / Real.pi) E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_second_transition_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_second_transition_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_second_transition_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	1030 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.fourCorner_normalized_contradiction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	0 < A :: side condition | 0 < a :: side condition | a ≤ 1 :: side condition | A ≤ a :: side condition | V = a ^ 2 / Real.pi :: side condition | 0 ≤ h :: side condition | 0 ≤ b :: side condition | b < 1 :: side condition | 0 ≤ r :: side condition | r ≤ V :: side condition | s ≤ 1 :: side condition | √(Real.pi * r) ≤ A * b - h * (V - r) :: side condition | √(Real.pi * (1 - s)) ≤ A * b + h * (s - V) :: side condition | s - r ≤ A * √(1 - b) :: side condition | 2 / 3 ≤ b :: side condition | h * A ≤ 7 / 4 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.fourCorner_normalized_contradiction	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.fourCorner_normalized_contradiction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.fourCorner_normalized_contradiction	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	20589 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_sphere_interval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	V ∈ Set.Icc 0 OAI.CubicTorus.TwoVolume.V₁ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_sphere_interval	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_sphere_interval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_sphere_interval	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	20547 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | MeasurableSet E :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | OAI.CubicTorus.IsNormalMeasure E μ :: carries a project proposition | ∀ (D : OAI.CubicTorus.Periodic.Variation),  OAI.CubicTorus.Periodic.normalFirstVariation μ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_bounds	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	11761 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	REVIEW	MeasurableSet E :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt (1 / Real.pi) E :: carries a project proposition | OAI.CubicTorus.IsNormalMeasure E μ :: carries a project proposition | ContDiff ℝ (↑⊤) N :: side condition (project data) | ∀ (m : Fin 3 → ℤ) (x : OAI.CubicTorus.Cover), N (x + OAI.CubicTorus.latticeVector m) = N x :: side condition (project data) | ∀ᵐ (z : OAI.CubicTorus.NormalBundle) ∂↑μ, N ↑z.1 = ↑z.2 :: side condition (project data) | ∀ (i : Fin 3), OAI.CubicTorus.coordinateReflection i ⁻¹' E =ᵐ[OAI.CubicTorus.torusVolume]  :: side condition (project data) | ∀ (x : OAI.CubicTorus.Cover) (i : Fin 3),  OAI.CubicTorus.quotientMap x ∈    frontier (OAI :: side condition (project data) | 2 / 3 ≤ OAI.CubicTorus.axialFluxWeight μ 0 :: side condition (project data) | OAI.CubicTorus.axialFluxWeight μ 0 < 1 :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 0 ∨ j = 1) :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 0 ∨ j = 2) :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 1)) ∈  OAI :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 2)) ∈  OAI :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_second_transition_corner_excluded	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_170	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_170	PASS	271 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_170	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_170	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_170	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_170	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_170	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_170	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_170	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_170	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_170	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_170	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_170	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_nonpos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_nonpos	PASS	322 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_nonpos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_nonpos	PASS	Real.pi / 2 ≤ h :: side condition | h ≤ 81 / 50 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_nonpos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_nonpos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_nonpos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_nonpos	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_nonpos	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_nonpos	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_nonpos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_nonpos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_nonpos	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.critical_nesting_contradiction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.critical_nesting_contradiction	PASS	8427 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.critical_nesting_contradiction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.critical_nesting_contradiction	PASS	h ∈ Set.Icc (Real.pi / 2) (19 / 10) :: side condition | OAI.CubicTorus.nestingBaseline h ≤ OAI.CubicTorus.criticalCorrection h :: side condition (project data) | h ≤ 81 / 50 →  OAI.CubicTorus.nestingBaseline h + OAI.CubicTorus.nestingGainInfimum h ≤ OA :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.critical_nesting_contradiction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.critical_nesting_contradiction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.critical_nesting_contradiction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.critical_nesting_contradiction	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.critical_nesting_contradiction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.critical_nesting_contradiction	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.critical_nesting_contradiction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.critical_nesting_contradiction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.critical_nesting_contradiction	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.critical_three_vertex_parameters	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.critical_three_vertex_parameters	PASS	382 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.critical_three_vertex_parameters	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.critical_three_vertex_parameters	PASS	Real.pi / 2 ≤ h :: side condition | 0 ≤ A :: side condition | 0 ≤ s :: side condition | h * A ≤ Real.pi / 2 :: side condition | s ^ 2 ≤ A ^ 2 / 2 :: side condition | Real.pi * (1 - s) ≤ (h * s) ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.critical_three_vertex_parameters	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.critical_three_vertex_parameters	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.critical_three_vertex_parameters	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.critical_three_vertex_parameters	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.critical_three_vertex_parameters	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.critical_three_vertex_parameters	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.critical_three_vertex_parameters	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.critical_three_vertex_parameters	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.critical_three_vertex_parameters	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	20624 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	REVIEW	V ∈ Set.Ioo 0 1 :: side condition | OAI.CubicTorus.StandardRegionAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.StandardRegionAt.isMinimizerAt	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_convex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_convex	PASS	280 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_convex	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_convex	PASS	no hypotheses
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_convex	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_convex	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_convex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_convex	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_convex	PASS	reaches zpow_neg
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_convex	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_convex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_convex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_convex	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	20578 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	20542 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_slab_interval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₂ (1 - OAI.CubicTorus.TwoVolume.V₂) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_slab_interval	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_slab_interval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_slab_interval	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.critical_baseline_chord	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.critical_baseline_chord	PASS	1178 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.critical_baseline_chord	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.critical_baseline_chord	PASS	0 < a :: side condition | a < b :: side condition | x ∈ Set.Icc a b :: side condition | l ≤ OAI.CubicTorus.nestingBaseline a - OAI.CubicTorus.criticalCorrection a :: side condition (project data) | r ≤ OAI.CubicTorus.nestingBaseline b - OAI.CubicTorus.criticalCorrection b :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.critical_baseline_chord	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.critical_baseline_chord	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.critical_baseline_chord	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.critical_baseline_chord	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.critical_baseline_chord	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.critical_baseline_chord	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.critical_baseline_chord	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.critical_baseline_chord	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.critical_baseline_chord	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	20587 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	V ∈ Set.Ioo OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_cylinder_contact	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	20547 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_small_slab_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_small_slab_standard	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₂ (1 / 2) :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_small_slab_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_small_slab_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_small_slab_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	110 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	0 ≤ V :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.TwoVolume.sphereArea_three_halves	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	201 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinderRatio_eq_of_profile	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	0 < V :: side condition | OAI.CubicTorus.isoperimetricProfile V = √(Real.pi * V) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinderRatio_eq_of_profile	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinderRatio_eq_of_profile	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinderRatio_eq_of_profile	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	20573 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | MeasurableSet E :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | IsPreconnected (frontier (OAI.CubicTorus.openRepresentative E)) :: side condition (project data) | ∀ (i : Fin 3), E =ᵐ[OAI.CubicTorus.torusVolume] ⇑(OAI.CubicTorus.axisReflection i).torus ⁻ :: side condition (project data) | ∀ x ∈ OAI.CubicTorus.upperOctant,  ∀ y ∈ OAI.CubicTorus.upperOctant,   OAI.CubicTorus.Orie :: carries a project proposition | OAI.CubicTorus.IsNormalMeasure E μ :: carries a project proposition | ∀ (F : OAI.CubicTorus.Cover → OAI.CubicTorus.Cover),  ContDiff ℝ (↑⊤) F →   (∀ (m : Fin 3  :: side condition (project data) | (↑(OAI.CubicTorus.axialAreaMarginal μ i)).AbsolutelyContinuous MeasureTheory.volume :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.orientedUpperVertex b fun j => if j = i then tr :: side condition (project data) | ∀ (j : Fin 2),  OAI.CubicTorus.quotientMap (OAI.CubicTorus.orientedUpperVertex b fun k =>  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_not_three_vertices	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	20574 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | ¬OAI.CubicTorus.SmallStandardRegion V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_nonstandard_star	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.cylinderRatio_contact	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.cylinderRatio_contact	PASS	20583 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.cylinderRatio_contact	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.cylinderRatio_contact	PASS	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.cylinderRatio_contact	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.cylinderRatio_contact	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.cylinderRatio_contact	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.cylinderRatio_contact	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.cylinderRatio_contact	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.cylinderRatio_contact	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.cylinderRatio_contact	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.cylinderRatio_contact	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.cylinderRatio_contact	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	2576 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.profile_eq_tube_of_small_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.profile_eq_tube_of_small_standard	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | OAI.CubicTorus.SmallStandardRegion V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.profile_eq_tube_of_small_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.profile_eq_tube_of_small_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.profile_eq_tube_of_small_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	20543 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isoperimetricProfile_slab_local_min	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	V ∈ Set.Ioo OAI.CubicTorus.TwoVolume.V₂ (1 - OAI.CubicTorus.TwoVolume.V₂) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isoperimetricProfile_slab_local_min	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isoperimetricProfile_slab_local_min	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isoperimetricProfile_slab_local_min	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	258 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.criticalCorrection_rational_upper	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.criticalCorrection_rational_upper	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.criticalCorrection_rational_upper	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.criticalCorrection_rational_upper	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	20549 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | MeasurableSet E :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | OAI.CubicTorus.IsNormalMeasure E μ :: carries a project proposition | ContDiff ℝ (↑⊤) N :: side condition (project data) | ∀ (m : Fin 3 → ℤ) (x : OAI.CubicTorus.Cover), N (x + OAI.CubicTorus.latticeVector m) = N x :: side condition (project data) | ∀ᵐ (z : OAI.CubicTorus.NormalBundle) ∂↑μ, N ↑z.1 = ↑z.2 :: side condition (project data) | ∀ (i : Fin 3), OAI.CubicTorus.coordinateReflection i ⁻¹' E =ᵐ[OAI.CubicTorus.torusVolume]  :: side condition (project data) | ∀ (x : OAI.CubicTorus.Cover) (i : Fin 3),  OAI.CubicTorus.quotientMap x ∈    frontier (OAI :: side condition (project data) | 2 / 3 ≤ OAI.CubicTorus.axialFluxWeight μ 0 :: side condition (project data) | OAI.CubicTorus.axialFluxWeight μ 0 < 1 :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 0 ∨ j = 1) :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 0 ∨ j = 2) :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 1)) ∈  OAI :: side condition (project data) | OAI.CubicTorus.quotientMap (OAI.CubicTorus.chamberVertex c fun j => decide (j = 2)) ∈  OAI :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	no single top step
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_corner_excluded	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	20618 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_all_volume_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_all_volume_standard	REVIEW	V ∈ Set.Ioo 0 1 :: side condition | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_all_volume_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_all_volume_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_all_volume_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	20617 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_small_volume_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_small_volume_standard	REVIEW	V ∈ Set.Ioc 0 (1 / 2) :: side condition | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_small_volume_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_small_volume_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_small_volume_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	20588 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	REVIEW	V ∈ Set.Icc OAI.CubicTorus.TwoVolume.V₁ OAI.CubicTorus.TwoVolume.V₂ :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_interval_standard	REVIEW	computed class A?
+REFEREE	L0	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	7899 constants reached, no stand-in
+REFEREE	L1u	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	REVIEW	V ∈ Set.Ioo 0 1 :: side condition | IsLocalMin OAI.CubicTorus.cylinderRatio V :: side condition (project data) | MeasurableSet E :: side condition (project data) | OAI.CubicTorus.IsMinimizerAt V E :: carries a project proposition | OAI.CubicTorus.IsNormalMeasure E μ :: carries a project proposition | ∀ (D : OAI.CubicTorus.Periodic.Variation),  OAI.CubicTorus.Periodic.normalFirstVariation μ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	INFO	not a registered target statement
+REFEREE	R1	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CubicTorus.isMinimizerAt_cylinder_contact_multiplier	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.CubicTorus.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.CubicTorus.Main	INFO	44 theorems checked
+REFEREE	L5	OAI.Geometry.CubicTorus.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.CubicTorus.Main	FAIL	no module docstring /-! … -/; 46 public declarations without a docstring (['secondCorner_endpoint_contradiction', 'isMinimizerAt_second_transition_corner_excluded', 'isMinimizerAt_second_transition_standard', 'isoperimetricProfile_second_transition'])

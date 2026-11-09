@@ -1,0 +1,673 @@
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	3412 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.SmoothOfRelativeDimension m X.structureMap :: side condition (project data) | Finite τ :: side condition | Finite ι :: side condition | Nonempty ι :: side condition | ∀ (j : ι),  CategoryTheory.CategoryStruct.comp (p j) X.structureMap =   CategoryTheory.Cat :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	170 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData.Projection.exists_points	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	308 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	CharZero K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	reaches charZero_of_injective_algebraMap
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.generic_formallyEtale	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	449 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	CharZero K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	reaches TopologicalSpace.IsTopologicalBasis.exists_subset_of_mem_open
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	top step OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Etale.StalkNeighborhood.exists_open carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism.exists_open	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	527 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | AlgebraicGeometry.LocallyOfFiniteType (CategoryTheory.CategoryStruct.comp f g) :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) | f x = genericPoint ↥Y :: side condition | IsIntegrallyClosed ↑(X.presheaf.stalk x) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	reaches AlgebraicGeometry.LocallyOfFiniteType.isLocallyNoetherian
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.stalk_valuation	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	716 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | AlgebraicGeometry.LocallyOfFiniteType (CategoryTheory.CategoryStruct.comp f g) :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) | Order.coheight x = 1 :: side condition | AlgebraicGeometry.Scheme.Hom.residueDegree f x ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	reaches AlgebraicGeometry.exists_isAffineOpen_mem_and_subset
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.image_eq_genericPoint	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	450 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | AlgebraicGeometry.LocallyOfFiniteType (CategoryTheory.CategoryStruct.comp f g) :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) | f x = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	reaches AlgebraicGeometry.exists_isAffineOpen_mem_and_subset
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension.coheight_le_one	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	203 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | AlgebraicGeometry.LocallyOfFiniteType (CategoryTheory.CategoryStruct.comp f g) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_essFiniteType	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	118 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | f x = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.stalkTower	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	261 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | AlgebraicGeometry.LocallyOfFiniteType g :: side condition | AlgebraicGeometry.LocallyOfFiniteType (CategoryTheory.CategoryStruct.comp f g) :: side condition | OAI.AlgebraicGeometry.Foundations.Scheme.TranscendenceDimension.schemeTranscendenceDimensi :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields.field_trdeg_one	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | i = j :: side condition | i (genericPoint ↥X) = genericPoint ↥Y :: side condition | j (genericPoint ↥X) = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_congr	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	90 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | i (genericPoint ↥X) = genericPoint ↥Y :: side condition | Nonempty ↥↑U :: side condition | Nonempty ↥↑((TopologicalSpace.Opens.map i.base).obj U) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_open	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.IsIntegral Z :: side condition | i (genericPoint ↥X) = genericPoint ↥Y :: side condition | j (genericPoint ↥Y) = genericPoint ↥Z :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	109 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | i (genericPoint ↥X) = genericPoint ↥Y :: side condition | Nonempty ↥↑U :: side condition | Nonempty ↥↑V :: side condition | V ≤ (TopologicalSpace.Opens.map i.base).obj U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields.genericFieldMap_germ_appLE	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	3413 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.SmoothOfRelativeDimension m X.structureMap :: side condition (project data) | Finite τ :: side condition | Finite ι :: side condition | ∀ (j : ι),  CategoryTheory.CategoryStruct.comp (p j) X.structureMap =   CategoryTheory.Cat :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	170 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_points	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	3414 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.SmoothOfRelativeDimension m X.structureMap :: side condition (project data) | Finite τ :: side condition | Finite ι :: side condition | ∀ (j : ι), IsClosed {x j} :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	CONTENT	reaches Complex.isAlgClosed
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	170 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite.Projection.exists_closed_points	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	168 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	IsDomain R :: side condition | Module.Finite R M :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	reaches exists_linearIndependent_of_le_finrank
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	CONTENT	reaches exists_linearIndependent_of_le_finrank
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule.exists_submodule	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	237 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	AlgebraicGeometry.IsIntegral X :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	reaches AlgebraicGeometry.isAffineOpen_opensRange
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	CONTENT	reaches AlgebraicGeometry.Scheme.instJointlySurjectivePrecoverage
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_fieldMap	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	152 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	AlgebraicGeometry.IsIntegral X :: side condition | Nonempty ↥↑U :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	reaches TopologicalSpace.Opens.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField.genericMap_appLE	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	770 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	Module.Flat R K :: side condition | IsNoetherianRing R :: side condition | IsLocalRing R :: side condition | Module.length R ↑M ≠ ⊤ :: side condition | Module.Finite R ↑N :: side condition | CategoryTheory.HasProjectiveDimensionLE N d :: side condition | Subsingleton (TensorProduct R K ↑N) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	reaches CategoryTheory.projective_iff_hasProjectiveDimensionLE_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	CONTENT	reaches ModuleCat.instMonoidalPreadditive
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	811 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	IsDomain R :: side condition | IsNoetherianRing R :: side condition | IsLocalRing R :: side condition | Module.length R ↑M ≠ ⊤ :: side condition | Module.Finite R ↑N :: side condition | CategoryTheory.HasProjectiveDimensionLE N d :: side condition | ∀ (x : ↑N), ∃ r, r ≠ 0 ∧ r • x = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	reaches LocalizedModule.subsingleton_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	CONTENT	reaches LocalizedModule.subsingleton_iff
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_torsion_euler_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	562 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	Nontrivial R :: side condition | Module.Flat R K :: side condition | Module.Finite R ↑N :: side condition | ∀ (n : ℕ), Module.Finite R ↑(P.complex.X n) ∧ Module.Free R ↑(P.complex.X n) :: side condition | CategoryTheory.Limits.IsZero (P.complex.X (d + 1)) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	reaches ModuleCat.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	CONTENT	reaches ModuleCat.instHasZeroObject
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.alternating_rank	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	768 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	Module.Flat R K :: side condition | IsNoetherianRing R :: side condition | IsLocalRing R :: side condition | Module.length R ↑M ≠ ⊤ :: side condition | Module.Finite R ↑N :: side condition | CategoryTheory.HasProjectiveDimensionLE N d :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	reaches CategoryTheory.projective_iff_hasProjectiveDimensionLE_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	CONTENT	reaches ModuleCat.instHasZeroObject
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler.finite_length_euler	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	3484 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.SmoothOfRelativeDimension m X.structureMap :: side condition (project data) | Finite τ :: side condition | Finite ι :: side condition | ∀ (j : ι), 1 ≤ X.supportCodimension (V j) :: side condition (project data) | ∀ (j : ι), IsClosed {x j} :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	173 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.exists_projection	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	428 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.IsFinite (CategoryTheory.Over.Hom.left π) :: side condition (project data) | IsClosed {x} :: side condition (project data) | ∃ U,  x ∈ U ∧   AlgebraicGeometry.Etale    (CategoryTheory.CategoryStruct.comp U.ι     (OA :: side condition (project data) | ∀ y ∈ W, (CategoryTheory.Over.Hom.left π) y = (CategoryTheory.Over.Hom.left π) x → y = x :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	CONTENT	reaches Submodule.addSubgroupClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	14 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual.Projection.avoids	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	3482 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	FAIL	OAI.AlgebraicGeometry.Foundations.Scheme.SmoothProjective.SmoothProjectivePresentation :: UNBUILT | AlgebraicGeometry.SmoothOfRelativeDimension m X.structureMap :: side condition (project data) | Finite τ :: side condition | Finite ι :: side condition | Nonempty ι :: side condition | ∀ (j : ι), 1 ≤ X.supportCodimension (V j) :: side condition (project data) | ∀ (j : ι), IsClosed {x j} :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	CONTENT	reaches AlgebraicGeometry.irreducibleSpace_of_isIntegral
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	5 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	173 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates.exists_coordinates	PASS	computed class C
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	62 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	reaches AlgebraicGeometry.Scheme.Hom.smoothLocus_eq_top_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	CONTENT	reaches AlgebraicGeometry.locallyOfFinitePresentation_comp
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.smooth_restrict	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	CharZero K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	reaches Field.toIsField
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.exists_open	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	108 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	CharZero K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	reaches Field.toIsField
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	top step OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_mem	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	103 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	CharZero K :: side condition | AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation f :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	reaches Field.toIsField
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism.generic_formallySmooth	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	69 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	AlgebraicGeometry.IsIntegral S :: side condition | AlgebraicGeometry.IsIntegral T :: side condition | CategoryTheory.CategoryStruct.comp h j = CategoryTheory.CategoryStruct.comp i f :: side condition | h (genericPoint ↥S) = genericPoint ↥T :: side condition | i (genericPoint ↥S) = x :: side condition | j (genericPoint ↥T) = f x :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.at_source_point	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	AlgebraicGeometry.IsIntegral S :: side condition | AlgebraicGeometry.IsIntegral T :: side condition | CategoryTheory.CategoryStruct.comp h j = CategoryTheory.CategoryStruct.comp i f :: side condition | h (genericPoint ↥S) = genericPoint ↥T :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.square	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	u = v :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.stalkMap_congr	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	218 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	AlgebraicGeometry.IsIntegral T :: side condition | CategoryTheory.CategoryStruct.comp h j =  CategoryTheory.CategoryStruct.comp (OAI.Algebrai :: side condition (project data) | h (genericPoint ↥(OAI.AlgebraicGeometry.CycleClass.Geometric.GenericPoint.reducedSupportSc :: side condition (project data) | OAI.AlgebraicGeometry.CycleClass.Thom.IntersectionGeometry.supportPoint W ∈ ↑W :: side condition (project data) | j (genericPoint ↥T) = f (OAI.AlgebraicGeometry.CycleClass.Thom.IntersectionGeometry.suppor :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	CONTENT	reaches TopologicalSpace.IrreducibleCloseds.isClosed
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare.support	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	INFO	4 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_points'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	REVIEW	instance changes at lines 21
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.CoordinateData	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['generic_formallyEtale', 'exists_open'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.EtaleMorphism	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['coheight_le_one', 'stalk_valuation', 'image_eq_genericPoint'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberDimension	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['fieldAlgebra', 'stalkAlgebra', 'stalkTower', 'field_trdeg_one'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FiberFields	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['genericFieldMap_congr', 'genericFieldMap_comp', 'genericFieldMap_germ_open', 'genericFieldMap_germ_appLE'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Fields	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['coincidence', 'exists_points', 'exists_closed_points'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	REVIEW	instance changes at lines 21
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Finite	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_submodule'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.FreeSubmodule	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['genericMap_appLE', 'genericMap_fieldMap'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.PointField	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['alternating_rank', 'finite_length_euler', 'finite_length_euler_zero', 'finite_length_torsion_euler_zero'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.RankEuler	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['map', 'avoids', 'exists_projection'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.Residual	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['exists_coordinates'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.ResidualCoordinates	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['generic_formallySmooth', 'generic_mem', 'smooth_restrict', 'exists_open'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.SmoothMorphism	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['stalkMap_congr', 'square', 'at_source_point', 'support'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Generic.StalkSquare	PASS	not under a Mathlib folder
+exit 1

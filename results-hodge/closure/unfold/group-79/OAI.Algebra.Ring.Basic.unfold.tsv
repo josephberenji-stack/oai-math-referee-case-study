@@ -1,0 +1,117 @@
+SCHEMA	1	OAI.Algebra.Ring.Basic
+DECL	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	theorem	OAI.Algebra.Ring.Basic	-	∀ {R : Type u_1} [inst : NonUnitalNonAssocSemiring R], AddMonoidHom.mulLeft 0 = 0
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	instZeroAddMonoidHom	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddMonoid.toAddZeroClass	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	NonUnitalNonAssocSemiring.toMulZeroClass	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddZeroClass.toAddZero	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	NonUnitalNonAssocSemiring.toAddCommMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	Zero.toOfNat0	type	instance	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddCommMonoid.toAddMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddMonoidHom.mulLeft	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddMonoidHom	type	structure	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	NonUnitalNonAssocSemiring	type	class	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	OfNat.ofNat	type	def	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	Eq	type	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	MulZeroClass.toZero	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	congrArg	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	MulZeroClass.zero_mul	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddMonoidHom.ext	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddZero.toZero	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	True	value	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	eq_self	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	of_eq_true	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	congrFun'	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	AddMonoidHom.instFunLike	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	DFunLike.coe	value	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	Eq.trans	value	theorem	core
+THM	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_zero	CONTENT	AddMonoidHom.ext	-	-	-	false	false	0	3	Eq	-
+DECL	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	theorem	OAI.Algebra.Ring.Basic	-	∀ {R : Type u_1} [inst : NonAssocSemiring R], AddMonoidHom.mulLeft 1 = AddMonoidHom.id R
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	NonAssocSemiring.toAddCommMonoidWithOne	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoid.toAddZeroClass	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidHom.id	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddZeroClass.toAddZero	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddCommMonoidWithOne.toAddMonoidWithOne	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	NonUnitalNonAssocSemiring.toAddCommMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidWithOne.toOne	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	NonAssocSemiring	type	class	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	NonAssocSemiring.toNonUnitalNonAssocSemiring	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	One.toOfNat1	type	instance	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddCommMonoid.toAddMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidHom.mulLeft	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidWithOne.toAddMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidHom	type	structure	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	OfNat.ofNat	type	def	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	Eq	type	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	congrArg	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	NonAssocSemiring.toMulZeroOneClass	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidHom.ext	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	MulZeroOneClass.toMulOneClass	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	True	value	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	eq_self	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	of_eq_true	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	congrFun'	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	AddMonoidHom.instFunLike	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	DFunLike.coe	value	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	one_mul	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	Eq.trans	value	theorem	core
+THM	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_one	CONTENT	AddMonoidHom.ext	-	-	-	false	false	0	3	Eq	-
+DECL	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	theorem	OAI.Algebra.Ring.Basic	-	∀ {R : Type u_1} [inst : NonUnitalSemiring R] (a b : R), AddMonoidHom.mulLeft (a * b) = (AddMonoidHom.mulLeft a).comp (AddMonoidHom.mulLeft b)
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	HMul.hMul	type	def	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoid.toAddZeroClass	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddZeroClass.toAddZero	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	NonUnitalSemiring.toNonUnitalNonAssocSemiring	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	NonUnitalNonAssocSemiring.toAddCommMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	Distrib.toMul	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	NonUnitalSemiring	type	class	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	NonUnitalNonAssocSemiring.toDistrib	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddCommMonoid.toAddMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoidHom.mulLeft	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoidHom	type	structure	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	Eq	type	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoidHom.comp	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	instHMul	type	instance	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	Semigroup.toMul	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	congrArg	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	mul_assoc	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	SemigroupWithZero.toSemigroup	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	NonUnitalSemiring.toSemigroupWithZero	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoidHom.ext	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	True	value	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	eq_self	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	of_eq_true	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	congrFun'	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	AddMonoidHom.instFunLike	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	DFunLike.coe	value	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	Eq.trans	value	theorem	core
+THM	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_mul	CONTENT	AddMonoidHom.ext	-	-	-	false	false	0	3	Eq	-
+DECL	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	theorem	OAI.Algebra.Ring.Basic	-	∀ {R : Type u_1} [inst : NonUnitalNonAssocSemiring R] (a b : R), AddMonoidHom.mulLeft (a + b) = AddMonoidHom.mulLeft a + AddMonoidHom.mulLeft b
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoid.toAddZeroClass	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddZeroClass.toAddZero	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	Distrib.toAdd	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	NonUnitalNonAssocSemiring.toAddCommMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	instHAdd	type	instance	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	HAdd.hAdd	type	def	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoidHom.add	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	NonUnitalNonAssocSemiring.toDistrib	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddCommMonoid.toAddMonoid	type	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoidHom.mulLeft	type	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoidHom	type	structure	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	NonUnitalNonAssocSemiring	type	class	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	Eq	type	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	add_mul	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	HMul.hMul	value	def	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	congrArg	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	Distrib.rightDistribClass	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoidHom.ext	value	theorem	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	Distrib.toMul	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	True	value	inductive	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	eq_self	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	of_eq_true	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddZero.toAdd	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	congrFun'	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	AddMonoidHom.instFunLike	value	instance	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	DFunLike.coe	value	def	mathlib
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	Eq.trans	value	theorem	core
+EDGE	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	instHMul	value	instance	core
+THM	OAI.Algebra.Ring.Basic.AddMonoidHom.mulLeft_add	CONTENT	AddMonoidHom.ext	-	-	-	false	false	0	4	Eq	-
+END	OAI.Algebra.Ring.Basic	4

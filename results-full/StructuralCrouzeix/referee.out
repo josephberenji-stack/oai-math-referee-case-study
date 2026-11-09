@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.StructuralCrouzeixReference.challenge	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StructuralCrouzeixReference.challenge	PASS	4724 constants reached, no stand-in
+REFEREE	L1u	OAI.StructuralCrouzeixReference.challenge	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StructuralCrouzeixReference.challenge	PASS	no hypotheses
+REFEREE	L3	OAI.StructuralCrouzeixReference.challenge	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StructuralCrouzeixReference.challenge	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StructuralCrouzeixReference.challenge	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StructuralCrouzeixReference.challenge	INFO	not a registered target statement
+REFEREE	R1	OAI.StructuralCrouzeixReference.challenge	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.StructuralCrouzeixReference.challenge	PASS	top step is not a project theorem
+REFEREE	R5	OAI.StructuralCrouzeixReference.challenge	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StructuralCrouzeixReference.challenge	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StructuralCrouzeixReference.challenge	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.StructuralCrouzeix.Endpoint	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.StructuralCrouzeix.Endpoint	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.StructuralCrouzeix.Endpoint	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.StructuralCrouzeix.Endpoint	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['challenge'])

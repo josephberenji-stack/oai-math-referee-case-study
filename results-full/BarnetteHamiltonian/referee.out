@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.Barnette.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Barnette.main	PASS	2934 constants reached, no stand-in
+REFEREE	L1u	OAI.Barnette.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Barnette.main	PASS	no hypotheses
+REFEREE	L3	OAI.Barnette.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Barnette.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Barnette.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Barnette.main	INFO	not a registered target statement
+REFEREE	R1	OAI.Barnette.main	PASS	reaches Pi.instSubsingleton
+REFEREE	R7	OAI.Barnette.main	PASS	no single top step
+REFEREE	R5	OAI.Barnette.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Barnette.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Barnette.main	REVIEW	computed class A?
+REFEREE	L0	OAI.Barnette.Network.Duality.hamiltonian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Barnette.Network.Duality.hamiltonian	PASS	2382 constants reached, no stand-in
+REFEREE	L1u	OAI.Barnette.Network.Duality.hamiltonian	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Barnette.Network.Duality.hamiltonian	REVIEW	N.Duality D :: carries a project proposition | N.Simple :: carries a project proposition | N.graph.IsRegularOfDegree 3 :: side condition (project data) | N.ThreeEdgeConnected :: carries a project proposition | ∀ (e : E), black (N.tail e) ↔ ¬black (N.head e) :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Barnette.Network.Duality.hamiltonian	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Barnette.Network.Duality.hamiltonian	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Barnette.Network.Duality.hamiltonian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Barnette.Network.Duality.hamiltonian	INFO	not a registered target statement
+REFEREE	R1	OAI.Barnette.Network.Duality.hamiltonian	PASS	reaches Ne.symm
+REFEREE	R7	OAI.Barnette.Network.Duality.hamiltonian	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Barnette.Network.Duality.hamiltonian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Barnette.Network.Duality.hamiltonian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Barnette.Network.Duality.hamiltonian	REVIEW	computed class A?
+REFEREE	L0	OAI.Barnette.ThreeVertexConnected.connected	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Barnette.ThreeVertexConnected.connected	PASS	53 constants reached, no stand-in
+REFEREE	L1u	OAI.Barnette.ThreeVertexConnected.connected	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Barnette.ThreeVertexConnected.connected	REVIEW	OAI.Barnette.ThreeVertexConnected G :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Barnette.ThreeVertexConnected.connected	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Barnette.ThreeVertexConnected.connected	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Barnette.ThreeVertexConnected.connected	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Barnette.ThreeVertexConnected.connected	INFO	not a registered target statement
+REFEREE	R1	OAI.Barnette.ThreeVertexConnected.connected	PASS	reaches SimpleGraph.Connected.map
+REFEREE	R7	OAI.Barnette.ThreeVertexConnected.connected	PASS	no single top step
+REFEREE	R5	OAI.Barnette.ThreeVertexConnected.connected	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Barnette.ThreeVertexConnected.connected	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Barnette.ThreeVertexConnected.connected	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.Hamiltonian.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.Hamiltonian.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Combinatorics.Hamiltonian.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.Hamiltonian.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['Duality.hamiltonian', 'ThreeVertexConnected.connected', 'main'])

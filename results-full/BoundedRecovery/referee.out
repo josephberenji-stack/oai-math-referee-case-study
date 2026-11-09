@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	3597 constants reached, no stand-in
+REFEREE	L1u	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	REVIEW	CompleteSpace H :: side condition | OAI.BoundedRecovery.CyclicSeparatingData H :: carries a project proposition | S.StateScalarCentralizer :: carries a project proposition | ↑omega ≤ Filter.atTop :: side condition | ∀ (n : ℕ), 0 < delta n :: side condition | Filter.Tendsto delta Filter.atTop (nhds 0) :: side condition | ∀ (n : ℕ), ‖h n‖ = 1 :: side condition | ∀ (n : ℕ), S.D.HasSpectralSupport (Set.Icc (s - delta n) (s + delta n)) (h n) :: carries a project proposition | 0 < Filter.limsup (fun n => OAI.BoundedRecovery.fixedMean omega fun t => ‖T ((S.D.unitary  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	INFO	not a registered target statement
+REFEREE	R1	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	reaches smulCommClass_self
+REFEREE	R7	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	no single top step
+REFEREE	R5	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoundedRecovery.CyclicSeparatingData.bounded_recovery	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.ModularRecovery.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.ModularRecovery.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.ModularRecovery.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.ModularRecovery.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['StateScalarCentralizer', 'bounded_recovery'])

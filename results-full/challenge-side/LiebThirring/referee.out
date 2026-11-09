@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SharpLiebThirring.sharp_lieb_thirring	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	145 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpLiebThirring.sharp_lieb_thirring	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	no hypotheses
+REFEREE	L3	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpLiebThirring.sharp_lieb_thirring	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpLiebThirring.sharp_lieb_thirring	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpLiebThirring.sharp_lieb_thirring	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.LiebThirring	PASS	all 1 header names resolve
+REFEREE	MODULE	ComparatorChallenges.LiebThirring	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.LiebThirring	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.LiebThirring	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 10 public declarations without a docstring (['H1', 'l2Pairing', 'IsOrthonormalFamily', 'Admissible'])

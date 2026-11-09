@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	[]
+REFEREE	L1	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	16 constants reached, no stand-in
+REFEREE	L1u	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	REVIEW	OAI.Algorithms.SubexponentialSAT.Computation.Trace step a✝² a✝¹ a✝ :: carries a project proposition | ∀ (a : ℕ) (a_1 a_2 : α) (t : OAI.Algorithms.SubexponentialSAT.Computation.Trace step a a_1 :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	no single top step
+REFEREE	R5	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algorithms.SubexponentialSAT.Computation.Trace.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	224 constants reached, no stand-in
+REFEREE	L1u	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	2 ≤ k :: side condition || unbuilt=0
+REFEREE	L3	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	INFO	not a registered target statement
+REFEREE	R1	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	reaches instIsTransLe
+REFEREE	R7	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SubexponentialSAT	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SubexponentialSAT	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.SubexponentialSAT	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SubexponentialSAT	FAIL	no module docstring /-! … -/; 35 public declarations without a docstring (['bitVal', 'toNat', 'Assignment', 'Literal'])

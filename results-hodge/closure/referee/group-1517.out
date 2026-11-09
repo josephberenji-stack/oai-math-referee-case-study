@@ -1,0 +1,7 @@
+REFEREE	L4	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	INFO	0 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['GlobalCoefficient.FamilyCharts.Construction.GlobalCoefficientFamilyChart.ofEtaleNormal'])
+REFEREE	INST	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Resolution.Blowups.EtaleCoefficientFamilyChart	PASS	not under a Mathlib folder
+exit 1

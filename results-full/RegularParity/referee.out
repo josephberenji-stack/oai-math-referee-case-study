@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.QAC.parity_lower_bound_polynomial_size	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.QAC.parity_lower_bound_polynomial_size	PASS	2159 constants reached, no stand-in
+REFEREE	L1u	OAI.QAC.parity_lower_bound_polynomial_size	INFO	no opaque with a value reached
+REFEREE	L2	OAI.QAC.parity_lower_bound_polynomial_size	PASS	0 < d :: side condition | 0 < k :: side condition | 0 < C :: side condition || unbuilt=0
+REFEREE	L3	OAI.QAC.parity_lower_bound_polynomial_size	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.QAC.parity_lower_bound_polynomial_size	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.QAC.parity_lower_bound_polynomial_size	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.QAC.parity_lower_bound_polynomial_size	INFO	not a registered target statement
+REFEREE	R1	OAI.QAC.parity_lower_bound_polynomial_size	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.QAC.parity_lower_bound_polynomial_size	PASS	top step is not a project theorem
+REFEREE	R5	OAI.QAC.parity_lower_bound_polynomial_size	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.QAC.parity_lower_bound_polynomial_size	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.QAC.parity_lower_bound_polynomial_size	REVIEW	computed class A?
+REFEREE	L4	OAI.InformationTheory.QuantumCircuit.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.InformationTheory.QuantumCircuit.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.InformationTheory.QuantumCircuit.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.InformationTheory.QuantumCircuit.Main	FAIL	no module docstring /-! … -/

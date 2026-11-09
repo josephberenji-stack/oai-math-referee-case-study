@@ -1,0 +1,52 @@
+SCHEMA	1	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare
+DECL	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	theorem	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare	-	∀ {C : Type u} [inst : CategoryTheory.Category.{v, u} C] {D : Type u_1} [inst_1 : CategoryTheory.Category.{u_2, u_1} D] (H : CategoryTheory.Functor C D) {P K L L' : C} {W : D} (a : P ⟶ K) (b : K ⟶ L) (e : L ≅ L') (c : H.obj K ⟶ W) (d : H.obj L ⟶ W), CategoryTheory.CategoryStruct.comp (H.map b) d = c…
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Quiver.Hom	type	def	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Eq	type	inductive	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Eq.mpr	value	def	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Category.assoc	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	congrArg	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Iso.hom_inv_id	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	id	value	def	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Functor.map_id	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Eq.refl	value	ctor	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	congrFun'	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Eq.symm	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	Eq.trans	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CategoryTheory.Category.id_comp	value	theorem	mathlib
+THM	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.map_postcompose	CONTENT	CategoryTheory.Category.assoc	-	-	-	false	false	0	6	Eq	-
+DECL	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	theorem	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare	-	∀ {C : Type u} [inst : CategoryTheory.Category.{v, u} C] {A A' B B' U V : C} (e : A ≅ A') (d : B ≅ B') (f : A ⟶ B) (f' : A' ⟶ B') (a : A ⟶ U) (b : B ⟶ V) (g : U ⟶ V), CategoryTheory.CategoryStruct.comp f d.hom = CategoryTheory.CategoryStruct.comp e.hom f' → CategoryTheory.CategoryStruct.comp f b = C…
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Quiver.Hom	type	def	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Eq	type	inductive	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Eq.mpr	value	def	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Category.assoc	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	congrArg	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	id	value	def	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Iso.isIso_hom	value	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.Iso.hom_inv_id_assoc	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Iff.mp	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	congrFun'	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.IsIso.epi_of_iso	value	instance	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Eq.symm	value	theorem	core
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CategoryTheory.cancel_epi	value	theorem	mathlib
+EDGE	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	Eq.trans	value	theorem	core
+THM	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare.Comparison.conjugate	CONTENT	CategoryTheory.cancel_epi	-	-	-	false	false	0	6	Eq	-
+END	OAI.NumberTheory.PadicHodge.IntegralComparison.CoordinateSquare	2

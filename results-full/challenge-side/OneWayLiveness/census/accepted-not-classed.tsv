@@ -1,0 +1,18 @@
+module	shape	name
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.BRel.mk.inj
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.BRel.mk.injEq
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.BRel.mk.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.DMachine.mk.inj
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.DMachine.mk.injEq
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.DMachine.mk.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Move.left.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Move.right.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Move.stay.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.NMachine.mk.inj
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.NMachine.mk.injEq
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.NMachine.mk.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Symbol.left.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.Symbol.letter.inj
+ComparatorChallenges.OneWayLiveness	inj / injEq	OAI.OneWayLiveness.Symbol.letter.injEq
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Symbol.letter.sizeOf_spec
+ComparatorChallenges.OneWayLiveness	sizeOf_spec	OAI.OneWayLiveness.Symbol.right.sizeOf_spec

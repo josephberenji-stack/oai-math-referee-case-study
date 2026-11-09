@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.Paper092.product_counterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Paper092.product_counterexample	PASS	1937 constants reached, no stand-in
+REFEREE	L1u	OAI.Paper092.product_counterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Paper092.product_counterexample	PASS	no hypotheses
+REFEREE	L3	OAI.Paper092.product_counterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Paper092.product_counterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Paper092.product_counterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Paper092.product_counterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.Paper092.product_counterexample	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Paper092.product_counterexample	PASS	no single top step
+REFEREE	R5	OAI.Paper092.product_counterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Paper092.product_counterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Paper092.product_counterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.Paper092.productZonotope_normalized_volume	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Paper092.productZonotope_normalized_volume	PASS	1076 constants reached, no stand-in
+REFEREE	L1u	OAI.Paper092.productZonotope_normalized_volume	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Paper092.productZonotope_normalized_volume	PASS	no hypotheses
+REFEREE	L3	OAI.Paper092.productZonotope_normalized_volume	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Paper092.productZonotope_normalized_volume	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Paper092.productZonotope_normalized_volume	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Paper092.productZonotope_normalized_volume	INFO	not a registered target statement
+REFEREE	R1	OAI.Paper092.productZonotope_normalized_volume	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Paper092.productZonotope_normalized_volume	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Paper092.productZonotope_normalized_volume	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Paper092.productZonotope_normalized_volume	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Paper092.productZonotope_normalized_volume	REVIEW	computed class A?
+REFEREE	L0	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	1908 constants reached, no stand-in
+REFEREE	L1u	OAI.Paper092.productWitness_normalizedProjectionVolume	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	no hypotheses
+REFEREE	L3	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Paper092.productWitness_normalizedProjectionVolume	INFO	not a registered target statement
+REFEREE	R1	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Paper092.productWitness_normalizedProjectionVolume	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Paper092.productWitness_normalizedProjectionVolume	REVIEW	computed class A?
+REFEREE	L0	OAI.Paper092.productWitness_projectionBody	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Paper092.productWitness_projectionBody	PASS	1691 constants reached, no stand-in
+REFEREE	L1u	OAI.Paper092.productWitness_projectionBody	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Paper092.productWitness_projectionBody	PASS	no hypotheses
+REFEREE	L3	OAI.Paper092.productWitness_projectionBody	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Paper092.productWitness_projectionBody	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Paper092.productWitness_projectionBody	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Paper092.productWitness_projectionBody	INFO	not a registered target statement
+REFEREE	R1	OAI.Paper092.productWitness_projectionBody	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Paper092.productWitness_projectionBody	PASS	top step OAI.Paper092.projectionBody_eq_of_brightness_eq_support carries content
+REFEREE	R5	OAI.Paper092.productWitness_projectionBody	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Paper092.productWitness_projectionBody	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Paper092.productWitness_projectionBody	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.ProjectionVolume.ProductCounterexample	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.ProjectionVolume.ProductCounterexample	INFO	4 theorems checked
+REFEREE	L5	OAI.Geometry.ProjectionVolume.ProductCounterexample	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.ProjectionVolume.ProductCounterexample	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['productWitness_projectionBody', 'productZonotope_normalized_volume', 'productWitness_normalizedProjectionVolume', 'product_counterexample'])

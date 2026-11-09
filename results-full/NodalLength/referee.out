@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SharpNodal.Main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SharpNodal.Main	PASS	5958 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpNodal.Main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpNodal.Main	PASS	IsManifold (modelWithCornersSelf ℝ OAI.SharpNodal.Plane) (↑⊤) M :: side condition (project data) | CompactSpace M :: side condition | ConnectedSpace M :: side condition | IsContMDiffRiemannianBundle (modelWithCornersSelf ℝ OAI.SharpNodal.Plane) (↑⊤) OAI.SharpNo :: side condition (project data) | IsRiemannianManifold (modelWithCornersSelf ℝ OAI.SharpNodal.Plane) M :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SharpNodal.Main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpNodal.Main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpNodal.Main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpNodal.Main	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpNodal.Main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.SharpNodal.Main	PASS	no single top step
+REFEREE	R5	OAI.SharpNodal.Main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpNodal.Main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpNodal.Main	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.NodalLength.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.NodalLength.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.NodalLength.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.NodalLength.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['Main'])

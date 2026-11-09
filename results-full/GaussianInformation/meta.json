@@ -1,0 +1,19 @@
+{
+ "challenge": "GaussianInformation",
+ "solution_module": "OAI.Probability.GaussianInformation.Main",
+ "theorems": [
+  "OAI.RepeatedLocalization.repeated_localization",
+  "OAI.AllScaleInverseVolume.inverse_volume_without_support",
+  "OAI.KernelPotential.kernel_coercivity",
+  "OAI.KernelPotential.actual_row_drift"
+ ],
+ "imports_oai": false,
+ "definition_holes": [],
+ "local_definitions": 53,
+ "exit": {
+  "referee": 1,
+  "census": 0,
+  "origins": 0
+ },
+ "seconds": 48
+}

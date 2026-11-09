@@ -1,0 +1,85 @@
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	IsScalarTower K P A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.map_tmul	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	125 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	IsScalarTower K P A :: side condition | ∀ (p : P), (algebraMap P A) p ⊗ₜ[K] 1 - 1 ⊗ₜ[K] (algebraMap P A) p ∈ J :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	reaches TensorProduct.AlgebraTensorModule.ker_mapOfCompatibleSMul
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.kernel_le	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	IsScalarTower K P A :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	reaches Algebra.TensorProduct.mapOfCompatibleSMul_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	CONTENT	reaches Algebra.TensorProduct.mapOfCompatibleSMul_surjective
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel.surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	580 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	AlgebraicGeometry.IsIntegral X :: side condition | AlgebraicGeometry.IsIntegral Y :: side condition | AlgebraicGeometry.IsLocallyNoetherian X :: side condition | X.IsSeparated :: side condition | f (genericPoint ↥X) = genericPoint ↥Y :: side condition | Transcendental (↑Y.functionField) g :: side condition (project data) | CategoryTheory.CategoryStruct.comp   (AlgebraicGeometry.Spec.map    (CommRingCat.ofHom     :: side condition (project data) | f x = genericPoint ↥Y :: side condition | IsIntegrallyClosed ↑(X.presheaf.stalk x) :: side condition | 0 < AlgebraicGeometry.Scheme.ord g x :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	reaches Inseparable.of_eq
+REFEREE	R1k	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	CONTENT	reaches AlgebraicGeometry.instQuasiSoberCarrierCarrierCommRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover.positive_mem_range	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['map', 'map_tmul', 'surjective', 'kernel_le'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.TensorKernel	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['positive_mem_range'])
+REFEREE	INST	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Relative.ZeroCover	PASS	not under a Mathlib folder
+exit 1

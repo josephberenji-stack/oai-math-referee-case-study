@@ -1,0 +1,1027 @@
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	264 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	reaches Mathlib.Tactic.Ring.of_eq
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.ambientAction_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	128 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	Function.Surjective ⇑π :: side condition | ∀ (a : R) (x : Y), π x = 0 → π ((ρ a) x) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	reaches LinearMap.quotKerEquivOfSurjective_symm_apply
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	CONTENT	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	top step OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendedAction_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	396 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	REVIEW	NumberField E :: side condition | ∀ (u : OAI.Geometry.ComplexBall.PrescribedSignsB.Ambient Place),  u ∈ P ↔ OAI.Geometry.Com :: carries a project proposition | π.ker = P :: side condition (project data) | Function.Surjective ⇑π :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	reaches Mathlib.Tactic.Ring.of_eq
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.quotient_integer_action	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	54 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	Function.Surjective ⇑π :: side condition | ∀ (x : Y), π x = 0 → π (f x) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	reaches LinearMap.quotKerEquivOfSurjective_symm_apply
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	CONTENT	reaches RingHomCompTriple.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.descendEnd_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	319 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	REVIEW	OAI.Geometry.ComplexBall.PrescribedSignsB.Prescribed (fun τ x y => ((B τ) x) y) μ d z u :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	reaches Mathlib.Tactic.Ring.of_eq
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Action.CongruenceLevel.prescribed_action	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	137 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	∀ x ∈ Λ, ∀ y ∈ Λ, ∃ n, (B x) y = ↑n :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	CONTENT	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	158 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	∀ x ∈ Λ, ∀ y ∈ Λ, ∃ n, (B x) y = ↑n :: side condition | Submodule.span ℚ ↑Λ = ⊤ :: side condition | ∀ (x : V), (∀ (y : V), (B x) y = 0) → x = 0 :: side condition | ∀ (y : ↥Λ), ((OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestrict :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	CONTENT	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.integralRestriction_nondegenerate	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	209 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.traceBilinear_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	545 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) | (NumberField.IsCMField.complexConj E) b = b :: side condition | b ≠ 0 :: side condition | ((σ μ) b).re < 0 :: side condition | ∀ (τ : Place), τ ≠ μ → 0 < ((σ τ) b).re :: side condition | OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum.ReferenceDatum σ μ b dref :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	reaches zero_smul
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	29 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Algebraic.CongruenceLevel.exists_admissible_reference_input	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	313 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	IsIntegral ℤ a :: side condition | 3 ≤ N :: side condition | 0 < k :: side condition | (1 + ↑N * a) ^ k = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	reaches IntermediateField.adjoin.finiteDimensional
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.complex_integral_root_of_unity_congruence	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	261 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	NumberField K :: side condition | IsIntegral ℤ a :: side condition | 3 ≤ N :: side condition | 0 < k :: side condition | (1 + ↑N * a) ^ k = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	CONTENT	reaches Decidable.byContradiction
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_root_of_unity_congruence	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	485 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	FiniteDimensional ℂ V :: side condition | ∀ (z : ℂ), a.HasEigenvalue z → IsIntegral ℤ z :: side condition | 3 ≤ N :: side condition | 0 < k :: side condition | (1 + ↑N • a) ^ k = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	reaches Nat.cast_zero
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integral_spectrum_congruence_torsion	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	595 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	3 ≤ N :: side condition | 0 < k :: side condition | (1 + N • B) ^ k = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	reaches Module.End.hasEigenvalue_iff_isRoot_charpoly
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	CONTENT	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.integer_matrix_congruence_torsion	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	644 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	Module.Finite ℤ M :: side condition | Module.IsTorsionFree ℤ M :: side condition | 3 ≤ N :: side condition | ∀ (x : M), ∃ y, f x - x = N • y :: side condition | 0 < k :: side condition | f ^ k = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	reaches Matrix.ext
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	CONTENT	reaches Module.free_of_finite_type_torsion_free'
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Congruence.Level.finite_lattice_congruence_torsion	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	1468 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	NumberField E :: side condition | IsGalois ℚ E :: side condition | NumberField.IsCMField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	reaches LinearEquiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	11 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	54 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.l32Input_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	3731 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) | (NumberField.IsCMField.complexConj E) b = b :: side condition | b ≠ 0 :: side condition | ((σ μ) b).re < 0 :: side condition | ∀ (τ : Place), τ ≠ μ → 0 < ((σ τ) b).re :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	reaches zero_smul
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	top step OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Foundations.Scheme.ProjectiveCoordinatesIn.Algebraic.ProjectiveCoordinates.InPatch by OAI.Geometry.ComplexTorus.RiemannProjectivity.ProjectivityCriterion.Construction.ProjectiveGridCover.inPatch]
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	155 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.reference_polarized_abelian_moduli_datum_unconditional	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	2444 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	reaches zero_smul
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	top step OAI.Geometry.ComplexTorus.RiemannProjectivity.ProjectivityCriterion.riemann_projectivity_criterion carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Foundations.Scheme.ProjectiveCoordinatesIn.Algebraic.ProjectiveCoordinates.InPatch by OAI.Geometry.ComplexTorus.RiemannProjectivity.ProjectivityCriterion.Construction.ProjectiveGridCover.inPatch]
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	72 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	1682 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsGalois ℚ E :: side condition | OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum.PrescribedSignsInput E Place :: carries a project proposition | OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum.RiemannInput :: discharged by OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL.riemannInput_proved | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) | (NumberField.IsCMField.complexConj E) b = b :: side condition | b ≠ 0 :: side condition | ((σ μ) b).re < 0 :: side condition | ∀ (τ : Place), τ ≠ μ → 0 < ((σ τ) b).re :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	reaches zero_smul
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	56 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_polarized_abelian_moduli_datum	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	550 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | b ≠ 0 :: side condition | δ ≠ 0 :: side condition | (NumberField.IsCMField.complexConj E) b = b :: side condition | (NumberField.IsCMField.complexConj E) δ = -δ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace.reference_integral_trace_datum	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	112 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	reaches Real.ringHom_apply
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	CONTENT	reaches Prod.ext
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	134 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	reaches star_star
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	CONTENT	reaches RingHomInvPair.instStarRingEnd
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_fixed	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	(OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation Place) u :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	reaches star_star
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	CONTENT	reaches RingHomInvPair.instStarRingEnd
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_surjective_fixed	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	178 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_skew	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	238 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	REVIEW	∀ (τ : Place), OAI.Geometry.ComplexBall.PrescribedSignsB.HermitianB (B τ) :: carries a project proposition | ∀ (τ : Place), star (t τ) = -t τ :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_real	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	109 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.complexTrace_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	242 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	REVIEW	OAI.Geometry.ComplexBall.PrescribedSignsB.PositivePeriod r (fun x y => (Ψ x) y)  (⇑(OAI.Nu :: carries a project proposition | π.ker = P :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	CONTENT	reaches LinearMap.mk₂._proof_1
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.realCoordinates_projection_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	reaches star_star
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	CONTENT	reaches LinearEquiv.left_inv
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Coordinates.CongruenceLevel.ambientConjugation_involutive	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	238 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	reaches Fin.instUnique._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal_real	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	305 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	0 < ((σ τ) b).re :: side condition | x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	reaches Fin.instUnique._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_definite	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	299 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	x ≠ 0 :: side condition (project data) | x 2 = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	reaches Fin.instUnique._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_positive_plane	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	122 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | (NumberField.IsCMField.complexConj E) b = b :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	reaches Nat.le_of_lt
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.diagonal_hermitian	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	287 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.exists_nonzero_imaginary	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	155 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	x ≠ 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	reaches Complex.normSq_nonneg
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	CONTENT	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.three_normSq_positive	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	151 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	reaches Fin.instUnique._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.localB_diagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	146 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	reaches Finset.sum_congr
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Diagonal.CongruenceLevel.trace_matrix_diagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	174 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	reaches NumberField.InfinitePlace.embedding_mk_eq
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	top step OAI.AlgebraicGeometry.ComplexMultiplication.CM.TypeHodgeStructure.CMEmbeddingType.placeEmbedding_mk carries content
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.placeEmbedding_representative	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	718 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	REVIEW	NumberField E :: side condition | NumberField.IsCMField E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) | OAI.Geometry.ComplexBall.PrescribedSignsB.PositivePeriod (3 * Fintype.card Place) (fun x y :: carries a project proposition | π.ker = P :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	reaches LinearMap.mk₂._proof_1
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	27 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.period_projection_lattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	104 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	reaches RingHom.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	DiscreteTopology ↥L :: side condition | IsZLattice ℝ L :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	reaches Set.mem_univ
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_isZLattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	456 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	17 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_isZLattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	211 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	13 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.periodCoordinateEquiv_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	146 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	reaches Equiv.surjective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.referenceCMType_positive	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	170 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	reaches Real.ringHom_apply
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.embeddingCoordinates_real	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	129 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	reaches Bool.not_false
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representativePairs_conjugate	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	468 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	21 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.mem_coordinateLattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	41 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	DiscreteTopology ↥L :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	reaches Set.mem_univ
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	CONTENT	reaches Subtype.property
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.productLattice_discrete	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	402 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	17 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.coordinateLattice_discrete	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	101 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representatives_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	172 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	Function.Bijective fun p =>  if p.2 = true then OAI.AlgebraicGeometry.ComplexMultiplicatio :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	CONTENT	reaches Complex.instCharZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice.CongruenceLevel.representative_place_bijective	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	258 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	NumberField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice_full_stable	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	114 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	CONTENT	reaches RingHomSurjective.ids
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.mem_standardLattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	252 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	NumberField E :: side condition | NumberField.IsCMField E :: side condition | IsIntegral ℤ (m • δ) :: side condition | IsIntegral ℤ (m • (δ * b)) :: side condition | x ∈ OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice :: side condition (project data) | y ∈ OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.standardLattice :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	reaches map_add
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	CONTENT	reaches NumberField.to_charZero
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.trace_integral_on_standardLattice	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	93 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	NumberField E :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	reaches IsFractionRing.isAlgebraic_iff
+REFEREE	R1k	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	CONTENT	reaches IsFractionRing.isAlgebraic_iff
+REFEREE	R7	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.ArithmeticGroups.Lattice.CongruenceLevel.exists_integral_trace_coefficients	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Action	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Algebraic	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Congruence	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Coordinates	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Data	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Diagonal	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.ArithmeticGroups.Lattice	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Action	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Algebraic	INFO	4 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Congruence	INFO	5 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Coordinates	INFO	8 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Data	INFO	0 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Diagonal	INFO	8 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	INFO	14 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.ArithmeticGroups.Lattice	INFO	4 theorems checked
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Action	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Action	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['descendEnd', 'descendEnd_apply', 'descendedAction', 'descendedAction_apply'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Action	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Action	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Algebraic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Algebraic	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['traceBilinear', 'traceBilinear_apply', 'integralRestriction', 'integralRestriction_apply'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Algebraic	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Algebraic	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['μ', 'traceForm', 'domain', 'firstLieRank'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.AlgebraicDatum	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Congruence	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Congruence	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['complex_integral_root_of_unity_congruence', 'finite_lattice_congruence_torsion'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Congruence	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Congruence	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['PrescribedSignsInput', 'RiemannInput', 'ReferenceDatum'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelDatum	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['l32Input_proved', 'riemannInput_proved'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelL	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['reference_integral_trace_datum'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.CongruenceLevelTrace	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Coordinates	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Coordinates	FAIL	module docstring has no `## Main results`; 11 public declarations without a docstring (['ambientConjugation', 'ambientConjugation_involutive', 'realCoordinates', 'realCoordinates_fixed'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Coordinates	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Coordinates	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Data	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Data	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['VE', 'hermitian', 'IsProjectiveComplexTorus'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Data	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Data	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Diagonal	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Diagonal	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['localB_diagonal', 'localB_diagonal_real', 'three_normSq_positive', 'diagonal_positive_plane'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Diagonal	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Diagonal	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	FAIL	module docstring has no `## Main results`; 15 public declarations without a docstring (['productLattice', 'representativePairs', 'representativePairs_conjugate', 'referenceCMType'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.EmbeddingLattice	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.ArithmeticGroups.Lattice	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.ArithmeticGroups.Lattice	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['integerCoordinates', 'standardLattice', 'mem_standardLattice', 'standardLattice_full_stable'])
+REFEREE	INST	OAI.NumberTheory.ArithmeticGroups.Lattice	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.ArithmeticGroups.Lattice	PASS	not under a Mathlib folder
+exit 1

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.SharpRamseyFive.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SharpRamseyFive.main	PASS	9743 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpRamseyFive.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpRamseyFive.main	PASS	no hypotheses
+REFEREE	L3	OAI.SharpRamseyFive.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpRamseyFive.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpRamseyFive.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpRamseyFive.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpRamseyFive.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SharpRamseyFive.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SharpRamseyFive.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpRamseyFive.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpRamseyFive.main	REVIEW	computed class A?
+REFEREE	L0	OAI.SharpRamseyFive.sharpBounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SharpRamseyFive.sharpBounds	PASS	9733 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpRamseyFive.sharpBounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpRamseyFive.sharpBounds	PASS	no hypotheses
+REFEREE	L3	OAI.SharpRamseyFive.sharpBounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpRamseyFive.sharpBounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpRamseyFive.sharpBounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpRamseyFive.sharpBounds	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpRamseyFive.sharpBounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SharpRamseyFive.sharpBounds	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SharpRamseyFive.sharpBounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpRamseyFive.sharpBounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpRamseyFive.sharpBounds	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.RamseyFive.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.RamseyFive.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.RamseyFive.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.RamseyFive.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['sharpBounds', 'main'])

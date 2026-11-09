@@ -1,0 +1,211 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	10 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	s = p ≪≫ z :: side condition | z ≪≫ r = w ≪≫ v :: side condition | r' ≪≫ u = p ≪≫ w :: side condition | t = u ≪≫ v :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	reaches CategoryTheory.Iso.trans_assoc
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	CONTENT	reaches CategoryTheory.Iso.trans_assoc
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.three_squares	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	671 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	REVIEW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.LineBundle E.left :: carries a project proposition | OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.LineBundle E.left :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	reaches PresheafOfModules.naturality_apply
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	REVIEW	input supplied by unfolding alone: [OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.IsLine by OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.LineBundle.isLine]
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Picard.PoincareBundle.Line.Bundles.unitLine = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint.atPoint	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	reaches SheafOfModules.pullbackPushforwardAdjunction_homEquiv_pullbackObjUnitToUnit
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	CONTENT	reaches instIsContinuousOpensCarrierMapGrothendieckTopology
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_homEquiv	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	171 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	reaches AddMonoidHom.map_add
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	REVIEW	packaged: the top step is the structural lemma OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Bilinear.Sheaves.SheafBilinearMap.ext; the content is in its arguments
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	7 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.scalar_pushforward	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	27 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	reaches CategoryTheory.Adjunction.homEquiv_counit
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	CONTENT	reaches CategoryTheory.Adjunction.homEquiv_counit
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.homEquiv_map_counit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	282 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	CategoryTheory.IsIso a :: side condition | CategoryTheory.IsIso b :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	reaches PresheafOfModules.naturality_apply
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	CONTENT	reaches CategoryTheory.Iso.isIso_hom
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	12 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorMap_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	reaches AlgebraicGeometry.Scheme.ringCatSheaf._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_hom_presheaf	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	116 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	reaches CategoryTheory.Functor.final_fromPUnit_of_isTerminal
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	CONTENT	reaches instIsContinuousOpensCarrierMapGrothendieckTopology
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.unitIso_unit	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	249 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	reaches PresheafOfModules.naturality_apply
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.tensorUnitLeft_bilinear	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	395 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	reaches Equiv.injective
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	CONTENT	reaches Equiv.injective
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_fac	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	412 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	reaches PresheafOfModules.naturality_apply
+REFEREE	R1k	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	CONTENT	reaches CategoryTheory.Presheaf.instIsLocallyInjectiveOfIsIsoFunctorOpposite
+REFEREE	R7	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Tensor.ProductSheaf.instMonoidalCategoryPresheafOfModules_oAI = OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.instMonoidalCategoryPresheafOfModules_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback.pullbackMap_unit_isIso	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	INFO	9 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['three_squares'])
+REFEREE	INST	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.SymmetryAtPoint	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['homEquiv_map_counit'])
+REFEREE	INST	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	REVIEW	instance changes at lines 23
+REFEREE	VEND	OAI.AlgebraicGeometry.Picard.PoincareBundle.Tensor.UnitPullback	PASS	not under a Mathlib folder
+exit 1

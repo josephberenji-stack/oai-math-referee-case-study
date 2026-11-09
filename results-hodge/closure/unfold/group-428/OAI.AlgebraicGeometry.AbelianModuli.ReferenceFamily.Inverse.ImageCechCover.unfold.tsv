@@ -1,0 +1,50 @@
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover	-	∀ {X Y : TopCat} (f : X ⟶ Y) {I : Type} (U : I → TopologicalSpace.Opens ↑Y), iSup U = ⊤ → ⨆ i, (TopologicalSpace.Opens.map f).obj (U i) = ⊤
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Lattice.toSemilatticeSup	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CompleteLattice.toLattice	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens.instCompleteLattice	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens.instPartialOrder	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	iSup	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopCat.instCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	PartialOrder.toPreorder	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Preorder.toLE	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CompleteLattice.toConditionallyCompleteLattice	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CompleteLattice.toBoundedOrder	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Preorder.smallCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopCat.str	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopCat.carrier	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	OrderTop.toTop	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	BoundedOrder.toOrderTop	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens.map	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	ConditionallyCompleteLattice.toConditionallyCompletePartialOrder	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	SemilatticeSup.toPartialOrder	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopCat	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	ConditionallyCompletePartialOrder.toConditionallyCompletePartialOrderSup	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Top.top	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	ConditionallyCompletePartialOrderSup.toSupSet	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Iff.mpr	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	trivial	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CategoryTheory.ConcreteCategory.hom	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	ContinuousMap	value	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Membership.mem	value	propdef	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Exists	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Eq.rec	value	rec	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens.mem_iSup	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopologicalSpace.Opens.instSetLike	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Exists.casesOn	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	top_unique	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Exists.intro	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	TopCat.instConcreteCategoryContinuousMapCarrier	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	ContinuousMap.instFunLike	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	DFunLike.coe	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	SetLike.instMembership	value	instance	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover.inverseImageCechCover_covers	CONTENT	top_unique	-	-	-	false	false	0	2	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Inverse.ImageCechCover	1

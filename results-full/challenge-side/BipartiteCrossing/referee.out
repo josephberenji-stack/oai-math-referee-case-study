@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.Zarankiewicz.mainTarget_proof	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.Zarankiewicz.mainTarget_proof	PASS	75 constants reached, no stand-in
+REFEREE	L1u	OAI.Zarankiewicz.mainTarget_proof	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Zarankiewicz.mainTarget_proof	PASS	no hypotheses
+REFEREE	L3	OAI.Zarankiewicz.mainTarget_proof	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Zarankiewicz.mainTarget_proof	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Zarankiewicz.mainTarget_proof	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Zarankiewicz.mainTarget_proof	INFO	not a registered target statement
+REFEREE	R1	OAI.Zarankiewicz.mainTarget_proof	PASS	reaches Real.instIsOrderedRing
+REFEREE	R7	OAI.Zarankiewicz.mainTarget_proof	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Zarankiewicz.mainTarget_proof	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Zarankiewicz.mainTarget_proof	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Zarankiewicz.mainTarget_proof	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.BipartiteCrossing	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.BipartiteCrossing	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.BipartiteCrossing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.BipartiteCrossing	FAIL	no module docstring /-! … -/; 12 public declarations without a docstring (['axisPairs', 'Plane', 'BipartiteVertex', 'BipartiteEdge'])

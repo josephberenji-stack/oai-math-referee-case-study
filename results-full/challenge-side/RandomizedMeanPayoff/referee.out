@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	[]
+REFEREE	L1	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	13 constants reached, no stand-in
+REFEREE	L1u	OAI.MeanPayoff.Direction.ofNat_ctorIdx	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	no hypotheses
+REFEREE	L3	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MeanPayoff.Direction.ofNat_ctorIdx	INFO	not a registered target statement
+REFEREE	R1	OAI.MeanPayoff.Direction.ofNat_ctorIdx	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MeanPayoff.Direction.ofNat_ctorIdx	PASS	computed class DEF
+REFEREE	L0	OAI.randomized_quasipolynomial_mean_payoff	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.randomized_quasipolynomial_mean_payoff	PASS	178 constants reached, no stand-in
+REFEREE	L1u	OAI.randomized_quasipolynomial_mean_payoff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.randomized_quasipolynomial_mean_payoff	PASS	no hypotheses
+REFEREE	L3	OAI.randomized_quasipolynomial_mean_payoff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.randomized_quasipolynomial_mean_payoff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.randomized_quasipolynomial_mean_payoff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.randomized_quasipolynomial_mean_payoff	INFO	not a registered target statement
+REFEREE	R1	OAI.randomized_quasipolynomial_mean_payoff	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.randomized_quasipolynomial_mean_payoff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.randomized_quasipolynomial_mean_payoff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.randomized_quasipolynomial_mean_payoff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.randomized_quasipolynomial_mean_payoff	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.RandomizedMeanPayoff	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.RandomizedMeanPayoff	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.RandomizedMeanPayoff	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.RandomizedMeanPayoff	FAIL	no module docstring /-! … -/; 24 public declarations without a docstring (['Game', 'Strategy', 'move', 'position'])

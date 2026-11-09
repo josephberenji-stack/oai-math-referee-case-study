@@ -1,0 +1,211 @@
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	196 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	FiniteDimensional k V :: side condition | ∀ (f : Module.End k V), ∀ x ∈ W, (LinearMap.baseChange K f) x ∈ W :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	reaches Submodule.ne_bot_iff
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.tensor_invariant_subspace_eq_bot_or_top	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	106 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	no hypotheses
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	reaches TensorProduct.inductionOn
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	CONTENT	reaches TensorProduct.inductionOn
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces.baseChange_rankOne_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	1467 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	REVIEW	CharZero E :: side condition | FiniteDimensional F E :: side condition | IsGalois F E :: side condition | Nonempty ι :: side condition | CompleteSpace κ :: side condition | ∀ (i : ι), CompleteSpace (K i) :: side condition | ∀ (i : ι), FiniteDimensional κ (K i) :: side condition | ∀ (i : ι), ContinuousSMul κ (K i) :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup F n :: carries a project proposition | S ∈  Submodule.span F   {Z |    ∃ a,     ∃      Y ∈       OAI.NumberTheory.Quaternion.Arit :: side condition (project data) | DenseRange fun r i => (algebraMap F (K i)) r :: side condition | IsClosed C :: side condition | ∀ (g : G.RationalPoints),  (fun i =>    ((OAI.NumberTheory.Quaternion.Arithmetic.Polynomia :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	reaches MvPolynomial.derivation_ext
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	CONTENT	reaches AddMonoidAlgebra.smulCommClass
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	52 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent.trace_span_mem_original_tangentSpan	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	405 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	REVIEW	CharZero K :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup F n :: carries a project proposition | IsNilpotent ((OAI.NumberTheory.Quaternion.Arithmetic.PolynomialGaloisNorm.matrixPointsHom  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	reaches Mathlib.Tactic.Abel.subst_into_addg
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	CONTENT	reaches SubgroupClass.toSubmonoidClass
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_mem_additiveParameterElements	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	418 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	REVIEW	CharZero K :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup F n :: carries a project proposition | Subgroup.closure   {g | IsNilpotent ((OAI.NumberTheory.Quaternion.Arithmetic.PolynomialGal :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	reaches top_unique
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	CONTENT	reaches SubgroupClass.toSubmonoidClass
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.additive_generation_of_unipotent_generation	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	401 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	REVIEW	CharZero K :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup F n :: carries a project proposition | IsNilpotent ((OAI.NumberTheory.Quaternion.Arithmetic.PolynomialGaloisNorm.matrixPointsHom  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	reaches Mathlib.Tactic.Abel.subst_into_addg
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	CONTENT	reaches SubgroupClass.toSubmonoidClass
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter.unipotent_point_has_additive_parameter	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	Finite ι :: side condition | ∀ (i : ι), IsOpenUnits (C i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	reaches IsOpenMap.piMap
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	CONTENT	reaches IsOpenMap.piMap
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finite_units_pi_val_isOpenMap	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	156 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	FiniteDimensional F A :: side condition | Finite ι :: side condition | ∀ (i : ι), IsOpenUnits (C i) :: side condition | ∀ (i : ι), Function.Injective ⇑(f i) :: side condition | DenseRange fun a i => (f i) a :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	reaches isEmpty_or_nonempty
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	CONTENT	reaches isEmpty_or_nonempty
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.denseRange_unitsPiDiagonal	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	70 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	FiniteDimensional F A :: side condition | Function.Injective ⇑f :: side condition | IsUnit (f a) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	reaches IsUnit.mul_left_cancel
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	CONTENT	reaches smulCommClass_self
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation.finiteDimensional_isUnit_of_injective_map	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	1764 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	REVIEW	NumberField F :: side condition | OAI.NumberTheory.ArithmeticGroups.Lattices.Algebraic.MatrixAlgebraicGroup F n :: carries a project proposition | ∀ (v : NumberField.InfinitePlace F), Sum.inl v ∈ S :: side condition (project data) | CompactSpace  (OAI.NumberTheory.Quaternion.Arithmetic.AdelicGroup.FullAdelicGroupPoints G  :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	reaches NumberField.InfinitePlace.Completion.instNormedField._proof_1
+REFEREE	R1k	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	CONTENT	reaches WithAbs.instUniformContinuousConstSMulReal
+REFEREE	R7	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	8 supplied inputs, each carries content
+REFEREE	DUP	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	54 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.Quaternion.Arithmetic.Volume.sArithmeticLocal_quotientProbability_of_full	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.Quaternion.Arithmetic.Volume	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	INFO	2 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	INFO	3 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.Quaternion.Arithmetic.Volume	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['baseChange_rankOne_apply', 'tensor_invariant_subspace_eq_bot_or_top'])
+REFEREE	INST	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.Quaternion.Arithmetic.TensorInvariantSubspaces	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['trace_span_mem_original_tangentSpan'])
+REFEREE	INST	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.Quaternion.Arithmetic.TraceTangentsDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['unipotent_point_has_additive_parameter', 'unipotent_point_mem_additiveParameterElements', 'additive_generation_of_unipotent_generation'])
+REFEREE	INST	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.Quaternion.Arithmetic.UnipotentOneParameter	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['finiteDimensional_isUnit_of_injective_map', 'unitsPiDiagonal', 'finite_units_pi_val_isOpenMap', 'denseRange_unitsPiDiagonal'])
+REFEREE	INST	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.Quaternion.Arithmetic.UnitsWeakApproximation	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.Quaternion.Arithmetic.Volume	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.Quaternion.Arithmetic.Volume	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['sArithmeticLocal_quotientProbability_of_full'])
+REFEREE	INST	OAI.NumberTheory.Quaternion.Arithmetic.Volume	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.Quaternion.Arithmetic.Volume	PASS	not under a Mathlib folder
+exit 1

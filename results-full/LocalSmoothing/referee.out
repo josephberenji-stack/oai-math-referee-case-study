@@ -1,0 +1,82 @@
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	21666 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	2 ≤ n :: side condition | 1 ≤ p :: side condition | max (↑n * |p⁻¹.toReal - 1 / 2| - 1 / 2) 0 < δ :: side condition || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	top step OAI.Analysis.Fourier.BochnerRiesz.bochner_riesz_schwartz carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz	REVIEW	computed class A?
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	22389 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	2 ≤ n :: side condition | 1 < a :: side condition | 2 * ↑n / (↑n - 1) < b :: side condition | (↑n + 1) / (↑n - 1) * OAI.Analysis.Fourier.LocalSmoothing.Comparator.Implications.conjugat :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	top step OAI.Analysis.Fourier.Restriction.spherical_restriction carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction	REVIEW	computed class A?
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	20541 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	2 ≤ n :: side condition | 2 ≤ p :: side condition | 0 < ε ∨ p = 2 ∧ ε = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	top step OAI.Analysis.Fourier.LocalSmoothing.euclidean_local_smoothing carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing	REVIEW	computed class A?
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	22103 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	2 ≤ n :: side condition | 2 ≤ p :: side condition | max (1 / 2) (↑n * (1 / 2 - 1 / p)) < α :: side condition || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	top step OAI.Analysis.Fourier.SquareFunction.stein_square_literal carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square	REVIEW	computed class A?
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	22712 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	REVIEW	2 ≤ n :: side condition | OAI.Analysis.Fourier.LocalSmoothing.Comparator.Implications.IsKakeyaSet F :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	top step OAI.MeasureTheory.Kakeya.kakeya carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya	REVIEW	computed class A?
+REFEREE	L0	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	22614 constants reached, no stand-in
+REFEREE	L1u	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	2 ≤ n :: side condition | 0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	INFO	not a registered target statement
+REFEREE	R1	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	top step OAI.MeasureTheory.Kakeya.kakeya_maximal carries content
+REFEREE	R5	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Fourier.LocalSmoothing.Comparator	PASS	header names resolve to modules, files or declarations
+REFEREE	MODULE	OAI.Analysis.Fourier.LocalSmoothing.Comparator	INFO	6 theorems checked
+REFEREE	L5	OAI.Analysis.Fourier.LocalSmoothing.Comparator	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Fourier.LocalSmoothing.Comparator	FAIL	module docstring has no `## Main results`; 13 public declarations without a docstring (['Space', 'angularFourier', 'angularInverse', 'halfWaveIntegral'])

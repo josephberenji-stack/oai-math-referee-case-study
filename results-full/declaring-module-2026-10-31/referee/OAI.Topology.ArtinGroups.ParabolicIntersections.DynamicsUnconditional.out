@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	11228 constants reached, no stand-in
+REFEREE	L1u	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	REVIEW	OAI.HarmonicArtin.ParabolicIntersections.IsIrreducible M :: carries a project proposition | ∃ s t, s ≠ t ∧ M.M s t = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	INFO	not a registered target statement
+REFEREE	R1	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	reaches le_rfl
+REFEREE	R7	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics	REVIEW	computed class A?
+REFEREE	L4	OAI.Topology.ArtinGroups.ParabolicIntersections.DynamicsUnconditional	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Topology.ArtinGroups.ParabolicIntersections.DynamicsUnconditional	INFO	1 theorems checked
+REFEREE	L5	OAI.Topology.ArtinGroups.ParabolicIntersections.DynamicsUnconditional	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Topology.ArtinGroups.ParabolicIntersections.DynamicsUnconditional	FAIL	module docstring has no `## Main results`

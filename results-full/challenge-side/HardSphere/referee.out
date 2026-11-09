@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.HardSphere.condensation_with_mixed	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.HardSphere.condensation_with_mixed	PASS	810 constants reached, no stand-in
+REFEREE	L1u	OAI.HardSphere.condensation_with_mixed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HardSphere.condensation_with_mixed	PASS	no hypotheses
+REFEREE	L3	OAI.HardSphere.condensation_with_mixed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HardSphere.condensation_with_mixed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HardSphere.condensation_with_mixed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HardSphere.condensation_with_mixed	INFO	not a registered target statement
+REFEREE	R1	OAI.HardSphere.condensation_with_mixed	PASS	reaches Subtype.property
+REFEREE	R7	OAI.HardSphere.condensation_with_mixed	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HardSphere.condensation_with_mixed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HardSphere.condensation_with_mixed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HardSphere.condensation_with_mixed	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.HardSphere.lengthPositive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HardSphere.lengthPositive	PASS	12 constants reached, no stand-in
+REFEREE	L1u	OAI.HardSphere.lengthPositive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HardSphere.lengthPositive	PASS	no hypotheses
+REFEREE	L3	OAI.HardSphere.lengthPositive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HardSphere.lengthPositive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HardSphere.lengthPositive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HardSphere.lengthPositive	INFO	not a registered target statement
+REFEREE	R1	OAI.HardSphere.lengthPositive	PASS	reaches Subtype.property
+REFEREE	R7	OAI.HardSphere.lengthPositive	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HardSphere.lengthPositive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HardSphere.lengthPositive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HardSphere.lengthPositive	REVIEW	computed class A?
+REFEREE	L0	OAI.HardSphere.groundScalarL2Complete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.HardSphere.groundScalarL2Complete	PASS	63 constants reached, no stand-in
+REFEREE	L1u	OAI.HardSphere.groundScalarL2Complete	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HardSphere.groundScalarL2Complete	PASS	no hypotheses
+REFEREE	L3	OAI.HardSphere.groundScalarL2Complete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HardSphere.groundScalarL2Complete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HardSphere.groundScalarL2Complete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HardSphere.groundScalarL2Complete	INFO	not a registered target statement
+REFEREE	R1	OAI.HardSphere.groundScalarL2Complete	PASS	reaches Subtype.property
+REFEREE	R7	OAI.HardSphere.groundScalarL2Complete	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HardSphere.groundScalarL2Complete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.HardSphere.groundScalarL2Complete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HardSphere.groundScalarL2Complete	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.HardSphere	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HardSphere	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.HardSphere	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HardSphere	FAIL	module docstring has no `## Main results`; 30 public declarations without a docstring (['Length', 'Torus', 'Configuration', 'LiftedConfiguration'])

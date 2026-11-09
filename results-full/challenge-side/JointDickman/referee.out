@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.JointDickmanPaper.joint_law	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.JointDickmanPaper.joint_law	PASS	87 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.joint_law	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.joint_law	PASS	0 < a :: side condition | a < 1 :: side condition | 0 < b :: side condition | b < 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.JointDickmanPaper.joint_law	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.joint_law	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.joint_law	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.joint_law	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.joint_law	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.JointDickmanPaper.joint_law	PASS	top step is not a project theorem
+REFEREE	R5	OAI.JointDickmanPaper.joint_law	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.joint_law	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.joint_law	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.JointDickmanPaper.decreasing_order	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.JointDickmanPaper.decreasing_order	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.decreasing_order	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.decreasing_order	PASS	no hypotheses
+REFEREE	L3	OAI.JointDickmanPaper.decreasing_order	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.decreasing_order	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.decreasing_order	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.decreasing_order	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.decreasing_order	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.JointDickmanPaper.decreasing_order	PASS	top step is not a project theorem
+REFEREE	R5	OAI.JointDickmanPaper.decreasing_order	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.decreasing_order	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.decreasing_order	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.JointDickmanPaper.increasing_order	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.JointDickmanPaper.increasing_order	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.JointDickmanPaper.increasing_order	INFO	no opaque with a value reached
+REFEREE	L2	OAI.JointDickmanPaper.increasing_order	PASS	no hypotheses
+REFEREE	L3	OAI.JointDickmanPaper.increasing_order	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.JointDickmanPaper.increasing_order	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.JointDickmanPaper.increasing_order	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.JointDickmanPaper.increasing_order	INFO	not a registered target statement
+REFEREE	R1	OAI.JointDickmanPaper.increasing_order	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.JointDickmanPaper.increasing_order	PASS	top step is not a project theorem
+REFEREE	R5	OAI.JointDickmanPaper.increasing_order	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.JointDickmanPaper.increasing_order	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.JointDickmanPaper.increasing_order	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.JointDickman	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.JointDickman	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.JointDickman	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.JointDickman	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['kernel', 'stepApprox', 'delay', 'empiricalCount'])

@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	91 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	CompleteSpace F :: side condition | CompleteSpace G :: side condition | CircleIntegrable g c r :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	reaches CircleIntegrable._proof_1
+REFEREE	R1k	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	CONTENT	reaches CircleIntegrable._proof_1
+REFEREE	R7	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality.Dolbeault.circleIntegral_map	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['circleIntegral_map'])
+REFEREE	INST	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Comparison.Betti.CircleIntegralNaturality	PASS	not under a Mathlib folder
+exit 1

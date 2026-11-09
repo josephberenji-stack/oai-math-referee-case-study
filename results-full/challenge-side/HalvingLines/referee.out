@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PlanarHalving.power_bounds	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PlanarHalving.power_bounds	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarHalving.power_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarHalving.power_bounds	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarHalving.power_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarHalving.power_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarHalving.power_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarHalving.power_bounds	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarHalving.power_bounds	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarHalving.power_bounds	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarHalving.power_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarHalving.power_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarHalving.power_bounds	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.HalvingLines	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HalvingLines	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.HalvingLines	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HalvingLines	FAIL	no module docstring /-! … -/; 10 public declarations without a docstring (['Point', 'orient', 'GeneralPosition', 'sideCount'])

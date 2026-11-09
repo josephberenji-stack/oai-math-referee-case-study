@@ -1,0 +1,95 @@
+REFEREE	L0	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.Machine.MainReduction.construct_sound	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.Machine.MainReduction.construct_sound	REVIEW	statement-level: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.VertexCover.Machine.MainReduction.construct_sound	REVIEW	4 ≤ m :: side condition | ¬OAI.VertexCover.ThreeSAT input :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.Machine.MainReduction.construct_sound	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	no single top step
+REFEREE	R5	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.Machine.MainReduction.construct_sound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.Machine.MainReduction.construct_sound	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.Machine.MainReduction.repeated_sound	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.Machine.MainReduction.repeated_sound	REVIEW	statement-level: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.VertexCover.Machine.MainReduction.repeated_sound	REVIEW	0 < σ :: side condition | ¬OAI.VertexCover.ThreeSAT input :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.Machine.MainReduction.repeated_sound	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.Machine.MainReduction.repeated_sound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.Machine.MainReduction.repeated_sound	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.every_fixed_factor_below_two	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.every_fixed_factor_below_two	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter, opaque with a value OAI.UniqueGames.Foundations.PCP.TableIteration.degreeData]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.every_fixed_factor_below_two	PASS	proof-only: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter, OAI.UniqueGames.Foundations.PCP.TableIteration.degreeData]
+REFEREE	L2	OAI.VertexCover.every_fixed_factor_below_two	REVIEW	1 ≤ α :: side condition | α < 2 :: side condition | OAI.VertexCover.Approximation α :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.every_fixed_factor_below_two	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.every_fixed_factor_below_two	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.every_fixed_factor_below_two	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.every_fixed_factor_below_two	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.every_fixed_factor_below_two	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.VertexCover.every_fixed_factor_below_two	PASS	top step is not a project theorem
+REFEREE	R5	OAI.VertexCover.every_fixed_factor_below_two	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.every_fixed_factor_below_two	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.every_fixed_factor_below_two	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.Machine.MainReduction.construct_complete	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.Machine.MainReduction.construct_complete	REVIEW	statement-level: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.VertexCover.Machine.MainReduction.construct_complete	REVIEW	4 ≤ m :: side condition | OAI.VertexCover.ThreeSAT input :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.Machine.MainReduction.construct_complete	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	no single top step
+REFEREE	R5	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.Machine.MainReduction.construct_complete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.Machine.MainReduction.construct_complete	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.explicit_cover_gap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.explicit_cover_gap	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter, opaque with a value OAI.UniqueGames.Foundations.PCP.TableIteration.degreeData]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.explicit_cover_gap	PASS	proof-only: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter, OAI.UniqueGames.Foundations.PCP.TableIteration.degreeData]
+REFEREE	L2	OAI.VertexCover.explicit_cover_gap	PASS	4 ≤ m :: side condition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.explicit_cover_gap	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.explicit_cover_gap	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.explicit_cover_gap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.explicit_cover_gap	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.explicit_cover_gap	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.VertexCover.explicit_cover_gap	PASS	top step is not a project theorem
+REFEREE	R5	OAI.VertexCover.explicit_cover_gap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.explicit_cover_gap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.explicit_cover_gap	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.Machine.MainReduction.repeated_complete	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.Machine.MainReduction.repeated_complete	REVIEW	statement-level: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.VertexCover.Machine.MainReduction.repeated_complete	REVIEW	0 < σ :: side condition | OAI.VertexCover.ThreeSAT input :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.Machine.MainReduction.repeated_complete	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	top step is not a project theorem
+REFEREE	R5	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.Machine.MainReduction.repeated_complete	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.Machine.MainReduction.repeated_complete	REVIEW	computed class A?
+REFEREE	L0	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.VertexCover.Machine.MainReduction.base_toLC	REVIEW	[opaque with a value OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.VertexCover.Machine.MainReduction.base_toLC	REVIEW	statement-level: [OAI.UniqueGames.Foundations.PCP.RoundTables.fixedWalkParameter]; proof-only: 0
+REFEREE	L2	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	no hypotheses
+REFEREE	L3	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.VertexCover.Machine.MainReduction.base_toLC	INFO	not a registered target statement
+REFEREE	R1	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	reaches of_decide_eq_true
+REFEREE	R7	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	top step is not a project theorem
+REFEREE	R5	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.VertexCover.Machine.MainReduction.base_toLC	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.VertexCover.Machine.MainReduction.base_toLC	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.VertexCover.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.VertexCover.Main	INFO	7 theorems checked
+REFEREE	L5	OAI.Computability.VertexCover.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.VertexCover.Main	FAIL	no module docstring /-! … -/; 15 public declarations without a docstring (['gapInput', 'gapInputPoly', 'base', 'basePoly'])

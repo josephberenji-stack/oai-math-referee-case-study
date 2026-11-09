@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.MetricKMedian.below_threshold_impossible	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.below_threshold_impossible	PASS	6255 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.below_threshold_impossible	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.below_threshold_impossible	FAIL	OAI.MetricKMedian.Complexity.PNeNP :: UNBUILT | α ∈ OAI.MetricKMedian.approximationFactors :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.MetricKMedian.below_threshold_impossible	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.below_threshold_impossible	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.below_threshold_impossible	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.below_threshold_impossible	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.below_threshold_impossible	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedian.below_threshold_impossible	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.below_threshold_impossible	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.below_threshold_impossible	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.below_threshold_impossible	PASS	computed class C
+REFEREE	L0	OAI.MetricKMedian.threshold	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.MetricKMedian.threshold	PASS	14474 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.threshold	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.threshold	FAIL	OAI.MetricKMedian.Complexity.PNeNP :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.MetricKMedian.threshold	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.threshold	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.threshold	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.threshold	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.threshold	PASS	reaches le_antisymm
+REFEREE	R7	OAI.MetricKMedian.threshold	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.threshold	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.threshold	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.threshold	PASS	computed class C
+REFEREE	L4	OAI.Combinatorics.KMedian.Threshold	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.KMedian.Threshold	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.KMedian.Threshold	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.KMedian.Threshold	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['below_threshold_impossible', 'threshold'])

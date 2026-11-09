@@ -1,0 +1,55 @@
+REFEREE	L0	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	28 constants reached, no stand-in
+REFEREE	L1u	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	IrreducibleSpace X :: side condition | T0Space X :: side condition | QuasiSober X :: side condition || unbuilt=0
+REFEREE	L3	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	INFO	not a registered target statement
+REFEREE	IFF	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	INFO	not an iff
+REFEREE	R1	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R1k	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	CONTENT	reaches Order.krullDim_eq_of_orderIso
+REFEREE	R7	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	INFO	no supplied input
+REFEREE	DUP	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Topology.Dimension.BasicEq.TopologicalSpace.dim_eq_krullDim	REVIEW	computed class A?
+REFEREE	L0	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	148 constants reached, no stand-in
+REFEREE	L1u	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	IrreducibleSpace X :: side condition | IsClosed S :: side condition | S ≠ Set.univ :: side condition | topologicalKrullDim X ≤ ↑n :: side condition || unbuilt=0
+REFEREE	L3	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	INFO	not a registered target statement
+REFEREE	IFF	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	INFO	not an iff
+REFEREE	R1	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	reaches Order.krullDim_lt_coe_iff
+REFEREE	R1k	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	CONTENT	reaches Order.krullDim_lt_coe_iff
+REFEREE	R7	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	INFO	no supplied input
+REFEREE	DUP	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	no copy of a library declaration
+REFEREE	R5	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Topology.Dimension.ClosedSubset.topologicalKrullDim_lt_of_isClosed_of_ne_univ	REVIEW	computed class A?
+REFEREE	L4	OAI.Topology.Dimension.Basic	PASS	all 0 header names resolve
+REFEREE	L4	OAI.Topology.Dimension.BasicEq	PASS	all 0 header names resolve
+REFEREE	L4	OAI.Topology.Dimension.ClosedSubset	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Topology.Dimension.Basic	INFO	0 theorems checked
+REFEREE	MODULE	OAI.Topology.Dimension.BasicEq	INFO	1 theorems checked
+REFEREE	MODULE	OAI.Topology.Dimension.ClosedSubset	INFO	1 theorems checked
+REFEREE	L5	OAI.Topology.Dimension.Basic	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Topology.Dimension.Basic	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.Topology.Dimension.Basic	PASS	no instance changes
+REFEREE	VEND	OAI.Topology.Dimension.Basic	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.Topology.Dimension.BasicEq	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Topology.Dimension.BasicEq	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.Topology.Dimension.BasicEq	REVIEW	instance changes at lines 32
+REFEREE	VEND	OAI.Topology.Dimension.BasicEq	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.Topology.Dimension.ClosedSubset	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Topology.Dimension.ClosedSubset	FAIL	module docstring has no `## Main results`
+REFEREE	INST	OAI.Topology.Dimension.ClosedSubset	PASS	no instance changes
+REFEREE	VEND	OAI.Topology.Dimension.ClosedSubset	PASS	not under a Mathlib folder
+exit 1

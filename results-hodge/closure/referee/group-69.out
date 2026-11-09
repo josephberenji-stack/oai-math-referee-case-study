@@ -1,0 +1,43 @@
+REFEREE	L0	TopPair.ofSubsetHom_fst_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopPair.ofSubsetHom_fst_apply	PASS	54 constants reached, no stand-in
+REFEREE	L1u	TopPair.ofSubsetHom_fst_apply	INFO	no opaque with a value reached
+REFEREE	L2	TopPair.ofSubsetHom_fst_apply	PASS	∀ a ∈ A, (CategoryTheory.ConcreteCategory.hom f) a ∈ B :: side condition || unbuilt=0
+REFEREE	L3	TopPair.ofSubsetHom_fst_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	TopPair.ofSubsetHom_fst_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	TopPair.ofSubsetHom_fst_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopPair.ofSubsetHom_fst_apply	INFO	not a registered target statement
+REFEREE	IFF	TopPair.ofSubsetHom_fst_apply	INFO	not an iff
+REFEREE	R1	TopPair.ofSubsetHom_fst_apply	PASS	reaches Subtype.property
+REFEREE	R1k	TopPair.ofSubsetHom_fst_apply	CONTENT	reaches Subtype.property
+REFEREE	R7	TopPair.ofSubsetHom_fst_apply	PASS	top step is not a project theorem
+REFEREE	R1i	TopPair.ofSubsetHom_fst_apply	INFO	no supplied input
+REFEREE	DUP	TopPair.ofSubsetHom_fst_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopPair.ofSubsetHom_fst_apply	PASS	no copy of a library declaration
+REFEREE	R5	TopPair.ofSubsetHom_fst_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopPair.ofSubsetHom_fst_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopPair.ofSubsetHom_fst_apply	REVIEW	computed class A?
+REFEREE	L0	TopPair.ofSubsetHom_snd_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	TopPair.ofSubsetHom_snd_apply	PASS	54 constants reached, no stand-in
+REFEREE	L1u	TopPair.ofSubsetHom_snd_apply	INFO	no opaque with a value reached
+REFEREE	L2	TopPair.ofSubsetHom_snd_apply	PASS	∀ a ∈ A, (CategoryTheory.ConcreteCategory.hom f) a ∈ B :: side condition || unbuilt=0
+REFEREE	L3	TopPair.ofSubsetHom_snd_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	TopPair.ofSubsetHom_snd_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	TopPair.ofSubsetHom_snd_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	TopPair.ofSubsetHom_snd_apply	INFO	not a registered target statement
+REFEREE	IFF	TopPair.ofSubsetHom_snd_apply	INFO	not an iff
+REFEREE	R1	TopPair.ofSubsetHom_snd_apply	PASS	reaches Subtype.property
+REFEREE	R1k	TopPair.ofSubsetHom_snd_apply	CONTENT	reaches Subtype.property
+REFEREE	R7	TopPair.ofSubsetHom_snd_apply	PASS	top step is not a project theorem
+REFEREE	R1i	TopPair.ofSubsetHom_snd_apply	INFO	no supplied input
+REFEREE	DUP	TopPair.ofSubsetHom_snd_apply	PASS	1 project definitions, no twins
+REFEREE	SHADOW	TopPair.ofSubsetHom_snd_apply	PASS	no copy of a library declaration
+REFEREE	R5	TopPair.ofSubsetHom_snd_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	TopPair.ofSubsetHom_snd_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	TopPair.ofSubsetHom_snd_apply	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.Topology.Category.TopPair	PASS	all 3 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.Topology.Category.TopPair	INFO	2 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.Topology.Category.TopPair	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.Topology.Category.TopPair	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['ofSubsetHom_fst_apply', 'ofSubsetHom_snd_apply'])
+REFEREE	INST	HodgeConjecture.Mathlib.Topology.Category.TopPair	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Mathlib.Topology.Category.TopPair	REVIEW	vendored library path HodgeConjecture/Mathlib/Topology/Category/TopPair.lean
+exit 1

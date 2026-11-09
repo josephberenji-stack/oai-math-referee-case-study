@@ -1,0 +1,19 @@
+REFEREE	L4	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	PASS	all 0 header names resolve
+REFEREE	L4	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	FAIL	header names declared nowhere in the project: ['relativeCochainConeCohomologyEquiv']
+REFEREE	MODULE	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	INFO	0 theorems checked
+REFEREE	MODULE	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	INFO	0 theorems checked
+REFEREE	MODULE	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	INFO	0 theorems checked
+REFEREE	L5	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Definitions.AlgebraicTopology.Singular.Cohomology	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainCone	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Definitions.AlgebraicTopology.Singular.RelativeCochainConeNaturality	PASS	not under a Mathlib folder
+exit 1

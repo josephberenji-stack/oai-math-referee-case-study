@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	15582 constants reached, no stand-in
+REFEREE	L1u	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	no hypotheses
+REFEREE	L3	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	top step OAI.CoarseAssembly.bounded_geometry_counterexample_from_gap carries content
+REFEREE	R5	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoarseAssembly.bounded_geometry_counterexample_unconditional	REVIEW	computed class A?
+REFEREE	L0	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	15586 constants reached, no stand-in
+REFEREE	L1u	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	no hypotheses
+REFEREE	L3	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	INFO	not a registered target statement
+REFEREE	R1	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional	REVIEW	computed class A?
+REFEREE	L0	OAI.CoarseAssembly.provedKazhdanInput	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoarseAssembly.provedKazhdanInput	PASS	9250 constants reached, no stand-in
+REFEREE	L1u	OAI.CoarseAssembly.provedKazhdanInput	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoarseAssembly.provedKazhdanInput	PASS	no hypotheses
+REFEREE	L3	OAI.CoarseAssembly.provedKazhdanInput	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoarseAssembly.provedKazhdanInput	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoarseAssembly.provedKazhdanInput	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoarseAssembly.provedKazhdanInput	INFO	not a registered target statement
+REFEREE	R1	OAI.CoarseAssembly.provedKazhdanInput	PASS	reaches SubgroupClass.toSubmonoidClass
+REFEREE	R7	OAI.CoarseAssembly.provedKazhdanInput	PASS	top step OAI.CoarseAssembly.publishedKazhdanInput_of_elementaryReduction carries content
+REFEREE	R5	OAI.CoarseAssembly.provedKazhdanInput	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoarseAssembly.provedKazhdanInput	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoarseAssembly.provedKazhdanInput	REVIEW	computed class A?
+REFEREE	L4	OAI.Topology.CoarseAssembly.UnconditionalConclusion	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Topology.CoarseAssembly.UnconditionalConclusion	INFO	3 theorems checked
+REFEREE	L5	OAI.Topology.CoarseAssembly.UnconditionalConclusion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Topology.CoarseAssembly.UnconditionalConclusion	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['provedKazhdanInput'])

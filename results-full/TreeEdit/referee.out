@@ -1,0 +1,56 @@
+REFEREE	L0	OAI.TreeEdit.encode_singletonCode	PASS	[propext]
+REFEREE	L1	OAI.TreeEdit.encode_singletonCode	PASS	25 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.encode_singletonCode	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.encode_singletonCode	PASS	no hypotheses
+REFEREE	L3	OAI.TreeEdit.encode_singletonCode	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.encode_singletonCode	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.encode_singletonCode	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.encode_singletonCode	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.encode_singletonCode	PASS	reaches congrFun'
+REFEREE	R7	OAI.TreeEdit.encode_singletonCode	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TreeEdit.encode_singletonCode	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.encode_singletonCode	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.encode_singletonCode	REVIEW	computed class A?
+REFEREE	L0	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	2391 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.TorusTree.witnesses_eventually	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	no hypotheses
+REFEREE	L3	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.TorusTree.witnesses_eventually	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.TorusTree.witnesses_eventually	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.TorusTree.witnesses_eventually	REVIEW	computed class A?
+REFEREE	L0	OAI.TreeEdit.TorusTree.binary_witness	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TreeEdit.TorusTree.binary_witness	PASS	2139 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.TorusTree.binary_witness	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.TorusTree.binary_witness	REVIEW	2 ≤ k :: side condition | OAI.TreeEdit.TorusTree.Good (↑(OAI.TreeEdit.TorusTree.resolution k))⁻¹ OAI.TreeEdit.TorusT :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TreeEdit.TorusTree.binary_witness	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.TorusTree.binary_witness	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.TorusTree.binary_witness	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.TorusTree.binary_witness	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.TorusTree.binary_witness	PASS	reaches Finset.mem_attach
+REFEREE	R7	OAI.TreeEdit.TorusTree.binary_witness	PASS	no single top step
+REFEREE	R5	OAI.TreeEdit.TorusTree.binary_witness	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.TorusTree.binary_witness	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.TorusTree.binary_witness	REVIEW	computed class A?
+REFEREE	L0	OAI.TreeEdit.binary_torus	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TreeEdit.binary_torus	PASS	2446 constants reached, no stand-in
+REFEREE	L1u	OAI.TreeEdit.binary_torus	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TreeEdit.binary_torus	PASS	no hypotheses
+REFEREE	L3	OAI.TreeEdit.binary_torus	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TreeEdit.binary_torus	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TreeEdit.binary_torus	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TreeEdit.binary_torus	INFO	not a registered target statement
+REFEREE	R1	OAI.TreeEdit.binary_torus	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TreeEdit.binary_torus	PASS	top step OAI.TreeEdit.all_caps_of_witnesses carries content
+REFEREE	R5	OAI.TreeEdit.binary_torus	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TreeEdit.binary_torus	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TreeEdit.binary_torus	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.TreeEdit.TorusLowerBound	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.TreeEdit.TorusLowerBound	INFO	4 theorems checked
+REFEREE	L5	OAI.Combinatorics.TreeEdit.TorusLowerBound	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.TreeEdit.TorusLowerBound	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['singletonCode', 'encode_singletonCode', 'binary_witness', 'witnesses_eventually'])

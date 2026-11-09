@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	157 constants reached, no stand-in
+REFEREE	L1u	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	no hypotheses
+REFEREE	L3	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DiscreteFree.hasBAP_linearIsometryEquiv_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	154 constants reached, no stand-in
+REFEREE	L1u	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	REVIEW	OAI.DiscreteFree.HasBAP F Λ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	INFO	not a registered target statement
+REFEREE	R1	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	reaches RingHomInvPair.ids
+REFEREE	R7	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	top step OAI.DiscreteFree.hasBAP_of_contractive_retract carries content
+REFEREE	R5	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DiscreteFree.hasBAP_of_linearIsometryEquiv	REVIEW	computed class A?
+REFEREE	L0	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	2318 constants reached, no stand-in
+REFEREE	L1u	OAI.DiscreteFree.real_l1_quantitative_renorming	INFO	no opaque with a value reached
+REFEREE	L2	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	no hypotheses
+REFEREE	L3	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.DiscreteFree.real_l1_quantitative_renorming	INFO	not a registered target statement
+REFEREE	R1	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	reaches Nat.mul_pos
+REFEREE	R7	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	no single top step
+REFEREE	R5	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.DiscreteFree.real_l1_quantitative_renorming	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.DiscreteFree.real_l1_quantitative_renorming	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.LipschitzFree.Renorming	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.LipschitzFree.Renorming	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.LipschitzFree.Renorming	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.LipschitzFree.Renorming	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['hasBAP_of_linearIsometryEquiv', 'hasBAP_linearIsometryEquiv_iff', 'real_l1_quantitative_renorming'])

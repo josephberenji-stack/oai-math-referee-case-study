@@ -1,0 +1,79 @@
+REFEREE	L0	continuousOn_ringInverse	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	continuousOn_ringInverse	PASS	47 constants reached, no stand-in
+REFEREE	L1u	continuousOn_ringInverse	INFO	no opaque with a value reached
+REFEREE	L2	continuousOn_ringInverse	PASS	IsOpenUnits M :: side condition || unbuilt=0
+REFEREE	L3	continuousOn_ringInverse	PASS	no hypothesis refuted on file
+REFEREE	R2	continuousOn_ringInverse	PASS	not an equivalence with an open problem
+REFEREE	R3	continuousOn_ringInverse	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	continuousOn_ringInverse	INFO	not a registered target statement
+REFEREE	IFF	continuousOn_ringInverse	INFO	not an iff
+REFEREE	R1	continuousOn_ringInverse	PASS	reaches continuousOn_iff_continuous_domRestrict
+REFEREE	R1k	continuousOn_ringInverse	CONTENT	reaches continuousOn_iff_continuous_domRestrict
+REFEREE	R7	continuousOn_ringInverse	PASS	top step is not a project theorem
+REFEREE	R1i	continuousOn_ringInverse	INFO	no supplied input
+REFEREE	DUP	continuousOn_ringInverse	PASS	0 project definitions, no twins
+REFEREE	SHADOW	continuousOn_ringInverse	PASS	no copy of a library declaration
+REFEREE	R5	continuousOn_ringInverse	PASS	the name claims nothing beyond the statement
+REFEREE	R6	continuousOn_ringInverse	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	continuousOn_ringInverse	REVIEW	computed class A?
+REFEREE	L0	Set.range_units_val	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Set.range_units_val	PASS	19 constants reached, no stand-in
+REFEREE	L1u	Set.range_units_val	INFO	no opaque with a value reached
+REFEREE	L2	Set.range_units_val	PASS	no hypotheses
+REFEREE	L3	Set.range_units_val	PASS	no hypothesis refuted on file
+REFEREE	R2	Set.range_units_val	PASS	not an equivalence with an open problem
+REFEREE	R3	Set.range_units_val	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Set.range_units_val	INFO	not a registered target statement
+REFEREE	IFF	Set.range_units_val	INFO	not an iff
+REFEREE	R1	Set.range_units_val	PASS	reaches Set.ext
+REFEREE	R1k	Set.range_units_val	CONTENT	reaches Set.ext
+REFEREE	R7	Set.range_units_val	PASS	top step is not a project theorem
+REFEREE	R1i	Set.range_units_val	INFO	no supplied input
+REFEREE	DUP	Set.range_units_val	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Set.range_units_val	PASS	no copy of a library declaration
+REFEREE	R5	Set.range_units_val	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Set.range_units_val	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Set.range_units_val	REVIEW	computed class A?
+REFEREE	L0	isOpen_setOf_isUnit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	isOpen_setOf_isUnit	PASS	26 constants reached, no stand-in
+REFEREE	L1u	isOpen_setOf_isUnit	INFO	no opaque with a value reached
+REFEREE	L2	isOpen_setOf_isUnit	PASS	IsOpenUnits M :: side condition || unbuilt=0
+REFEREE	L3	isOpen_setOf_isUnit	PASS	no hypothesis refuted on file
+REFEREE	R2	isOpen_setOf_isUnit	PASS	not an equivalence with an open problem
+REFEREE	R3	isOpen_setOf_isUnit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	isOpen_setOf_isUnit	INFO	not a registered target statement
+REFEREE	IFF	isOpen_setOf_isUnit	INFO	not an iff
+REFEREE	R1	isOpen_setOf_isUnit	PASS	reaches Topology.IsOpenEmbedding.isOpen_range
+REFEREE	R1k	isOpen_setOf_isUnit	CONTENT	reaches Topology.IsOpenEmbedding.isOpen_range
+REFEREE	R7	isOpen_setOf_isUnit	PASS	top step is not a project theorem
+REFEREE	R1i	isOpen_setOf_isUnit	INFO	no supplied input
+REFEREE	DUP	isOpen_setOf_isUnit	PASS	0 project definitions, no twins
+REFEREE	SHADOW	isOpen_setOf_isUnit	PASS	no copy of a library declaration
+REFEREE	R5	isOpen_setOf_isUnit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	isOpen_setOf_isUnit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	isOpen_setOf_isUnit	REVIEW	computed class A?
+REFEREE	L0	continuous_isUnit_unit	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	continuous_isUnit_unit	PASS	24 constants reached, no stand-in
+REFEREE	L1u	continuous_isUnit_unit	INFO	no opaque with a value reached
+REFEREE	L2	continuous_isUnit_unit	PASS	IsOpenUnits M :: side condition || unbuilt=0
+REFEREE	L3	continuous_isUnit_unit	PASS	no hypothesis refuted on file
+REFEREE	R2	continuous_isUnit_unit	PASS	not an equivalence with an open problem
+REFEREE	R3	continuous_isUnit_unit	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	continuous_isUnit_unit	INFO	not a registered target statement
+REFEREE	IFF	continuous_isUnit_unit	INFO	not an iff
+REFEREE	R1	continuous_isUnit_unit	PASS	reaches Subtype.property
+REFEREE	R1k	continuous_isUnit_unit	CONTENT	reaches Subtype.property
+REFEREE	R7	continuous_isUnit_unit	PASS	top step is not a project theorem
+REFEREE	R1i	continuous_isUnit_unit	INFO	no supplied input
+REFEREE	DUP	continuous_isUnit_unit	PASS	0 project definitions, no twins
+REFEREE	SHADOW	continuous_isUnit_unit	PASS	no copy of a library declaration
+REFEREE	R5	continuous_isUnit_unit	PASS	the name claims nothing beyond the statement
+REFEREE	R6	continuous_isUnit_unit	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	continuous_isUnit_unit	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	INFO	4 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['Set.range_units_val'])
+REFEREE	INST	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Mathlib.Topology.Algebra.IsOpenUnits	REVIEW	vendored library path HodgeConjecture/Mathlib/Topology/Algebra/IsOpenUnits.lean
+exit 1

@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.KervaireRibbon.relator_ribbon_realized	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KervaireRibbon.relator_ribbon_realized	PASS	592 constants reached, no stand-in
+REFEREE	L1u	OAI.KervaireRibbon.relator_ribbon_realized	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KervaireRibbon.relator_ribbon_realized	REVIEW	Nonempty I :: side condition | ∀ (i j : I), ρ.SameCycle i j :: side condition | ∀ (i : I), s i = 1 ∨ s i = -1 :: side condition | OAI.KervaireRibbon.Circle ρ i l :: carries a project proposition | (i :: l).Nodup :: side condition | ∀ (j : I), j ∈ i :: l :: side condition || unbuilt=0
+REFEREE	L3	OAI.KervaireRibbon.relator_ribbon_realized	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KervaireRibbon.relator_ribbon_realized	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KervaireRibbon.relator_ribbon_realized	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KervaireRibbon.relator_ribbon_realized	INFO	not a registered target statement
+REFEREE	R1	OAI.KervaireRibbon.relator_ribbon_realized	PASS	reaches Sum.inl.inj
+REFEREE	R7	OAI.KervaireRibbon.relator_ribbon_realized	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KervaireRibbon.relator_ribbon_realized	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KervaireRibbon.relator_ribbon_realized	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KervaireRibbon.relator_ribbon_realized	REVIEW	computed class A?
+REFEREE	L0	OAI.Kervaire.quotient_nontrivial	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Kervaire.quotient_nontrivial	PASS	4825 constants reached, no stand-in
+REFEREE	L1u	OAI.Kervaire.quotient_nontrivial	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Kervaire.quotient_nontrivial	PASS	Nontrivial A :: side condition || unbuilt=0
+REFEREE	L3	OAI.Kervaire.quotient_nontrivial	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Kervaire.quotient_nontrivial	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Kervaire.quotient_nontrivial	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Kervaire.quotient_nontrivial	INFO	not a registered target statement
+REFEREE	R1	OAI.Kervaire.quotient_nontrivial	PASS	reaches Function.Injective.nontrivial
+REFEREE	R7	OAI.Kervaire.quotient_nontrivial	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Kervaire.quotient_nontrivial	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Kervaire.quotient_nontrivial	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Kervaire.quotient_nontrivial	REVIEW	computed class A?
+REFEREE	L0	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	4731 constants reached, no stand-in
+REFEREE	L1u	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	REVIEW	Nonempty I :: side condition | ∀ (i j : I), ρ.SameCycle i j :: side condition | ∀ (i : I), s i = 1 ∨ s i = -1 :: side condition | ∑ i, s i = 1 ∨ ∑ i, s i = -1 :: side condition | OAI.KervaireRibbon.Circle ρ i l :: carries a project proposition | (i :: l).Nodup :: side condition | ∀ (j : I), j ∈ i :: l :: side condition | Monoid.Coprod.inl g ∈ Subgroup.normalClosure {OAI.KervaireRibbon.dartEval s a (i :: l)} :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	INFO	not a registered target statement
+REFEREE	R1	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	reaches Function.Embedding.injective
+REFEREE	R7	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	no single top step
+REFEREE	R5	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KervaireRibbon.relator_normalClosure_coefficient_eq_one	REVIEW	computed class A?
+REFEREE	L0	OAI.Kervaire.coefficient_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Kervaire.coefficient_injective	PASS	4802 constants reached, no stand-in
+REFEREE	L1u	OAI.Kervaire.coefficient_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Kervaire.coefficient_injective	REVIEW	OAI.Kervaire.Unimodular w :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.Kervaire.coefficient_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Kervaire.coefficient_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Kervaire.coefficient_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Kervaire.coefficient_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.Kervaire.coefficient_injective	PASS	reaches Subgroup.normalClosure_normal
+REFEREE	R7	OAI.Kervaire.coefficient_injective	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Kervaire.coefficient_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Kervaire.coefficient_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Kervaire.coefficient_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	4784 constants reached, no stand-in
+REFEREE	L1u	OAI.Kervaire.normalClosure_coefficient_eq_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.Kervaire.normalClosure_coefficient_eq_one	REVIEW	OAI.Kervaire.Unimodular w :: carries a project proposition | Monoid.Coprod.inl g ∈ OAI.Kervaire.relatorClosure w :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.Kervaire.normalClosure_coefficient_eq_one	INFO	not a registered target statement
+REFEREE	R1	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	reaches Monoid.Coprod.induction_on'
+REFEREE	R7	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.Kervaire.normalClosure_coefficient_eq_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.Kervaire.normalClosure_coefficient_eq_one	REVIEW	computed class A?
+REFEREE	L4	OAI.GroupTheory.Kervaire.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GroupTheory.Kervaire.Main	INFO	5 theorems checked
+REFEREE	L5	OAI.GroupTheory.Kervaire.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GroupTheory.Kervaire.Main	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['relator_ribbon_realized', 'relator_normalClosure_coefficient_eq_one', 'coefficient_injective', 'quotient_nontrivial'])

@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.MetricKMedian.threshold	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.MetricKMedian.threshold	PASS	132 constants reached, no stand-in
+REFEREE	L1u	OAI.MetricKMedian.threshold	INFO	no opaque with a value reached
+REFEREE	L2	OAI.MetricKMedian.threshold	FAIL	OAI.MetricKMedian.Complexity.PNeNP :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.MetricKMedian.threshold	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.MetricKMedian.threshold	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.MetricKMedian.threshold	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.MetricKMedian.threshold	INFO	not a registered target statement
+REFEREE	R1	OAI.MetricKMedian.threshold	PASS	reaches Finset.Nonempty.image
+REFEREE	R7	OAI.MetricKMedian.threshold	PASS	top step is not a project theorem
+REFEREE	R5	OAI.MetricKMedian.threshold	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.MetricKMedian.threshold	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.MetricKMedian.threshold	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.KMedianThreshold	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.KMedianThreshold	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.KMedianThreshold	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.KMedianThreshold	FAIL	no module docstring /-! … -/; 15 public declarations without a docstring (['Instance', 'encodeNat', 'encodeRat', 'encodeInstance'])

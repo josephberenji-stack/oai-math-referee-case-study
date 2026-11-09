@@ -1,0 +1,101 @@
+referee files used 2152 of groups 2181 ; reruns used 0
+
+A. INPUT TYPE -> theorems whose CONCLUSION head is that type (source parse, files under MainSubmission)
+ScalarDescentInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::scalarTrace
+PairSwitchesInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::connectivity
+FunctorialityInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::properPushforward
+LineBundleCyclesInput	2	AlgebraicGeometry.HodgeConjecture.IntrinsicComposition::cyclePullback_proved | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::geometricPullback
+ExteriorInput	2	AlgebraicGeometry.HodgeConjecture.IntrinsicComposition::exteriorCycleClasses_proved | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::exteriorProduct
+PolarizedPairingInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::oppositePairing
+RiemannProjectivityInput	3	AlgebraicGeometry.PELModuli.CMPoints.Action::cmRiemannProjectivityInput_proved | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::riemannProjectivity | Geometry.ComplexTorus.RiemannProjectivity.Realization::riemannProjectivityInput_proved
+RiemannH1Realization	2	AlgebraicGeometry.HodgeConjecture.CMVariety.RiemannRealization::riemannH1Realization_of_RiemannProjectivity | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::realization
+RationalH1MapsAreAlgebraic	4	AlgebraicGeometry.HodgeConjecture.GeometricNormalization::weightOne_fullness | AlgebraicGeometry.HodgeConjecture.CMVariety.Background::rationalH1MapsAreAlgebraic_of_DegreeTwo | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::fullness | AlgebraicGeometry.HodgeConjecture.BalancedMonomials::fullness_of_DegreeTwo
+LefschetzOneOne	2	AlgebraicGeometry.HodgeConjecture.CMVariety.Background::lefschetzOneOne_of_DegreeTwo | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::lefschetz
+AbelianExteriorCohomology	3	AlgebraicGeometry.HodgeConjecture.CMVariety.Background::abelianExteriorCohomology_of_ExteriorCohomology | AlgebraicGeometry.HodgeConjecture.IntrinsicComposition::exteriorCohomology_proved | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::exterior
+ResolutionInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::resolution
+ResolutionClassInput	1	AlgebraicGeometry.HodgeConjecture.CMReduction.Established::resolutionClass
+HodgeDecompositionInput	3	AlgebraicGeometry.HodgeConjecture.CMExtraction.Theta::verifiedHodgeDecomposition | AlgebraicGeometry.HodgeConjecture.HeckeCycles.EstablishedGeometric::hodge_decomposition | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::hodgeDecomposition
+CycleClassesAreHodge	2	AlgebraicGeometry.HodgeConjecture.CMVariety.CycleClasses::cycleClassesAreHodge_of_geometric_inputs | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::cycles
+FourFactorSwitchAlgebraicity	3	AlgebraicGeometry.HodgeConjecture.CMVariety.SwitchOf::fourFactorSwitchAlgebraicity_of_SurfaceConstruction | AlgebraicGeometry.HodgeConjecture.CMReduction.Switch::fourFactorSwitchAlgebraicity_of_CycleCoefficients | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::switches
+SurfaceConstructionInput	1	AlgebraicGeometry.HodgeConjecture.CycleCoefficientsP::p54_input
+cmHodgeClaim	3	AlgebraicGeometry.HodgeConjecture.CMReduction.FourFactorSwitches::four_factor_switches_imply_cm | AlgebraicGeometry.HodgeConjecture.CMReduction.Core::cm_hodge | AlgebraicGeometry.HodgeConjecture.CMReduction.Established::four_factor_switches_imply_cm
+
+B. EXCLUSIVE SUBTREES under each import of CMReduction.Established (files no other import reaches)
+import	closure	exclusive	excl_thm	excl_pure_rfl	excl_tail_rfl	excl_rows	R1fail	R7rev	L0fail	no-row-files
+AlgebraicGeometry.HodgeConjecture.CMReduction.FourFactorSwitches	2653	40	124	4	14	30	0	1	0	30
+Algebra.FieldTheory.ScalarDescentTrace	7	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.HodgeConjecture.PairSwitches	966	2	9	0	0	0	0	0	0	2
+AlgebraicGeometry.HodgeConjecture.CycleCoefficientsP	31558	25526	74116	3102	3782	79744	3309	1718	0	178
+AlgebraicGeometry.HodgeConjecture.DegreeTwo.Algebraicity	2866	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.HodgeConjecture.CMVariety.RationalHodge	781	3	6	0	0	6	0	0	0	0
+AlgebraicGeometry.HodgeConjecture.CMVariety.RiemannRealization	1008	12	87	5	9	89	1	3	0	0
+AlgebraicGeometry.HodgeConjecture.CMVariety.CycleClasses	881	13	38	1	7	38	0	0	0	0
+AlgebraicGeometry.AbelianVariety.ExteriorCohomology	860	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.Cycles.Functoriality.DimensionPreserving	603	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.Cycles.Functoriality.Resolution	607	2	10	0	0	10	0	0	0	0
+AlgebraicGeometry.Divisors.LineBundles.Graph.ChowNaturality	3010	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.Divisors.LineBundles.Geometric.GraphPullback	1723	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.CycleClass.Thom.Exterior	1299	0	0	0	0	0	0	0	0	0
+Analysis.HodgeTheory.PolarizedPairing	70	1	4	0	0	4	0	0	0	0
+AlgebraicGeometry.Resolution.Blowups.Strong	1265	1002	2275	11	73	2344	14	3	0	0
+Analysis.HodgeTheory.Decomposition.Constructions	766	0	0	0	0	0	0	0	0	0
+AlgebraicGeometry.HodgeConjecture.CMReduction.Definitions	757	0	0	0	0	0	0	0	0	0
+files reached by every import 0
+
+C. OAI.AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle closure 31556 depth 183
+ its imports: ['AlgebraicGeometry.HodgeConjecture.SurfaceConstructionNe', 'AlgebraicGeometry.HodgeConjecture.Established', 'AlgebraicGeometry.HodgeConjecture.ThetaCycle.AbelianMapsProduct']
+ its own spine (depth, file, thm, pure, rows, R1fail, R7rev, group):
+  183	AlgebraicGeometry.HodgeConjecture.SurfaceConstructionCycle	1	0	0	0	0	1200
+  182	AlgebraicGeometry.HodgeConjecture.ThetaCycle.AbelianMapsProduct	1	0	0	0	0	1201
+  181	AlgebraicGeometry.HodgeConjecture.HeckeCycles.Structure	2	0	0	0	0	1192
+  180	NumberTheory.PadicHodge.FrobeniusSlope	2	0	0	0	0	1736
+  179	AlgebraicGeometry.PELModuli.IntegralModel.ProjectiveModelsAlbanese	1	0	1	0	0	1378
+  178	AlgebraicGeometry.PELModuli.IntegralModel.ReferenceFamilyConstructed	1	0	1	0	0	1383
+  177	AlgebraicGeometry.AbelianModuli.ReferenceFamily.Components	1	0	1	0	0	386
+  176	AlgebraicGeometry.AbelianModuli.ReferenceFamily.ConcreteAuxiliaryPureModel	1	0	1	0	0	386
+  175	AlgebraicGeometry.AbelianModuli.ReferenceFamily.UniformStableFine	2	0	2	0	0	477
+  174	AlgebraicGeometry.AbelianModuli.ReferenceFamily.UniformStableModel	2	0	2	0	0	477
+  173	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationInjectivity	1	0	1	0	0	347
+  172	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.GluedPolarizedFamily	5	5	3	0	0	345
+  171	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationFamilyCharts	6	1	9	0	2	347
+  170	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationGluing	6	1	18	0	0	347
+  169	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationOverlapExistence	5	0	3	0	0	347
+  168	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationOverlapTransport	6	1	4	1	0	347
+  167	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationTransitions	4	0	3	0	0	347
+  166	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationForwardIdentity	3	0	3	0	0	347
+  165	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationForwardExistence	6	0	5	0	0	347
+  164	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationTransitionBases	5	0	4	0	0	347
+  163	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.PolarizationOverlapCriterion	1	0	1	0	0	347
+  162	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.NormalizedFamilyTransport	7	0	5	0	0	346
+  161	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.ReferenceNormalizedLine	1	0	1	0	0	348
+  160	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.LevelReferenceRecovery	14	0	7	0	0	346
+  159	AlgebraicGeometry.AbelianModuli.HilbertConstruction.StableHilbert.LevelReferenceTransport	6	0	6	0	0	346
+
+C. OAI.AlgebraicGeometry.HodgeConjecture.CMReduction.FourFactorSwitches closure 2653 depth 117
+ its imports: ['AlgebraicGeometry.HodgeConjecture.CMReduction.EndpointPath', 'AlgebraicGeometry.HodgeConjecture.CMReduction.MonomialTransfer']
+ its own spine (depth, file, thm, pure, rows, R1fail, R7rev, group):
+  117	AlgebraicGeometry.HodgeConjecture.CMReduction.FourFactorSwitches	1	0	0	0	0	1129
+  116	AlgebraicGeometry.HodgeConjecture.CMReduction.EndpointPath	4	0	0	0	0	1128
+  115	AlgebraicGeometry.HodgeConjecture.CMReduction.TwoSlots	1	0	1	0	0	1130
+  114	AlgebraicGeometry.HodgeConjecture.CMReduction.LocalTopSwitch	2	0	0	0	0	1129
+  113	AlgebraicGeometry.HodgeConjecture.CMReduction.LocalTopNamedIdentity	1	0	0	0	0	1129
+  112	AlgebraicGeometry.HodgeConjecture.CMReduction.LocalRegroupWithAmple	1	0	0	0	0	1129
+  111	AlgebraicGeometry.HodgeConjecture.CMReduction.BridgeTopIdentity	0	0	0	0	0	1128
+  110	AlgebraicGeometry.HodgeConjecture.CMReduction.BridgeTopIntrinsicComparison	1	0	0	0	0	1128
+  109	AlgebraicGeometry.HodgeConjecture.CMReduction.BridgeTop	3	0	0	0	0	1128
+  108	AlgebraicGeometry.HodgeConjecture.CMReduction.ProductTop	3	0	3	0	1	1130
+  107	AlgebraicGeometry.HodgeConjecture.CMReduction.Projection	6	0	6	0	0	1130
+  106	AlgebraicGeometry.HodgeConjecture.CMReduction.TopTrace	8	0	8	0	0	1130
+  105	AlgebraicGeometry.HodgeConjecture.CMReduction.Poincare	4	0	0	0	0	1129
+  104	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Chow	8	0	8	0	0	1219
+  103	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.General.Chow	1	0	1	0	0	1236
+  102	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Integral.SourceChow	1	0	1	0	0	1241
+  101	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Integral.Chow	1	0	4	0	0	1241
+  100	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Integral.TargetGraphProduct	2	0	5	0	0	1241
+  99	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.GraphPullbackReconstruction	4	0	5	0	0	1239
+  98	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.Closed.Support	4	0	4	0	0	1221
+  97	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.General.ChowAssociativity	6	0	6	0	0	1236
+  96	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.General.GeneralChowIntersection	12	1	12	0	0	1236
+  95	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.General.ProperDescent	3	0	3	0	0	1236
+  94	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.General.ProperLeftDescent	1	0	1	0	0	1237
+  93	AlgebraicGeometry.IntersectionTheory.ProjectionFormula.MovedComparison	4	0	4	0	0	1245

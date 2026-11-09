@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.SymmetricMahler.IsHanner.brecOn	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SymmetricMahler.IsHanner.brecOn	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.SymmetricMahler.IsHanner.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SymmetricMahler.IsHanner.brecOn	REVIEW	OAI.SymmetricMahler.IsHanner a✝ :: carries a project proposition | ∀ {n : ℕ} (a : Set (Fin n → ℝ)) (t : OAI.SymmetricMahler.IsHanner a), OAI.SymmetricMahler. :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.SymmetricMahler.IsHanner.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SymmetricMahler.IsHanner.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SymmetricMahler.IsHanner.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SymmetricMahler.IsHanner.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.SymmetricMahler.IsHanner.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.SymmetricMahler.IsHanner.brecOn	PASS	no single top step
+REFEREE	R5	OAI.SymmetricMahler.IsHanner.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SymmetricMahler.IsHanner.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SymmetricMahler.IsHanner.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.SymmetricMahler.symmetric_mahler_equality	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	84 constants reached, no stand-in
+REFEREE	L1u	OAI.SymmetricMahler.symmetric_mahler_equality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	1 ≤ n :: side condition | IsCompact K :: side condition | Convex ℝ K :: side condition | ∀ x ∈ K, -x ∈ K :: side condition | (interior K).Nonempty :: side condition || unbuilt=0
+REFEREE	L3	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SymmetricMahler.symmetric_mahler_equality	INFO	not a registered target statement
+REFEREE	R1	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SymmetricMahler.symmetric_mahler_equality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SymmetricMahler.symmetric_mahler_equality	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SymmetricMahlerEquality	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SymmetricMahlerEquality	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.SymmetricMahlerEquality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SymmetricMahlerEquality	FAIL	no module docstring /-! … -/; 6 public declarations without a docstring (['coordinatePolar', 'hannerProduct', 'hannerJoin', 'IsHanner'])

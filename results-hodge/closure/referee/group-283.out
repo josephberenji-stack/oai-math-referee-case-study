@@ -1,0 +1,703 @@
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	853 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	REVIEW	CategoryTheory.CategoryStruct.comp sX f = CategoryTheory.CategoryStruct.id S :: side condition | CategoryTheory.CategoryStruct.comp sY g = CategoryTheory.CategoryStruct.id S :: side condition | ⊤ ≤ (TopologicalSpace.Opens.map sX.base).obj (U i₀) :: side condition | ⊤ ≤ (TopologicalSpace.Opens.map sY.base).obj (V j₀) :: side condition | OAI.AlgebraicGeometry.Quotients.FiniteDescent.CechBoundary.Construction.CechBoundaryTransp :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	reaches CategoryTheory.Adjunction.isLeftAdjoint
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.HomotopyBoundaryDetection.CechBoundaryTransport.jointly_of_iso_middle_map carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	57 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.jointly_of_coordinates	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	2023 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	REVIEW	CategoryTheory.CategoryStruct.comp sX f = CategoryTheory.CategoryStruct.id S :: side condition | CategoryTheory.CategoryStruct.comp sY g = CategoryTheory.CategoryStruct.id S :: side condition | ⊤ ≤ (TopologicalSpace.Opens.map sX.base).obj (U i₀) :: side condition | ⊤ ≤ (TopologicalSpace.Opens.map sY.base).obj (V j₀) :: side condition | AlgebraicGeometry.IsAffine S :: side condition | X.IsSeparated :: side condition | Y.IsSeparated :: side condition | (CategoryTheory.Limits.pullback f g).IsSeparated :: side condition | ∀ (a : ι), AlgebraicGeometry.IsAffineOpen (U a) :: side condition | ∀ (a : κ), AlgebraicGeometry.IsAffineOpen (V a) :: side condition | iSup U = ⊤ :: side condition | iSup V = ⊤ :: side condition | AlgebraicGeometry.IsIntegral  (CategoryTheory.Limits.pullback f   (OAI.AlgebraicGeometry.A :: side condition (project data) | AlgebraicGeometry.IsIntegral  (CategoryTheory.Limits.pullback g   (OAI.AlgebraicGeometry.A :: side condition (project data) | AlgebraicGeometry.UniversallyClosed f :: side condition | AlgebraicGeometry.UniversallyClosed g :: side condition | OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.LineBundle (CategoryT :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	reaches AlgebraicGeometry.morphismRestrict_ι
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	15 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.Quotients.FiniteDescent.CubeLineBundle.Construction.CubeCech.structureSheafModule = OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.unitObj, OAI.AlgebraicGeometry.Quotients.FiniteDescent.CubeLineBundle.Construction.CubeCech.structureSheafModule = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule, OAI.AlgebraicGeometry.SheafCohomology.Projective.Invertible.Scheme.Modules.unitObj = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Line.Bundles.structureModule]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection.ProductCechMorphismDetection.coefficient_jointly	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	80 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.Pro :: carries a project proposition | CategoryTheory.CategoryStruct.comp x (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	reaches CategoryTheory.CartesianMonoidalCategory.whiskerRight_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_self	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	81 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.Pro :: carries a project proposition | CategoryTheory.CategoryStruct.comp x (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition | CategoryTheory.CategoryStruct.comp y (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition | CategoryTheory.CategoryStruct.comp z (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	reaches CategoryTheory.CartesianMonoidalCategory.whiskerRight_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	79 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	REVIEW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.Pro :: carries a project proposition | CategoryTheory.CategoryStruct.comp t q = q' :: side condition | CategoryTheory.CategoryStruct.comp x (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition | CategoryTheory.CategoryStruct.comp y (CategoryTheory.MonoidalCategoryStruct.whiskerRight ( :: side condition | CategoryTheory.CategoryStruct.comp t x = x' :: side condition | CategoryTheory.CategoryStruct.comp t y = y' :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	reaches CategoryTheory.CartesianMonoidalCategory.whiskerRight_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent.ProductFamilyComparisons.descentHom_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	1222 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	AlgebraicGeometry.Flat X.hom :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation X.hom :: side condition | AlgebraicGeometry.IsSeparated Y.hom :: side condition | AlgebraicGeometry.Flat X'.hom :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation X'.hom :: side condition | AlgebraicGeometry.IsSeparated Y'.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left j') :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.CoordinateRing = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Projective.ProjectivePresentations.coordinateRing]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport.productGraphIsoTransport	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	49 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProductPullbackIso_hom_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	73 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	reaches le_bot_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison.overProduct_ideal_zero_iff_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	CategoryTheory.IsMonHom f :: side condition | CategoryTheory.IsMonHom q :: side condition | CategoryTheory.CategoryStruct.comp   (CategoryTheory.CartesianMonoidalCategory.lift (Categ :: side condition | CategoryTheory.CategoryStruct.comp   (CategoryTheory.CartesianMonoidalCategory.lift 1 (Cat :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes.productMonoidHom_eq_of_axes	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	reaches Finset.prod_erase_mul
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	CONTENT	reaches Finset.prod_erase_mul
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts.product_of_erased_products	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	56 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	reaches CategoryTheory.Over.Hom.w
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.parameterProductFamily_composite_isPullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	reaches CategoryTheory.IsPullback.isoPullback_inv_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.BaseChangeMap.cartesianBaseChangeMap_comp carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_comp	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	77 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	reaches CategoryTheory.IsPullback.isoPullback_inv_snd
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.BaseChangeMap.cartesianBaseChangeMap_over carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_over	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	80 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	reaches CategoryTheory.IsPullback.of_horiz_isIso
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.BaseChangeMap.cartesianBaseChangeMap_isPullback carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	5 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange.productParameterBaseChangeMap_isPullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	1159 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	reaches MvPolynomial.isHomogeneous_C
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.OverIsoNaturality.cartesianAmbientOverIso_natural carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.CoordinateRing = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Projective.ProjectivePresentations.coordinateRing]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_embedding	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	116 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.OverIsoNaturality.cartesianAmbientOverIso_natural carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility.productParameterBaseChangeIso_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	91 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	reaches CategoryTheory.IsPullback.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	CONTENT	reaches CategoryTheory.IsPullback.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.BaseChangeNaturality.cartesianBaseChangeMap_natural carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	36 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	reaches CategoryTheory.Over.μ_pullback_left_fst_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	91 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	reaches CategoryTheory.IsPullback.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	CONTENT	reaches CategoryTheory.IsPullback.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.BaseChangeNaturality.cartesianBaseChangeMap_natural carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	6 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.productParameterBaseChangeMap_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	37 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	reaches CategoryTheory.Over.μ_pullback_left_fst_snd
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections.overProductBaseChangeMap_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	143 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	reaches CategoryTheory.IsPullback.of_horiz_isIso
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_tensor	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	116 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	CONTENT	reaches CategoryTheory.Over.OverMorphism.ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	top step OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Cartesian.OverIsoNaturality.cartesianAmbientOverIso_natural carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	10 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso.productParameterBaseChangeIso_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	CategoryTheory.CategoryStruct.comp y q = CategoryTheory.CategoryStruct.id S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	reaches CategoryTheory.Limits.pullback.lift_snd
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	CONTENT	reaches CategoryTheory.Limits.pullback.lift_snd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	30 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	CategoryTheory.CategoryStruct.comp y q = CategoryTheory.CategoryStruct.id S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	reaches CategoryTheory.Limits.pullback.lift_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_isPullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	CategoryTheory.CategoryStruct.comp x p = CategoryTheory.CategoryStruct.id S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	reaches CategoryTheory.Limits.pullback.lift_snd
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	CONTENT	reaches CategoryTheory.Limits.pullback.lift_snd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	CategoryTheory.CategoryStruct.comp x p = CategoryTheory.CategoryStruct.id S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	reaches CategoryTheory.Limits.pullback.lift_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	CONTENT	reaches CategoryTheory.Limits.pullback.lift_fst
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productLeftSection_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	22 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	CategoryTheory.CategoryStruct.comp y q = CategoryTheory.CategoryStruct.id S :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	reaches CategoryTheory.Limits.pullback.lift_fst
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	CONTENT	reaches CategoryTheory.Limits.pullback.lift_fst
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers.productRightFiberInclusion_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	59 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	33 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	39 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	59 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_fst_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	33 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productSwapIso_hom_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	CONTENT	reaches CategoryTheory.CartesianMonoidalCategory.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms.productShearIso_hom_snd_assoc	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	INFO	5 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	INFO	8 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['left', 'right', 'jointly_of_coordinates', 'coefficient_jointly'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.CechMorphismDetection	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['ProductFamilyComparisons', 'descentHom_self', 'descentHom_comp', 'descentHom_pullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.FamilyIntrinsicDescent	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['productGraphIsoTransport'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.GraphIsoTransport	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['overProductPullbackIso', 'overProductPullbackIso_hom_fst', 'overProduct_ideal_zero_iff_pullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.IdealPullbackComparison	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['productMonoidHom_eq_of_axes'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.MonoidHomAxes	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['product_of_erased_products'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.OfErasedProducts	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['parameterProductFamily', 'parameterProductFamily_composite_isPullback', 'productParameterBaseChangeMap', 'productParameterBaseChangeMap_comp'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterBaseChange	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['productParameterBaseChangeIso_fst', 'productParameterBaseChangeIso_embedding'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterIsoCompatibility	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['overProductBaseChangeMap_fst', 'overProductBaseChangeMap_snd', 'productParameterBaseChangeMap_fst', 'productParameterBaseChangeMap_snd'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterProjections	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['productParameterBaseChangeIso_snd', 'productParameterBaseChangeIso_tensor'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ParameterTensorIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['productRightFiberInclusion', 'productRightFiberInclusion_fst', 'productRightFiberInclusion_snd', 'productRightFiberInclusion_isPullback'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.SectionFibers	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['productSwapIso', 'productSwapIso_hom_fst', 'productSwapIso_hom_snd', 'productShearIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Product.ShearIsomorphisms	PASS	not under a Mathlib folder
+exit 1

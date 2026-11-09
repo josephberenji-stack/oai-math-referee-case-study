@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	5348 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	REVIEW	Measurable c :: side condition | OAI.EuclideanFiveColor.WeakColoring 5 c :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	reaches Complex.instFiniteDimensionalReal
+REFEREE	R7	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	no single top step
+REFEREE	R5	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.no_measurable_weak_five_coloring	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	74 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.graphRealization_positive_three	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	p ∈ OAI.EuclideanFiveColor.graphRealization G :: side condition (project data) | 0 < p i :: side condition | 0 < p j :: side condition | 0 < p k :: side condition || unbuilt=0
+REFEREE	L3	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.graphRealization_positive_three	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.graphRealization_positive_three	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.graphRealization_positive_three	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	794 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	∀ (i : Fin 5) (K : Set ℂ),  IsPreconnected K →   K ⊆ Metric.closedBall 0 5 →    (∀ (z : ↑( :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	no single top step
+REFEREE	R5	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.graph_map_small_mesh_impossible	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	9503 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.no_proper_five_coloring	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.no_proper_five_coloring	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	reaches Complex.instFiniteDimensionalReal
+REFEREE	R7	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.no_proper_five_coloring	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.no_proper_five_coloring	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	797 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanFiveColor.graph_map_large_positive	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanFiveColor.graph_map_large_positive	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanFiveColor.graph_map_large_positive	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanFiveColor.graph_map_large_positive	REVIEW	computed class A?
+REFEREE	L4	OAI.Geometry.PlaneColoring.Five	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Geometry.PlaneColoring.Five	INFO	5 theorems checked
+REFEREE	L5	OAI.Geometry.PlaneColoring.Five	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Geometry.PlaneColoring.Five	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['graphRealization_positive_three'])

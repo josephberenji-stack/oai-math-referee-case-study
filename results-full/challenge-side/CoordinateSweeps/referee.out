@@ -1,0 +1,95 @@
+REFEREE	L0	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	27 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.FiniteLaw.ext_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.FiniteLaw.ext_iff	REVIEW	OAI.CoordinateSweeps.FiniteLaw Ω :: carries a project proposition | OAI.CoordinateSweeps.FiniteLaw Ω :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.FiniteLaw.ext_iff	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.FiniteLaw.ext_iff	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.FiniteLaw.ext_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.FiniteLaw.ext_iff	REVIEW	computed class DEF
+REFEREE	L0	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	FAIL	OAI.CoordinateSweeps.Grid :: UNBUILT | G.Holes h :: carries a project proposition | H.Feasible :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	reaches congrFun'
+REFEREE	R7	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.Grid.Holes.reference_compatible	PASS	computed class C
+REFEREE	L0	OAI.CoordinateSweeps.all_grid_moment	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CoordinateSweeps.all_grid_moment	PASS	354 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.all_grid_moment	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.all_grid_moment	FAIL	OAI.CoordinateSweeps.ScaleLarge r :: carries a project proposition | OAI.CoordinateSweeps.SparseScalar.ScaleReady r :: carries a project proposition | ∀ (G : OAI.CoordinateSweeps.Grid),  G.Allowed r → OAI.CoordinateSweeps.ScalarInduction.Mai :: carries a project proposition | OAI.CoordinateSweeps.SparsePerturb r zStar :: carries a project proposition | z ∈ Set.Icc 0 zStar :: side condition | OAI.CoordinateSweeps.Grid :: UNBUILT | G.Allowed r :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.CoordinateSweeps.all_grid_moment	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.all_grid_moment	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.all_grid_moment	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.all_grid_moment	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.all_grid_moment	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CoordinateSweeps.all_grid_moment	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.all_grid_moment	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.all_grid_moment	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.all_grid_moment	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	[]
+REFEREE	L1	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	9 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.instNonemptyBinaryChoices	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.instNonemptyBinaryChoices	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.instNonemptyBinaryChoices	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.instNonemptyBinaryChoices	PASS	computed class DEF
+REFEREE	L0	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	17 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.FiniteLaw.sum_mass	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.FiniteLaw.sum_mass	REVIEW	OAI.CoordinateSweeps.FiniteLaw Ω :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.FiniteLaw.sum_mass	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	reaches congrFun'
+REFEREE	R7	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.FiniteLaw.sum_mass	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.FiniteLaw.sum_mass	REVIEW	computed class A?
+REFEREE	L0	OAI.CoordinateSweeps.conditional_main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CoordinateSweeps.conditional_main	PASS	339 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.conditional_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.conditional_main	PASS	no hypotheses
+REFEREE	L3	OAI.CoordinateSweeps.conditional_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.conditional_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.conditional_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.conditional_main	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.conditional_main	PASS	reaches congrFun'
+REFEREE	R7	OAI.CoordinateSweeps.conditional_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.conditional_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.conditional_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.conditional_main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	21 constants reached, no stand-in
+REFEREE	L1u	OAI.CoordinateSweeps.FiniteLaw.ext	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CoordinateSweeps.FiniteLaw.ext	REVIEW	OAI.CoordinateSweeps.FiniteLaw Ω :: carries a project proposition | OAI.CoordinateSweeps.FiniteLaw Ω :: carries a project proposition | ∀ (x : Ω), μ.mass x = ν.mass x :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CoordinateSweeps.FiniteLaw.ext	INFO	not a registered target statement
+REFEREE	R1	OAI.CoordinateSweeps.FiniteLaw.ext	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CoordinateSweeps.FiniteLaw.ext	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CoordinateSweeps.FiniteLaw.ext	REVIEW	computed class DEF
+REFEREE	L4	ComparatorChallenges.CoordinateSweeps	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CoordinateSweeps	INFO	7 theorems checked
+REFEREE	L5	ComparatorChallenges.CoordinateSweeps	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CoordinateSweeps	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 52 public declarations without a docstring (['FiniteLaw', 'ext', 'sum_mass', 'uniform'])

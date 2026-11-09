@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	4473 constants reached, no stand-in
+REFEREE	L1u	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	no hypotheses
+REFEREE	L3	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	INFO	not a registered target statement
+REFEREE	R1	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	reaches pow_ne_zero
+REFEREE	R7	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KaplanskyCounterexample.finitelyPresented_counterexample	REVIEW	computed class A?
+REFEREE	L0	OAI.KaplanskyCounterexample.thm_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KaplanskyCounterexample.thm_main	PASS	4472 constants reached, no stand-in
+REFEREE	L1u	OAI.KaplanskyCounterexample.thm_main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KaplanskyCounterexample.thm_main	PASS	no hypotheses
+REFEREE	L3	OAI.KaplanskyCounterexample.thm_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KaplanskyCounterexample.thm_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KaplanskyCounterexample.thm_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KaplanskyCounterexample.thm_main	INFO	not a registered target statement
+REFEREE	R1	OAI.KaplanskyCounterexample.thm_main	PASS	reaches pow_ne_zero
+REFEREE	R7	OAI.KaplanskyCounterexample.thm_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KaplanskyCounterexample.thm_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KaplanskyCounterexample.thm_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KaplanskyCounterexample.thm_main	REVIEW	computed class A?
+REFEREE	L4	OAI.RingTheory.DirectFiniteness.FinitelyPresented	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RingTheory.DirectFiniteness.FinitelyPresented	INFO	2 theorems checked
+REFEREE	L5	OAI.RingTheory.DirectFiniteness.FinitelyPresented	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RingTheory.DirectFiniteness.FinitelyPresented	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 1 public declarations without a docstring (['thm_main'])

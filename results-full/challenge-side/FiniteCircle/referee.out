@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.FiniteCircle.EditScript.brecOn	PASS	[]
+REFEREE	L1	OAI.FiniteCircle.EditScript.brecOn	PASS	15 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteCircle.EditScript.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteCircle.EditScript.brecOn	REVIEW	OAI.FiniteCircle.EditScript a✝² a✝¹ a✝ :: carries a project proposition | ∀ (a : ℕ) (a_1 a_2 : List α) (t : OAI.FiniteCircle.EditScript a a_1 a_2),  OAI.FiniteCircl :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.FiniteCircle.EditScript.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteCircle.EditScript.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteCircle.EditScript.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteCircle.EditScript.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteCircle.EditScript.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.FiniteCircle.EditScript.brecOn	PASS	no single top step
+REFEREE	R5	OAI.FiniteCircle.EditScript.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteCircle.EditScript.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteCircle.EditScript.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.finiteCircle_fullMain	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.finiteCircle_fullMain	PASS	239 constants reached, no stand-in
+REFEREE	L1u	OAI.finiteCircle_fullMain	INFO	no opaque with a value reached
+REFEREE	L2	OAI.finiteCircle_fullMain	PASS	no hypotheses
+REFEREE	L3	OAI.finiteCircle_fullMain	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.finiteCircle_fullMain	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.finiteCircle_fullMain	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.finiteCircle_fullMain	INFO	not a registered target statement
+REFEREE	R1	OAI.finiteCircle_fullMain	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.finiteCircle_fullMain	PASS	top step is not a project theorem
+REFEREE	R5	OAI.finiteCircle_fullMain	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.finiteCircle_fullMain	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.finiteCircle_fullMain	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.FiniteCircle	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.FiniteCircle	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.FiniteCircle	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.FiniteCircle	FAIL	no module docstring /-! … -/; 41 public declarations without a docstring (['EditStep', 'EditScript', 'editDistance', 'lcs'])

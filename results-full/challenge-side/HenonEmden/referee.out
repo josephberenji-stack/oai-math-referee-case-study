@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.HenonLaneEmden.main_nonexistence	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.HenonLaneEmden.main_nonexistence	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.HenonLaneEmden.main_nonexistence	INFO	no opaque with a value reached
+REFEREE	L2	OAI.HenonLaneEmden.main_nonexistence	REVIEW	2 ≤ n :: side condition | 0 < p :: side condition | 0 < q :: side condition | OAI.HenonLaneEmden.Subcritical n p q A B :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.HenonLaneEmden.main_nonexistence	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.HenonLaneEmden.main_nonexistence	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.HenonLaneEmden.main_nonexistence	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.HenonLaneEmden.main_nonexistence	INFO	not a registered target statement
+REFEREE	R1	OAI.HenonLaneEmden.main_nonexistence	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.HenonLaneEmden.main_nonexistence	PASS	top step is not a project theorem
+REFEREE	R5	OAI.HenonLaneEmden.main_nonexistence	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.HenonLaneEmden.main_nonexistence	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.HenonLaneEmden.main_nonexistence	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.HenonEmden	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HenonEmden	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.HenonEmden	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HenonEmden	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['Space', 'IsSolution', 'Subcritical', 'main_nonexistence'])

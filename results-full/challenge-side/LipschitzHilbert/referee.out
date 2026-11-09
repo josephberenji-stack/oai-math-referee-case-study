@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.LipschitzHilbert.uniform_truncation	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LipschitzHilbert.uniform_truncation	PASS	171 constants reached, no stand-in
+REFEREE	L1u	OAI.LipschitzHilbert.uniform_truncation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LipschitzHilbert.uniform_truncation	PASS	no hypotheses
+REFEREE	L3	OAI.LipschitzHilbert.uniform_truncation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LipschitzHilbert.uniform_truncation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LipschitzHilbert.uniform_truncation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LipschitzHilbert.uniform_truncation	INFO	not a registered target statement
+REFEREE	R1	OAI.LipschitzHilbert.uniform_truncation	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LipschitzHilbert.uniform_truncation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LipschitzHilbert.uniform_truncation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LipschitzHilbert.uniform_truncation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LipschitzHilbert.uniform_truncation	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.LipschitzHilbert.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.LipschitzHilbert.main	PASS	294 constants reached, no stand-in
+REFEREE	L1u	OAI.LipschitzHilbert.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.LipschitzHilbert.main	PASS	no hypotheses
+REFEREE	L3	OAI.LipschitzHilbert.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.LipschitzHilbert.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.LipschitzHilbert.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.LipschitzHilbert.main	INFO	not a registered target statement
+REFEREE	R1	OAI.LipschitzHilbert.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.LipschitzHilbert.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.LipschitzHilbert.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.LipschitzHilbert.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.LipschitzHilbert.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.LipschitzHilbert	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.LipschitzHilbert	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.LipschitzHilbert	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.LipschitzHilbert	FAIL	no module docstring /-! … -/; 5 public declarations without a docstring (['Plane', 'DirectionPlane', 'sample', 'directionalKernel'])

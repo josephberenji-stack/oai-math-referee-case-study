@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.CorSetReference.cor_set	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.CorSetReference.cor_set	PASS	3775 constants reached, no stand-in
+REFEREE	L1u	OAI.CorSetReference.cor_set	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CorSetReference.cor_set	PASS	Nonempty ι :: side condition | ∀ (i : ι), 0 < |r i| :: side condition | ∀ (i : ι), |r i| < 1 :: side condition | ∀ (u v : List ι), u ≠ [] → v ≠ [] → OAI.CorSetReference.word r t u = OAI.CorSetReference.w :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.CorSetReference.cor_set	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CorSetReference.cor_set	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CorSetReference.cor_set	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CorSetReference.cor_set	INFO	not a registered target statement
+REFEREE	R1	OAI.CorSetReference.cor_set	PASS	reaches one_div_pos
+REFEREE	R7	OAI.CorSetReference.cor_set	PASS	no single top step
+REFEREE	R5	OAI.CorSetReference.cor_set	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CorSetReference.cor_set	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CorSetReference.cor_set	REVIEW	computed class A?
+REFEREE	L4	OAI.MeasureTheory.SelfSimilar.AttractorFormula	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MeasureTheory.SelfSimilar.AttractorFormula	INFO	1 theorems checked
+REFEREE	L5	OAI.MeasureTheory.SelfSimilar.AttractorFormula	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MeasureTheory.SelfSimilar.AttractorFormula	FAIL	no module docstring /-! … -/

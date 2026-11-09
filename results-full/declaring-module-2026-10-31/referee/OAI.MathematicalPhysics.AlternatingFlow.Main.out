@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.AlternatingNS.alternating	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlternatingNS.alternating	PASS	3476 constants reached, no stand-in
+REFEREE	L1u	OAI.AlternatingNS.alternating	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlternatingNS.alternating	REVIEW	0 < ν :: side condition | OAI.AlternatingNS.ComputableReal ν :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.AlternatingNS.alternating	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlternatingNS.alternating	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlternatingNS.alternating	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlternatingNS.alternating	INFO	not a registered target statement
+REFEREE	R1	OAI.AlternatingNS.alternating	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.AlternatingNS.alternating	PASS	top step is not a project theorem
+REFEREE	R5	OAI.AlternatingNS.alternating	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlternatingNS.alternating	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlternatingNS.alternating	REVIEW	computed class A?
+REFEREE	L4	OAI.MathematicalPhysics.AlternatingFlow.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MathematicalPhysics.AlternatingFlow.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.MathematicalPhysics.AlternatingFlow.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MathematicalPhysics.AlternatingFlow.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['alternating'])

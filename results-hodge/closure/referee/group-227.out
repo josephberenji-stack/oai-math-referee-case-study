@@ -1,0 +1,331 @@
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	79 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	∀ (x : ↥X),  CategoryTheory.CategoryStruct.comp (X.fromSpecStalk x) f = CategoryTheory.Cat :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	reaches AlgebraicGeometry.Scheme.fromSpecStalk_closedPoint
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection.schemeMap_eq_of_allStalkPoints	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	33 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	CategoryTheory.Limits.PreservesLimit (CategoryTheory.Limits.cospan f g) F :: side condition | CategoryTheory.IsPullback p q f g :: side condition | CategoryTheory.CategoryStruct.comp c p = i :: side condition | CategoryTheory.CategoryStruct.comp c q = j :: side condition | CategoryTheory.IsIso (F.map c) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	reaches CategoryTheory.IsPullback.of_iso'
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	CONTENT	reaches CategoryTheory.IsPullback.of_iso'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback.isPullback_of_mapped_comparison_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	61 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	G.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapXIso_naturality	PASS	computed class DEF
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	G.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	reaches Int.toNat_of_nonneg
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension.DerivedSections.mapExtendXIso_natCast	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	170 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	G.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	reaches HomologicalComplex.Hom.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_naturality	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	152 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	G.Additive :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	reaches Int.toNat_of_nonneg
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	CONTENT	reaches instIsRightCancelAddOfAddRightReflectLE
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality.DerivedSections.mapExtendIso_hom_f	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	54 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	reaches CategoryTheory.cancel_epi
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	reaches CategoryTheory.Functor.LaxMonoidal.μ_natural_assoc
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_mul_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	36 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	reaches CategoryTheory.cancel_epi
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	CONTENT	reaches CategoryTheory.Category.assoc
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations.mappedMonoidHom_one_iff	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	48 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	CategoryTheory.CategoryStruct.comp f b = CategoryTheory.CategoryStruct.comp a g :: side condition | CategoryTheory.Limits.HasPullback b g :: side condition | CategoryTheory.Limits.PreservesLimit (CategoryTheory.Limits.cospan b g) F :: side condition | CategoryTheory.IsIso (F.map a) :: side condition | CategoryTheory.IsIso (F.map b) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	reaches CategoryTheory.IsPullback.of_vert_isIso
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	CONTENT	reaches CategoryTheory.IsPullback.of_vert_isIso
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso.isIso_mapped_pullbackLift_of_vert_isIso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	Nonempty (Homotopy (CategoryTheory.CategoryStruct.id L) 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	reaches CategoryTheory.Limits.comp_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_of_iso	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	F.Additive :: side condition | Nonempty (Homotopy (CategoryTheory.CategoryStruct.id K) 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	reaches CategoryTheory.Functor.map_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.cochainContractible_map	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	71 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	CategoryTheory.Limits.HasBinaryBiproducts C :: side condition | CategoryTheory.Limits.HasZeroObject C :: side condition | Nonempty (Homotopy (CategoryTheory.CategoryStruct.id K) 0) :: side condition | Nonempty (Homotopy (CategoryTheory.CategoryStruct.id L) 0) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	reaches HomotopyCategory.isZero_quotient_obj_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions.mappingCone_contractible_of_contractible	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	99 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	CategoryTheory.Limits.HasBinaryBiproducts C :: side condition | CategoryTheory.Limits.IsZero (K.X 1) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	reaches CochainComplex.mappingCone.d_snd_v
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	CONTENT	reaches AddRightCancelSemigroup.toIsRightCancelAdd
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm.mappingCone_d_topProjection	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	282 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	2 ≤ Fintype.card κ :: side condition | 0 < M :: side condition | a j₀ = M :: side condition | ∀ (j : κ), j ≠ j₀ → -M < (↑(Fintype.card κ) - 1) * a j :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	reaches Finset.card_erase_of_mem
+REFEREE	R1k	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum.markedThreshold_sum_pos	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	INFO	0 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['schemeMap_eq_of_allStalkPoints'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MapAllStalkDetection	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['isPullback_of_mapped_comparison_isIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComparisonPullback	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['mapXIso', 'mapXIso_naturality', 'mapExtendXIso', 'mapExtendXIso_natCast'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtension	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['mapExtendIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['mapExtendIso_hom_f', 'mapExtendIso_naturality'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedComplexExtensionNaturality	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['mappedMonoidHom_one_iff', 'mappedMonoidHom_mul_iff', 'mappedMonoidHom_iff'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedMonoidHomEquations	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['isIso_mapped_pullbackLift_of_vert_isIso'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappedSquareComparisonIso	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['mappingConeIsoOfIso', 'mappingConeHomotopyToZeroOfIso', 'mappingCone_contractible_of_contractible', 'cochainContractible_of_iso'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeContractions	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['mappingConeTopProjectionIso', 'mappingCone_d_topProjection'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MappingConeTopTerm	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['markedThreshold_sum_pos'])
+REFEREE	INST	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.MarkedThresholdPositiveSum	PASS	not under a Mathlib folder
+exit 1

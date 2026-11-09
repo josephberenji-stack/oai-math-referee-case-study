@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.SnakyPrototype.empty_board_wins_21	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SnakyPrototype.empty_board_wins_21	PASS	29893 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyPrototype.empty_board_wins_21	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyPrototype.empty_board_wins_21	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyPrototype.empty_board_wins_21	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyPrototype.empty_board_wins_21	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyPrototype.empty_board_wins_21	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyPrototype.empty_board_wins_21	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyPrototype.empty_board_wins_21	PASS	reaches Finset.disjoint_left
+REFEREE	R7	OAI.SnakyPrototype.empty_board_wins_21	PASS	top step OAI.SnakyPrototype.Certificate21.row_works_727 carries content
+REFEREE	R5	OAI.SnakyPrototype.empty_board_wins_21	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyPrototype.empty_board_wins_21	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyPrototype.empty_board_wins_21	REVIEW	computed class A?
+REFEREE	L0	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	30010 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	reaches Finset.exists_notMem
+REFEREE	R7	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states	REVIEW	computed class A?
+REFEREE	L0	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	30011 constants reached, no stand-in
+REFEREE	L1u	OAI.SnakyPrototype.snaky_winning_strategy_21	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	no hypotheses
+REFEREE	L3	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SnakyPrototype.snaky_winning_strategy_21	INFO	not a registered target statement
+REFEREE	R1	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	reaches Finset.exists_notMem
+REFEREE	R7	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SnakyPrototype.snaky_winning_strategy_21	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SnakyPrototype.snaky_winning_strategy_21	REVIEW	computed class A?
+REFEREE	L4	OAI.GameTheory.SnakyTwentyOne.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GameTheory.SnakyTwentyOne.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.GameTheory.SnakyTwentyOne.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GameTheory.SnakyTwentyOne.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['empty_board_wins_21', 'snaky_winning_strategy_21_with_legal_states', 'snaky_winning_strategy_21'])

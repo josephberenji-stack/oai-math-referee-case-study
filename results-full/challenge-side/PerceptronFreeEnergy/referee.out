@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.SphericalPerceptronFreeEnergy.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SphericalPerceptronFreeEnergy.main	PASS	269 constants reached, no stand-in
+REFEREE	L1u	OAI.SphericalPerceptronFreeEnergy.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SphericalPerceptronFreeEnergy.main	PASS	MeasureTheory.IsProbabilityMeasure P :: side condition (project data) | ProbabilityTheory.IsBrownianReal OAI.SphericalPerceptronFreeEnergy.brownianEval P :: side condition (project data) | 0 < α :: side condition | 0 < β :: side condition || unbuilt=0
+REFEREE	L3	OAI.SphericalPerceptronFreeEnergy.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SphericalPerceptronFreeEnergy.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SphericalPerceptronFreeEnergy.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SphericalPerceptronFreeEnergy.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SphericalPerceptronFreeEnergy.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SphericalPerceptronFreeEnergy.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SphericalPerceptronFreeEnergy.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SphericalPerceptronFreeEnergy.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SphericalPerceptronFreeEnergy.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	15 constants reached, no stand-in
+REFEREE	L1u	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	no hypotheses
+REFEREE	L3	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	INFO	not a registered target statement
+REFEREE	R1	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SphericalPerceptronFreeEnergy.instBorelSpaceBrownianPath	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.PerceptronFreeEnergy	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PerceptronFreeEnergy	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.PerceptronFreeEnergy	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PerceptronFreeEnergy	FAIL	no module docstring /-! … -/; 22 public declarations without a docstring (['Time', 'BrownianPath', 'Spin', 'patternCount'])

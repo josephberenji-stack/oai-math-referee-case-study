@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	138 constants reached, no stand-in
+REFEREE	L1u	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	no hypotheses
+REFEREE	L3	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	INFO	not a registered target statement
+REFEREE	R1	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.PeriodicTilingThree	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PeriodicTilingThree	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.PeriodicTilingThree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PeriodicTilingThree	FAIL	no module docstring /-! … -/; 13 public declarations without a docstring (['Lattice', 'Tiles', 'Period', 'FullyPeriodic'])

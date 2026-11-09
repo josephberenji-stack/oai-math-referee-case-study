@@ -1,0 +1,121 @@
+REFEREE	L0	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	236 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.log_ratio_lower	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	0 ≤ a :: side condition | 0 ≤ b :: side condition | 0 < P :: side condition | b = 0 → a = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.log_ratio_lower	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	reaches congrFun'
+REFEREE	R7	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.log_ratio_lower	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.log_ratio_lower	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.density_bounded	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.density_bounded	PASS	54 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.density_bounded	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.density_bounded	PASS	MeasureTheory.SFinite μ :: side condition | ∀ (x : α), f x ≤ H :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.density_bounded	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.density_bounded	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.density_bounded	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.density_bounded	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.density_bounded	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.KernelPotential.Coercivity.density_bounded	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KernelPotential.Coercivity.density_bounded	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.density_bounded	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.density_bounded	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.J_mixture	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.J_mixture	PASS	1104 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.J_mixture	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.J_mixture	REVIEW	16 ≤ d :: side condition | ∀ (i : Fin q), 0 ≤ w i :: side condition | ∀ (i : Fin q), MeasureTheory.IsProbabilityMeasure (ν i) :: side condition (project data) | ∀ (i : Fin q), OAI.KernelPotential.BoundedDensity (ν i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.J_mixture	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.J_mixture	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.J_mixture	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.J_mixture	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.J_mixture	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.KernelPotential.Coercivity.J_mixture	PASS	no single top step
+REFEREE	R5	OAI.KernelPotential.Coercivity.J_mixture	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.J_mixture	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.J_mixture	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.mixture_density	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.mixture_density	PASS	72 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.mixture_density	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.mixture_density	PASS	∀ (i : ι), 0 ≤ w i :: side condition | ∀ (i : ι), Measurable (f i) :: side condition | ∀ (i : ι) (x : α), 0 ≤ f i x :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.mixture_density	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.mixture_density	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.mixture_density	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.mixture_density	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.mixture_density	PASS	reaches MeasureTheory.Measure.ext
+REFEREE	R7	OAI.KernelPotential.Coercivity.mixture_density	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KernelPotential.Coercivity.mixture_density	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.mixture_density	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.mixture_density	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.mixture_probability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.mixture_probability	PASS	55 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.mixture_probability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.mixture_probability	PASS	∀ (i : ι), 0 ≤ w i :: side condition | ∑ i, w i = 1 :: side condition | ∀ (i : ι), MeasureTheory.IsProbabilityMeasure (ν i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.mixture_probability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.mixture_probability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.mixture_probability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.mixture_probability	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.mixture_probability	PASS	reaches IsScalarTower.right
+REFEREE	R7	OAI.KernelPotential.Coercivity.mixture_probability	PASS	no single top step
+REFEREE	R5	OAI.KernelPotential.Coercivity.mixture_probability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.mixture_probability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.mixture_probability	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	313 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.perspective_sum_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	∀ (i : ι), 0 ≤ w i :: side condition | ∀ (i : ι), 0 ≤ x i :: side condition | ∀ (i : ι), 0 < y i :: side condition | 0 < ∑ i, w i * y i :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.perspective_sum_le	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	reaches Finset.sum_nonneg
+REFEREE	R7	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	no single top step
+REFEREE	R5	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.perspective_sum_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.perspective_sum_le	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.log_ratio_mul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	b ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.log_ratio_mul	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	reaches congrFun'
+REFEREE	R7	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.log_ratio_mul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.log_ratio_mul	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.kernel_coercivity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.kernel_coercivity	PASS	1462 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.kernel_coercivity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.kernel_coercivity	PASS	no hypotheses
+REFEREE	L3	OAI.KernelPotential.kernel_coercivity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.kernel_coercivity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.kernel_coercivity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.kernel_coercivity	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.kernel_coercivity	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.KernelPotential.kernel_coercivity	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KernelPotential.kernel_coercivity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.kernel_coercivity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.kernel_coercivity	REVIEW	computed class A?
+REFEREE	L0	OAI.KernelPotential.Coercivity.finite_convexity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.KernelPotential.Coercivity.finite_convexity	PASS	1377 constants reached, no stand-in
+REFEREE	L1u	OAI.KernelPotential.Coercivity.finite_convexity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KernelPotential.Coercivity.finite_convexity	REVIEW	16 ≤ d :: side condition | ∀ (i : Fin q), 0 ≤ w i :: side condition | ∑ i, w i = 1 :: side condition | ∀ (i : Fin q), MeasureTheory.IsProbabilityMeasure (ν i) :: side condition (project data) | ∀ (i : Fin q), OAI.KernelPotential.BoundedDensity (ν i) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KernelPotential.Coercivity.finite_convexity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KernelPotential.Coercivity.finite_convexity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KernelPotential.Coercivity.finite_convexity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KernelPotential.Coercivity.finite_convexity	INFO	not a registered target statement
+REFEREE	R1	OAI.KernelPotential.Coercivity.finite_convexity	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.KernelPotential.Coercivity.finite_convexity	PASS	no single top step
+REFEREE	R5	OAI.KernelPotential.Coercivity.finite_convexity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KernelPotential.Coercivity.finite_convexity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KernelPotential.Coercivity.finite_convexity	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.GaussianInformation.Kernel.Mixtures	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.GaussianInformation.Kernel.Mixtures	INFO	9 theorems checked
+REFEREE	L5	OAI.Probability.GaussianInformation.Kernel.Mixtures	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.GaussianInformation.Kernel.Mixtures	FAIL	no module docstring /-! … -/; 9 public declarations without a docstring (['log_ratio_lower', 'log_ratio_mul', 'perspective_sum_le', 'mixture_probability'])

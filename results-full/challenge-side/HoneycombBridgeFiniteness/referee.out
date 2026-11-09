@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	86 constants reached, no stand-in
+REFEREE	L1u	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	no hypotheses
+REFEREE	L3	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	INFO	not a registered target statement
+REFEREE	R1	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.HoneycombBridgeFiniteness	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.HoneycombBridgeFiniteness	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.HoneycombBridgeFiniteness	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.HoneycombBridgeFiniteness	FAIL	no module docstring /-! … -/; 14 public declarations without a docstring (['Vertex', 'position', 'adjacent', 'criticalActivity'])

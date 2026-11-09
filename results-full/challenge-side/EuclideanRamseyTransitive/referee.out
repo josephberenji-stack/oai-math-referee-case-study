@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	41 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	0 < s :: side condition | Function.Injective a :: side condition (project data) | Function.Injective y :: side condition (project data) | ∀ (i j : Fin t), ∃ σ, (∀ (k l : Fin t), dist (y (σ k)) (y (σ l)) = dist (y k) (y l)) ∧ σ i :: side condition (project data) | Set.range a ⊆ Set.range y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.EuclideanRamseyTransitive	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.EuclideanRamseyTransitive	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.EuclideanRamseyTransitive	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.EuclideanRamseyTransitive	FAIL	no module docstring /-! … -/; 4 public declarations without a docstring (['Space', 'Congruent', 'Ramsey', 'subset_of_finite_transitive_ramsey'])

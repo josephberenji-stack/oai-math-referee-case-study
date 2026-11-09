@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.ThreeManifold.main_theorem	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.ThreeManifold.main_theorem	PASS	216 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeManifold.main_theorem	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeManifold.main_theorem	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeManifold.main_theorem	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeManifold.main_theorem	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeManifold.main_theorem	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeManifold.main_theorem	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeManifold.main_theorem	PASS	reaches IsManifold.instOfNatWithTopENat_1
+REFEREE	R7	OAI.ThreeManifold.main_theorem	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeManifold.main_theorem	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeManifold.main_theorem	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeManifold.main_theorem	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.ConjugatePoints	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.ConjugatePoints	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.ConjugatePoints	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.ConjugatePoints	FAIL	no module docstring /-! … -/; 19 public declarations without a docstring (['E3', 'I3', 'OrientedAtlas', 'SmoothMetric'])

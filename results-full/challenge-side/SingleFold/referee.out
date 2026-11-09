@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SingleFold.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SingleFold.main	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.SingleFold.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SingleFold.main	PASS	no hypotheses
+REFEREE	L3	OAI.SingleFold.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SingleFold.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SingleFold.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SingleFold.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SingleFold.main	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.SingleFold.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SingleFold.main	REVIEW	a headline name over a structural or packaged proof: report it with that class beside it
+REFEREE	R6	OAI.SingleFold.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SingleFold.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.SingleFold	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.SingleFold	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.SingleFold	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.SingleFold	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['main'])

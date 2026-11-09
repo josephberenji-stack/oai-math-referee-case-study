@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	REVIEW	[opaque with a value OAI.SourceBurnside.SourceMachine.coding, opaque with a value OAI.SourceBurnside.SourceMachine.localCircuit]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	REVIEW	statement-level: [OAI.SourceBurnside.SourceMachine.coding, OAI.SourceBurnside.SourceMachine.localCircuit]; proof-only: 0
+REFEREE	L2	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	OAI.SourceBurnside.Elementary.representation u = 1 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	INFO	not a registered target statement
+REFEREE	R1	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	top step OAI.SourceBurnside.ConcreteSource.kernel_torsion carries content
+REFEREE	R5	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SourceBurnside.ConcreteSource.kernel_torsion_reference	REVIEW	computed class A?
+REFEREE	L0	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SourceBurnside.ConcreteSource.periodic_reference	REVIEW	[opaque with a value OAI.SourceBurnside.SourceMachine.coding, opaque with a value OAI.SourceBurnside.SourceMachine.localCircuit]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.SourceBurnside.ConcreteSource.periodic_reference	REVIEW	statement-level: [OAI.SourceBurnside.SourceMachine.coding, OAI.SourceBurnside.SourceMachine.localCircuit]; proof-only: 0
+REFEREE	L2	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	no hypotheses
+REFEREE	L3	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SourceBurnside.ConcreteSource.periodic_reference	INFO	not a registered target statement
+REFEREE	R1	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	reaches Nat.ne_of_beq_eq_false
+REFEREE	R7	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	top step OAI.SourceBurnside.ConcreteSource.steinberg_periodic carries content
+REFEREE	R5	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SourceBurnside.ConcreteSource.periodic_reference	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SourceBurnside.ConcreteSource.periodic_reference	REVIEW	computed class A?
+REFEREE	L0	OAI.SourceBurnside.thm_main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SourceBurnside.thm_main	REVIEW	[opaque with a value OAI.SourceBurnside.SourceMachine.coding, opaque with a value OAI.SourceBurnside.SourceMachine.localCircuit]: the value is checked but hidden; unpack it
+REFEREE	L1u	OAI.SourceBurnside.thm_main	PASS	proof-only: [OAI.SourceBurnside.SourceMachine.coding, OAI.SourceBurnside.SourceMachine.localCircuit]
+REFEREE	L2	OAI.SourceBurnside.thm_main	PASS	no hypotheses
+REFEREE	L3	OAI.SourceBurnside.thm_main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SourceBurnside.thm_main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SourceBurnside.thm_main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SourceBurnside.thm_main	INFO	not a registered target statement
+REFEREE	R1	OAI.SourceBurnside.thm_main	PASS	reaches Nat.fact_prime_two
+REFEREE	R7	OAI.SourceBurnside.thm_main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SourceBurnside.thm_main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SourceBurnside.thm_main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SourceBurnside.thm_main	REVIEW	computed class A?
+REFEREE	L4	OAI.GroupTheory.PeriodicGroups.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.GroupTheory.PeriodicGroups.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.GroupTheory.PeriodicGroups.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.GroupTheory.PeriodicGroups.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['kernel_torsion_reference', 'periodic_reference', 'thm_main'])

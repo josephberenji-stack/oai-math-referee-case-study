@@ -1,0 +1,25 @@
+REFEREE	L0	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	57 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	reaches Topology.IsOpenEmbedding.functor_isContinuous
+REFEREE	R1k	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	CONTENT	reaches Topology.IsOpenEmbedding.functor_isContinuous
+REFEREE	R7	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier.HilbertConstruction.underlyingModuleSheafRestriction	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	INFO	1 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['underlyingModuleSheafRestriction'])
+REFEREE	INST	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.Sheaves.ModuleSheafRestrictionCarrier	PASS	not under a Mathlib folder
+exit 1

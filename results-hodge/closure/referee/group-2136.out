@@ -1,0 +1,97 @@
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	40 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	no hypotheses
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	reaches Algebra.TensorProduct.map_comp
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	no single top step
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensorMap_base_coefficient_commute	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	276 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	IsCentralScalar ℂ M :: side condition | Nontrivial R :: side condition | Function.Injective ⇑i :: side condition | ∀ (x y : M), i x * i y = 0 :: side condition | Function.Exact ⇑i ⇑q.toLinearMap :: side condition | (Algebra.TensorProduct.map (AlgHom.id ℂ R) f) ↑x = ↑y :: side condition | (Algebra.TensorProduct.map q (AlgHom.id ℂ B)) ↑x = 1 :: side condition | (Algebra.TensorProduct.map q (AlgHom.id ℂ C)) ↑y = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	reaches Module.Flat.rTensor_preserves_injective_linearMap
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	top step OAI.RepresentationTheory.Theta.Geometric.SquareZero.TensorDescent.squareZeroTensorMap_injective carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_natural	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	183 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	IsCentralScalar ℂ M :: side condition | Nontrivial R :: side condition | Function.Injective ⇑i :: side condition | ∀ (x y : M), i x * i y = 0 :: side condition | (Algebra.TensorProduct.map     (OAI.RepresentationTheory.Theta.Geometric.SquareZero.Subalg :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	reaches Module.Flat.rTensor_preserves_injective_linearMap
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	CONTENT	reaches Algebra.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	top step OAI.RepresentationTheory.Theta.Geometric.SquareZero.TensorDescent.squareZeroTensorMap_injective carries content
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensor_transition_reflects	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	265 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	IsCentralScalar ℂ M :: side condition | Nontrivial R :: side condition | Function.Injective ⇑i :: side condition | ∀ (x y : M), i x * i y = 0 :: side condition | Function.Exact ⇑i ⇑q.toLinearMap :: side condition | (Algebra.TensorProduct.map q (AlgHom.id ℂ B)) ↑x = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	reaches ExistsUnique.exists
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.squareZeroTensorUnitLift_spec	REVIEW	computed class A?
+REFEREE	L0	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	126 constants reached, no stand-in
+REFEREE	L1u	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	Nontrivial S :: side condition | (Algebra.TensorProduct.map Algebra.TensorProduct.includeLeft (AlgHom.id ℂ B)) x =  (Algebr :: side condition || unbuilt=0
+REFEREE	L3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	INFO	not a registered target statement
+REFEREE	IFF	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	INFO	not an iff
+REFEREE	R1	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	reaches Algebra.TensorProduct.includeLeftRingHom._proof_2
+REFEREE	R1k	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	CONTENT	reaches IsScalarTower.to_smulCommClass
+REFEREE	R7	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	INFO	no supplied input
+REFEREE	DUP	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	no copy of a library declaration
+REFEREE	R5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality.tensor_constant_of_two_copies_eq	REVIEW	computed class A?
+REFEREE	L4	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	INFO	5 theorems checked
+REFEREE	L5	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	FAIL	module docstring has no `## Main results`; 6 public declarations without a docstring (['tensorMap_base_coefficient_commute', 'squareZeroTensorUnitLift', 'squareZeroTensorUnitLift_spec', 'squareZeroTensorUnitLift_natural'])
+REFEREE	INST	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	PASS	no instance changes
+REFEREE	VEND	OAI.RepresentationTheory.Theta.Geometric.Square.ZeroUnitNaturality	PASS	not under a Mathlib folder
+exit 1

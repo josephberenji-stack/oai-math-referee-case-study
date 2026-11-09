@@ -1,0 +1,186 @@
+REFEREE	L0	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	128 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.minTraceTV_le_pair	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	x ≠ y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.minTraceTV_le_pair	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	reaches csInf_le
+REFEREE	R7	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.minTraceTV_le_pair	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.minTraceTV_le_pair	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.one_trace_power_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.one_trace_power_bound	PASS	204 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.one_trace_power_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.one_trace_power_bound	PASS	1 ≤ N :: side condition | 0 < C :: side condition | 2 * (C + 1) ≤ d :: side condition | R ≤ √(N ^ (-d)) + 2 * N ^ (-2 * d) :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.one_trace_power_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.one_trace_power_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.one_trace_power_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.one_trace_power_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.one_trace_power_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.one_trace_power_bound	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.one_trace_power_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.one_trace_power_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.one_trace_power_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	192 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.workingDeletion_Ioc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	q ∈ Set.Ioo 0 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.workingDeletion_Ioc	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.workingDeletion_Ioc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.workingDeletion_Ioc	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	6230 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.quantitative_sample_lower_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	s ∈ Set.Ioc 0 1 :: side condition | c ∈ Set.Ioo 0 (1 / (4 * Real.log 2)) :: side condition | Filter.Tendsto n Filter.atTop Filter.atTop :: side condition | ∀ (k : ℕ), q k ∈ Set.Ioo 0 1 :: side condition | Filter.Tendsto (fun k => q k ^ 3 * Real.log ↑(n k)) Filter.atTop Filter.atTop :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.quantitative_sample_lower_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.quantitative_sample_lower_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.quantitative_sample_lower_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.exists_source_slope	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.exists_source_slope	PASS	388 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.exists_source_slope	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.exists_source_slope	PASS	c < 1 / (4 * Real.log 2) :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.exists_source_slope	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.exists_source_slope	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.exists_source_slope	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.exists_source_slope	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.exists_source_slope	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.exists_source_slope	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.exists_source_slope	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.exists_source_slope	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.exists_source_slope	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.sample_tv_small	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.sample_tv_small	PASS	336 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.sample_tv_small	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.sample_tv_small	PASS	s ∈ Set.Ioc 0 1 :: side condition | 0 < G :: side condition | 1 ≤ N :: side condition | 0 ≤ d :: side condition | 0 ≤ M :: side condition | E ≤ N ^ (-2 * d) :: side condition | M ≤ s ^ 2 / (64 * G) * N ^ d :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.sample_tv_small	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.sample_tv_small	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.sample_tv_small	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.sample_tv_small	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.sample_tv_small	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.sample_tv_small	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.sample_tv_small	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.sample_tv_small	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.sample_tv_small	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	6250 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.superpolynomial_sample_complexity	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	q ∈ Set.Ioo 0 1 :: side condition | s ∈ Set.Ioc 0 1 :: side condition | 0 < C :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.superpolynomial_sample_complexity	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.superpolynomial_sample_complexity	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.superpolynomial_sample_complexity	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	131 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	x ≠ y :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	reaches le_csInf
+REFEREE	R7	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.minTraceTV_nonneg_of_pair	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.subdivided_working_scale	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.subdivided_working_scale	PASS	266 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.subdivided_working_scale	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.subdivided_working_scale	PASS	Filter.Tendsto n Filter.atTop Filter.atTop :: side condition | ∀ (t : ℕ), q t ∈ Set.Ioo 0 1 :: side condition | Filter.Tendsto (fun t => q t ^ 3 * Real.log (n t)) Filter.atTop Filter.atTop :: side condition | 0 < G :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.subdivided_working_scale	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.subdivided_working_scale	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.subdivided_working_scale	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.subdivided_working_scale	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.subdivided_working_scale	PASS	reaches Filter.Tendsto.atTop_div_const
+REFEREE	R7	OAI.TraceReconstruction.subdivided_working_scale	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.subdivided_working_scale	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.subdivided_working_scale	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.subdivided_working_scale	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	518 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.source_restored_exponent_margin	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	2 ≤ B :: side condition | ζ ∈ Set.Ioo 0 1 :: side condition | 0 < c :: side condition | c < OAI.TraceReconstruction.finalSlope B ζ :: side condition (project data) | 0 < G :: side condition | 0 < a :: side condition | Filter.Tendsto n Filter.atTop Filter.atTop :: side condition | ∀ (t : ℕ), q t ∈ Set.Ioo 0 1 :: side condition | Filter.Tendsto (fun t => q t ^ 3 * Real.log (n t)) Filter.atTop Filter.atTop :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.source_restored_exponent_margin	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.source_restored_exponent_margin	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.source_restored_exponent_margin	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.totalScoreExponent_two	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.totalScoreExponent_two	PASS	160 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.totalScoreExponent_two	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.totalScoreExponent_two	PASS	no hypotheses
+REFEREE	L3	OAI.TraceReconstruction.totalScoreExponent_two	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.totalScoreExponent_two	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.totalScoreExponent_two	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.totalScoreExponent_two	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.totalScoreExponent_two	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.totalScoreExponent_two	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.totalScoreExponent_two	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.totalScoreExponent_two	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.totalScoreExponent_two	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	6188 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.superpolynomial_one_trace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	q ∈ Set.Ioo 0 1 :: side condition | 0 < C :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.superpolynomial_one_trace	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.superpolynomial_one_trace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.superpolynomial_one_trace	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	145 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.FiniteLaw.tv_product_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.FiniteLaw.tv_product_one	REVIEW	OAI.TraceReconstruction.FiniteLaw α :: carries a project proposition | OAI.TraceReconstruction.FiniteLaw α :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.FiniteLaw.tv_product_one	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.FiniteLaw.tv_product_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.FiniteLaw.tv_product_one	REVIEW	computed class A?
+REFEREE	L0	OAI.TraceReconstruction.source_final_error_eventually	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TraceReconstruction.source_final_error_eventually	PASS	689 constants reached, no stand-in
+REFEREE	L1u	OAI.TraceReconstruction.source_final_error_eventually	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TraceReconstruction.source_final_error_eventually	PASS	2 ≤ B :: side condition | ζ ∈ Set.Ioo 0 1 :: side condition | Filter.Tendsto n Filter.atTop Filter.atTop :: side condition | ∀ (t : ℕ), q t ∈ Set.Ioc 0 (1 / 2) :: side condition | Filter.Tendsto (fun t => q t ^ 3 * Real.log (n t)) Filter.atTop Filter.atTop :: side condition || unbuilt=0
+REFEREE	L3	OAI.TraceReconstruction.source_final_error_eventually	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TraceReconstruction.source_final_error_eventually	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TraceReconstruction.source_final_error_eventually	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TraceReconstruction.source_final_error_eventually	INFO	not a registered target statement
+REFEREE	R1	OAI.TraceReconstruction.source_final_error_eventually	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TraceReconstruction.source_final_error_eventually	PASS	no single top step
+REFEREE	R5	OAI.TraceReconstruction.source_final_error_eventually	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TraceReconstruction.source_final_error_eventually	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TraceReconstruction.source_final_error_eventually	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.TraceReconstruction	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.TraceReconstruction	INFO	14 theorems checked
+REFEREE	L5	OAI.Probability.TraceReconstruction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.TraceReconstruction	FAIL	module docstring has no `## Main results`; 8 public declarations without a docstring (['exists_source_slope', 'workingDeletion_Ioc', 'sample_tv_small', 'tv_product_one'])

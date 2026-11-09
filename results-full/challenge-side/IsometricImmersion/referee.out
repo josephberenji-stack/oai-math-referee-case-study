@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	159 constants reached, no stand-in
+REFEREE	L1u	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	no hypotheses
+REFEREE	L3	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	INFO	not a registered target statement
+REFEREE	R1	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	reaches Set.ext
+REFEREE	R7	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	top step is not a project theorem
+REFEREE	R5	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.SmoothLocal.ODE.coordinate_square_isOpen	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	no hypotheses
+REFEREE	L3	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SmoothLocal.ODE.coordinate_square_isOpen	INFO	not a registered target statement
+REFEREE	R1	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	reaches Set.ext
+REFEREE	R7	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	no single top step
+REFEREE	R5	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SmoothLocal.ODE.coordinate_square_isOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SmoothLocal.ODE.coordinate_square_isOpen	REVIEW	computed class A?
+REFEREE	L4	ComparatorChallenges.IsometricImmersion	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.IsometricImmersion	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.IsometricImmersion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.IsometricImmersion	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['Coord', 'Ambient', 'square', 'LocalSmoothPositive'])

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	REVIEW	OAI.StrongThinTree.MultiGraph n m :: carries a project proposition | G.Connected Finset.univ :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	INFO	not a registered target statement
+REFEREE	R1	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	reaches Finset.mem_filter
+REFEREE	R7	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	no single top step
+REFEREE	R5	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StrongThinTree.MultiGraph.connected_has_spanningTree	REVIEW	computed class A?
+REFEREE	L0	OAI.StrongThinTree.strongThinTree	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StrongThinTree.strongThinTree	PASS	5089 constants reached, no stand-in
+REFEREE	L1u	OAI.StrongThinTree.strongThinTree	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StrongThinTree.strongThinTree	PASS	no hypotheses
+REFEREE	L3	OAI.StrongThinTree.strongThinTree	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StrongThinTree.strongThinTree	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StrongThinTree.strongThinTree	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StrongThinTree.strongThinTree	INFO	not a registered target statement
+REFEREE	R1	OAI.StrongThinTree.strongThinTree	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.StrongThinTree.strongThinTree	PASS	top step is not a project theorem
+REFEREE	R5	OAI.StrongThinTree.strongThinTree	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StrongThinTree.strongThinTree	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StrongThinTree.strongThinTree	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.ThinTrees.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.ThinTrees.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.ThinTrees.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.ThinTrees.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['connected_has_spanningTree', 'strongThinTree'])

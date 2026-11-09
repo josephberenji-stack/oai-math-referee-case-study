@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.ZeroTemperatureSK.full_support	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ZeroTemperatureSK.full_support	PASS	4184 constants reached, no stand-in
+REFEREE	L1u	OAI.ZeroTemperatureSK.full_support	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ZeroTemperatureSK.full_support	FAIL	OAI.ZeroTemperatureSK.BrownianSystem Ω :: carries a project proposition | OAI.ZeroTemperatureSK.OrderParameter :: UNBUILT | OAI.ZeroTemperatureSK.IsMinimizer W γ :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.ZeroTemperatureSK.full_support	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ZeroTemperatureSK.full_support	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ZeroTemperatureSK.full_support	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ZeroTemperatureSK.full_support	INFO	not a registered target statement
+REFEREE	R1	OAI.ZeroTemperatureSK.full_support	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ZeroTemperatureSK.full_support	PASS	no single top step
+REFEREE	R5	OAI.ZeroTemperatureSK.full_support	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ZeroTemperatureSK.full_support	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ZeroTemperatureSK.full_support	PASS	computed class C
+REFEREE	L0	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	4135 constants reached, no stand-in
+REFEREE	L1u	OAI.ZeroTemperatureSK.minimizer_full_support_actual	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ZeroTemperatureSK.minimizer_full_support_actual	FAIL	OAI.ZeroTemperatureSK.BrownianSystem Ω :: carries a project proposition | OAI.ZeroTemperatureSK.OrderParameter :: UNBUILT | OAI.ZeroTemperatureSK.IsMinimizer W γ :: carries a project proposition | OAI.ZeroTemperatureSK.IsStieltjesMeasure γ μ :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ZeroTemperatureSK.minimizer_full_support_actual	INFO	not a registered target statement
+REFEREE	R1	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	no single top step
+REFEREE	R5	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ZeroTemperatureSK.minimizer_full_support_actual	PASS	computed class C
+REFEREE	L4	OAI.Probability.SKSupport.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.SKSupport.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Probability.SKSupport.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.SKSupport.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['minimizer_full_support_actual', 'full_support'])

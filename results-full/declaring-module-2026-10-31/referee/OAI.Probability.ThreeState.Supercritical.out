@@ -1,0 +1,472 @@
+REFEREE	L0	OAI.ThreeState.mean_cauchy_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_cauchy_square	PASS	313 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_cauchy_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_cauchy_square	REVIEW	OAI.ThreeState.HasMean p fun a => f a ^ 2 :: carries a project proposition | OAI.ThreeState.HasMean p fun a => g a ^ 2 :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.mean_cauchy_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_cauchy_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_cauchy_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_cauchy_square	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_cauchy_square	PASS	reaches summable_norm_iff
+REFEREE	R7	OAI.ThreeState.mean_cauchy_square	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.mean_cauchy_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_cauchy_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_cauchy_square	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.boundaryScore_marginal_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.boundaryScore_marginal_moments	PASS	646 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.boundaryScore_marginal_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.boundaryScore_marginal_moments	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition | OAI.ThreeState.Moments offspring (fun k => ↑k) d (e + d) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.boundaryScore_marginal_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.boundaryScore_marginal_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.boundaryScore_marginal_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.boundaryScore_marginal_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.boundaryScore_marginal_moments	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.boundaryScore_marginal_moments	PASS	top step OAI.ThreeState.Moments.bind carries content
+REFEREE	R5	OAI.ThreeState.boundaryScore_marginal_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.boundaryScore_marginal_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.boundaryScore_marginal_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.posterior_le_one	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.posterior_le_one	PASS	366 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.posterior_le_one	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.posterior_le_one	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.posterior_le_one	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.posterior_le_one	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.posterior_le_one	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.posterior_le_one	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.posterior_le_one	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.posterior_le_one	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.posterior_le_one	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.posterior_le_one	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.posterior_le_one	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_uniform	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_uniform	PASS	176 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_uniform	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_uniform	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.mean_uniform	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_uniform	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_uniform	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_uniform	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_uniform	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_uniform	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_uniform	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_uniform	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_uniform	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.advantage_lower_from_score	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.advantage_lower_from_score	PASS	605 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.advantage_lower_from_score	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.advantage_lower_from_score	REVIEW	OAI.ThreeState.HasMean (law 0) f :: carries a project proposition | OAI.ThreeState.HasMean (OAI.ThreeState.marginal law) fun y => f y ^ 2 :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.advantage_lower_from_score	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.advantage_lower_from_score	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.advantage_lower_from_score	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.advantage_lower_from_score	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.advantage_lower_from_score	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.ThreeState.advantage_lower_from_score	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.advantage_lower_from_score	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.advantage_lower_from_score	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.advantage_lower_from_score	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.scoreSecond_average_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.scoreSecond_average_zero	PASS	377 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.scoreSecond_average_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.scoreSecond_average_zero	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.scoreSecond_average_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.scoreSecond_average_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.scoreSecond_average_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.scoreSecond_average_zero	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.scoreSecond_average_zero	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.scoreSecond_average_zero	PASS	top step OAI.ThreeState.mean_uniform_spinScore_square carries content
+REFEREE	R5	OAI.ThreeState.scoreSecond_average_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.scoreSecond_average_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.scoreSecond_average_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.posteriorTV_le_two	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.posteriorTV_le_two	PASS	435 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.posteriorTV_le_two	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.posteriorTV_le_two	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.posteriorTV_le_two	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.posteriorTV_le_two	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.posteriorTV_le_two	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.posteriorTV_le_two	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.posteriorTV_le_two	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.posteriorTV_le_two	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.posteriorTV_le_two	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.posteriorTV_le_two	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.posteriorTV_le_two	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_uniform_spinScore	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_uniform_spinScore	PASS	217 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_uniform_spinScore	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_uniform_spinScore	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.mean_uniform_spinScore	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_uniform_spinScore	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_uniform_spinScore	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_uniform_spinScore	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_uniform_spinScore	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_uniform_spinScore	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_uniform_spinScore	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_uniform_spinScore	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_uniform_spinScore	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.listScore_cons	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.listScore_cons	PASS	18 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.listScore_cons	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.listScore_cons	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.listScore_cons	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.listScore_cons	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.listScore_cons	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.listScore_cons	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.listScore_cons	PASS	reaches congrFun'
+REFEREE	R7	OAI.ThreeState.listScore_cons	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.listScore_cons	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.listScore_cons	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.listScore_cons	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.multisetScore_coe	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.multisetScore_coe	PASS	21 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.multisetScore_coe	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.multisetScore_coe	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.multisetScore_coe	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.multisetScore_coe	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.multisetScore_coe	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.multisetScore_coe	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.multisetScore_coe	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.ThreeState.multisetScore_coe	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.multisetScore_coe	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.multisetScore_coe	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.multisetScore_coe	PASS	computed class DEF
+REFEREE	L0	OAI.ThreeState.boundaryScore_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.boundaryScore_moments	PASS	611 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.boundaryScore_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.boundaryScore_moments	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition | OAI.ThreeState.Moments offspring (fun k => ↑k) d (e + d) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.boundaryScore_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.boundaryScore_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.boundaryScore_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.boundaryScore_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.boundaryScore_moments	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.boundaryScore_moments	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.boundaryScore_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.boundaryScore_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.boundaryScore_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.posteriorTV_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.posteriorTV_nonneg	PASS	133 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.posteriorTV_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.posteriorTV_nonneg	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.posteriorTV_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.posteriorTV_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.posteriorTV_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.posteriorTV_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.posteriorTV_nonneg	PASS	reaches div_nonneg
+REFEREE	R7	OAI.ThreeState.posteriorTV_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.posteriorTV_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.posteriorTV_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.posteriorTV_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.poisson_supercritical	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.poisson_supercritical	PASS	1030 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.poisson_supercritical	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.poisson_supercritical	REVIEW	1 < d :: side condition | OAI.ThreeState.Admissible lam :: carries a project proposition | 1 < d * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.poisson_supercritical	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.poisson_supercritical	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.poisson_supercritical	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.poisson_supercritical	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.poisson_supercritical	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.poisson_supercritical	PASS	top step OAI.ThreeState.reconstructs_supercritical_of_moments carries content
+REFEREE	R5	OAI.ThreeState.poisson_supercritical	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.poisson_supercritical	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.poisson_supercritical	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.posteriorScore_square_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.posteriorScore_square_le	PASS	437 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.posteriorScore_square_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.posteriorScore_square_le	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.posteriorScore_square_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.posteriorScore_square_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.posteriorScore_square_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.posteriorScore_square_le	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.posteriorScore_square_le	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.posteriorScore_square_le	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.posteriorScore_square_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.posteriorScore_square_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.posteriorScore_square_le	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_score_correlation	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_score_correlation	PASS	392 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_score_correlation	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_score_correlation	REVIEW	OAI.ThreeState.HasMean (law 0) f :: carries a project proposition | OAI.ThreeState.HasMean (OAI.ThreeState.marginal law) f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.mean_score_correlation	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_score_correlation	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_score_correlation	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_score_correlation	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_score_correlation	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.ThreeState.mean_score_correlation	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_score_correlation	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_score_correlation	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_score_correlation	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_posteriorTV	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_posteriorTV	PASS	110 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_posteriorTV	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_posteriorTV	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.mean_posteriorTV	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_posteriorTV	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_posteriorTV	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_posteriorTV	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_posteriorTV	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_posteriorTV	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_posteriorTV	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_posteriorTV	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_posteriorTV	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.channel_score	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.channel_score	PASS	334 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.channel_score	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.channel_score	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.channel_score	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.channel_score	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.channel_score	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.channel_score	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.channel_score	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.channel_score	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.channel_score	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.channel_score	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.channel_score	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_uniform_channel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_uniform_channel	PASS	342 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_uniform_channel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_uniform_channel	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.mean_uniform_channel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_uniform_channel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_uniform_channel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_uniform_channel	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_uniform_channel	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_uniform_channel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_uniform_channel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_uniform_channel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_uniform_channel	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.scoreSecond_average_succ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.scoreSecond_average_succ	PASS	442 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.scoreSecond_average_succ	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.scoreSecond_average_succ	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.scoreSecond_average_succ	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.scoreSecond_average_succ	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.scoreSecond_average_succ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.scoreSecond_average_succ	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.scoreSecond_average_succ	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.scoreSecond_average_succ	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.scoreSecond_average_succ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.scoreSecond_average_succ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.scoreSecond_average_succ	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.hasMean_posteriorScore_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.hasMean_posteriorScore_square	PASS	511 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.hasMean_posteriorScore_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.hasMean_posteriorScore_square	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.hasMean_posteriorScore_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.hasMean_posteriorScore_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.hasMean_posteriorScore_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.hasMean_posteriorScore_square	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.hasMean_posteriorScore_square	PASS	reaches Summable.of_nonneg_of_le
+REFEREE	R7	OAI.ThreeState.hasMean_posteriorScore_square	PASS	top step OAI.ThreeState.HasMean.mono carries content
+REFEREE	R5	OAI.ThreeState.hasMean_posteriorScore_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.hasMean_posteriorScore_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.hasMean_posteriorScore_square	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.hasMean_marginal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.hasMean_marginal	PASS	231 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.hasMean_marginal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.hasMean_marginal	REVIEW	∀ (i : OAI.ThreeState.Spin), OAI.ThreeState.HasMean (law i) f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.hasMean_marginal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.hasMean_marginal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.hasMean_marginal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.hasMean_marginal	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.hasMean_marginal	PASS	reaches summable_prod_of_nonneg
+REFEREE	R7	OAI.ThreeState.hasMean_marginal	PASS	top step OAI.ThreeState.HasMean.bind carries content
+REFEREE	R5	OAI.ThreeState.hasMean_marginal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.hasMean_marginal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.hasMean_marginal	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.regular_supercritical	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.regular_supercritical	PASS	1017 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.regular_supercritical	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.regular_supercritical	REVIEW	2 ≤ b :: side condition | OAI.ThreeState.Admissible lam :: carries a project proposition | 1 < ↑b * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.regular_supercritical	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.regular_supercritical	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.regular_supercritical	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.regular_supercritical	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.regular_supercritical	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.regular_supercritical	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.regular_supercritical	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.regular_supercritical	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.regular_supercritical	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.supercritical_advantage_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.supercritical_advantage_bound	PASS	852 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.supercritical_advantage_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.supercritical_advantage_bound	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition | OAI.ThreeState.Moments offspring (fun k => ↑k) d (e + d) :: carries a project proposition | 0 ≤ d :: side condition | 0 < (d * lam) ^ 2 :: side condition | 2 ≤ C :: side condition | d * C + 2 * e * lam ^ 2 ≤ C * (d * lam) ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.supercritical_advantage_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.supercritical_advantage_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.supercritical_advantage_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.supercritical_advantage_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.supercritical_advantage_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.supercritical_advantage_bound	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.supercritical_advantage_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.supercritical_advantage_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.supercritical_advantage_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_uniform_spinScore_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_uniform_spinScore_square	PASS	236 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_uniform_spinScore_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_uniform_spinScore_square	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.mean_uniform_spinScore_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_uniform_spinScore_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_uniform_spinScore_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_uniform_spinScore_square	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_uniform_spinScore_square	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_uniform_spinScore_square	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mean_uniform_spinScore_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_uniform_spinScore_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_uniform_spinScore_square	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.HasMean.mul_of_square	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.HasMean.mul_of_square	PASS	271 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.HasMean.mul_of_square	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.HasMean.mul_of_square	REVIEW	OAI.ThreeState.HasMean p fun a => f a ^ 2 :: carries a project proposition | OAI.ThreeState.HasMean p fun a => g a ^ 2 :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.HasMean.mul_of_square	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.HasMean.mul_of_square	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.HasMean.mul_of_square	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.HasMean.mul_of_square	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.HasMean.mul_of_square	PASS	reaches summable_norm_iff
+REFEREE	R7	OAI.ThreeState.HasMean.mul_of_square	PASS	top step OAI.ThreeState.HasMean.of_abs carries content
+REFEREE	R5	OAI.ThreeState.HasMean.mul_of_square	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.HasMean.mul_of_square	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.HasMean.mul_of_square	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_marginal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_marginal	PASS	215 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_marginal	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_marginal	REVIEW	∀ (i : OAI.ThreeState.Spin), OAI.ThreeState.HasMean (law i) f :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.mean_marginal	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_marginal	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_marginal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_marginal	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_marginal	PASS	reaches summable_prod_of_nonneg
+REFEREE	R7	OAI.ThreeState.mean_marginal	PASS	top step OAI.ThreeState.mean_bind carries content
+REFEREE	R5	OAI.ThreeState.mean_marginal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_marginal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_marginal	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.scoreSecond_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.scoreSecond_bound	PASS	469 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.scoreSecond_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.scoreSecond_bound	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition | 0 ≤ d :: side condition | 2 ≤ C :: side condition | d * C + 2 * e * lam ^ 2 ≤ C * (d * lam) ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.scoreSecond_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.scoreSecond_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.scoreSecond_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.scoreSecond_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.scoreSecond_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.scoreSecond_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.scoreSecond_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.scoreSecond_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.scoreSecond_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.iidMultiset_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.iidMultiset_moments	PASS	449 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.iidMultiset_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.iidMultiset_moments	REVIEW	OAI.ThreeState.Moments p f m s :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.iidMultiset_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.iidMultiset_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.iidMultiset_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.iidMultiset_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.iidMultiset_moments	PASS	reaches summable_prod_of_nonneg
+REFEREE	R7	OAI.ThreeState.iidMultiset_moments	PASS	top step OAI.ThreeState.Moments.map carries content
+REFEREE	R5	OAI.ThreeState.iidMultiset_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.iidMultiset_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.iidMultiset_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mass_channel	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mass_channel	PASS	297 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mass_channel	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mass_channel	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.mass_channel	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mass_channel	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mass_channel	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mass_channel	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mass_channel	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mass_channel	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.mass_channel	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mass_channel	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mass_channel	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.pow_square_comm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.pow_square_comm	PASS	20 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.pow_square_comm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.pow_square_comm	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.pow_square_comm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.pow_square_comm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.pow_square_comm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.pow_square_comm	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.pow_square_comm	PASS	reaches pow_mul
+REFEREE	R7	OAI.ThreeState.pow_square_comm	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.pow_square_comm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.pow_square_comm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.pow_square_comm	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.compound_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.compound_moments	PASS	457 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.compound_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.compound_moments	REVIEW	OAI.ThreeState.Moments p f m s :: carries a project proposition | OAI.ThreeState.Moments offspring (fun k => ↑k) d (e + d) :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.compound_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.compound_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.compound_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.compound_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.compound_moments	PASS	reaches Summable.congr
+REFEREE	R7	OAI.ThreeState.compound_moments	PASS	top step OAI.ThreeState.Moments.bind carries content
+REFEREE	R5	OAI.ThreeState.compound_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.compound_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.compound_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.iidList_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.iidList_moments	PASS	442 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.iidList_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.iidList_moments	REVIEW	OAI.ThreeState.Moments p f m s :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.iidList_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.iidList_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.iidList_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.iidList_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.iidList_moments	PASS	reaches congrFun'
+REFEREE	R7	OAI.ThreeState.iidList_moments	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ThreeState.iidList_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.iidList_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.iidList_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.weighted_posteriorScore	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.weighted_posteriorScore	PASS	375 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.weighted_posteriorScore	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.weighted_posteriorScore	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.weighted_posteriorScore	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.weighted_posteriorScore	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.weighted_posteriorScore	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.weighted_posteriorScore	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.weighted_posteriorScore	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.weighted_posteriorScore	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.weighted_posteriorScore	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.weighted_posteriorScore	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.weighted_posteriorScore	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	975 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.reconstructs_supercritical_of_moments	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.reconstructs_supercritical_of_moments	REVIEW	OAI.ThreeState.Admissible lam :: carries a project proposition | OAI.ThreeState.Moments offspring (fun k => ↑k) d (e + d) :: carries a project proposition | 0 < d :: side condition | 0 ≤ e :: side condition | 1 < d * lam ^ 2 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.reconstructs_supercritical_of_moments	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.reconstructs_supercritical_of_moments	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.reconstructs_supercritical_of_moments	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.hasMean_posteriorTV	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.hasMean_posteriorTV	PASS	455 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.hasMean_posteriorTV	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.hasMean_posteriorTV	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.hasMean_posteriorTV	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.hasMean_posteriorTV	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.hasMean_posteriorTV	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.hasMean_posteriorTV	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.hasMean_posteriorTV	PASS	reaches Summable.of_nonneg_of_le
+REFEREE	R7	OAI.ThreeState.hasMean_posteriorTV	PASS	top step OAI.ThreeState.HasMean.mono carries content
+REFEREE	R5	OAI.ThreeState.hasMean_posteriorTV	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.hasMean_posteriorTV	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.hasMean_posteriorTV	REVIEW	computed class A?
+REFEREE	L0	OAI.ThreeState.mean_posteriorScore_square_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ThreeState.mean_posteriorScore_square_le	PASS	530 constants reached, no stand-in
+REFEREE	L1u	OAI.ThreeState.mean_posteriorScore_square_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ThreeState.mean_posteriorScore_square_le	PASS	no hypotheses
+REFEREE	L3	OAI.ThreeState.mean_posteriorScore_square_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ThreeState.mean_posteriorScore_square_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ThreeState.mean_posteriorScore_square_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ThreeState.mean_posteriorScore_square_le	INFO	not a registered target statement
+REFEREE	R1	OAI.ThreeState.mean_posteriorScore_square_le	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.ThreeState.mean_posteriorScore_square_le	PASS	no single top step
+REFEREE	R5	OAI.ThreeState.mean_posteriorScore_square_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ThreeState.mean_posteriorScore_square_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ThreeState.mean_posteriorScore_square_le	REVIEW	computed class A?
+REFEREE	L4	OAI.Probability.ThreeState.Supercritical	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Probability.ThreeState.Supercritical	INFO	36 theorems checked
+REFEREE	L5	OAI.Probability.ThreeState.Supercritical	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Probability.ThreeState.Supercritical	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 43 public declarations without a docstring (['listScore', 'multisetScore', 'listScore_cons', 'multisetScore_coe'])

@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	43 constants reached, no stand-in
+REFEREE	L1u	OAI.WitnessedChoice.BGS.Term.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WitnessedChoice.BGS.Term.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WitnessedChoice.BGS.Term.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WitnessedChoice.BGS.Term.brecOn.eq	REVIEW	computed class A?
+REFEREE	L0	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	43 constants reached, no stand-in
+REFEREE	L1u	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WitnessedChoice.BGS.Formula.brecOn.eq	REVIEW	computed class A?
+REFEREE	L0	OAI.WitnessedChoice.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.WitnessedChoice.main	PASS	373 constants reached, no stand-in
+REFEREE	L1u	OAI.WitnessedChoice.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.WitnessedChoice.main	PASS	no hypotheses
+REFEREE	L3	OAI.WitnessedChoice.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.WitnessedChoice.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.WitnessedChoice.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.WitnessedChoice.main	INFO	not a registered target statement
+REFEREE	R1	OAI.WitnessedChoice.main	PASS	reaches eq_of_heq
+REFEREE	R7	OAI.WitnessedChoice.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.WitnessedChoice.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.WitnessedChoice.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.WitnessedChoice.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.WitnessedChoice	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.WitnessedChoice	INFO	3 theorems checked
+REFEREE	L5	ComparatorChallenges.WitnessedChoice	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.WitnessedChoice	FAIL	no module docstring /-! … -/; 55 public declarations without a docstring (['HF', 'mk', 'atom', 'isSet'])

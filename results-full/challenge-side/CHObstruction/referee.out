@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.CHObstruction.main	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.CHObstruction.main	PASS	71 constants reached, no stand-in
+REFEREE	L1u	OAI.CHObstruction.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.CHObstruction.main	FAIL	OAI.CHObstruction.CH :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.CHObstruction.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.CHObstruction.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.CHObstruction.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.CHObstruction.main	INFO	not a registered target statement
+REFEREE	R1	OAI.CHObstruction.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.CHObstruction.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.CHObstruction.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.CHObstruction.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.CHObstruction.main	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.CHObstruction	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.CHObstruction	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.CHObstruction	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.CHObstruction	FAIL	no module docstring /-! … -/; 15 public declarations without a docstring (['RelModel', 'IsSubstructure', 'Iso', 'IsUnion'])

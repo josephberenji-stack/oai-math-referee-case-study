@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.FiniteFactor.productBrown	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.FiniteFactor.productBrown	PASS	2678 constants reached, no stand-in
+REFEREE	L1u	OAI.FiniteFactor.productBrown	INFO	no opaque with a value reached
+REFEREE	L2	OAI.FiniteFactor.productBrown	PASS	no hypotheses
+REFEREE	L3	OAI.FiniteFactor.productBrown	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.FiniteFactor.productBrown	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.FiniteFactor.productBrown	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.FiniteFactor.productBrown	INFO	not a registered target statement
+REFEREE	R1	OAI.FiniteFactor.productBrown	PASS	reaches Mathlib.Meta.NormNum.isNat_le_true
+REFEREE	R7	OAI.FiniteFactor.productBrown	PASS	top step is not a project theorem
+REFEREE	R5	OAI.FiniteFactor.productBrown	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.FiniteFactor.productBrown	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.FiniteFactor.productBrown	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.BrownMeasure.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.BrownMeasure.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Analysis.BrownMeasure.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.BrownMeasure.Main	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['productBrown'])

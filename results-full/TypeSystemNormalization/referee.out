@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	2289 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.finite_normalization_of_exclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.finite_normalization_of_exclusion	REVIEW	OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition | OAI.PureTypeSystem.RelationalExclusion P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.finite_normalization_of_exclusion	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	reaches noConfusion_of_Nat
+REFEREE	R7	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	top step OAI.PureTypeSystem.stronglyNormalizing_of_application carries content
+REFEREE	R5	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.finite_normalization_of_exclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.finite_normalization_of_exclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	2346 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.normalization_of_finite_exclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.normalization_of_finite_exclusion	REVIEW	∀ (S : Type u) [Fintype S] (P : OAI.PureTypeSystem.Specification S),  OAI.PureTypeSystem.S :: discharged by OAI.PureTypeSystem.relational_exclusion | OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.normalization_of_finite_exclusion	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.normalization_of_finite_exclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.normalization_of_finite_exclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.PureTypeSystem.relational_exclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PureTypeSystem.relational_exclusion	PASS	3218 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.relational_exclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.relational_exclusion	REVIEW	OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.relational_exclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.relational_exclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.relational_exclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.relational_exclusion	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.relational_exclusion	PASS	reaches Finset.induction_on
+REFEREE	R7	OAI.PureTypeSystem.relational_exclusion	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PureTypeSystem.relational_exclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.relational_exclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.relational_exclusion	REVIEW	computed class A?
+REFEREE	L0	OAI.PureTypeSystem.weak_implies_strong	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PureTypeSystem.weak_implies_strong	PASS	5079 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.weak_implies_strong	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.weak_implies_strong	REVIEW	OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.weak_implies_strong	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.weak_implies_strong	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.weak_implies_strong	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.weak_implies_strong	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.weak_implies_strong	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.PureTypeSystem.weak_implies_strong	PASS	top step OAI.PureTypeSystem.normalization_of_finite_exclusion carries content
+REFEREE	R5	OAI.PureTypeSystem.weak_implies_strong	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.weak_implies_strong	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.weak_implies_strong	REVIEW	computed class A?
+REFEREE	L0	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	2105 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.interfaces_of_exclusion	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.interfaces_of_exclusion	REVIEW	OAI.PureTypeSystem.ContextTower P :: carries a project proposition | OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition | OAI.PureTypeSystem.RelationalExclusion P :: carries a project proposition | OAI.PureTypeSystem.IsComponent (OAI.PureTypeSystem.PrimaryEdge P) C :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.interfaces_of_exclusion	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	reaches congrFun'
+REFEREE	R7	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.interfaces_of_exclusion	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.interfaces_of_exclusion	REVIEW	computed class A?
+REFEREE	L4	OAI.Computability.TypeSystem.Normalization	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Computability.TypeSystem.Normalization	INFO	5 theorems checked
+REFEREE	L5	OAI.Computability.TypeSystem.Normalization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Computability.TypeSystem.Normalization	FAIL	no module docstring /-! … -/; 1 public declarations without a docstring (['finite_normalization_of_exclusion'])

@@ -1,0 +1,277 @@
+REFEREE	L0	OAI.measure_zero_or_one_of_indicator_constant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.measure_zero_or_one_of_indicator_constant	PASS	66 constants reached, no stand-in
+REFEREE	L1u	OAI.measure_zero_or_one_of_indicator_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.measure_zero_or_one_of_indicator_constant	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | (A.indicator fun x => 1) =ᵐ[μ] fun x => c :: side condition || unbuilt=0
+REFEREE	L3	OAI.measure_zero_or_one_of_indicator_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.measure_zero_or_one_of_indicator_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.measure_zero_or_one_of_indicator_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.measure_zero_or_one_of_indicator_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.measure_zero_or_one_of_indicator_constant	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.measure_zero_or_one_of_indicator_constant	PASS	top step is not a project theorem
+REFEREE	R5	OAI.measure_zero_or_one_of_indicator_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.measure_zero_or_one_of_indicator_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.measure_zero_or_one_of_indicator_constant	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	508 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.directS_eq_const_of_slice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.directS_eq_const_of_slice	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | 0 < ε :: side condition | (fun y => f ((y, v), b)) =ᵐ[MeasureTheory.volume.restrict Q.table] fun x => a :: side condition (project data) | Metric.ball x ε ⊆ Q.table :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.directS_eq_const_of_slice	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	reaches Complex.instFiniteDimensionalReal
+REFEREE	R7	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.directS_eq_const_of_slice	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	259 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | q ∈ Q.side i :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.Triangle.clearance_pos_of_mem_side	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.reflectedDirection_pair	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.reflectedDirection_pair	PASS	450 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.reflectedDirection_pair	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.reflectedDirection_pair	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.reflectedDirection_pair	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.reflectedDirection_pair	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.reflectedDirection_pair	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.reflectedDirection_pair	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.reflectedDirection_pair	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.reflectedDirection_pair	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.reflectedDirection_pair	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.reflectedDirection_pair	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.reflectedDirection_pair	PASS	computed class C
+REFEREE	L0	OAI.ae_fst_of_ae_prod	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.ae_fst_of_ae_prod	PASS	26 constants reached, no stand-in
+REFEREE	L1u	OAI.ae_fst_of_ae_prod	INFO	no opaque with a value reached
+REFEREE	L2	OAI.ae_fst_of_ae_prod	PASS	MeasureTheory.SFinite ν :: side condition | NeZero ν :: side condition | ∀ᵐ (z : α × β) ∂μ.prod ν, p z.1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.ae_fst_of_ae_prod	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.ae_fst_of_ae_prod	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.ae_fst_of_ae_prod	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.ae_fst_of_ae_prod	INFO	not a registered target statement
+REFEREE	R1	OAI.ae_fst_of_ae_prod	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.ae_fst_of_ae_prod	PASS	top step is not a project theorem
+REFEREE	R5	OAI.ae_fst_of_ae_prod	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.ae_fst_of_ae_prod	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.ae_fst_of_ae_prod	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	no hypotheses
+REFEREE	L3	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.instFactLtRealOfNatHMulPi_oAI_10	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangularBilliards.angular_reflections_constant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.angular_reflections_constant	PASS	753 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.angular_reflections_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.angular_reflections_constant	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition | MeasureTheory.StronglyMeasurable g :: side condition (project data) | ∀ (i : Fin 3), g ∘ OAI.TriangularBilliards.reflectedDirection Q i =ᵐ[OAI.TriangularBilliar :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.angular_reflections_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.angular_reflections_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.angular_reflections_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.angular_reflections_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.angular_reflections_constant	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.angular_reflections_constant	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.angular_reflections_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.angular_reflections_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.angular_reflections_constant	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	71 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.Triangle.side_mem_hull	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.Triangle.side_mem_hull	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | q ∈ Q.side i :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.Triangle.side_mem_hull	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.Triangle.side_mem_hull	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	4240 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.bounded_billiard_invariant_constant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.bounded_billiard_invariant_constant	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition | MeasureTheory.StronglyMeasurable f :: side condition (project data) | MeasureTheory.MemLp f 2 (OAI.TriangularBilliards.phaseMeasure Q) :: side condition (project data) | ∀ (z : OAI.TriangularBilliards.Phase), ‖f z‖ ≤ H :: side condition (project data) | ∀ (t : ℝ), (fun z => f (OAI.TriangularBilliards.billiardFlow Q t z)) =ᵐ[OAI.TriangularBill :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.bounded_billiard_invariant_constant	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.bounded_billiard_invariant_constant	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	258 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.angle_irrational_ergodic	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	Irrational (a / Real.pi) :: side condition || unbuilt=0
+REFEREE	L3	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.angle_irrational_ergodic	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.angle_irrational_ergodic	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.angle_irrational_ergodic	REVIEW	computed class A?
+REFEREE	L0	OAI.complex_div_conj_eq_exp_double_arg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.complex_div_conj_eq_exp_double_arg	PASS	148 constants reached, no stand-in
+REFEREE	L1u	OAI.complex_div_conj_eq_exp_double_arg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.complex_div_conj_eq_exp_double_arg	PASS	w ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.complex_div_conj_eq_exp_double_arg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.complex_div_conj_eq_exp_double_arg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.complex_div_conj_eq_exp_double_arg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.complex_div_conj_eq_exp_double_arg	INFO	not a registered target statement
+REFEREE	R1	OAI.complex_div_conj_eq_exp_double_arg	PASS	reaches Complex.ofReal_ne_zero
+REFEREE	R7	OAI.complex_div_conj_eq_exp_double_arg	PASS	no single top step
+REFEREE	R5	OAI.complex_div_conj_eq_exp_double_arg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.complex_div_conj_eq_exp_double_arg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.complex_div_conj_eq_exp_double_arg	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	839 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | 0 < ε :: side condition | (fun y => f ((y, v), b)) =ᵐ[MeasureTheory.volume.restrict Q.table] fun x => a :: side condition (project data) | Metric.ball x ε ⊆ Q.table :: side condition (project data) | ∀ (j : Fin 3), Q.coordinateBound * ε < (Q.basis.coord (j + 2)) x :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	reaches Complex.instFiniteDimensionalReal
+REFEREE	R7	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.reflectedSmoothing_eq_const_of_slice	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	4255 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.irrational_triangle_invariant_set	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.irrational_triangle_invariant_set	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition | MeasurableSet A :: side condition (project data) | ∀ (t : ℝ), (OAI.TriangularBilliards.phaseMeasure Q) (symmDiff (OAI.TriangularBilliards.bil :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.irrational_triangle_invariant_set	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.irrational_triangle_invariant_set	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	4260 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.irrational_triangle_billiard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.irrational_triangle_billiard	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.irrational_triangle_billiard	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	4159 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.spatialMean_reflection_invariant	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.spatialMean_reflection_invariant	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | MeasureTheory.StronglyMeasurable f :: side condition (project data) | MeasureTheory.MemLp f 2 (OAI.TriangularBilliards.doubleMeasure Q) :: side condition (project data) | ∀ (z : OAI.TriangularBilliards.DoublePhase), ‖f z‖ ≤ H :: side condition (project data) | (OAI.TriangularBilliards.geodesicHilbertFlow Q).HasGenerator (MeasureTheory.MemLp.toLp f h :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.spatialMean_reflection_invariant	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.spatialMean_reflection_invariant	PASS	computed class C
+REFEREE	L0	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | MeasureTheory.StronglyMeasurable f :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	reaches MeasureTheory.StronglyMeasurable.comp_measurable
+REFEREE	R7	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.spatialMean_stronglyMeasurable	PASS	computed class C
+REFEREE	L0	OAI.invariant_indicator	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.invariant_indicator	PASS	50 constants reached, no stand-in
+REFEREE	L1u	OAI.invariant_indicator	INFO	no opaque with a value reached
+REFEREE	L2	OAI.invariant_indicator	PASS	μ (symmDiff (T ⁻¹' A) A) = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.invariant_indicator	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.invariant_indicator	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.invariant_indicator	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.invariant_indicator	INFO	not a registered target statement
+REFEREE	R1	OAI.invariant_indicator	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.invariant_indicator	PASS	top step is not a project theorem
+REFEREE	R5	OAI.invariant_indicator	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.invariant_indicator	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.invariant_indicator	REVIEW	computed class A?
+REFEREE	L0	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	23 constants reached, no stand-in
+REFEREE	L1u	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	INFO	no opaque with a value reached
+REFEREE	L2	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	no hypotheses
+REFEREE	L3	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	INFO	not a registered target statement
+REFEREE	R1	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	reaches Complex.finrank_real_complex
+REFEREE	R7	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	top step is not a project theorem
+REFEREE	R5	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.instFactEqNatFinrankRealComplexOfNat_oAI	REVIEW	computed class A?
+REFEREE	L0	OAI.irrational_arg_of_angle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.irrational_arg_of_angle	PASS	110 constants reached, no stand-in
+REFEREE	L1u	OAI.irrational_arg_of_angle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.irrational_arg_of_angle	PASS	a ≠ 0 :: side condition | b ≠ 0 :: side condition | Irrational (InnerProductGeometry.angle a b / Real.pi) :: side condition || unbuilt=0
+REFEREE	L3	OAI.irrational_arg_of_angle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.irrational_arg_of_angle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.irrational_arg_of_angle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.irrational_arg_of_angle	INFO	not a registered target statement
+REFEREE	R1	OAI.irrational_arg_of_angle	PASS	reaches Complex.finrank_real_complex
+REFEREE	R7	OAI.irrational_arg_of_angle	PASS	no single top step
+REFEREE	R5	OAI.irrational_arg_of_angle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.irrational_arg_of_angle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.irrational_arg_of_angle	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	4262 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition | MeasureTheory.NullMeasurableSet A (OAI.TriangularBilliards.phaseMeasure Q) :: side condition (project data) | ∀ (t : ℝ), (OAI.TriangularBilliards.phaseMeasure Q) (symmDiff (OAI.TriangularBilliards.bil :: side condition (project data) || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	no single top step
+REFEREE	R5	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.irrational_triangle_nullMeasurable_set	PASS	computed class C
+REFEREE	L0	OAI.equal_of_zero_gradient_openSegment	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.equal_of_zero_gradient_openSegment	PASS	185 constants reached, no stand-in
+REFEREE	L1u	OAI.equal_of_zero_gradient_openSegment	INFO	no opaque with a value reached
+REFEREE	L2	OAI.equal_of_zero_gradient_openSegment	PASS	ContDiff ℝ (↑⊤) F :: side condition | ∀ z ∈ openSegment ℝ x y, fderiv ℝ F z = 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.equal_of_zero_gradient_openSegment	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.equal_of_zero_gradient_openSegment	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.equal_of_zero_gradient_openSegment	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.equal_of_zero_gradient_openSegment	INFO	not a registered target statement
+REFEREE	R1	OAI.equal_of_zero_gradient_openSegment	PASS	reaches closure_minimal
+REFEREE	R7	OAI.equal_of_zero_gradient_openSegment	PASS	no single top step
+REFEREE	R5	OAI.equal_of_zero_gradient_openSegment	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.equal_of_zero_gradient_openSegment	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.equal_of_zero_gradient_openSegment	REVIEW	computed class A?
+REFEREE	L4	OAI.Dynamics.TriangleBilliards.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Dynamics.TriangleBilliards.Main	INFO	21 theorems checked
+REFEREE	L5	OAI.Dynamics.TriangleBilliards.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Dynamics.TriangleBilliards.Main	FAIL	no module docstring /-! … -/; 16 public declarations without a docstring (['spatialMean', 'spatialMean_stronglyMeasurable', 'Triangle.clearance_pos_of_mem_side', 'Triangle.side_mem_hull'])

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.TriangleFace198.triangle_expansion_face	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangleFace198.triangle_expansion_face	PASS	756 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangleFace198.triangle_expansion_face	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangleFace198.triangle_expansion_face	REVIEW	OAI.MatchingEntropyBounds.LooplessGraph V E :: carries a project proposition | Fintype.card { e // G.Incident v e } = 3 :: carries a project proposition | Nonempty G.Matching :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.TriangleFace198.triangle_expansion_face	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangleFace198.triangle_expansion_face	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangleFace198.triangle_expansion_face	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangleFace198.triangle_expansion_face	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangleFace198.triangle_expansion_face	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangleFace198.triangle_expansion_face	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangleFace198.triangle_expansion_face	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangleFace198.triangle_expansion_face	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangleFace198.triangle_expansion_face	REVIEW	computed class A?
+REFEREE	L0	OAI.TriangleFace198.local_face	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangleFace198.local_face	PASS	742 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangleFace198.local_face	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangleFace198.local_face	REVIEW	OAI.MatchingEntropyBounds.LooplessGraph V E :: carries a project proposition | OAI.TriangleFace198.LocalLabels G v c :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TriangleFace198.local_face	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangleFace198.local_face	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangleFace198.local_face	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangleFace198.local_face	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangleFace198.local_face	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangleFace198.local_face	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangleFace198.local_face	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangleFace198.local_face	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangleFace198.local_face	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.TriangleFace.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.TriangleFace.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.TriangleFace.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.TriangleFace.Main	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['local_face', 'triangle_expansion_face'])

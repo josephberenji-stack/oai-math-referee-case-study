@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.IndependentProducts.main_exponential	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.main_exponential	PASS	2207 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.main_exponential	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.main_exponential	PASS	0 < t :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.main_exponential	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.main_exponential	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.main_exponential	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.main_exponential	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.main_exponential	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.main_exponential	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.main_exponential	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.main_exponential	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.main_exponential	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	2196 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.exponential_midpoint_parameter	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	0 < t :: side condition | 0 < K :: side condition || unbuilt=0
+REFEREE	L3	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.exponential_midpoint_parameter	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	no single top step
+REFEREE	R5	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.exponential_midpoint_parameter	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.exponential_midpoint_parameter	REVIEW	computed class A?
+REFEREE	L0	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	268 constants reached, no stand-in
+REFEREE	L1u	OAI.IndependentProducts.exponentialLaw_hypotheses	INFO	no opaque with a value reached
+REFEREE	L2	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	no hypotheses
+REFEREE	L3	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.IndependentProducts.exponentialLaw_hypotheses	INFO	not a registered target statement
+REFEREE	R1	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	reaches ProbabilityTheory.isProbabilityMeasure_expMeasure
+REFEREE	R7	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	top step is not a project theorem
+REFEREE	R5	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.IndependentProducts.exponentialLaw_hypotheses	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.IndependentProducts.exponentialLaw_hypotheses	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.ProductSpaces.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.ProductSpaces.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.ProductSpaces.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.ProductSpaces.Main	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['exponentialLaw_hypotheses', 'exponential_midpoint_parameter', 'main_exponential'])

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.TriangularBilliards.irrational_triangle_billiard	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	191 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.irrational_triangle_billiard	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.irrational_triangle_billiard	FAIL	OAI.TriangularBilliards.Triangle :: UNBUILT | Q.HasIrrationalAngle :: carries a project proposition || unbuilt=1
+REFEREE	L3	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.irrational_triangle_billiard	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	reaches Nat.instNeZeroSucc
+REFEREE	R7	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.irrational_triangle_billiard	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.irrational_triangle_billiard	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.TriangularBilliards.circleBorelSpace	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TriangularBilliards.circleBorelSpace	PASS	8 constants reached, no stand-in
+REFEREE	L1u	OAI.TriangularBilliards.circleBorelSpace	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TriangularBilliards.circleBorelSpace	PASS	no hypotheses
+REFEREE	L3	OAI.TriangularBilliards.circleBorelSpace	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TriangularBilliards.circleBorelSpace	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TriangularBilliards.circleBorelSpace	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TriangularBilliards.circleBorelSpace	INFO	not a registered target statement
+REFEREE	R1	OAI.TriangularBilliards.circleBorelSpace	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.TriangularBilliards.circleBorelSpace	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TriangularBilliards.circleBorelSpace	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TriangularBilliards.circleBorelSpace	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TriangularBilliards.circleBorelSpace	PASS	computed class DEF
+REFEREE	L4	ComparatorChallenges.IrrationalTriangleBilliard	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.IrrationalTriangleBilliard	INFO	2 theorems checked
+REFEREE	L5	ComparatorChallenges.IrrationalTriangleBilliard	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.IrrationalTriangleBilliard	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 3 public declarations without a docstring (['HasIrrationalAngle', 'Phase', 'irrational_triangle_billiard'])

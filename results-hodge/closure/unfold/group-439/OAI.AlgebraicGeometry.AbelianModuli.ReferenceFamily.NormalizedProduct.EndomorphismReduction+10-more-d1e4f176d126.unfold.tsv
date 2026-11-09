@@ -1,0 +1,502 @@
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) (X : D) (e : X ≅ F.obj (G.obj X)), OAI.AlgebraicGeometry.Abelia…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Iso.symm	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.NatIso.naturality_2	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Iso.app	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.Functor.mapIso	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProductEndomorphism_reduction	CONTENT	CategoryTheory.Iso.ext	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	1	11	Eq	-
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) (X : D) (e : X ≅ F.obj (G.obj X)), OAI.AlgebraicGeometry.Abelia…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.symm	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.app	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.mapIso	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.CategoryStruct.toQuiver	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	Quiver.Hom	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.instIsRegularMonoOfIsSplitMono	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.instIsSplitMonoApp	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.StrongMono.mono	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.cancel_mono	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.IsSplitMono.of_iso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Functor.map	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.isIso_hom	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Category.toCategoryStruct	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.ext	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.hom	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.Iso.inv	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	Eq.trans	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CategoryTheory.instStrongMonoOfIsRegularMono	value	instance	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	CONTENT	CategoryTheory.Iso.ext	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	0	9	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction	2
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	def	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	noncomputable	{C : Type u} → {D : Type v} → [inst : CategoryTheory.Category.{w, u} C] → [inst_1 : CategoryTheory.Category.{z, v} D] → (F : CategoryTheory.Functor C D) → (G : CategoryTheory.Functor D C) → (n : F.comp G ≅ CategoryTheory.Functor.id C) → (X : D) → Nonempty (X ≅ F.obj (G.obj X)) → OAI.AlgebraicGeometr…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Nonempty	type	class	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	type	structure	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Product.FiberNormalization.exists_product_iso_identity_on_fiber	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Exists.choose_spec	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.CategoryStruct.toQuiver	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Quiver.Hom	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Exists	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Functor.map	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	value	ctor	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Category.toCategoryStruct	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Exists.choose	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.Iso.hom	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	Eq	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.normalizedProductChartOfExistence	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	abbrev	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	-	Sort u_1 → {C : Type u} → {D : Type v} → [inst : CategoryTheory.Category.{w, u} C] → [inst_1 : CategoryTheory.Category.{z, v} D] → {F : CategoryTheory.Functor C D} → {G : CategoryTheory.Functor D C} → {n : F.comp G ≅ CategoryTheory.Functor.id C} → {X : D} → OAI.AlgebraicGeometry.AbelianModuli.Refere…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	type	structure	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	value	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	value	rec	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	value	ctor	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	HEq	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.noConfusionType	CategoryTheory.Functor.obj	value	abbrev	mathlib
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	rec	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	-	{C : Type u} → {D : Type v} → [inst : CategoryTheory.Category.{w, u} C] → [inst_1 : CategoryTheory.Category.{z, v} D] → {F : CategoryTheory.Functor C D} → {G : CategoryTheory.Functor D C} → {n : F.comp G ≅ CategoryTheory.Functor.id C} → {X : D} → {motive : OAI.AlgebraicGeometry.AbelianModuli.Referen…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	type	ctor	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	type	structure	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.rec	CategoryTheory.Category	type	class	mathlib
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	structure	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	-	{C : Type u} → {D : Type v} → [inst : CategoryTheory.Category.{w, u} C] → [inst_1 : CategoryTheory.Category.{z, v} D] → (F : CategoryTheory.Functor C D) → (G : CategoryTheory.Functor D C) → (F.comp G ≅ CategoryTheory.Functor.id C) → D → Type z
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	CategoryTheory.Category	type	class	mathlib
+FIELD	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	iso	false	X ≅ F.obj (G.obj X)
+FIELD	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	normalized	true	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber F G n self.iso
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	ctor	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	-	{C : Type u} → {D : Type v} → [inst : CategoryTheory.Category.{w, u} C] → [inst_1 : CategoryTheory.Category.{z, v} D] → {F : CategoryTheory.Functor C D} → {G : CategoryTheory.Functor D C} → {n : F.comp G ≅ CategoryTheory.Functor.id C} → {X : D} → (iso : X ≅ F.obj (G.obj X)) → OAI.AlgebraicGeometry.A…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	type	structure	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.mk	CategoryTheory.Category	type	class	mathlib
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	def	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	-	{C : Type u} → {D : Type v} → {inst : CategoryTheory.Category.{w, u} C} → {inst_1 : CategoryTheory.Category.{z, v} D} → {F : CategoryTheory.Functor C D} → {G : CategoryTheory.Functor D C} → {n : F.comp G ≅ CategoryTheory.Functor.id C} → {X : D} → OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.N…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	Nat	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData	type	structure	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence.NormalizedProductChartData.ctorIdx	CategoryTheory.Category	type	class	mathlib
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Existence	6
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {X : D} (e : X ≅ F.obj (G.obj X)), OAI.AlgebraicGeometry.Abelia…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Iso.trans	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Category.comp_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.normalizesProductFiber_postcomp	CONTENT	CategoryTheory.Functor.map_comp	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	0	2	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge	-	∀ {D : Type u_2} [inst : CategoryTheory.Category.{v_2, u_2} D] {U V A B : D} (i : U ⟶ V) (j : A ⟶ B) (e : U ≅ A) (f : V ≅ B) (a : A ≅ A) (b : B ≅ B), CategoryTheory.CategoryStruct.comp e.hom j = CategoryTheory.CategoryStruct.comp i f.hom → CategoryTheory.CategoryStruct.comp a.hom j = CategoryTheory.…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Iso.trans	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CategoryTheory.Category.assoc	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	Eq.refl	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	Eq.symm	value	theorem	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge.productChartGauge_restriction_square	CONTENT	CategoryTheory.Category.assoc	-	-	-	false	false	0	1	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Gauge	2
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {U X : D} (i : U ⟶ X) (e : U ≅ F.obj (G.obj U)), OAI.AlgebraicG…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Category.assoc	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Trans.trans	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	instTransEq	value	instance	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.NatTrans.naturality	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Eq.refl	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CategoryTheory.Category.id_comp	value	theorem	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle.normalizedProduct_local_triangle	CONTENT	CategoryTheory.NatTrans.naturality	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	0	4	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.LocalTriangle	1
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {X : D} (f g : X ⟶ F.obj (G.obj X)), f = g → CategoryTheory.Cat…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	Eq.ndrec	value	abbrev	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	UNFOLD	-	-	-	-	false	false	0	0	Eq	-
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n n' : F.comp G ≅ CategoryTheory.Functor.id C), n = n' → ∀ {X : D} (f : X ⟶ F.obj (G.obj X)), CategoryTheor…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	Eq.ndrec	value	abbrev	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_comparison_congr	UNFOLD	-	-	-	-	false	false	0	0	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison	2
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) (X Y : D) (e : X ≅ F.obj (G.obj X)) (d : Y ≅ F.obj (G.obj Y)), …
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.EndomorphismReduction.normalizedProduct_mapIso_eq	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Iso.symm	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.NatIso.naturality_2	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Iso.app	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.Functor.mapIso	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction.normalizedProductMorphism_reduction	CONTENT	CategoryTheory.Iso.ext	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	1	11	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MorphismReduction	1
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] [inst_2 : CategoryTheory.CartesianMonoidalCategory C] [inst_3 : CategoryTheory.CartesianMonoidalCategory D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) …
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.GrpObj.toMonObj	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.monObjObj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.SemiCartesianMonoidalCategory.toMonoidalCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.CartesianMonoidalCategory	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.GrpObj	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.Monoidal.toLaxMonoidal	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.MonoidalCategoryStruct.tensorObj	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.MonoidalCategory.toMonoidalCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.Monoidal	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.MonoidalCategoryStruct.tensorHom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.MonObj.mul	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.CartesianMonoidalCategory.toSemiCartesianMonoidalCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.IsMonHom	value	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.MonoidalReductionMultiplication.monoidalMap_multiplication_of_isMonHom	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CategoryTheory.Functor.grpObjObj	value	abbrev	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_multiplication	CONTENT	CategoryTheory.NatTrans.IsMonoidal.of_cartesianMonoidalCategory	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	5	20	Eq	-
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] [inst_2 : CategoryTheory.CartesianMonoidalCategory C] [inst_3 : CategoryTheory.CartesianMonoidalCategory D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) …
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.GrpObj.toMonObj	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.monObjObj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.IsMonHom	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.SemiCartesianMonoidalCategory.toMonoidalCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.CartesianMonoidalCategory	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.GrpObj	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.Monoidal.toLaxMonoidal	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.Monoidal	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.CartesianMonoidalCategory.toSemiCartesianMonoidalCategory	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.CategoryStruct.toQuiver	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Quiver.Hom	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.Product.FiberGroupComparison.productFiberComparison_isMonHom	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.instIsRegularMonoOfIsSplitMono	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.CategoryStruct.id	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.StrongMono.mono	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	inferInstance	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.cancel_mono	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.IsSplitMono.of_iso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso.isIso_hom	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.CategoryStruct.comp	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.instIsMonHomInvOfHom	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Functor.grpObjObj	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Category.toCategoryStruct	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso.app	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Eq	value	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.Iso.inv	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.NatTrans.app	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	Eq.trans	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CategoryTheory.instStrongMonoOfIsRegularMono	value	instance	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap.normalizedProduct_reduced_isMonHom	CONTENT	CategoryTheory.NatTrans.IsMonoidal.of_cartesianMonoidalCategory	-	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	-	false	false	3	12	CategoryTheory.IsMonHom	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReducedGroupMap	2
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {X : D} (f : X ⟶ F.obj (G.obj X)), CategoryTheory.CategoryStruc…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.IsIso	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Eq.rec	value	rec	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	inferInstance	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.cancel_mono	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.isIso_inv	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.isIso_hom	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.IsIso.mono_of_iso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.app	value	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CategoryTheory.Iso.inv	value	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	Eq.trans	value	theorem	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso.normalizedProductMap_reduction_isIso	CONTENT	CategoryTheory.cancel_mono	-	-	-	false	false	0	5	CategoryTheory.IsIso	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.ReductionIso	1
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare	-	∀ {C : Type u} {D : Type v} [inst : CategoryTheory.Category.{w, u} C] [inst_1 : CategoryTheory.Category.{z, v} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {U X : D} (i : U ⟶ X) (e : X ≅ F.obj (G.obj X)), CategoryTheory.CategoryStr…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Iso.app	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.cancel_mono	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.NatIso.hom_app_isIso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.NatTrans.naturality	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.IsIso.mono_of_iso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	Eq.trans	value	theorem	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare.normalized_product_restriction_square	CONTENT	CategoryTheory.cancel_mono	-	-	-	false	false	0	6	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.RestrictionSquare	1
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions	-	∀ {C : Type u} {D : Type v} [inst : CategoryTheory.Category.{w, u} C] [inst_1 : CategoryTheory.Category.{z, v} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) (X : D) (e f : X ≅ F.obj (G.obj X)), CategoryTheory.CategoryStruct.comp (G.…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Iso.inv	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Eq.mpr	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Category.assoc	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Trans.trans	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Iso.inv_hom_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	congrArg	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	id	value	def	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.cancel_mono	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Category.comp_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	instTransEq	value	instance	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.NatIso.hom_app_isIso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.map_id	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.IsIso.mono_of_iso	value	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Iff.mp	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Eq.refl	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Functor.map_comp	value	theorem	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	Eq.symm	value	theorem	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CategoryTheory.Category.id_comp	value	theorem	mathlib
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions.normalized_product_transition_fiber	CONTENT	CategoryTheory.cancel_mono	-	-	-	false	false	0	9	Eq	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Transitions	1
+SCHEMA	1	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness
+DECL	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	theorem	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness	-	∀ {C : Type u_1} {D : Type u_2} [inst : CategoryTheory.Category.{v_1, u_1} C] [inst_1 : CategoryTheory.Category.{v_2, u_2} D] (F : CategoryTheory.Functor C D) (G : CategoryTheory.Functor D C) (n : F.comp G ≅ CategoryTheory.Functor.id C) {X : D} (f : X ⟶ F.obj (G.obj X)), CategoryTheory.CategoryStruc…
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.CategoryStruct.toQuiver	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	Quiver.Hom	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor.category	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	Exists	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.CategoryStruct.id	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Iso	type	structure	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor.map	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedDual.OpenProductData.NormalizesProductFiber	type	propdef	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	And	type	structure	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.CategoryStruct.comp	type	def	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Category.toCategoryStruct	type	instance	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Iso.hom	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	Eq	type	inductive	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Functor.obj	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.NatTrans.app	type	abbrev	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	CategoryTheory.Category	type	class	mathlib
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.MapComparison.normalizedProductMap_map_congr	value	theorem	project
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	Exists.casesOn	value	abbrev	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	And.intro	value	ctor	core
+EDGE	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	Exists.intro	value	ctor	core
+THM	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness.normalizedProductIsoWitness_of_map	UNFOLD	-	-	-	-	false	false	1	0	Exists	-
+END	OAI.AlgebraicGeometry.AbelianModuli.ReferenceFamily.NormalizedProduct.Witness	1

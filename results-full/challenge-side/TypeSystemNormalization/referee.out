@@ -1,0 +1,69 @@
+REFEREE	L0	OAI.PureTypeSystem.ValidContext.brecOn	PASS	[]
+REFEREE	L1	OAI.PureTypeSystem.ValidContext.brecOn	PASS	14 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.ValidContext.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.ValidContext.brecOn	REVIEW	OAI.PureTypeSystem.ValidContext P a✝ :: carries a project proposition | ∀ (a : List (OAI.PureTypeSystem.Expr S)) (t : OAI.PureTypeSystem.ValidContext P a),  OAI.P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.ValidContext.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.ValidContext.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.ValidContext.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.ValidContext.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.ValidContext.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PureTypeSystem.ValidContext.brecOn	PASS	no single top step
+REFEREE	R5	OAI.PureTypeSystem.ValidContext.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.ValidContext.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.ValidContext.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	[]
+REFEREE	L1	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	18 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.Expr.brecOn.eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	no hypotheses
+REFEREE	L3	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.Expr.brecOn.eq	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.Expr.brecOn.eq	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.Expr.brecOn.eq	PASS	computed class DEF
+REFEREE	L0	OAI.PureTypeSystem.weak_implies_strong	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PureTypeSystem.weak_implies_strong	PASS	27 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.weak_implies_strong	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.weak_implies_strong	REVIEW	OAI.PureTypeSystem.SystemWeaklyNormalizing P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.weak_implies_strong	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.weak_implies_strong	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.weak_implies_strong	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.weak_implies_strong	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.weak_implies_strong	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PureTypeSystem.weak_implies_strong	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PureTypeSystem.weak_implies_strong	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.weak_implies_strong	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.weak_implies_strong	FAIL	computed class D; broken: ['L0']
+REFEREE	L0	OAI.PureTypeSystem.HasType.brecOn	PASS	[]
+REFEREE	L1	OAI.PureTypeSystem.HasType.brecOn	PASS	61 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.HasType.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.HasType.brecOn	REVIEW	OAI.PureTypeSystem.HasType P a✝² a✝¹ a✝ :: carries a project proposition | ∀ (a : List (OAI.PureTypeSystem.Expr S)) (a_1 a_2 : OAI.PureTypeSystem.Expr S)  (t : OAI.P :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.HasType.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.HasType.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.HasType.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.HasType.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.HasType.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PureTypeSystem.HasType.brecOn	PASS	no single top step
+REFEREE	R5	OAI.PureTypeSystem.HasType.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.HasType.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.HasType.brecOn	REVIEW	computed class DEF
+REFEREE	L0	OAI.PureTypeSystem.Beta.brecOn	PASS	[]
+REFEREE	L1	OAI.PureTypeSystem.Beta.brecOn	PASS	52 constants reached, no stand-in
+REFEREE	L1u	OAI.PureTypeSystem.Beta.brecOn	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PureTypeSystem.Beta.brecOn	REVIEW	OAI.PureTypeSystem.Beta a✝¹ a✝ :: carries a project proposition | ∀ (a a_1 : OAI.PureTypeSystem.Expr S) (t : OAI.PureTypeSystem.Beta a a_1),  OAI.PureTypeSy :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PureTypeSystem.Beta.brecOn	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PureTypeSystem.Beta.brecOn	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PureTypeSystem.Beta.brecOn	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PureTypeSystem.Beta.brecOn	INFO	not a registered target statement
+REFEREE	R1	OAI.PureTypeSystem.Beta.brecOn	FAIL	structural: holds by definitions and logic alone
+REFEREE	R7	OAI.PureTypeSystem.Beta.brecOn	PASS	no single top step
+REFEREE	R5	OAI.PureTypeSystem.Beta.brecOn	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PureTypeSystem.Beta.brecOn	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PureTypeSystem.Beta.brecOn	REVIEW	computed class DEF
+REFEREE	L4	ComparatorChallenges.TypeSystemNormalization	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.TypeSystemNormalization	INFO	5 theorems checked
+REFEREE	L5	ComparatorChallenges.TypeSystemNormalization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.TypeSystemNormalization	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 17 public declarations without a docstring (['Expr', 'liftRen', 'rename', 'liftSub'])

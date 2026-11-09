@@ -1,0 +1,43 @@
+REFEREE	L0	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	5382 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	no single top step
+REFEREE	R5	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanSteinitzBergstrom.signed_prefix_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	5374 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	Nonempty ι :: side condition | ∀ (i : Fin n), OAI.EuclideanSteinitz.Filter.vectorMass (b i) ≤ OAI.EuclideanSteinitz.Filte :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	no single top step
+REFEREE	R5	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanSteinitz.Filter.filtered_signed_prefixes	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanSteinitzBergstrom.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanSteinitzBergstrom.main	PASS	5461 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanSteinitzBergstrom.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanSteinitzBergstrom.main	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanSteinitzBergstrom.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanSteinitzBergstrom.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanSteinitzBergstrom.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanSteinitzBergstrom.main	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanSteinitzBergstrom.main	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.EuclideanSteinitzBergstrom.main	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanSteinitzBergstrom.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanSteinitzBergstrom.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanSteinitzBergstrom.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.Steinitz.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.Steinitz.Main	INFO	3 theorems checked
+REFEREE	L5	OAI.Analysis.Steinitz.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.Steinitz.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 4 public declarations without a docstring (['filtered_signed_prefixes', 'universalConstant', 'signed_prefix_bound', 'main'])

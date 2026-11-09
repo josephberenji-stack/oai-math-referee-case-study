@@ -1,0 +1,127 @@
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	4111 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	AlgebraicGeometry.SmoothOfRelativeDimension m Y.hom :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | W ⊆ V :: side condition (project data) | V ⊆ (AlgebraicGeometry.ComplexPoint.closedImmersionHolomorphicFlatteningChart X Y i m d z) :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	top step AlgebraicTopology.Singular.chartNormalProjectionCoclass_restrict carries content
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	INFO	no supplied input
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom, AlgebraicTopology.Singular.standardSimplexTopSimplex = AlgebraicTopology.Singular.standardSimplexTopSimplexForLocalClass]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.smoothClosedSupportChartCoclass_restrict	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	5180 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	AlgebraicGeometry.SmoothOfRelativeDimension m Y.hom :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | x ∈ Set.range (AlgebraicGeometry.Point.map i) :: side condition (project data) | x ∈ (AlgebraicGeometry.ComplexPoint.closedImmersionHolomorphicFlatteningChart X Y i m d z) :: side condition (project data) | x ∈ (AlgebraicGeometry.ComplexPoint.closedImmersionHolomorphicFlatteningChart X Y i m d z' :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom, AlgebraicTopology.Singular.standardSimplexTopSimplex = AlgebraicTopology.Singular.standardSimplexTopSimplexForLocalClass]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.exists_open_smoothClosedSupportChartCoclass_eq	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	5337 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	AlgebraicGeometry.SmoothOfRelativeDimension m Y.hom :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	CONTENT	reaches AddCommGrpCat.hasColimitsOfSize
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	top step TopCat.Sheaf.sectionOfLocallyRepresentable_germ carries content
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	3 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom, AlgebraicTopology.Singular.standardSimplexTopSimplex = AlgebraicTopology.Singular.standardSimplexTopSimplexForLocalClass]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.smoothClosedSupportCoclassSection_germ	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	4420 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension m (AlgebraicGeometry.ComplexPoint.openScheme Y :: side condition (project data) | AlgebraicGeometry.Point.map (CategoryTheory.CategoryStruct.comp (AlgebraicGeometry.Complex :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenNeighborhood	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	4368 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	AlgebraicGeometry.SmoothOfRelativeDimension m Y.hom :: side condition | AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | Topology.IsOpenEmbedding f :: side condition (project data) | f ⁻¹' S = Set.range (AlgebraicGeometry.Point.map i) :: side condition (project data) | f (AlgebraicGeometry.Point.map i z) ∈ V :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSupportImageNeighborhood	REVIEW	computed class A?
+REFEREE	L0	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	4421 constants reached, no stand-in
+REFEREE	L1u	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	INFO	no opaque with a value reached
+REFEREE	L2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	AlgebraicGeometry.SmoothOfRelativeDimension d X.hom :: side condition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | Topology.IsOpenEmbedding f :: side condition (project data) | f ⁻¹' S = Set.range (AlgebraicGeometry.Point.map i) :: side condition (project data) | AlgebraicGeometry.SmoothOfRelativeDimension m (AlgebraicGeometry.ComplexPoint.openScheme Y :: side condition (project data) | f   (AlgebraicGeometry.Point.map    (CategoryTheory.CategoryStruct.comp (AlgebraicGeometry :: side condition (project data) || unbuilt=0
+REFEREE	L3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	no hypothesis refuted on file
+REFEREE	R2	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	not an equivalence with an open problem
+REFEREE	R3	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	INFO	not a registered target statement
+REFEREE	IFF	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	INFO	not an iff
+REFEREE	R1	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R1k	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	CONTENT	reaches CommRingCat.Colimits.hasColimits_commRingCat
+REFEREE	R7	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	no single top step
+REFEREE	R1i	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	1 supplied inputs, each carries content
+REFEREE	DUP	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	REVIEW	twins without a proved equivalence: [AlgebraicGeometry.ComplexAlgHom.isStandardEtaleBaseAlgHom = AlgebraicGeometry.ComplexAlgHom.etaleBaseAlgHom]
+REFEREE	SHADOW	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	no copy of a library declaration
+REFEREE	R5	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	the name claims nothing beyond the statement
+REFEREE	R6	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	AlgebraicGeometry.ComplexPoint.exists_smoothClosedSourceOpenImageNeighborhood	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	PASS	all 1 header names resolve
+REFEREE	L4	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	INFO	2 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	INFO	1 theorems checked
+REFEREE	MODULE	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	INFO	3 theorems checked
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassOverlap	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['smoothClosedSupportCoclassSection_germ'])
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.CoclassSection	PASS	not under a Mathlib folder
+REFEREE	L5	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Lemmas.AlgebraicGeometry.Cycle.SmoothPair.OpenTransport	PASS	not under a Mathlib folder
+exit 1

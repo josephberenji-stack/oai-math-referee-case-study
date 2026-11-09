@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.PlanarAnderson.anderson_spectrum_ae	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	179 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_spectrum_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_spectrum_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_spectrum_ae	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.PlanarAndersonSpectrum	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.PlanarAndersonSpectrum	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.PlanarAndersonSpectrum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.PlanarAndersonSpectrum	FAIL	no module docstring /-! … -/; 7 public declarations without a docstring (['Site', 'Configuration', 'Hilbert', 'disorderLaw'])

@@ -1,0 +1,5 @@
+theorems 106256 proof lines median 6 p75 11 p90 18 p99 44 max 210
+proof-line buckets (1,2,3-5,6-10,11-30,31-100,>100): [15257, 6811, 30538, 26468, 24010, 3129, 43]
+proof shape: {'tactic block': 82270, 'single term (application of other lemmas)': 19219, 'rfl': 4767}
+theorems using at least one automation tactic (simp/omega/linarith/ring/norm_num/decide/aesop/...) 20642 19.4%
+share of theorems mentioning each tactic: [('exact', '53.2%'), ('rw', '43.4%'), ('have', '37.3%'), ('apply', '26.9%'), ('change', '23.8%'), ('intro', '22.4%'), ('rfl', '21.1%'), ('simp', '15.7%'), ('obtain', '13.9%'), ('ext', '13.4%'), ('refine', '9.4%'), ('funext', '4.8%'), ('constructor', '3.6%'), ('unfold', '2.8%'), ('show', '2.5%'), ('calc', '2.4%'), ('subst', '2.4%'), ('induction', '2.2%'), ('infer_instance', '2.1%'), ('ring', '2.0%'), ('congr', '1.9%'), ('omega', '1.7%'), ('cases', '1.7%'), ('erw', '1.1%'), ('trivial', '1.0%')]

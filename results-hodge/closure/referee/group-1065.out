@@ -1,0 +1,907 @@
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	160 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	∀ (i : ι), b i ∈ I :: side condition | ∀ (i : ι), IsUnit (m.leadingCoeff (b i)) :: side condition | ∀ f ∈ I, f ≠ 0 → ∃ i, m.degree (b i) ≤ m.degree f :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	reaches Submodule.disjoint_def
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree.monic_leading_cover_quotient_free	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	60 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	71 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	reaches CategoryTheory.Limits.pullback.hom_ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	CONTENT	reaches CategoryTheory.Limits.pullback.hom_ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_cocycle	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	60 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	60 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_fst_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_snd_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_snd_snd_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	65 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	61 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	CategoryTheory.Limits.HasPullbacks C :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData.monoFamilyTripleMap_fst_fst	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	133 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter_assoc	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	140 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition | ∀ (i : J), AlgebraicGeometry.SurjectiveOnStalks (f i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_surjectiveOnStalks	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	168 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	129 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	reaches CategoryTheory.Limits.Multicoequalizer.π_desc
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_parameter	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	120 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	reaches CategoryTheory.Limits.hasPullback_symmetry
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyChart_intersection	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	181 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	∀ (i : J), CategoryTheory.Mono (f i) :: side condition | ∀ (i j : J), AlgebraicGeometry.IsOpenImmersion (CategoryTheory.Limits.pullback.fst (f i) ( :: side condition | ∀ (i : J), AlgebraicGeometry.SurjectiveOnStalks (f i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	reaches AlgebraicGeometry.SurjectiveOnStalks.mono_of_injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	CONTENT	reaches AlgebraicGeometry.Scheme.Pullback.instHasPullback
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing.schemeMonoFamilyParameter_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	47 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	reaches forall_congr
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	CONTENT	reaches Set.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_inf	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	85 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	reaches List.mem_map
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	CONTENT	reaches Set.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_compl_cone	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	214 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	reaches Set.partiallyWellOrderedOn_univ_iff
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	CONTENT	reaches Set.partiallyWellOrderedOn_univ_iff
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_sets_wellQuasiOrdered	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	218 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	reaches IsUpperSet.compl
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	CONTENT	reaches IsUpperSet.compl
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_sets_reverse_wellQuasiOrdered	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	68 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	reaches List.mem_flatMap
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	CONTENT	reaches Set.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_inter	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	48 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	IsUpperSet U :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	reaches Minimal.eq_of_ge
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	CONTENT	reaches Minimal.eq_of_ge
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.upper_set_finitely_generated	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	182 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	IsLowerSet D :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	reaches Minimal.eq_of_ge
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	CONTENT	reaches Minimal.eq_of_ge
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.lower_set_is_boxes	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	20 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	b ≤ c :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	reaches lt_of_lt_of_le
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	CONTENT	reaches lt_of_lt_of_le
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.box_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	146 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	reaches Finset.induction_on
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	CONTENT	reaches Finset.induction_on
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.exists_boxes_avoid	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	58 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	List.SublistForall₂ (fun x1 x2 => x1 ≤ x2) L M :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	reaches List.not_mem_nil._simp_1
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	CONTENT	reaches congrFun'
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	4 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs.MonomialFiniteness.boxes_mono_of_sublistForall₂	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	3203 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	REVIEW	AlgebraicGeometry.IsLocallyNoetherian H.left :: side condition | OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has.Core.ProjectivePresentation Y :: carries a project proposition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	reaches CategoryTheory.MorphismProperty.of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	22 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.CoordinateRing = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Projective.ProjectivePresentations.coordinateRing]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient_lifts	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	3219 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	REVIEW	AlgebraicGeometry.IsLocallyNoetherian H.left :: side condition | OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has.Core.ProjectivePresentation Y :: carries a project proposition | AlgebraicGeometry.IsClosedImmersion (CategoryTheory.Over.Hom.left i) :: side condition | CategoryTheory.Mono t :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	reaches CategoryTheory.MorphismProperty.of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	22 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.CoordinateRing = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Projective.ProjectivePresentations.coordinateRing]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_closedAmbient	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	141 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	reaches CategoryTheory.MorphismProperty.of_isPullback
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	CONTENT	reaches CategoryTheory.Limits.instHasLimitOfHasLimitsOfShape
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	9 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient.Hilbert.naturalFamily_eq_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	117 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	123 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	REVIEW	an iff whose right side names no boundary in numbers: state the boundary, or two implications
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.preservesGroupLaws_iff_exists_endomorphismTuple	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	4025 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	REVIEW	AlgebraicGeometry.Flat A.hom :: side condition | AlgebraicGeometry.IsProper A.hom :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation A.hom :: side condition | OAI.AlgebraicGeometry.HilbertScheme.Presentations.Has.Core.ProjectivePresentation A :: carries a project proposition | AlgebraicGeometry.IsLocallyNoetherian M.left :: side condition | CategoryTheory.Mono t :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	25 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.HilbertScheme.Presentations.Hilbert.Polynomial.GradedHilbert.CoordinateRing = OAI.AlgebraicGeometry.AbelianModuli.HilbertConstruction.Projective.ProjectivePresentations.coordinateRing]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.naturalMorphism_endomorphismClosed	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	128 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	8 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus.Core.forgetGroupLaw_mono	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	875 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	AlgebraicGeometry.IsProper X.hom :: side condition | AlgebraicGeometry.IsLocallyNoetherian B.left :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	26 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_graphOpen	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	151 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	2 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	11 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen.Hom.naturalHilbertTuple_eq_pullback	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	1003 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	AlgebraicGeometry.Flat X.hom :: side condition | AlgebraicGeometry.IsProper X.hom :: side condition | AlgebraicGeometry.LocallyOfFinitePresentation X.hom :: side condition | AlgebraicGeometry.IsSeparated Y.hom :: side condition | AlgebraicGeometry.IsLocallyNoetherian B.left :: side condition | AlgebraicGeometry.LocallyOfFiniteType B.hom :: side condition | CategoryTheory.Mono t :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	REVIEW	an iff inside the statement: a person decides whether it states a boundary
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	CONTENT	reaches CategoryTheory.ConcreteCategory.ext
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	4 supplied inputs, each carries content
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	35 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen.Core.naturalHilbert_homOpen	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	105 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	reaches Finset.single_le_sum
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	CONTENT	reaches Finset.single_le_sum
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponent_bounds	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	127 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	no hypotheses
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	reaches Finite.of_injective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	CONTENT	reaches Finite.of_injective
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	3 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree.ProjectiveCech.negativeDegreeExponents_finite	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	652 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	Nontrivial σ :: side condition | d < 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	CONTENT	reaches ModuleCat.hasLimit
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	REVIEW	twins without a proved equivalence: [OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightComponents.MvPolynomial.instDecidableEq_oAI = OAI.AlgebraicGeometry.SheafCohomology.Projective.TwistCechWeightAssembly.MvPolynomial.instDecidableEq_oAI]
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycles_subsingleton	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	102 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	d < 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	reaches Decidable.byContradiction
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	CONTENT	reaches Decidable.byContradiction
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	2 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentWeight_support_nonempty	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	587 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	Nontrivial σ :: side condition | d < 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	reaches StrictMono.comp
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	CONTENT	reaches ModuleCat.hasLimit
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	17 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections.negativeLaurentZeroCycleWeight_zero	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	247 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	Module.Flat R M :: side condition | IsNilpotent I :: side condition | Module.Free (R ⧸ I) (TensorProduct R (R ⧸ I) M) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	reaches Submodule.mkQ_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting.nilpotent_free_lifting	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	187 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	Module.Flat R N :: side condition | IsNilpotent I :: side condition | Function.Bijective ⇑(LinearMap.lTensor (R ⧸ I) f) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	reaches Submodule.mkQ_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_bijective_of_reduction	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	161 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	IsNilpotent I :: side condition | Function.Surjective ⇑(LinearMap.lTensor (R ⧸ I) f) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	reaches Submodule.mkQ_surjective
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting.nilpotent_surjective_of_reduction	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	86 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	IsNilpotent I :: side condition | I • ⊤ = ⊤ :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	reaches pow_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	no single top step
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton	REVIEW	computed class A?
+REFEREE	L0	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	135 constants reached, no stand-in
+REFEREE	L1u	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	INFO	no opaque with a value reached
+REFEREE	L2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	IsNilpotent I :: side condition | Subsingleton (TensorProduct R (R ⧸ I) M) :: side condition || unbuilt=0
+REFEREE	L3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	INFO	not a registered target statement
+REFEREE	IFF	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	INFO	not an iff
+REFEREE	R1	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	reaches pow_zero
+REFEREE	R1k	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	CONTENT	reaches IsScalarTower.right
+REFEREE	R7	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	top step OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_smul_top_eq_top_subsingleton carries content
+REFEREE	R1i	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	INFO	no supplied input
+REFEREE	DUP	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	no copy of a library declaration
+REFEREE	R5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection.nilpotent_quotientTensor_subsingleton	REVIEW	computed class A?
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	PASS	all 0 header names resolve
+REFEREE	L4	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	INFO	9 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	INFO	6 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	INFO	10 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	INFO	4 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	INFO	3 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	INFO	1 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	INFO	2 theorems checked
+REFEREE	MODULE	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	INFO	2 theorems checked
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['monic_leading_cover_quotient_free'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonicPolynomialQuotientFree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	FAIL	module docstring has no `## Main results`; 7 public declarations without a docstring (['monoFamilyTripleMap', 'monoFamilyTripleMap_fst_fst', 'monoFamilyTripleMap_fst_snd', 'monoFamilyTripleMap_snd_fst'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGlueData	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	FAIL	module docstring has no `## Main results`; 5 public declarations without a docstring (['schemeMonoFamilyGlueData', 'schemeMonoFamilyParameter', 'schemeMonoFamilyChart_parameter', 'schemeMonoFamilyChart_intersection'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonoFamilyGluing	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	FAIL	module docstring has no `## Main results`; 12 public declarations without a docstring (['Exponent', 'Endpoint', 'box', 'boxes'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.MonomialFinitenessIs	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['naturalFamily_eq_pullback', 'naturalFamily_closedAmbient_lifts', 'naturalFamily_closedAmbient'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalClosedAmbient	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	FAIL	module docstring has no `## Main results`; 4 public declarations without a docstring (['forgetGroupLaw_injective', 'forgetGroupLaw_mono', 'preservesGroupLaws_iff_exists_endomorphismTuple', 'naturalMorphism_endomorphismClosed'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalEndomorphismClosedLocus	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['naturalHilbertTuple_eq_pullback', 'naturalHilbertTuple_graphOpen'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalGraphOpen	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['naturalHilbert_homOpen'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NaturalHomOpen	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['NegativeDegreeExponents', 'negativeDegreeExponent_bounds', 'negativeDegreeExponentEmbedding'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeDegree	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	FAIL	module docstring has no `## Main results`; 3 public declarations without a docstring (['negativeLaurentWeight_support_nonempty', 'negativeLaurentZeroCycleWeight_zero', 'negativeLaurentZeroCycles_subsingleton'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NegativeLaurentSections	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['nilpotent_free_lifting'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentFreeLifting	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['nilpotent_surjective_of_reduction', 'nilpotent_bijective_of_reduction'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentLinearMapLifting	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['nilpotent_smul_top_eq_top_subsingleton', 'nilpotent_quotientTensor_subsingleton'])
+REFEREE	INST	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	PASS	no instance changes
+REFEREE	VEND	OAI.AlgebraicGeometry.HilbertScheme.Presentations.NilpotentModuleDetection	PASS	not under a Mathlib folder
+exit 1

@@ -1,0 +1,151 @@
+REFEREE	L0	MvPolynomial.height_eq_fin_of_isMaximal	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	MvPolynomial.height_eq_fin_of_isMaximal	PASS	132 constants reached, no stand-in
+REFEREE	L1u	MvPolynomial.height_eq_fin_of_isMaximal	INFO	no opaque with a value reached
+REFEREE	L2	MvPolynomial.height_eq_fin_of_isMaximal	PASS	P.IsMaximal :: side condition || unbuilt=0
+REFEREE	L3	MvPolynomial.height_eq_fin_of_isMaximal	PASS	no hypothesis refuted on file
+REFEREE	R2	MvPolynomial.height_eq_fin_of_isMaximal	PASS	not an equivalence with an open problem
+REFEREE	R3	MvPolynomial.height_eq_fin_of_isMaximal	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	MvPolynomial.height_eq_fin_of_isMaximal	INFO	not a registered target statement
+REFEREE	IFF	MvPolynomial.height_eq_fin_of_isMaximal	INFO	not an iff
+REFEREE	R1	MvPolynomial.height_eq_fin_of_isMaximal	PASS	reaches Ideal.height_le_ringKrullDim_of_ne_top
+REFEREE	R1k	MvPolynomial.height_eq_fin_of_isMaximal	CONTENT	reaches Ideal.height_le_ringKrullDim_of_ne_top
+REFEREE	R7	MvPolynomial.height_eq_fin_of_isMaximal	PASS	top step is not a project theorem
+REFEREE	R1i	MvPolynomial.height_eq_fin_of_isMaximal	INFO	no supplied input
+REFEREE	DUP	MvPolynomial.height_eq_fin_of_isMaximal	PASS	0 project definitions, no twins
+REFEREE	SHADOW	MvPolynomial.height_eq_fin_of_isMaximal	PASS	no copy of a library declaration
+REFEREE	R5	MvPolynomial.height_eq_fin_of_isMaximal	PASS	the name claims nothing beyond the statement
+REFEREE	R6	MvPolynomial.height_eq_fin_of_isMaximal	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	MvPolynomial.height_eq_fin_of_isMaximal	REVIEW	computed class A?
+REFEREE	L0	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	100 constants reached, no stand-in
+REFEREE	L1u	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	IsNoetherianRing R :: side condition | RingHom.IsStandardSmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	INFO	not a registered target statement
+REFEREE	IFF	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	INFO	not an iff
+REFEREE	R1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R1k	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	CONTENT	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R7	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	top step is not a project theorem
+REFEREE	R1i	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	INFO	no supplied input
+REFEREE	DUP	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	0 project definitions, no twins
+REFEREE	SHADOW	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_add	REVIEW	computed class A?
+REFEREE	L0	Algebra.QuasiFinite.height_eq_height_under	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Algebra.QuasiFinite.height_eq_height_under	PASS	63 constants reached, no stand-in
+REFEREE	L1u	Algebra.QuasiFinite.height_eq_height_under	INFO	no opaque with a value reached
+REFEREE	L2	Algebra.QuasiFinite.height_eq_height_under	PASS	Algebra.QuasiFinite R S :: side condition | Module.Flat R S :: side condition | P.IsPrime :: side condition || unbuilt=0
+REFEREE	L3	Algebra.QuasiFinite.height_eq_height_under	PASS	no hypothesis refuted on file
+REFEREE	R2	Algebra.QuasiFinite.height_eq_height_under	PASS	not an equivalence with an open problem
+REFEREE	R3	Algebra.QuasiFinite.height_eq_height_under	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Algebra.QuasiFinite.height_eq_height_under	INFO	not a registered target statement
+REFEREE	IFF	Algebra.QuasiFinite.height_eq_height_under	INFO	not an iff
+REFEREE	R1	Algebra.QuasiFinite.height_eq_height_under	PASS	reaches PrimeSpectrum.height_eq_orderHeight
+REFEREE	R1k	Algebra.QuasiFinite.height_eq_height_under	CONTENT	reaches PrimeSpectrum.height_eq_orderHeight
+REFEREE	R7	Algebra.QuasiFinite.height_eq_height_under	PASS	top step is not a project theorem
+REFEREE	R1i	Algebra.QuasiFinite.height_eq_height_under	INFO	no supplied input
+REFEREE	DUP	Algebra.QuasiFinite.height_eq_height_under	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Algebra.QuasiFinite.height_eq_height_under	PASS	no copy of a library declaration
+REFEREE	R5	Algebra.QuasiFinite.height_eq_height_under	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Algebra.QuasiFinite.height_eq_height_under	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Algebra.QuasiFinite.height_eq_height_under	REVIEW	computed class A?
+REFEREE	L0	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	127 constants reached, no stand-in
+REFEREE	L1u	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	RingHom.IsStandardSmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	INFO	not a registered target statement
+REFEREE	IFF	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	INFO	not an iff
+REFEREE	R1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	reaches congrFun'
+REFEREE	R1k	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	CONTENT	reaches congrFun'
+REFEREE	R7	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	top step is not a project theorem
+REFEREE	R1i	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	INFO	no supplied input
+REFEREE	DUP	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	0 project definitions, no twins
+REFEREE	SHADOW	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_le_complex	REVIEW	computed class A?
+REFEREE	L0	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	35 constants reached, no stand-in
+REFEREE	L1u	Algebra.QuasiFinite.strictMono_primeSpectrumComap	INFO	no opaque with a value reached
+REFEREE	L2	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	Algebra.QuasiFinite R S :: side condition || unbuilt=0
+REFEREE	L3	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	no hypothesis refuted on file
+REFEREE	R2	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	not an equivalence with an open problem
+REFEREE	R3	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Algebra.QuasiFinite.strictMono_primeSpectrumComap	INFO	not a registered target statement
+REFEREE	IFF	Algebra.QuasiFinite.strictMono_primeSpectrumComap	INFO	not an iff
+REFEREE	R1	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	reaches Ideal.comap_mono
+REFEREE	R1k	Algebra.QuasiFinite.strictMono_primeSpectrumComap	CONTENT	reaches Ideal.comap_mono
+REFEREE	R7	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	no single top step
+REFEREE	R1i	Algebra.QuasiFinite.strictMono_primeSpectrumComap	INFO	no supplied input
+REFEREE	DUP	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	no copy of a library declaration
+REFEREE	R5	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Algebra.QuasiFinite.strictMono_primeSpectrumComap	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Algebra.QuasiFinite.strictMono_primeSpectrumComap	REVIEW	computed class A?
+REFEREE	L0	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	258 constants reached, no stand-in
+REFEREE	L1u	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	Nontrivial S :: side condition | RingHom.IsStandardSmoothOfRelativeDimension d f :: side condition || unbuilt=0
+REFEREE	L3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	INFO	not a registered target statement
+REFEREE	IFF	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	INFO	not an iff
+REFEREE	R1	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R1k	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	CONTENT	reaches RingHom.IsStandardSmoothOfRelativeDimension.exists_etale_mvPolynomial
+REFEREE	R7	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	top step is not a project theorem
+REFEREE	R1i	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	INFO	no supplied input
+REFEREE	DUP	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	0 project definitions, no twins
+REFEREE	SHADOW	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.IsStandardSmoothOfRelativeDimension.ringKrullDim_eq_complex	REVIEW	computed class A?
+REFEREE	L0	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	64 constants reached, no stand-in
+REFEREE	L1u	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	INFO	no opaque with a value reached
+REFEREE	L2	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	IsJacobsonRing R :: side condition | f.FiniteType :: side condition | P.IsMaximal :: side condition || unbuilt=0
+REFEREE	L3	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	no hypothesis refuted on file
+REFEREE	R2	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	not an equivalence with an open problem
+REFEREE	R3	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	INFO	not a registered target statement
+REFEREE	IFF	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	INFO	not an iff
+REFEREE	R1	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	reaches Ideal.instIsTwoSided_1
+REFEREE	R1k	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	CONTENT	reaches Ideal.instIsTwoSided_1
+REFEREE	R7	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	no single top step
+REFEREE	R1i	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	INFO	no supplied input
+REFEREE	DUP	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	0 project definitions, no twins
+REFEREE	SHADOW	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	no copy of a library declaration
+REFEREE	R5	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	RingHom.FiniteType.isMaximal_comap_of_isJacobsonRing	REVIEW	computed class A?
+REFEREE	L0	Algebra.QuasiFinite.ringKrullDim_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	Algebra.QuasiFinite.ringKrullDim_le	PASS	45 constants reached, no stand-in
+REFEREE	L1u	Algebra.QuasiFinite.ringKrullDim_le	INFO	no opaque with a value reached
+REFEREE	L2	Algebra.QuasiFinite.ringKrullDim_le	PASS	Algebra.QuasiFinite R S :: side condition || unbuilt=0
+REFEREE	L3	Algebra.QuasiFinite.ringKrullDim_le	PASS	no hypothesis refuted on file
+REFEREE	R2	Algebra.QuasiFinite.ringKrullDim_le	PASS	not an equivalence with an open problem
+REFEREE	R3	Algebra.QuasiFinite.ringKrullDim_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	Algebra.QuasiFinite.ringKrullDim_le	INFO	not a registered target statement
+REFEREE	IFF	Algebra.QuasiFinite.ringKrullDim_le	INFO	not an iff
+REFEREE	R1	Algebra.QuasiFinite.ringKrullDim_le	PASS	reaches ringKrullDim.eq_1
+REFEREE	R1k	Algebra.QuasiFinite.ringKrullDim_le	CONTENT	reaches ringKrullDim.eq_1
+REFEREE	R7	Algebra.QuasiFinite.ringKrullDim_le	PASS	top step is not a project theorem
+REFEREE	R1i	Algebra.QuasiFinite.ringKrullDim_le	INFO	no supplied input
+REFEREE	DUP	Algebra.QuasiFinite.ringKrullDim_le	PASS	0 project definitions, no twins
+REFEREE	SHADOW	Algebra.QuasiFinite.ringKrullDim_le	PASS	no copy of a library declaration
+REFEREE	R5	Algebra.QuasiFinite.ringKrullDim_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	Algebra.QuasiFinite.ringKrullDim_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	Algebra.QuasiFinite.ringKrullDim_le	REVIEW	computed class A?
+REFEREE	L4	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	PASS	all 0 header names resolve
+REFEREE	MODULE	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	INFO	8 theorems checked
+REFEREE	L5	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	FAIL	module docstring has no `## Main results`
+REFEREE	INST	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	PASS	no instance changes
+REFEREE	VEND	HodgeConjecture.Mathlib.RingTheory.SmoothKrullDimension	REVIEW	vendored library path HodgeConjecture/Mathlib/RingTheory/SmoothKrullDimension.lean
+exit 1

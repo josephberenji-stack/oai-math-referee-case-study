@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.BoxTransport.Routing.balanced_box_routing	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.BoxTransport.Routing.balanced_box_routing	PASS	216 constants reached, no stand-in
+REFEREE	L1u	OAI.BoxTransport.Routing.balanced_box_routing	INFO	no opaque with a value reached
+REFEREE	L2	OAI.BoxTransport.Routing.balanced_box_routing	PASS	∀ (i : Fin n) (j : Fin 3), 0 < h i j :: side condition | ∀ (i : Fin n) (j : Fin 3), 0 < k i j :: side condition | Pairwise fun i j =>  Disjoint (OAI.BoxTransport.Routing.solidBox (a i) (h i)) (OAI.BoxTran :: side condition (project data) | Pairwise fun i j =>  Disjoint (OAI.BoxTransport.Routing.solidBox (b i) (k i)) (OAI.BoxTran :: side condition (project data) | ∀ (i : Fin n), ∏ j, k i j / h i j = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.BoxTransport.Routing.balanced_box_routing	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.BoxTransport.Routing.balanced_box_routing	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.BoxTransport.Routing.balanced_box_routing	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.BoxTransport.Routing.balanced_box_routing	INFO	not a registered target statement
+REFEREE	R1	OAI.BoxTransport.Routing.balanced_box_routing	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.BoxTransport.Routing.balanced_box_routing	PASS	top step is not a project theorem
+REFEREE	R5	OAI.BoxTransport.Routing.balanced_box_routing	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.BoxTransport.Routing.balanced_box_routing	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.BoxTransport.Routing.balanced_box_routing	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.BalancedBoxRouting	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.BalancedBoxRouting	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.BalancedBoxRouting	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.BalancedBoxRouting	FAIL	no module docstring /-! … -/; 25 public declarations without a docstring (['Space', 'RationalSpace', 'SpaceTime', 'RationalSpaceTime'])

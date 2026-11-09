@@ -1,0 +1,121 @@
+REFEREE	L0	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	164 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.AH_zero_of_zero_weights	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.AH_zero_of_zero_weights	REVIEW	∀ (d : ℕ), OAI.TotientAsymptotic.IsTotient d → f (↑(OAI.TotientAsymptotic.ell d) / ↑d) = 0 :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.AH_zero_of_zero_weights	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.AH_zero_of_zero_weights	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.AH_zero_of_zero_weights	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.companion_zero_case	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.companion_zero_case	PASS	364 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.companion_zero_case	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.companion_zero_case	REVIEW	0 < k :: side condition | ¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.companion_zero_case	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.companion_zero_case	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.companion_zero_case	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.companion_zero_case	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.companion_zero_case	PASS	reaches instNonemptyOfInhabited
+REFEREE	R7	OAI.TotientAsymptotic.companion_zero_case	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.companion_zero_case	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.companion_zero_case	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.companion_zero_case	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	220 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	REVIEW	¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition | OAI.TotientAsymptotic.IsTotient d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	reaches Nat.cast_pos
+REFEREE	R7	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	no single top step
+REFEREE	R5	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.fk_ell_zero_of_no_seed	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.fk_nonneg	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.fk_nonneg	PASS	82 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.fk_nonneg	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.fk_nonneg	PASS	0 ≤ r :: side condition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.fk_nonneg	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.fk_nonneg	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.fk_nonneg	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.fk_nonneg	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.fk_nonneg	PASS	reaches sub_nonneg
+REFEREE	R7	OAI.TotientAsymptotic.fk_nonneg	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.fk_nonneg	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.fk_nonneg	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.fk_nonneg	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	337 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	REVIEW	¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	no single top step
+REFEREE	R5	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.A_fk_zero_of_no_seed	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	312 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	REVIEW	¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	top step OAI.TotientAsymptotic.AH_zero_of_zero_weights carries content
+REFEREE	R5	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.AH_fk_zero_of_no_seed	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.fk_zero_of_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.fk_zero_of_le	PASS	160 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.fk_zero_of_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.fk_zero_of_le	PASS	0 < r :: side condition | r ≤ ↑k :: side condition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.fk_zero_of_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.fk_zero_of_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.fk_zero_of_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.fk_zero_of_le	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.fk_zero_of_le	PASS	reaches le_div_iff₀
+REFEREE	R7	OAI.TotientAsymptotic.fk_zero_of_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.fk_zero_of_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.fk_zero_of_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.fk_zero_of_le	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	28 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	REVIEW	¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition | OAI.TotientAsymptotic.IsTotient d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.ell_le_mul_of_no_seed	REVIEW	computed class A?
+REFEREE	L0	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	115 constants reached, no stand-in
+REFEREE	L1u	OAI.TotientAsymptotic.N_zero_of_no_seed	INFO	no opaque with a value reached
+REFEREE	L2	OAI.TotientAsymptotic.N_zero_of_no_seed	REVIEW	¬∃ d, OAI.TotientAsymptotic.IsTotient d ∧ k * d < OAI.TotientAsymptotic.ell d :: carries a project proposition | 0 < x :: side condition || unbuilt=0
+REFEREE	L3	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.TotientAsymptotic.N_zero_of_no_seed	INFO	not a registered target statement
+REFEREE	R1	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	reaches Finset.filter_eq_empty_iff
+REFEREE	R7	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	top step is not a project theorem
+REFEREE	R5	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.TotientAsymptotic.N_zero_of_no_seed	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.TotientAsymptotic.N_zero_of_no_seed	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.TotientAsymptotic.Companion	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.TotientAsymptotic.Companion	INFO	9 theorems checked
+REFEREE	L5	OAI.NumberTheory.TotientAsymptotic.Companion	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.TotientAsymptotic.Companion	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 9 public declarations without a docstring (['fk_nonneg', 'fk_zero_of_le', 'ell_le_mul_of_no_seed', 'fk_ell_zero_of_no_seed'])

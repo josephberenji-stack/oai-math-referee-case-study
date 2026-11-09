@@ -1,0 +1,73 @@
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	177 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	Fact (Nat.Prime ℓ) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	reaches PadicInt.ext_of_toZModPow
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	CONTENT	reaches PadicInt.ext_of_toZModPow
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity.map_smul	REVIEW	computed class A?
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	28 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	CategoryTheory.CategoryStruct.comp (adj.unit.app A) (G.map e.hom) = j :: side condition | b = CategoryTheory.CategoryStruct.comp e.inv (F.map a) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	FAIL	structural: holds by definitions and logic alone
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	CONTENT	reaches CategoryTheory.Functor.map_comp
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	top step is not a project theorem
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	0 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization.normalization	PASS	computed class DEF
+REFEREE	L0	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	48 constants reached, no stand-in
+REFEREE	L1u	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	CategoryTheory.IsIso a.unit :: side condition | CategoryTheory.IsIso (a.counit.app M) :: side condition || unbuilt=0
+REFEREE	L3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	INFO	not a registered target statement
+REFEREE	IFF	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	INFO	not an iff
+REFEREE	R1	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	reaches CategoryTheory.cancel_epi
+REFEREE	R1k	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	CONTENT	reaches CategoryTheory.NatIso.isIso_app_of_isIso
+REFEREE	R7	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	no single top step
+REFEREE	R1i	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	INFO	no supplied input
+REFEREE	DUP	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	1 project definitions, no twins
+REFEREE	SHADOW	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	no copy of a library declaration
+REFEREE	R5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift.map_lift	REVIEW	computed class A?
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	PASS	all 0 header names resolve
+REFEREE	L4	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	INFO	1 theorems checked
+REFEREE	MODULE	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	INFO	1 theorems checked
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['map_smul', 'linearMap'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.AdditiveLinearity	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	FAIL	module docstring has no `## Main results`; 1 public declarations without a docstring (['normalization'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionAugmentationNormalization	PASS	not under a Mathlib folder
+REFEREE	L5	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	FAIL	module docstring has no `## Main results`; 2 public declarations without a docstring (['lift', 'map_lift'])
+REFEREE	INST	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	PASS	no instance changes
+REFEREE	VEND	OAI.NumberTheory.PadicHodge.IntegralComparison.AdjunctionSectionLift	PASS	not under a Mathlib folder
+exit 1

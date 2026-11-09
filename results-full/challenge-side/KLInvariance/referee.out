@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.KLInvariance.combinatorial_invariance	FAIL	extra axioms [sorryAx]
+REFEREE	L1	OAI.KLInvariance.combinatorial_invariance	PASS	84 constants reached, no stand-in
+REFEREE	L1u	OAI.KLInvariance.combinatorial_invariance	INFO	no opaque with a value reached
+REFEREE	L2	OAI.KLInvariance.combinatorial_invariance	REVIEW	OAI.KLInvariance.BruhatLE cs u b :: carries a project proposition | OAI.KLInvariance.BruhatLE cs' u' b' :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.KLInvariance.combinatorial_invariance	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.KLInvariance.combinatorial_invariance	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.KLInvariance.combinatorial_invariance	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.KLInvariance.combinatorial_invariance	INFO	not a registered target statement
+REFEREE	R1	OAI.KLInvariance.combinatorial_invariance	PASS	reaches Relation.ReflTransGen.trans
+REFEREE	R7	OAI.KLInvariance.combinatorial_invariance	PASS	top step is not a project theorem
+REFEREE	R5	OAI.KLInvariance.combinatorial_invariance	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.KLInvariance.combinatorial_invariance	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.KLInvariance.combinatorial_invariance	FAIL	computed class D; broken: ['L0']
+REFEREE	L4	ComparatorChallenges.KLInvariance	PASS	all 0 header names resolve
+REFEREE	MODULE	ComparatorChallenges.KLInvariance	INFO	1 theorems checked
+REFEREE	L5	ComparatorChallenges.KLInvariance	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	ComparatorChallenges.KLInvariance	FAIL	no module docstring /-! … -/; 3 public declarations without a docstring (['PolynomialFamilies', 'klPolynomial', 'combinatorial_invariance'])

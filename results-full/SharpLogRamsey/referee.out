@@ -1,0 +1,17 @@
+REFEREE	L0	OAI.SharpLogRamsey.main	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.SharpLogRamsey.main	PASS	9573 constants reached, no stand-in
+REFEREE	L1u	OAI.SharpLogRamsey.main	INFO	no opaque with a value reached
+REFEREE	L2	OAI.SharpLogRamsey.main	PASS	6 ≤ s :: side condition || unbuilt=0
+REFEREE	L3	OAI.SharpLogRamsey.main	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.SharpLogRamsey.main	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.SharpLogRamsey.main	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.SharpLogRamsey.main	INFO	not a registered target statement
+REFEREE	R1	OAI.SharpLogRamsey.main	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.SharpLogRamsey.main	PASS	top step OAI.SharpLogRamsey.main_of_primeConstruction carries content
+REFEREE	R5	OAI.SharpLogRamsey.main	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.SharpLogRamsey.main	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.SharpLogRamsey.main	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.SharpRamsey.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.SharpRamsey.Main	INFO	1 theorems checked
+REFEREE	L5	OAI.Combinatorics.SharpRamsey.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.SharpRamsey.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 1 public declarations without a docstring (['main'])

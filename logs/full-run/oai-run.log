@@ -1,0 +1,59 @@
+2026-10-28T15:51:08Z work: start
+2026-10-28T15:51:08Z stage system: start
+2026-10-28T15:51:35Z stage system: exit 0
+2026-10-28T15:51:35Z stage repos: start
+2026-10-28T15:53:14Z stage repos: exit 0
+2026-10-28T15:53:16Z stage tools: start
+2026-10-28T15:54:51Z stage tools: exit 0
+2026-10-28T15:54:53Z stage deps: start
+2026-10-28T16:00:22Z stage deps: exit 0
+2026-10-28T16:00:24Z stage bench: start
+2026-10-28T16:07:31Z stage bench: exit 0
+2026-10-28T16:07:33Z stage chalbuild: start
+fatal: unable to access 'https://github.com/josephberenji-stack/lean-referee-case-study.git/': gnutls_handshake() failed: The TLS connection was non-properly terminated.
+2026-10-28T21:59:49Z push failed;  the next publish retries
+2026-10-28T22:44:35Z work: start
+2026-10-28T22:44:35Z stage chalbuild: start
+2026-10-29T01:19:37Z stage chalbuild: exit 0
+2026-10-29T01:19:38Z stage chalside: start
+2026-10-29T02:28:48Z stage chalside: exit 0
+2026-10-29T02:28:49Z stage solbuild: start
+2026-10-29T04:13:23Z stage solbuild: exit 0
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+fatal: sha1 file '/srv/oai/casestudy/.git/index.lock' write error. Out of diskspace
+2026-10-29T04:13:24Z stage solside: start
+2026-10-29T04:14:18Z stage solside: exit 1
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-3.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-3.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-5.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-5.log': No space left on device
+fatal: unable to write loose object file: No space left on device
+2026-10-29T04:14:18Z stage comparator: start
+2026-10-29T04:14:20Z stage comparator: exit 0
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-3.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-3.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-5.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-5.log': No space left on device
+fatal: unable to write loose object file: No space left on device
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-3.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-3.log': No space left on device
+cp: error copying '/srv/oai/logs/runall-solution-5.log' to '/srv/oai/casestudy/logs/full-run/runall-solution-5.log': No space left on device
+fatal: unable to write loose object file: No space left on device
+2026-10-29T04:14:21Z stopping the machine
+Shutdown scheduled for Thu 2026-10-29 04:15:21 UTC, use 'shutdown -c' to cancel.
+2026-10-29T08:50:21Z work: start
+2026-10-29T08:50:21Z stage solside: start
+2026-10-29T09:43:30Z stage solside: exit 0
+2026-10-29T09:43:34Z stopping the machine
+Shutdown scheduled for Thu 2026-10-29 09:44:34 UTC, use 'shutdown -c' to cancel.
+2026-10-29T13:01:32Z work: start
+2026-10-29T13:01:33Z stage comparator: start
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+cp: error copying '/srv/oai/logs/build-solution-modules.log' to '/srv/oai/casestudy/logs/full-run/build-solution-modules.log': No space left on device
+fatal: unable to write loose object file: No space left on device
+2026-10-29T19:43:36Z stage comparator: exit 1
+cp: error copying '/srv/oai/logs/build-challenge-files.log' to '/srv/oai/casestudy/logs/full-run/build-challenge-files.log': No space left on device
+cp: error copying '/srv/oai/logs/build-solution-modules.log' to '/srv/oai/casestudy/logs/full-run/build-solution-modules.log': No space left on device
+fatal: unable to write loose objec2026-10-29T21:06:50Z work: start
+2026-10-29T21:06:50Z stage comparator: start
+2026-10-30T11:02:09Z stage comparator: exit 0
+2026-10-30T11:02:12Z stopping the machine
+Shutdown scheduled for Fri 2026-10-30 11:03:12 UTC, use 'shutdown -c' to cancel.

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	4167 constants reached, no stand-in
+REFEREE	L1u	OAI.StandardMapEntropy.actual_return_bernoulli	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StandardMapEntropy.actual_return_bernoulli	REVIEW	0 ≤ k :: side condition | 0 < OAI.StandardMapEntropy.area E :: side condition (project data) | ∀ (m : ℕ), 0 < m → Ergodic (OAI.StandardMapEntropy.standardMap k)^[N] ^[m] (OAI.StandardMa :: side condition (project data) | ∀ (i j : ℕ), Measurable (α i j) :: side condition (project data) | Function.Injective fun z i j => α i j z :: side condition (project data) | ∀ (M : ℕ),  OAI.HyperbolicCoding.WeakBernoulliProcess (OAI.StandardMapEntropy.normalizedAr :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StandardMapEntropy.actual_return_bernoulli	INFO	not a registered target statement
+REFEREE	R1	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	no single top step
+REFEREE	R5	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StandardMapEntropy.actual_return_bernoulli	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StandardMapEntropy.actual_return_bernoulli	REVIEW	computed class A?
+REFEREE	L0	OAI.StandardMapEntropy.main_components	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.StandardMapEntropy.main_components	PASS	9890 constants reached, no stand-in
+REFEREE	L1u	OAI.StandardMapEntropy.main_components	INFO	no opaque with a value reached
+REFEREE	L2	OAI.StandardMapEntropy.main_components	PASS	no hypotheses
+REFEREE	L3	OAI.StandardMapEntropy.main_components	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.StandardMapEntropy.main_components	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.StandardMapEntropy.main_components	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.StandardMapEntropy.main_components	INFO	not a registered target statement
+REFEREE	R1	OAI.StandardMapEntropy.main_components	PASS	reaches ZeroLEOneClass.factZeroLtOne
+REFEREE	R7	OAI.StandardMapEntropy.main_components	PASS	top step is not a project theorem
+REFEREE	R5	OAI.StandardMapEntropy.main_components	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.StandardMapEntropy.main_components	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.StandardMapEntropy.main_components	REVIEW	computed class A?
+REFEREE	L4	OAI.Dynamics.StandardMap.ComponentsMain	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Dynamics.StandardMap.ComponentsMain	INFO	2 theorems checked
+REFEREE	L5	OAI.Dynamics.StandardMap.ComponentsMain	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Dynamics.StandardMap.ComponentsMain	FAIL	no module docstring /-! … -/; 2 public declarations without a docstring (['actual_return_bernoulli', 'main_components'])

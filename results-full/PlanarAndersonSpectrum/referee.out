@@ -1,0 +1,693 @@
+REFEREE	L0	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	431 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.closure_eigenvalues_subset_spectrum	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.plane_hopping	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.plane_hopping	PASS	165 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.plane_hopping	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.plane_hopping	PASS	q ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.plane_hopping	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.plane_hopping	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.plane_hopping	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.plane_hopping	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.plane_hopping	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.PlanarAnderson.plane_hopping	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.plane_hopping	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.plane_hopping	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.plane_hopping	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	957 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_contains_shifted_free	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_contains_shifted_free	REVIEW	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) | OAI.PlanarAnderson.HasConstantBoxes v h :: carries a project proposition | w ∈ Set.Ioo (-h) h :: side condition | ‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_contains_shifted_free	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	top step OAI.PlanarAnderson.spectrum_of_approximate carries content
+REFEREE	R5	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_contains_shifted_free	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_contains_shifted_free	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.diagonal_error_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.diagonal_error_bound	PASS	452 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.diagonal_error_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.diagonal_error_bound	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) | ‖q‖ = 1 :: side condition | 0 ≤ ε :: side condition | ∀ x ∈ OAI.PlanarAnderson.cube n, |v x - w| ≤ ε :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.diagonal_error_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.diagonal_error_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.diagonal_error_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.diagonal_error_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.diagonal_error_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.diagonal_error_bound	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.diagonal_error_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.diagonal_error_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.diagonal_error_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.plane_norm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.plane_norm	PASS	44 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.plane_norm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.plane_norm	PASS	‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.plane_norm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.plane_norm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.plane_norm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.plane_norm	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.plane_norm	PASS	reaches congrFun'
+REFEREE	R7	OAI.PlanarAnderson.plane_norm	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.plane_norm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.plane_norm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.plane_norm	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.freeEnergy_surjective	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.freeEnergy_surjective	PASS	223 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.freeEnergy_surjective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.freeEnergy_surjective	PASS	e ∈ Set.Icc (-4) 4 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.freeEnergy_surjective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.freeEnergy_surjective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.freeEnergy_surjective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.freeEnergy_surjective	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.freeEnergy_surjective	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.freeEnergy_surjective	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.freeEnergy_surjective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.freeEnergy_surjective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.freeEnergy_surjective	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.cube_is_patch	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.cube_is_patch	PASS	121 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.cube_is_patch	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.cube_is_patch	PASS	x ∈ OAI.PlanarAnderson.cube n :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.cube_is_patch	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.cube_is_patch	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.cube_is_patch	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.cube_is_patch	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.cube_is_patch	PASS	reaches Decidable.byContradiction
+REFEREE	R7	OAI.PlanarAnderson.cube_is_patch	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.cube_is_patch	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.cube_is_patch	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.cube_is_patch	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_shift	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_shift	PASS	319 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_shift	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_shift	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_shift	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_shift	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_shift	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_shift	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_shift	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.anderson_shift	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_shift	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_shift	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_shift	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.bounded_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.bounded_ae	PASS	203 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.bounded_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.bounded_ae	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.bounded_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.bounded_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.bounded_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.bounded_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.bounded_ae	PASS	reaches ProbabilityTheory.cond_isProbabilityMeasure_of_finite
+REFEREE	R7	OAI.PlanarAnderson.bounded_ae	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.bounded_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.bounded_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.bounded_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	573 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	REVIEW	OAI.PlanarAnderson.HasCompleteOrthonormalEigenbasis H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_eq_closure_eigenvalues_of_completeOrthonormalEigenbasis	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_unique	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_unique	PASS	122 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_unique	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_unique	REVIEW	OAI.PlanarAnderson.IsAndersonOperator v H :: carries a project proposition | OAI.PlanarAnderson.IsAndersonOperator v K :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_unique	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_unique	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_unique	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_unique	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_unique	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.anderson_unique	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_unique	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_unique	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_unique	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.potential_selfAdjoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.potential_selfAdjoint	PASS	227 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.potential_selfAdjoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.potential_selfAdjoint	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.potential_selfAdjoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.potential_selfAdjoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.potential_selfAdjoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.potential_selfAdjoint	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.potential_selfAdjoint	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.potential_selfAdjoint	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.potential_selfAdjoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.potential_selfAdjoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.potential_selfAdjoint	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.potential_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.potential_apply	PASS	161 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.potential_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.potential_apply	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.potential_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.potential_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.potential_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.potential_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.potential_apply	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.potential_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.potential_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.potential_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.potential_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_exists_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_exists_ae	PASS	583 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_exists_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_exists_ae	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_exists_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_exists_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_exists_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_exists_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_exists_ae	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.PlanarAnderson.anderson_exists_ae	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_exists_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_exists_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_exists_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.cube_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.cube_card	PASS	51 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.cube_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.cube_card	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.cube_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.cube_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.cube_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.cube_card	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.cube_card	PASS	reaches Finset.card_product
+REFEREE	R7	OAI.PlanarAnderson.cube_card	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.cube_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.cube_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.cube_card	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.norm_hopping_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.norm_hopping_le	PASS	289 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.norm_hopping_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.norm_hopping_le	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.norm_hopping_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.norm_hopping_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.norm_hopping_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.norm_hopping_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.norm_hopping_le	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.norm_hopping_le	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.norm_hopping_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.norm_hopping_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.norm_hopping_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.translation_symm	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.translation_symm	PASS	38 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.translation_symm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.translation_symm	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.translation_symm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.translation_symm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.translation_symm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.translation_symm	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.translation_symm	PASS	reaches Equiv.ext
+REFEREE	R7	OAI.PlanarAnderson.translation_symm	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.translation_symm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.translation_symm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.translation_symm	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.boundary_card	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.boundary_card	PASS	213 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.boundary_card	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.boundary_card	PASS	1 ≤ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.boundary_card	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.boundary_card	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.boundary_card	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.boundary_card	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.boundary_card	PASS	reaches Finset.mem_product
+REFEREE	R7	OAI.PlanarAnderson.boundary_card	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.boundary_card	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.boundary_card	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.boundary_card	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.free_error_norm_sq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.free_error_norm_sq	PASS	684 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.free_error_norm_sq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.free_error_norm_sq	PASS	‖q‖ = 1 :: side condition | 1 ≤ n :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.free_error_norm_sq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.free_error_norm_sq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.free_error_norm_sq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.free_error_norm_sq	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.free_error_norm_sq	PASS	reaches congrFun'
+REFEREE	R7	OAI.PlanarAnderson.free_error_norm_sq	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.free_error_norm_sq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.free_error_norm_sq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.free_error_norm_sq	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.uniform_probability	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.uniform_probability	PASS	156 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.uniform_probability	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.uniform_probability	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.uniform_probability	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.uniform_probability	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.uniform_probability	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.uniform_probability	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.uniform_probability	PASS	reaches ProbabilityTheory.cond_isProbabilityMeasure_of_finite
+REFEREE	R7	OAI.PlanarAnderson.uniform_probability	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.uniform_probability	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.uniform_probability	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.uniform_probability	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.norm_anderson_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.norm_anderson_le	PASS	357 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.norm_anderson_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.norm_anderson_le	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.norm_anderson_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.norm_anderson_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.norm_anderson_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.norm_anderson_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.norm_anderson_le	PASS	reaches LE.le.trans
+REFEREE	R7	OAI.PlanarAnderson.norm_anderson_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.norm_anderson_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.norm_anderson_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.norm_anderson_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	370 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_selfAdjoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_selfAdjoint	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_selfAdjoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_selfAdjoint	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	198 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.freeEnergy_norm_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.freeEnergy_norm_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.freeEnergy_norm_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.freeEnergy_norm_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_of_approximate	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_of_approximate	PASS	385 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_of_approximate	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_of_approximate	PASS	∀ (ε : ℝ), 0 < ε → ∃ u, 0 < ‖u‖ ∧ ‖H u - z • u‖ ≤ ε * ‖u‖ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_of_approximate	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_of_approximate	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_of_approximate	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_of_approximate	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_of_approximate	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.spectrum_of_approximate	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.spectrum_of_approximate	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_of_approximate	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_of_approximate	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	411 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.eigenvalues_subset_spectrum	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.eigenvalues_subset_spectrum	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.eigenvalues_subset_spectrum	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.eigenvalues_subset_spectrum	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.constant_box_relative	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.constant_box_relative	PASS	604 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.constant_box_relative	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.constant_box_relative	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) | ‖q‖ = 1 :: side condition | 0 < δ :: side condition | ‖OAI.PlanarAnderson.hopping (OAI.PlanarAnderson.cutWave q n) -    OAI.PlanarAnderson.freeE :: side condition (project data) | ∀ x ∈ OAI.PlanarAnderson.cube n, |v (x + t) - w| ≤ δ :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.constant_box_relative	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.constant_box_relative	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.constant_box_relative	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.constant_box_relative	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.constant_box_relative	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.constant_box_relative	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.constant_box_relative	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.constant_box_relative	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.constant_box_relative	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_contains_interior	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_contains_interior	PASS	989 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_contains_interior	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_contains_interior	REVIEW	0 < h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) | OAI.PlanarAnderson.HasConstantBoxes v h :: carries a project proposition | e ∈ Set.Ioo (-4 - h) (4 + h) :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_contains_interior	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_contains_interior	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_contains_interior	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_contains_interior	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_contains_interior	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.spectrum_contains_interior	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.spectrum_contains_interior	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_contains_interior	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_contains_interior	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	64 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.instNontrivialSubtypePreLpSiteComplexMemAddSubgroupHilbert	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.cutWave_norm	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.cutWave_norm	PASS	322 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.cutWave_norm	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.cutWave_norm	PASS	‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.cutWave_norm	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.cutWave_norm	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.cutWave_norm	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.cutWave_norm	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.cutWave_norm	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.cutWave_norm	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.cutWave_norm	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.cutWave_norm	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.cutWave_norm	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.constant_trial_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.constant_trial_ae	PASS	390 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.constant_trial_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.constant_trial_ae	PASS	0 < h :: side condition | w ∈ Set.Ioo (-h) h :: side condition | 0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.constant_trial_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.constant_trial_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.constant_trial_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.constant_trial_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.constant_trial_ae	PASS	reaches ProbabilityTheory.cond_isProbabilityMeasure_of_finite
+REFEREE	R7	OAI.PlanarAnderson.constant_trial_ae	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.constant_trial_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.constant_trial_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.constant_trial_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.trialSite_injective	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.trialSite_injective	PASS	63 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.trialSite_injective	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.trialSite_injective	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.trialSite_injective	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.trialSite_injective	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.trialSite_injective	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.trialSite_injective	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.trialSite_injective	PASS	reaches congrFun'
+REFEREE	R7	OAI.PlanarAnderson.trialSite_injective	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.trialSite_injective	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.trialSite_injective	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.trialSite_injective	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.iid_exists_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.iid_exists_ae	PASS	116 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.iid_exists_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.iid_exists_ae	PASS	MeasureTheory.IsProbabilityMeasure μ :: side condition | MeasurableSet s :: side condition | μ s ≠ 0 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.iid_exists_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.iid_exists_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.iid_exists_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.iid_exists_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.iid_exists_ae	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.PlanarAnderson.iid_exists_ae	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.iid_exists_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.iid_exists_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.iid_exists_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_eq_interval	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_eq_interval	PASS	1097 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_eq_interval	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_eq_interval	REVIEW	0 < h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) | OAI.PlanarAnderson.HasConstantBoxes v h :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_eq_interval	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_eq_interval	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_eq_interval	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_eq_interval	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_eq_interval	PASS	reaches Set.Subset.antisymm
+REFEREE	R7	OAI.PlanarAnderson.spectrum_eq_interval	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.spectrum_eq_interval	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_eq_interval	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_eq_interval	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.constant_boxes_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.constant_boxes_ae	PASS	503 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.constant_boxes_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.constant_boxes_ae	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.constant_boxes_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.constant_boxes_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.constant_boxes_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.constant_boxes_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.constant_boxes_ae	PASS	reaches MeasureTheory.Measure.instOuterMeasureClass
+REFEREE	R7	OAI.PlanarAnderson.constant_boxes_ae	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.constant_boxes_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.constant_boxes_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.constant_boxes_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.hopping_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.hopping_apply	PASS	239 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.hopping_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.hopping_apply	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.hopping_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.hopping_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.hopping_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.hopping_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.hopping_apply	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.hopping_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.hopping_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.hopping_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.hopping_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.free_error_inner	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.free_error_inner	PASS	439 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.free_error_inner	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.free_error_inner	PASS	q ≠ 0 :: side condition | x ∈ OAI.PlanarAnderson.innerCube n :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.free_error_inner	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.free_error_inner	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.free_error_inner	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.free_error_inner	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.free_error_inner	PASS	reaches Finset.mem_product._simp_1
+REFEREE	R7	OAI.PlanarAnderson.free_error_inner	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.free_error_inner	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.free_error_inner	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.free_error_inner	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.free_error_relative	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.free_error_relative	PASS	753 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.free_error_relative	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.free_error_relative	PASS	‖q‖ = 1 :: side condition | 0 < δ :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.free_error_relative	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.free_error_relative	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.free_error_relative	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.free_error_relative	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.free_error_relative	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.free_error_relative	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.free_error_relative	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.free_error_relative	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.free_error_relative	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.cutWave_point_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.cutWave_point_bound	PASS	144 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.cutWave_point_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.cutWave_point_bound	PASS	‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.cutWave_point_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.cutWave_point_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.cutWave_point_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.cutWave_point_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.cutWave_point_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.cutWave_point_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.cutWave_point_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.cutWave_point_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.cutWave_point_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.spectrum_subset	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.spectrum_subset	PASS	499 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.spectrum_subset	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.spectrum_subset	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.spectrum_subset	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.spectrum_subset	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.spectrum_subset	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.spectrum_subset	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.spectrum_subset	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.spectrum_subset	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.spectrum_subset	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.spectrum_subset	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.spectrum_subset	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.free_error_outer	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.free_error_outer	PASS	380 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.free_error_outer	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.free_error_outer	PASS	x ∉ OAI.PlanarAnderson.outerCube n :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.free_error_outer	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.free_error_outer	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.free_error_outer	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.free_error_outer	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.free_error_outer	PASS	reaches Finset.mem_product._simp_1
+REFEREE	R7	OAI.PlanarAnderson.free_error_outer	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.free_error_outer	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.free_error_outer	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.free_error_outer	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.uniform_interval_pos	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.uniform_interval_pos	PASS	173 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.uniform_interval_pos	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.uniform_interval_pos	PASS	w ∈ Set.Ioo (-h) h :: side condition | 0 < ε :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.uniform_interval_pos	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.uniform_interval_pos	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.uniform_interval_pos	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.uniform_interval_pos	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.uniform_interval_pos	PASS	reaches ProbabilityTheory.cond_apply
+REFEREE	R7	OAI.PlanarAnderson.uniform_interval_pos	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.uniform_interval_pos	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.uniform_interval_pos	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.uniform_interval_pos	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.free_error_point_bound	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.free_error_point_bound	PASS	436 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.free_error_point_bound	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.free_error_point_bound	PASS	‖q‖ = 1 :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.free_error_point_bound	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.free_error_point_bound	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.free_error_point_bound	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.free_error_point_bound	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.free_error_point_bound	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.free_error_point_bound	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.free_error_point_bound	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.free_error_point_bound	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.free_error_point_bound	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.finite_norm_sq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.finite_norm_sq	PASS	107 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.finite_norm_sq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.finite_norm_sq	PASS	∀ x ∉ s, ↑u x = 0 :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.finite_norm_sq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.finite_norm_sq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.finite_norm_sq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.finite_norm_sq	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.finite_norm_sq	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.finite_norm_sq	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.finite_norm_sq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.finite_norm_sq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.finite_norm_sq	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.trial_law	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.trial_law	PASS	219 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.trial_law	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.trial_law	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.trial_law	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.trial_law	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.trial_law	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.trial_law	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.trial_law	PASS	reaches ProbabilityTheory.cond_isProbabilityMeasure_of_finite
+REFEREE	R7	OAI.PlanarAnderson.trial_law	PASS	no single top step
+REFEREE	R5	OAI.PlanarAnderson.trial_law	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.trial_law	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.trial_law	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	284 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.hopping_selfAdjoint	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.hopping_selfAdjoint	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.hopping_selfAdjoint	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.hopping_selfAdjoint	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.translation_apply	PASS	[propext, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.translation_apply	PASS	31 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.translation_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.translation_apply	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.translation_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.translation_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.translation_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.translation_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.translation_apply	PASS	reaches add_sub_cancel_right
+REFEREE	R7	OAI.PlanarAnderson.translation_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.translation_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.translation_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.translation_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.permute_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.permute_apply	PASS	169 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.permute_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.permute_apply	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.permute_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.permute_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.permute_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.permute_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.permute_apply	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.permute_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.permute_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.permute_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.permute_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.inner_permute	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.inner_permute	PASS	200 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.inner_permute	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.inner_permute	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.inner_permute	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.inner_permute	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.inner_permute	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.inner_permute	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.inner_permute	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.inner_permute	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.inner_permute	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.inner_permute	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.inner_permute	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	1303 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_spectrum_ae	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	0 < h :: side condition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_spectrum_ae	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	reaches Filter.mp_mem
+REFEREE	R7	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_spectrum_ae	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_spectrum_ae	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.cutWave_apply	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.cutWave_apply	PASS	99 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.cutWave_apply	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.cutWave_apply	PASS	no hypotheses
+REFEREE	L3	OAI.PlanarAnderson.cutWave_apply	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.cutWave_apply	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.cutWave_apply	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.cutWave_apply	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.cutWave_apply	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.cutWave_apply	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.cutWave_apply	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.cutWave_apply	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.cutWave_apply	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	165 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	REVIEW	OAI.PlanarAnderson.HasCompleteOrthonormalEigenbasis H :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.purePoint_of_completeOrthonormalEigenbasis	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.norm_potential_le	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.norm_potential_le	PASS	159 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.norm_potential_le	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.norm_potential_le	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.norm_potential_le	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.norm_potential_le	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.norm_potential_le	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.norm_potential_le	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.norm_potential_le	PASS	reaches lp.norm_mapCLM_le
+REFEREE	R7	OAI.PlanarAnderson.norm_potential_le	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.norm_potential_le	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.norm_potential_le	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.norm_potential_le	REVIEW	computed class A?
+REFEREE	L0	OAI.PlanarAnderson.anderson_formula	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.PlanarAnderson.anderson_formula	PASS	306 constants reached, no stand-in
+REFEREE	L1u	OAI.PlanarAnderson.anderson_formula	INFO	no opaque with a value reached
+REFEREE	L2	OAI.PlanarAnderson.anderson_formula	PASS	0 ≤ h :: side condition | ∀ (x : OAI.PlanarAnderson.Site), |v x| ≤ h :: side condition (project data) || unbuilt=0
+REFEREE	L3	OAI.PlanarAnderson.anderson_formula	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.PlanarAnderson.anderson_formula	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.PlanarAnderson.anderson_formula	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.PlanarAnderson.anderson_formula	INFO	not a registered target statement
+REFEREE	R1	OAI.PlanarAnderson.anderson_formula	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.PlanarAnderson.anderson_formula	PASS	top step is not a project theorem
+REFEREE	R5	OAI.PlanarAnderson.anderson_formula	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.PlanarAnderson.anderson_formula	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.PlanarAnderson.anderson_formula	REVIEW	computed class A?
+REFEREE	L4	OAI.MathematicalPhysics.PlanarAnderson.Spectrum	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.MathematicalPhysics.PlanarAnderson.Spectrum	INFO	53 theorems checked
+REFEREE	L5	OAI.MathematicalPhysics.PlanarAnderson.Spectrum	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.MathematicalPhysics.PlanarAnderson.Spectrum	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 44 public declarations without a docstring (['Site', 'Configuration', 'Hilbert', 'disorderLaw'])

@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.RVM.global_classical_solution	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RVM.global_classical_solution	PASS	8982 constants reached, no stand-in
+REFEREE	L1u	OAI.RVM.global_classical_solution	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RVM.global_classical_solution	REVIEW	OAI.RVM.Admissible d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RVM.global_classical_solution	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RVM.global_classical_solution	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RVM.global_classical_solution	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RVM.global_classical_solution	INFO	not a registered target statement
+REFEREE	R1	OAI.RVM.global_classical_solution	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.RVM.global_classical_solution	PASS	top step OAI.RVM.global_classical_of_uniform_physical_increment carries content
+REFEREE	R5	OAI.RVM.global_classical_solution	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RVM.global_classical_solution	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RVM.global_classical_solution	REVIEW	computed class A?
+REFEREE	L0	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	6838 constants reached, no stand-in
+REFEREE	L1u	OAI.RVM.Admissible.uniform_physical_population_increment	INFO	no opaque with a value reached
+REFEREE	L2	OAI.RVM.Admissible.uniform_physical_population_increment	REVIEW	OAI.RVM.Admissible d :: carries a project proposition || unbuilt=0
+REFEREE	L3	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.RVM.Admissible.uniform_physical_population_increment	INFO	not a registered target statement
+REFEREE	R1	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	reaches PiLp.innerProductSpace._proof_1
+REFEREE	R7	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	top step is not a project theorem
+REFEREE	R5	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.RVM.Admissible.uniform_physical_population_increment	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.RVM.Admissible.uniform_physical_population_increment	REVIEW	computed class A?
+REFEREE	L4	OAI.Analysis.VlasovMaxwell.Main	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Analysis.VlasovMaxwell.Main	INFO	2 theorems checked
+REFEREE	L5	OAI.Analysis.VlasovMaxwell.Main	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Analysis.VlasovMaxwell.Main	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 2 public declarations without a docstring (['Admissible.uniform_physical_population_increment', 'global_classical_solution'])

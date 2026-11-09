@@ -1,0 +1,30 @@
+REFEREE	L0	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	1555 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	AlgebraicIndependent ℚ t :: side condition || unbuilt=0
+REFEREE	L3	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	reaches FloorSemiring.instCharZero
+REFEREE	R7	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.NineStatement.nine_circle_configuration	REVIEW	computed class A?
+REFEREE	L0	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	[propext, Classical.choice, Quot.sound]
+REFEREE	L1	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	133 constants reached, no stand-in
+REFEREE	L1u	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	INFO	no opaque with a value reached
+REFEREE	L2	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	no hypotheses
+REFEREE	L3	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	no hypothesis refuted on file
+REFEREE	R2	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	not an equivalence with an open problem
+REFEREE	R3	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	conclusion is not an open problem under hypotheses
+REFEREE	R4	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	INFO	not a registered target statement
+REFEREE	R1	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	reaches Nat.instAtLeastTwoHAddOfNat
+REFEREE	R7	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	top step is not a project theorem
+REFEREE	R5	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	the name claims nothing beyond the statement
+REFEREE	R6	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	PASS	no proposition-section carrier in the statement
+REFEREE	CLASS	OAI.EuclideanRamsey.NineStatement.literalCircleConfig_eq	REVIEW	computed class A?
+REFEREE	L4	OAI.Combinatorics.EuclideanRamsey.NineStatement	PASS	all 0 header names resolve
+REFEREE	MODULE	OAI.Combinatorics.EuclideanRamsey.NineStatement	INFO	2 theorems checked
+REFEREE	L5	OAI.Combinatorics.EuclideanRamsey.NineStatement	PASS	no internal citation; every [OPEN] item is stated in Lean
+REFEREE	L6	OAI.Combinatorics.EuclideanRamsey.NineStatement	FAIL	module docstring has no `# Title`; module docstring has no `## Main results`; 1 public declarations without a docstring (['literalCircleConfig_eq'])
