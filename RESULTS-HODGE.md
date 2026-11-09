@@ -2,7 +2,7 @@
 
 Author:  Joseph Berenji.
 
-This file reports the claims registered in `PREREG.md` for the Hodge configuration ("The Hodge configuration", H1–H5; "The new referee checks", N1–N4). It sets two things side by side: what Comparator, OpenAI's checker, reports about the submission, and what the Lean referee of Discipline-Architecture-2 reports about the same theorem. Every verdict below quotes the published file it rests on. Sections 1–3 are the registered claims. Section 4 is exploratory and not registered, and is labelled as such.
+This file reports the claims registered in `PREREG.md` for the Hodge configuration ("The Hodge configuration", H1–H5; "The new referee checks", N1–N4). It sets two things side by side: what Comparator, the Lean FRO's checker, reports about the submission, and what the Lean referee of Discipline-Architecture-2 reports about the same theorem. Every verdict below quotes the published file it rests on. Sections 1–3 are the registered claims. Section 4 is exploratory and not registered, and is labelled as such.
 
 ## 0. What was checked
 

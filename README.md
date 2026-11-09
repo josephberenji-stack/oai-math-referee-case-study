@@ -4,8 +4,9 @@ This repository applies the Lean referee of Discipline-Architecture-2 (`discipli
 published at github.com/openai/math, commit `7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a` (26 Oct 2026). The version of
 the referee that was run, commit `6e33e0d`, is published at github.com/josephberenji-stack/discipline-architecture-2-referee.
 
-The Lean kernel checks that the proofs are correct, and OpenAI's checker, Comparator, confirms that each solution
-matches its challenge statement and uses only `propext`, `Quot.sound` and `Classical.choice`. (For the Hodge
+The Lean kernel checks that the proofs are correct, and Comparator, the Lean FRO's checker that openai/math's
+challenge configurations are written for, confirms that each solution matches its challenge statement and uses only
+`propext`, `Quot.sound` and `Classical.choice`. (For the Hodge
 configuration, Comparator reports that the two statements do not match: `RESULTS-HODGE.md`, H3.) This study asks a
 further question about each accepted theorem: what the checked statement says, where the meaning of its definitions
 comes from, and whether that is the claim of the paper.
